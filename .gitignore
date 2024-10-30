@@ -1,0 +1,90 @@
+# Java class files
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files (because they can be re-built)
+*.jar
+*.war
+*.ear
+
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+**/mvnw
+**/mvnw.cmd
+
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+**/gradlew
+**/gradlew.bat
+
+# Gradle caches
+.gradle/
+**/out
+**/build
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nball/
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# VS Code
+.vscode/
+
+# Eclipse
+.project
+.classpath
+.csettings/
+.settings/
+bin/
+.tmp/
+
+# Distribution directory
+dist/
+
+# JetBrains IDEs (IntelliJ, PyCharm)
+.idea/
+*.iml
+*.ipr
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+*.bak
+*.swp
+
+# Linux
+*~
+
+# Generated source files
+.generated/
+
+# Logs
+logs/
+*.log
+hs_err_pid*
+
+data/input/
+data/output/
