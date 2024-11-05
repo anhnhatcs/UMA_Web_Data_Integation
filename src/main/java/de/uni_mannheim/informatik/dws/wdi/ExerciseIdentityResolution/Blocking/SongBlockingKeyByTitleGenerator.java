@@ -26,8 +26,7 @@ public class SongBlockingKeyByTitleGenerator extends
     public void generateBlockingKeys(Song record, Processable<Correspondence<Attribute, Matchable>> correspondences,
             DataIterator<Pair<String, Song>> resultCollector) {
 
-        String[] tokens = new String[0];
-        tokens = record.getTrack().split(" ");
+        String[] tokens = record.getTrack().split(" ");
         
         String blockingKeyValue = "";
 

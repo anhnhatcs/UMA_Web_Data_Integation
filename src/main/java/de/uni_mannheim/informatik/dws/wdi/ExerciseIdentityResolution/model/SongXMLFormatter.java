@@ -20,7 +20,7 @@ public class SongXMLFormatter extends XMLFormatter<Song> {
     public Element createElementFromRecord(Song record, Document doc) {
         Element song = doc.createElement("song");
 
-        song.appendChild(createTextElement("id", record.getId(), doc));
+        song.appendChild(createTextElement("id", record.getIdentifier(), doc));
         song.appendChild(createTextElement("artist", record.getArtist(), doc));
         song.appendChild(createTextElement("track", record.getTrack(), doc));
         song.appendChild(createTextElement("trackExplicitness", record.getTrackExplicitness(), doc));
