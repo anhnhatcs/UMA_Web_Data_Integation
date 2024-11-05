@@ -10,6 +10,10 @@ import de.uni_mannheim.informatik.dws.winter.model.defaultmodel.Attribute;
  */
 public class Song extends AbstractRecord<Attribute> implements Serializable {
 
+
+    public Song(String identifier, String provenance) {
+        super(identifier, provenance);
+    }
     private static final long serialVersionUID = 1L;
     private String id;
     private String artist;
@@ -17,10 +21,6 @@ public class Song extends AbstractRecord<Attribute> implements Serializable {
     private String trackExplicitness;
     private int albumYear;
     private int duration;
-
-    public Song(String identifier, String provenance) {
-        super(identifier, provenance);
-    }
 
     public String getId() {
         return id;
@@ -70,29 +70,6 @@ public class Song extends AbstractRecord<Attribute> implements Serializable {
         this.duration = duration;
     }
 
-    @Override
-    public int hashCode() {
-        int result = 31 + ((id == null) ? 0 : id.hashCode());
-        return result;
-    }
-
-    @Override
-    public boolean equals(Object obj) {
-        if (this == obj)
-            return true;
-        if (obj == null)
-            return false;
-        if (getClass() != obj.getClass())
-            return false;
-        Song other = (Song) obj;
-        if (id == null) {
-            if (other.id != null)
-                return false;
-        } else if (!id.equals(other.id))
-            return false;
-        return true;
-    }
-
     public static final Attribute ARTIST = new Attribute("Artist");
     public static final Attribute TRACK = new Attribute("Track");
     public static final Attribute TRACK_EXPLICITNESS = new Attribute("Track_Explicitness");
@@ -113,4 +90,23 @@ public class Song extends AbstractRecord<Attribute> implements Serializable {
             return duration != 0;
         return false;
     }
+
+    @Override
+	public String toString() {
+		return String.format("[Song %s: %s / %s / %s]", getIdentifier(), getTrack(),
+        getArtist(), getAlbumYear());
+	}
+
+	@Override
+	public int hashCode() {
+		return getIdentifier().hashCode();
+	}
+
+	@Override
+	public boolean equals(Object obj) {
+		if(obj instanceof Song){
+			return this.getIdentifier().equals(((Song) obj).getIdentifier());
+		}else
+			return false;
+	}
 }

@@ -21,6 +21,7 @@ import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Blocking.So
 import de.uni_mannheim.informatik.dws.winter.matching.algorithms.RuleLearner;
 import de.uni_mannheim.informatik.dws.winter.matching.blockers.SortedNeighbourhoodBlocker;
 import de.uni_mannheim.informatik.dws.winter.matching.rules.WekaMatchingRule;
+import de.uni_mannheim.informatik.dws.winter.matching.blockers.StandardRecordBlocker;
 
 
 public class IR_using_machine_learning_a_b {
@@ -72,8 +73,8 @@ public class IR_using_machine_learning_a_b {
 		logger.info(String.format("Matching rule is:\n%s", matchingRule.getModelDescription()));
 		
 		// create a blocker (blocking strategy)
-		// StandardRecordBlocker<Song, Attribute> blocker = new StandardRecordBlocker<Song, Attribute>(new SongBlockingKeyByTitleGenerator());
-		SortedNeighbourhoodBlocker<Song, Attribute, Attribute> blocker = new SortedNeighbourhoodBlocker<>(new SongBlockingKeyByTitleGenerator(), 1);
+		StandardRecordBlocker<Song, Attribute> blocker = new StandardRecordBlocker<Song, Attribute>(new SongBlockingKeyByTitleGenerator());
+		// SortedNeighbourhoodBlocker<Song, Attribute, Attribute> blocker = new SortedNeighbourhoodBlocker<>(new SongBlockingKeyByTitleGenerator(), 1);
 		blocker.collectBlockSizeData("data/output/debugResultsBlocking_a_b.csv", 10000);
 		
 		// Initialize Matching Engine

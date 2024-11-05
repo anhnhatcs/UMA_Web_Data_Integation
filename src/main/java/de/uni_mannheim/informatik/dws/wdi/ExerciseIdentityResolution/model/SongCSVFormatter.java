@@ -16,7 +16,7 @@ public class SongCSVFormatter extends CSVDataSetFormatter<Song, Attribute> {
     @Override
     public String[] format(Song record, DataSet<Song, Attribute> dataset, List<Attribute> orderedHeader) {
         return new String[] {
-                record.getId(),
+                record.getIdentifier(),
                 record.getArtist(),
                 record.getTrack(),
                 record.getTrackExplicitness(),
