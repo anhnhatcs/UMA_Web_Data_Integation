@@ -5,6 +5,7 @@ import org.slf4j.Logger;
 import de.uni_mannheim.informatik.dws.winter.matching.MatchingEngine;
 import de.uni_mannheim.informatik.dws.winter.matching.MatchingEvaluator;
 import de.uni_mannheim.informatik.dws.winter.matching.blockers.NoBlocker;
+import de.uni_mannheim.informatik.dws.winter.matching.blockers.StandardRecordBlocker;
 import de.uni_mannheim.informatik.dws.winter.matching.rules.LinearCombinationMatchingRule;
 import de.uni_mannheim.informatik.dws.winter.model.Correspondence;
 import de.uni_mannheim.informatik.dws.winter.model.HashedDataSet;
@@ -19,7 +20,7 @@ import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.model.SongX
 import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Comparators.SongComparatorJaccard;
 import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Comparators.SongTitleComparatorEqual;
 import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Comparators.SongTitleComparatorLevenshtein;
-
+import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Blocking.SongBlockingKeyByTitleGenerator;
 
 public class IR_using_linear_combination_c_b {
 	/*
@@ -46,28 +47,38 @@ public class IR_using_linear_combination_c_b {
 		HashedDataSet<Song, Attribute> dataOpenDB = new HashedDataSet<>();
 		new SongXMLReader().loadFromXML(new File("data/input/opendb.xml"), "/songs/song", dataOpenDB);
 
+		// // Print some records from dataMillion
+		// dataMillion.get().forEach(record -> {
+		// 	System.out.println(record.getIdentifier() + ": " + record.getTrack().toString());
+		// });
+
+		// // Print some records from dataOpenDB
+		// dataOpenDB.get().forEach(record -> {
+		// 	System.out.println(record.getIdentifier() + ": " + record.getTrack().toString());
+		// });
+
 		// load the gold standard (test set)
 		logger.info("*\tLoading gold standard\t*");
 		MatchingGoldStandard gsTest = new MatchingGoldStandard();
 		gsTest.loadFromCSVFile(new File(
-				"data/goldstandard/gs_opendb_million.csv"));
-
+				"data/goldstandard/gs_million_opendb.csv"));
 		// create a matching rule
 		// set the finalThreshold as our data requires
 		LinearCombinationMatchingRule<Song, Attribute> matchingRule = new LinearCombinationMatchingRule<>(
-				0);
+				0.1);
 		matchingRule.activateDebugReport("data/output/debugResultsMatchingRule.csv", 1000, gsTest);
 		
 		// add comparators
 		// here defines the weight of matching attributes
-		matchingRule.addComparator(new SongTitleComparatorLevenshtein(), 0.4);
-		matchingRule.addComparator(new SongComparatorJaccard(), 0.3);
-		matchingRule.addComparator(new SongTitleComparatorEqual(), 0.3);
+		matchingRule.addComparator(new SongTitleComparatorLevenshtein(), 0.7);
+		matchingRule.addComparator(new SongComparatorJaccard(), 0.7);
+		matchingRule.addComparator(new SongTitleComparatorEqual(), 0.7);
 	
 
 		// create a blocker (blocking strategy)
+		StandardRecordBlocker<Song, Attribute> blocker = new StandardRecordBlocker<Song, Attribute>(new SongBlockingKeyByTitleGenerator());
 		// StandardRecordBlocker<Song, Attribute> blocker = new StandardRecordBlocker<Song, Attribute>(new SongBlockingKeyByTitleGenerator());
-		NoBlocker<Song, Attribute> blocker = new NoBlocker<>();
+		//NoBlocker<Song, Attribute> blocker = new NoBlocker<>();
 //		SortedNeighbourhoodBlocker<Movie, Attribute, Attribute> blocker = new SortedNeighbourhoodBlocker<>(new MovieBlockingKeyByTitleGenerator(), 1);
 		blocker.setMeasureBlockSizes(true);
 		//Write debug results to file:
@@ -80,7 +91,7 @@ public class IR_using_linear_combination_c_b {
 		logger.info("*\tRunning identity resolution\t*");
 		Processable<Correspondence<Song, Attribute>> correspondences = engine.runIdentityResolution(
 				// this order should match the column order in the golden standard
-				dataMillion, dataOpenDB, null, matchingRule,
+				dataOpenDB,dataMillion, null, matchingRule,
 				blocker);
 
 		// Create a top-1 global matching

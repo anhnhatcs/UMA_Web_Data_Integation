@@ -25,8 +25,8 @@ public class SongTitleComparatorLevenshtein implements Comparator<Song, Attribut
             Song record2,
             Correspondence<Attribute, Matchable> schemaCorrespondences) {
         
-        String s1 = record1.getTrack();
-        String s2 = record2.getTrack();
+        String s1 = record1.getTrack() != null ? record1.getTrack().toString() : "";
+        String s2 = record2.getTrack() != null ? record2.getTrack().toString() : "";
         
         double similarity = sim.calculate(s1, s2);
         
@@ -48,7 +48,7 @@ public class SongTitleComparatorLevenshtein implements Comparator<Song, Attribut
     }
 
     @Override
-    public void setComparisonLog(ComparatorLogger comparatorLog) {
-        this.comparisonLog = comparatorLog;
+    public void setComparisonLog(ComparatorLogger comparisonLog) {
+        this.comparisonLog = comparisonLog;
     }
 }

@@ -24,7 +24,7 @@ import de.uni_mannheim.informatik.dws.winter.matching.rules.WekaMatchingRule;
 
 
 public class IR_using_machine_learning_c_b {
-	
+
 	/*
 	 * Logging Options:
 	 * 		default: 	level INFO	- console
@@ -39,7 +39,6 @@ public class IR_using_machine_learning_c_b {
 	 */
 
 	private static final Logger logger = WinterLogManager.activateLogger("default");
-	
     public static void main( String[] args ) throws Exception
     {
 		// loading data

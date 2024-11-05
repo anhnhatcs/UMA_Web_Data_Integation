@@ -9,6 +9,9 @@ import de.uni_mannheim.informatik.dws.winter.model.Pair;
 import de.uni_mannheim.informatik.dws.winter.model.defaultmodel.Attribute;
 import de.uni_mannheim.informatik.dws.winter.processing.DataIterator;
 import de.uni_mannheim.informatik.dws.winter.processing.Processable;
+import java.util.Set;
+import java.util.HashSet;
+import java.util.Arrays;
 
 /**
  * {@link BlockingKeyGenerator} for {@link Song}s, which generates a blocking
@@ -24,18 +27,30 @@ public class SongBlockingKeyByTitleGenerator extends
      */
     @Override
     public void generateBlockingKeys(Song record, Processable<Correspondence<Attribute, Matchable>> correspondences,
-            DataIterator<Pair<String, Song>> resultCollector) {
+    DataIterator<Pair<String, Song>> resultCollector) {
 
-        String[] tokens = new String[0];
-        tokens = record.getTrack().split(" ");
-        
-        String blockingKeyValue = "";
+// Check if the track title is null or empty
+if (record.getTrack() == null || record.getTrack().isEmpty()) {
+    return;
+}
 
-        for(int i = 0; i <= 2 && i < tokens.length; i++) {
-            blockingKeyValue += tokens[i].substring(0, Math.min(2, tokens[i].length())).toUpperCase();
-        }
+// Split the track title into words and preprocess it to improve key compatibility
+String[] tokens = record.getTrack().toLowerCase().split(" ");
 
-        resultCollector.next(new Pair<>(blockingKeyValue, record));
+StringBuilder blockingKeyValue = new StringBuilder();
+
+// Define stopwords
+Set<String> stopwords = new HashSet<>(Arrays.asList("the", "a", "an", "of", "and"));
+
+// Include first characters of each of the first three non-stopword words
+for (String token : tokens) {
+    if (!stopwords.contains(token) && blockingKeyValue.length() < 6) {
+        blockingKeyValue.append(token.substring(0, Math.min(2, token.length())).toUpperCase());
     }
+}
+
+// Collect the blocking key and the record
+resultCollector.next(new Pair<>(blockingKeyValue.toString(), record));
+}
 
 }
