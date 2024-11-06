@@ -20,6 +20,7 @@ import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.model.SongX
 import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Comparators.SongComparatorJaccard;
 import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Comparators.SongTitleComparatorEqual;
 import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Comparators.SongTitleComparatorLevenshtein;
+import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Blocking.SongBlockingKeyByTitleArtistGenerator;
 import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Blocking.SongBlockingKeyByTitleGenerator;
 
 
@@ -69,6 +70,7 @@ public class IR_using_linear_combination_c_b {
 
 		// create a blocker (blocking strategy)
 		StandardRecordBlocker<Song, Attribute> blocker = new StandardRecordBlocker<Song, Attribute>(new SongBlockingKeyByTitleGenerator());
+		// StandardRecordBlocker<Song, Attribute> blocker = new StandardRecordBlocker<Song, Attribute>(new SongBlockingKeyByTitleArtistGenerator());		
 		// NoBlocker<Song, Attribute> blocker = new NoBlocker<>();
 //		SortedNeighbourhoodBlocker<Movie, Attribute, Attribute> blocker = new SortedNeighbourhoodBlocker<>(new MovieBlockingKeyByTitleGenerator(), 1);
 		blocker.setMeasureBlockSizes(true);
