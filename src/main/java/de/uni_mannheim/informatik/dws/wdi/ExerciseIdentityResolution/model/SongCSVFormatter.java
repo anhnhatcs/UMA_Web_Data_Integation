@@ -10,7 +10,7 @@ public class SongCSVFormatter extends CSVDataSetFormatter<Song, Attribute> {
 
     @Override
     public String[] getHeader(List<Attribute> orderedHeader) {
-        return new String[] { "id", "artist", "track", "trackExplicitness", "albumYear", "duration" };
+        return new String[] { "id", "artist", "track", "trackExplicitness", "albumYear", "album", "duration" };
     }
 
     @Override
@@ -21,6 +21,7 @@ public class SongCSVFormatter extends CSVDataSetFormatter<Song, Attribute> {
                 record.getTrack(),
                 record.getTrackExplicitness(),
                 Integer.toString(record.getAlbumYear()),
+                record.getAlbum(),
                 Integer.toString(record.getDuration())
         };
     }

@@ -20,6 +20,7 @@ import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.model.SongX
 import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Comparators.SongComparatorJaccard;
 import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Comparators.SongTitleComparatorEqual;
 import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Comparators.SongTitleComparatorLevenshtein;
+import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Comparators.SongTitleComparatorSoundex;
 import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Blocking.SongBlockingKeyByTitleGenerator;
 import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Blocking.SongBlockingKeyByTitleArtistGenerator;
 
@@ -64,9 +65,10 @@ public class IR_using_linear_combination_a_b {
 		// here defines the weight of matching attributes
 		matchingRule.addComparator(new SongTitleComparatorLevenshtein(), 0.4);
 		matchingRule.addComparator(new SongComparatorJaccard(), 0.3);
-		matchingRule.addComparator(new SongTitleComparatorEqual(), 0.3);
-	
+		// matchingRule.addComparator(new SongTitleComparatorEqual(), 0.3);
+		matchingRule.addComparator(new SongTitleComparatorSoundex(), 0.3);
 
+		
 		// create a blocker (blocking strategy)
 		StandardRecordBlocker<Song, Attribute> blocker = new StandardRecordBlocker<Song, Attribute>(new SongBlockingKeyByTitleGenerator());
 		// StandardRecordBlocker<Song, Attribute> blocker = new StandardRecordBlocker<Song, Attribute>(new SongBlockingKeyByTitleArtistGenerator());
