@@ -4,8 +4,8 @@ import org.slf4j.Logger;
 
 import de.uni_mannheim.informatik.dws.winter.matching.MatchingEngine;
 import de.uni_mannheim.informatik.dws.winter.matching.MatchingEvaluator;
-import de.uni_mannheim.informatik.dws.winter.matching.blockers.NoBlocker;
 import de.uni_mannheim.informatik.dws.winter.matching.blockers.StandardRecordBlocker;
+import de.uni_mannheim.informatik.dws.winter.matching.blockers.SortedNeighbourhoodBlocker;
 import de.uni_mannheim.informatik.dws.winter.matching.rules.LinearCombinationMatchingRule;
 import de.uni_mannheim.informatik.dws.winter.model.Correspondence;
 import de.uni_mannheim.informatik.dws.winter.model.HashedDataSet;
@@ -17,11 +17,20 @@ import de.uni_mannheim.informatik.dws.winter.processing.Processable;
 import de.uni_mannheim.informatik.dws.winter.utils.WinterLogManager;
 import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.model.Song;
 import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.model.SongXMLReader;
-import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Comparators.SongComparatorJaccard;
+import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Comparators.SongTitleComparatorJaccard;
+import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Comparators.SongAlbumComparatorJaccard;
+import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Comparators.SongAlbumComparatorLowerCaseJaccard;
+import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Comparators.SongAlbumComparatorSoundex;
+import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Comparators.SongArtistComparatorJaccard;
+import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Comparators.SongArtistComparatorLowerCaseJaccard;
+import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Comparators.SongArtistComparatorSoundex;
 import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Comparators.SongTitleComparatorEqual;
 import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Comparators.SongTitleComparatorLevenshtein;
-import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Blocking.SongBlockingKeyByTitleArtistGenerator;
+import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Comparators.SongTitleComparatorLowerCaseJaccard;
+import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Comparators.SongTitleComparatorSoundex;
+import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Blocking.SongBlockingKeyByArtistGenerator;
 import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Blocking.SongBlockingKeyByTitleGenerator;
+import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Blocking.SongBlockingKeyByAlbumGenerator;
 
 
 public class IR_using_linear_combination_c_b {
@@ -63,16 +72,27 @@ public class IR_using_linear_combination_c_b {
 		
 		// add comparators
 		// here defines the weight of matching attributes
-		matchingRule.addComparator(new SongTitleComparatorLevenshtein(), 0.4);
-		matchingRule.addComparator(new SongComparatorJaccard(), 0.3);
-		matchingRule.addComparator(new SongTitleComparatorEqual(), 0.3);
-	
+		matchingRule.addComparator(new SongTitleComparatorLevenshtein(), 0.2);
+		matchingRule.addComparator(new SongTitleComparatorJaccard(), 0.2);
+		matchingRule.addComparator(new SongTitleComparatorLowerCaseJaccard(), 0.2);
+		matchingRule.addComparator(new SongTitleComparatorSoundex(), 0.2);
+		matchingRule.addComparator(new SongTitleComparatorEqual(), 0.2);
+
+		// matchingRule.addComparator(new SongAlbumComparatorJaccard(), 0.2);
+		// matchingRule.addComparator(new SongAlbumComparatorLowerCaseJaccard(), 0.2);
+		// matchingRule.addComparator(new SongAlbumComparatorSoundex(), 0.2);
+
+		// matchingRule.addComparator(new SongArtistComparatorJaccard(), 0.2);
+		// matchingRule.addComparator(new SongArtistComparatorLowerCaseJaccard(), 0.2);
+		// matchingRule.addComparator(new SongArtistComparatorSoundex(), 0.2;
 
 		// create a blocker (blocking strategy)
 		StandardRecordBlocker<Song, Attribute> blocker = new StandardRecordBlocker<Song, Attribute>(new SongBlockingKeyByTitleGenerator());
-		// StandardRecordBlocker<Song, Attribute> blocker = new StandardRecordBlocker<Song, Attribute>(new SongBlockingKeyByTitleArtistGenerator());		
-		// NoBlocker<Song, Attribute> blocker = new NoBlocker<>();
-//		SortedNeighbourhoodBlocker<Movie, Attribute, Attribute> blocker = new SortedNeighbourhoodBlocker<>(new MovieBlockingKeyByTitleGenerator(), 1);
+		// StandardRecordBlocker<Song, Attribute> blocker = new StandardRecordBlocker<Song, Attribute>(new SongBlockingKeyByArtistGenerator());		
+		// StandardRecordBlocker<Song, Attribute> blocker = new StandardRecordBlocker<Song, Attribute>(new SongBlockingKeyByAlbumGenerator());		
+		// SortedNeighbourhoodBlocker<Song, Attribute, Attribute> blocker = new SortedNeighbourhoodBlocker<>(new SongBlockingKeyByTitleGenerator(), 30);
+		// SortedNeighbourhoodBlocker<Song, Attribute, Attribute> blocker = new SortedNeighbourhoodBlocker<>(new SongBlockingKeyByArtistGenerator(), 30);
+		// SortedNeighbourhoodBlocker<Song, Attribute, Attribute> blocker = new SortedNeighbourhoodBlocker<>(new SongBlockingKeyByAlbumGenerator(), 30);
 		blocker.setMeasureBlockSizes(true);
 		//Write debug results to file:
 		blocker.collectBlockSizeData("data/output/debugResultsBlocking.csv", 100);
@@ -86,15 +106,6 @@ public class IR_using_linear_combination_c_b {
 				// this order should match the column order in the golden standard
 				dataMillion, dataOpenDB, null, matchingRule,
 				blocker);
-
-		// Create a top-1 global matching
-		// Could unmark and run MaximumBipartiteMatchingAlgorithm if we are sure there are no duplicate in our dataset
-//		  correspondences = engine.getTopKInstanceCorrespondences(correspondences, 1, 0.0);
-
-//		 Alternative: Create a maximum-weight, bipartite matching
-//		 MaximumBipartiteMatchingAlgorithm<Movie,Attribute> maxWeight = new MaximumBipartiteMatchingAlgorithm<>(correspondences);
-//		 maxWeight.run();
-//		 correspondences = maxWeight.getResult();
 
 		// write the correspondences to the output file
 		new CSVCorrespondenceFormatter().writeCSV(new File("data/output/opendb_million_correspondences.csv"), correspondences);		
