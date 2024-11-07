@@ -16,7 +16,7 @@ import de.uni_mannheim.informatik.dws.winter.similarity.string.TokenizingJaccard
  * @author Oliver Lehmberg (oli@dwslab.de)
  * 
  */
-public class SongComparatorJaccard implements Comparator<Song, Attribute> {
+public class SongAlbumComparatorLowerCaseJaccard implements Comparator<Song, Attribute> {
 
 	private static final long serialVersionUID = 1L;
 	private TokenizingJaccardSimilarity sim = new TokenizingJaccardSimilarity();
@@ -29,10 +29,22 @@ public class SongComparatorJaccard implements Comparator<Song, Attribute> {
 			Song record2,
 			Correspondence<Attribute, Matchable> schemaCorrespondences) {
 		
-		String s1 = record1.getTrack();
-		String s2 = record2.getTrack();
+		String s1 = record1.getAlbum();
+		String s2 = record2.getAlbum();
     	
-    	double similarity = sim.calculate(s1, s2);
+		double similarity = sim.calculate(s1, s2);
+
+		if (s1 != null) {
+			s1 = s1.toLowerCase();
+		} else {
+			s1 = "";
+		}
+		
+		if (s2 != null) {
+			s2 = s2.toLowerCase();
+		} else {
+			s2 = "";
+		}
     	
 		if(this.comparisonLog != null){
 			this.comparisonLog.setComparatorName(getClass().getName());
