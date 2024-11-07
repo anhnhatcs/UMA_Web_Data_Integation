@@ -25,6 +25,7 @@ public class SongXMLFormatter extends XMLFormatter<Song> {
         song.appendChild(createTextElement("track", record.getTrack(), doc));
         song.appendChild(createTextElement("trackExplicitness", record.getTrackExplicitness(), doc));
         song.appendChild(createTextElement("albumYear", Integer.toString(record.getAlbumYear()), doc));
+        song.appendChild(createTextElement("album", record.getAlbum(), doc));
         song.appendChild(createTextElement("duration", Integer.toString(record.getDuration()), doc));
 
         return song;

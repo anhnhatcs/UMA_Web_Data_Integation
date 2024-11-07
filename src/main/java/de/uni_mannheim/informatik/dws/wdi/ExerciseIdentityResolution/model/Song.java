@@ -20,6 +20,7 @@ public class Song extends AbstractRecord<Attribute> implements Serializable {
     private String track;
     private String trackExplicitness;
     private int albumYear;
+    private String album;
     private int duration;
 
     public String getId() {
@@ -62,6 +63,14 @@ public class Song extends AbstractRecord<Attribute> implements Serializable {
         this.albumYear = albumYear;
     }
 
+    public String getAlbum() {
+        return album;
+    }
+
+    public void setAlbum(String album) {
+        this.album = album;
+    }
+
     public int getDuration() {
         return duration;
     }
@@ -74,6 +83,7 @@ public class Song extends AbstractRecord<Attribute> implements Serializable {
     public static final Attribute TRACK = new Attribute("Track");
     public static final Attribute TRACK_EXPLICITNESS = new Attribute("Track_Explicitness");
     public static final Attribute ALBUM_YEAR = new Attribute("Album_Year");
+    public static final Attribute ALBUM = new Attribute("Album");
     public static final Attribute DURATION = new Attribute("Duration");
 
     @Override
@@ -86,6 +96,8 @@ public class Song extends AbstractRecord<Attribute> implements Serializable {
             return trackExplicitness != null;
         else if(attribute == ALBUM_YEAR)
             return albumYear != 0;
+        else if(attribute == ALBUM)
+            return album != null;
         else if(attribute == DURATION)
             return duration != 0;
         return false;

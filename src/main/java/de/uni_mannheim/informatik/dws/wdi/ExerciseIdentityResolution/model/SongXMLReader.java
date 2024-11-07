@@ -20,6 +20,7 @@ public class SongXMLReader extends XMLMatchableReader<Song, Attribute> {
         dataset.addAttribute(Song.TRACK);
         dataset.addAttribute(Song.TRACK_EXPLICITNESS);
         dataset.addAttribute(Song.ALBUM_YEAR);
+        dataset.addAttribute(Song.ALBUM);
         dataset.addAttribute(Song.DURATION);
     }
     
@@ -34,6 +35,7 @@ public class SongXMLReader extends XMLMatchableReader<Song, Attribute> {
         song.setArtist(getValueFromChildElement(node, "Artist"));
         song.setTrack(getValueFromChildElement(node, "Track"));
         song.setTrackExplicitness(getValueFromChildElement(node, "Track_Explicitness"));
+        song.setAlbum(getValueFromChildElement(node, "Album"));
 
         // Parse the album year and duration as integers
         try {
