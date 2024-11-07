@@ -17,7 +17,7 @@ import de.uni_mannheim.informatik.dws.winter.processing.Processable;
  * {@link BlockingKeyGenerator} for {@link Song}s, which generates a blocking
  * key based on the track title.
  */
-public class SongBlockingKeyByTitleArtistGenerator extends
+public class SongBlockingKeyByArtistGenerator extends
         RecordBlockingKeyGenerator<Song, Attribute> {
 
     private static final long serialVersionUID = 1L;
@@ -29,10 +29,7 @@ public class SongBlockingKeyByTitleArtistGenerator extends
     public void generateBlockingKeys(Song record, Processable<Correspondence<Attribute, Matchable>> correspondences,
             DataIterator<Pair<String, Song>> resultCollector) {
 
-        String[] track = record.getTrack().split(" ");
-        String[] artist = record.getArtist().split(" ");
-        String[] tokens = Stream.concat(Arrays.stream(track), Arrays.stream(artist))
-                                .toArray(String[]::new);
+        String[] tokens = record.getArtist().split(" ");
         
         String blockingKeyValue = "";
 
