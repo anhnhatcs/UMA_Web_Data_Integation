@@ -18,9 +18,16 @@ import de.uni_mannheim.informatik.dws.winter.processing.Processable;
 import de.uni_mannheim.informatik.dws.winter.utils.WinterLogManager;
 import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.model.Song;
 import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.model.SongXMLReader;
-import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Comparators.SongComparatorJaccard;
+import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Comparators.SongAlbumComparatorJaccard;
+import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Comparators.SongArtistComparatorJaccard;
+import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Comparators.SongTitleComparatorJaccard;
+import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Comparators.SongAlbumComparatorLowerCaseJaccard;
+import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Comparators.SongArtistComparatorLowerCaseJaccard;
+import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Comparators.SongTitleComparatorLowerCaseJaccard;
 import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Comparators.SongTitleComparatorEqual;
 import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Comparators.SongTitleComparatorLevenshtein;
+import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Comparators.SongAlbumComparatorSoundex;
+import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Comparators.SongArtistComparatorSoundex;
 import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Comparators.SongTitleComparatorSoundex;
 import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Blocking.SongBlockingKeyByArtistGenerator;
 import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Blocking.SongBlockingKeyByTitleGenerator;
@@ -65,18 +72,27 @@ public class IR_using_linear_combination_a_b {
 		
 		// add comparators
 		// here defines the weight of matching attributes
-		matchingRule.addComparator(new SongTitleComparatorLevenshtein(), 0.4);
-		matchingRule.addComparator(new SongComparatorJaccard(), 0.3);
-		// matchingRule.addComparator(new SongTitleComparatorEqual(), 0.3);
-		matchingRule.addComparator(new SongTitleComparatorSoundex(), 0.3);
+		matchingRule.addComparator(new SongTitleComparatorLevenshtein(), 0.2);
+		matchingRule.addComparator(new SongTitleComparatorJaccard(), 0.2);
+		matchingRule.addComparator(new SongTitleComparatorLowerCaseJaccard(), 0.2);
+		matchingRule.addComparator(new SongTitleComparatorSoundex(), 0.2);
+		matchingRule.addComparator(new SongTitleComparatorEqual(), 0.2);
+
+		// matchingRule.addComparator(new SongAlbumComparatorJaccard(), 0.2);
+		// matchingRule.addComparator(new SongAlbumComparatorLowerCaseJaccard(), 0.2);
+		// matchingRule.addComparator(new SongAlbumComparatorSoundex(), 0.2);
+		
+		// matchingRule.addComparator(new SongArtistComparatorJaccard(), 0.2);
+		// matchingRule.addComparator(new SongArtistComparatorLowerCaseJaccard(), 0.2);
+		// matchingRule.addComparator(new SongArtistComparatorSoundex(), 0.2;
 
 		
 		// create a blocker (blocking strategy)
 		StandardRecordBlocker<Song, Attribute> blocker = new StandardRecordBlocker<Song, Attribute>(new SongBlockingKeyByTitleGenerator());
-		// StandardRecordBlocker<Song, Attribute> blocker = new StandardRecordBlocker<Song, Attribute>(new SongBlockingKeyByTitleArtistGenerator());		
+		// StandardRecordBlocker<Song, Attribute> blocker = new StandardRecordBlocker<Song, Attribute>(new SongBlockingKeyByArtistGenerator());		
 		// StandardRecordBlocker<Song, Attribute> blocker = new StandardRecordBlocker<Song, Attribute>(new SongBlockingKeyByAlbumGenerator());		
 		// SortedNeighbourhoodBlocker<Song, Attribute, Attribute> blocker = new SortedNeighbourhoodBlocker<>(new SongBlockingKeyByTitleGenerator(), 30);
-		// SortedNeighbourhoodBlocker<Song, Attribute, Attribute> blocker = new SortedNeighbourhoodBlocker<>(new SongBlockingKeyByTitleArtistGenerator(), 30);
+		// SortedNeighbourhoodBlocker<Song, Attribute, Attribute> blocker = new SortedNeighbourhoodBlocker<>(new SongBlockingKeyByArtistGenerator(), 30);
 		// SortedNeighbourhoodBlocker<Song, Attribute, Attribute> blocker = new SortedNeighbourhoodBlocker<>(new SongBlockingKeyByAlbumGenerator(), 30);
 		blocker.setMeasureBlockSizes(true);
 		//Write debug results to file:
