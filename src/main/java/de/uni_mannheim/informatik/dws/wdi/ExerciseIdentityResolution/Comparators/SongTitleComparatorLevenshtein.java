@@ -12,6 +12,9 @@ import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.model.Song;
  * {@link Comparator} for {@link Song}s based on the {@link Song#getTrack()}
  * value and their {@link LevenshteinSimilarity} value.
  */
+
+//  follow this
+
 public class SongTitleComparatorLevenshtein implements Comparator<Song, Attribute> {
 
     private static final long serialVersionUID = 1L;
