@@ -8,14 +8,7 @@ import de.uni_mannheim.informatik.dws.winter.model.defaultmodel.Attribute;
 import de.uni_mannheim.informatik.dws.winter.similarity.string.LevenshteinSimilarity;
 import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.model.Song;
 
-/**
- * {@link Comparator} for {@link Song}s based on the {@link Song#getTrack()}
- * value and their {@link LevenshteinSimilarity} value.
- */
-
-//  follow this
-
-public class SongTitleComparatorLevenshtein implements Comparator<Song, Attribute> {
+public class SongAlbumComparatorLevenshtein implements Comparator<Song, Attribute> {
 
     private static final long serialVersionUID = 1L;
     private LevenshteinSimilarity sim = new LevenshteinSimilarity();
@@ -28,8 +21,8 @@ public class SongTitleComparatorLevenshtein implements Comparator<Song, Attribut
             Song record2,
             Correspondence<Attribute, Matchable> schemaCorrespondences) {
         
-        String s1 = record1.getTrack();
-        String s2 = record2.getTrack();
+        String s1 = record1.getAlbum();
+        String s2 = record2.getAlbum();
         
         double similarity = sim.calculate(s1, s2);
         
@@ -55,3 +48,4 @@ public class SongTitleComparatorLevenshtein implements Comparator<Song, Attribut
         this.comparisonLog = comparatorLog;
     }
 }
+
