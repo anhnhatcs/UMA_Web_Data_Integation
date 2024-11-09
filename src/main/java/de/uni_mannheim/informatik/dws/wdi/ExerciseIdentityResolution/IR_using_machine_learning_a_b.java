@@ -1,5 +1,7 @@
 package de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution;
 import java.io.File;
+
+import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Comparators.*;
 import org.slf4j.Logger;
 
 import de.uni_mannheim.informatik.dws.winter.matching.MatchingEngine;
@@ -14,17 +16,6 @@ import de.uni_mannheim.informatik.dws.winter.processing.Processable;
 import de.uni_mannheim.informatik.dws.winter.utils.WinterLogManager;
 import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.model.Song;
 import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.model.SongXMLReader;
-import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Comparators.SongAlbumComparatorJaccard;
-import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Comparators.SongArtistComparatorJaccard;
-import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Comparators.SongTitleComparatorJaccard;
-import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Comparators.SongAlbumComparatorLowerCaseJaccard;
-import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Comparators.SongArtistComparatorLowerCaseJaccard;
-import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Comparators.SongTitleComparatorLowerCaseJaccard;
-import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Comparators.SongTitleComparatorEqual;
-import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Comparators.SongTitleComparatorLevenshtein;
-import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Comparators.SongAlbumComparatorSoundex;
-import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Comparators.SongArtistComparatorSoundex;
-import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Comparators.SongTitleComparatorSoundex;
 import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Blocking.SongBlockingKeyByArtistGenerator;
 import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Blocking.SongBlockingKeyByTitleGenerator;
 import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Blocking.SongBlockingKeyByAlbumGenerator;
@@ -74,6 +65,7 @@ public class IR_using_machine_learning_a_b {
 		matchingRule.addComparator(new SongTitleComparatorLevenshtein());
 		matchingRule.addComparator(new SongTitleComparatorJaccard());
 		matchingRule.addComparator(new SongTitleComparatorLowerCaseJaccard());
+		matchingRule.addComparator(new SongTitleComparatorJaroWinkler());
 		matchingRule.addComparator(new SongTitleComparatorSoundex());
 		matchingRule.addComparator(new SongTitleComparatorEqual());
 
