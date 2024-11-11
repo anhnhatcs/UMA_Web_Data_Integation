@@ -63,19 +63,28 @@ public class IR_using_machine_learning_c_b {
 		
 		// add comparators
 		matchingRule.addComparator(new SongTitleComparatorLevenshtein());
-		matchingRule.addComparator(new SongTitleComparatorJaccard());
+		// matchingRule.addComparator(new SongTitleComparatorJaccard());
 		matchingRule.addComparator(new SongTitleComparatorLowerCaseJaccard());
-		matchingRule.addComparator(new SongTitleComparatorJaroWinkler());
-		matchingRule.addComparator(new SongTitleComparatorSoundex());
-		matchingRule.addComparator(new SongTitleComparatorEqual());
+		// matchingRule.addComparator(new SongTitleComparatorJaroWinkler());
+		// matchingRule.addComparator(new SongTitleComparatorSoundex());
+		// matchingRule.addComparator(new SongTitleComparatorEqual());
+		// matchingRule.addComparator(new SongTitleComparatorJaro());
 
+		// matchingRule.addComparator(new SongArtistComparatorLevenshtein());
+		// matchingRule.addComparator(new SongArtistComparatorJaccard());
+		matchingRule.addComparator(new SongArtistComparatorLowerCaseJaccard());
+		// matchingRule.addComparator(new SongArtistComparatorJaroWinkler());
+		// matchingRule.addComparator(new SongArtistComparatorSoundex());
+		// matchingRule.addComparator(new SongArtistComparatorEqual());
+		// matchingRule.addComparator(new SongArtistComparatorJaro());
+
+		// matchingRule.addComparator(new SongAlbumComparatorLevenshtein());
 		// matchingRule.addComparator(new SongAlbumComparatorJaccard());
 		// matchingRule.addComparator(new SongAlbumComparatorLowerCaseJaccard());
+		// matchingRule.addComparator(new SongAlbumComparatorJaroWinkler());
 		// matchingRule.addComparator(new SongAlbumComparatorSoundex());
-
-		// matchingRule.addComparator(new SongArtistComparatorJaccard());
-		// matchingRule.addComparator(new SongArtistComparatorLowerCaseJaccard());
-		// matchingRule.addComparator(new SongArtistComparatorSoundex());
+		// matchingRule.addComparator(new SongAlbumComparatorEqual());
+		// matchingRule.addComparator(new SongAlbumComparatorJaro());
 		
 		
 		// train the matching rule's model
@@ -85,10 +94,10 @@ public class IR_using_machine_learning_c_b {
 		logger.info(String.format("Matching rule is:\n%s", matchingRule.getModelDescription()));
 		
 		// create a blocker (blocking strategy)
-		StandardRecordBlocker<Song, Attribute> blocker = new StandardRecordBlocker<Song, Attribute>(new SongBlockingKeyByTitleGenerator());
+		// StandardRecordBlocker<Song, Attribute> blocker = new StandardRecordBlocker<Song, Attribute>(new SongBlockingKeyByTitleGenerator());
 		// StandardRecordBlocker<Song, Attribute> blocker = new StandardRecordBlocker<Song, Attribute>(new SongBlockingKeyByArtistGenerator());		
 		// StandardRecordBlocker<Song, Attribute> blocker = new StandardRecordBlocker<Song, Attribute>(new SongBlockingKeyByAlbumGenerator());		
-		// SortedNeighbourhoodBlocker<Song, Attribute, Attribute> blocker = new SortedNeighbourhoodBlocker<>(new SongBlockingKeyByTitleGenerator(), 30);
+		SortedNeighbourhoodBlocker<Song, Attribute, Attribute> blocker = new SortedNeighbourhoodBlocker<>(new SongBlockingKeyByTitleGenerator(), 40);
 		// SortedNeighbourhoodBlocker<Song, Attribute, Attribute> blocker = new SortedNeighbourhoodBlocker<>(new SongBlockingKeyByArtistGenerator(), 30);
 		// SortedNeighbourhoodBlocker<Song, Attribute, Attribute> blocker = new SortedNeighbourhoodBlocker<>(new SongBlockingKeyByAlbumGenerator(), 30);
 		blocker.collectBlockSizeData("data/output/debugResultsBlocking_c_b.csv", 10000);
