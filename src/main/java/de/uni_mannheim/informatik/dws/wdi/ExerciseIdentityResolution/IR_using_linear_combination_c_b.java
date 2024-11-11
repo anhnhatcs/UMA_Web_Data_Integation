@@ -63,26 +63,37 @@ public class IR_using_linear_combination_c_b {
 		
 		// add comparators
 		// here defines the weight of matching attributes
-		matchingRule.addComparator(new SongTitleComparatorLevenshtein(), 0.2);
-		matchingRule.addComparator(new SongTitleComparatorJaccard(), 0.2);
-		matchingRule.addComparator(new SongTitleComparatorLowerCaseJaccard(), 0.2);
-		matchingRule.addComparator(new SongTitleComparatorJaroWinkler(), 0.2);
-		matchingRule.addComparator(new SongTitleComparatorSoundex(), 0.2);
-		matchingRule.addComparator(new SongTitleComparatorEqual(), 0.2);
+		// matchingRule.addComparator(new SongTitleComparatorEqual(), 0.2);
+		// matchingRule.addComparator(new SongTitleComparatorJaccard(), 0.2);
+		// matchingRule.addComparator(new SongTitleComparatorJaro(), 0.3);
+		// matchingRule.addComparator(new SongTitleComparatorJaroWinkler(), 0.4);
+		matchingRule.addComparator(new SongTitleComparatorLevenshtein(), 0.4);
+		matchingRule.addComparator(new SongTitleComparatorLowerCaseJaccard(), 0.4);
+		// matchingRule.addComparator(new SongTitleComparatorSoundex(), 0.4);
 
+		matchingRule.addComparator(new SongArtistComparatorEqual(), 0.2);
+		// matchingRule.addComparator(new SongArtistComparatorJaccard(), 0.2);
+		// matchingRule.addComparator(new SongArtistComparatorJaro(), 0.2);
+		// matchingRule.addComparator(new SongArtistComparatorJaroWinkler(), 0.2);
+		// matchingRule.addComparator(new SongArtistComparatorLevenshtein(), 0.2);
+		// matchingRule.addComparator(new SongArtistComparatorLowerCaseJaccard(), 0.2);
+		// matchingRule.addComparator(new SongArtistComparatorSoundex(), 0.2);
+		
+		// matchingRule.addComparator(new SongAlbumComparatorEqual(), 0.2);
 		// matchingRule.addComparator(new SongAlbumComparatorJaccard(), 0.2);
+		// matchingRule.addComparator(new SongAlbumComparatorJaro(), 0.2);
+		// matchingRule.addComparator(new SongAlbumComparatorJaroWinkler(), 0.2);
+		// matchingRule.addComparator(new SongAlbumComparatorLevenshtein(), 0.2);
 		// matchingRule.addComparator(new SongAlbumComparatorLowerCaseJaccard(), 0.2);
 		// matchingRule.addComparator(new SongAlbumComparatorSoundex(), 0.2);
 
-		// matchingRule.addComparator(new SongArtistComparatorJaccard(), 0.2);
-		// matchingRule.addComparator(new SongArtistComparatorLowerCaseJaccard(), 0.2);
-		// matchingRule.addComparator(new SongArtistComparatorSoundex(), 0.2;
-
+		// matchingRule.addComparator(new SongDurationComparator2Seconds(), 0.2);
+		// matchingRule.addComparator(new SongDurationComparator10Seconds(), 0.2);
 		// create a blocker (blocking strategy)
-		StandardRecordBlocker<Song, Attribute> blocker = new StandardRecordBlocker<Song, Attribute>(new SongBlockingKeyByTitleGenerator());
+		// StandardRecordBlocker<Song, Attribute> blocker = new StandardRecordBlocker<Song, Attribute>(new SongBlockingKeyByTitleGenerator());
 		// StandardRecordBlocker<Song, Attribute> blocker = new StandardRecordBlocker<Song, Attribute>(new SongBlockingKeyByArtistGenerator());		
 		// StandardRecordBlocker<Song, Attribute> blocker = new StandardRecordBlocker<Song, Attribute>(new SongBlockingKeyByAlbumGenerator());		
-		// SortedNeighbourhoodBlocker<Song, Attribute, Attribute> blocker = new SortedNeighbourhoodBlocker<>(new SongBlockingKeyByTitleGenerator(), 30);
+		SortedNeighbourhoodBlocker<Song, Attribute, Attribute> blocker = new SortedNeighbourhoodBlocker<>(new SongBlockingKeyByTitleGenerator(), 60);
 		// SortedNeighbourhoodBlocker<Song, Attribute, Attribute> blocker = new SortedNeighbourhoodBlocker<>(new SongBlockingKeyByArtistGenerator(), 30);
 		// SortedNeighbourhoodBlocker<Song, Attribute, Attribute> blocker = new SortedNeighbourhoodBlocker<>(new SongBlockingKeyByAlbumGenerator(), 30);
 		blocker.setMeasureBlockSizes(true);

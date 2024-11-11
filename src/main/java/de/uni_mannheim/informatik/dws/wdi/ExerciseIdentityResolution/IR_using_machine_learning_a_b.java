@@ -62,21 +62,30 @@ public class IR_using_machine_learning_a_b {
 		matchingRule.activateDebugReport("data/output/debugResultsMatchingRule_a_b.csv", 1000, gsTraining);
 		
 		// add comparators
-		matchingRule.addComparator(new SongTitleComparatorLevenshtein());
-		matchingRule.addComparator(new SongTitleComparatorJaccard());
+		// matchingRule.addComparator(new SongTitleComparatorLevenshtein());
+		// matchingRule.addComparator(new SongTitleComparatorJaccard());
 		matchingRule.addComparator(new SongTitleComparatorLowerCaseJaccard());
-		matchingRule.addComparator(new SongTitleComparatorJaroWinkler());
-		matchingRule.addComparator(new SongTitleComparatorSoundex());
-		matchingRule.addComparator(new SongTitleComparatorEqual());
+		// matchingRule.addComparator(new SongTitleComparatorJaroWinkler());
+		// matchingRule.addComparator(new SongTitleComparatorSoundex());
+		// matchingRule.addComparator(new SongTitleComparatorEqual());
+		// matchingRule.addComparator(new SongTitleComparatorJaro());
 
-		// matchingRule.addComparator(new SongAlbumComparatorJaccard());
-		// matchingRule.addComparator(new SongAlbumComparatorLowerCaseJaccard());
-		// matchingRule.addComparator(new SongAlbumComparatorSoundex());
-
+		// matchingRule.addComparator(new SongArtistComparatorLevenshtein());
 		// matchingRule.addComparator(new SongArtistComparatorJaccard());
-		// matchingRule.addComparator(new SongArtistComparatorLowerCaseJaccard());
+		matchingRule.addComparator(new SongArtistComparatorLowerCaseJaccard());
+		// matchingRule.addComparator(new SongArtistComparatorJaroWinkler());
 		// matchingRule.addComparator(new SongArtistComparatorSoundex());
-		
+		// matchingRule.addComparator(new SongArtistComparatorEqual());
+		// matchingRule.addComparator(new SongArtistComparatorJaro());
+
+		// matchingRule.addComparator(new SongAlbumComparatorLevenshtein());
+		// matchingRule.addComparator(new SongAlbumComparatorJaccard());
+		matchingRule.addComparator(new SongAlbumComparatorLowerCaseJaccard());
+		// matchingRule.addComparator(new SongAlbumComparatorJaroWinkler());
+		// matchingRule.addComparator(new SongAlbumComparatorSoundex());
+		// matchingRule.addComparator(new SongAlbumComparatorEqual());
+		// matchingRule.addComparator(new SongAlbumComparatorJaro());
+
 		// train the matching rule's model
 		logger.info("*\tLearning matching rule\t*");
 		RuleLearner<Song, Attribute> learner = new RuleLearner<>();
