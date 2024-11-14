@@ -24,7 +24,7 @@ import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Blocking.So
 import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Blocking.SongBlockingKeyByTitleGenerator;
 import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Blocking.SongBlockingKeyByAlbumGenerator;
 
-public class IR_using_linear_combination_a_b {
+public class IR_using_linear_combination_apple_opendb {
 	/*
 	 * Logging Options:
 	 * 		default: 	level INFO	- console
@@ -112,7 +112,7 @@ public class IR_using_linear_combination_a_b {
 				blocker);
 
 		// write the correspondences to the output file
-		new CSVCorrespondenceFormatter().writeCSV(new File("data/output/Opendb_apple_correspondences.csv"), correspondences);		
+		new CSVCorrespondenceFormatter().writeCSV(new File("data/output/apple_opendb_correspondences.csv"), correspondences);		
 		
 		logger.info("*\tEvaluating result\t*");
 		// evaluate your result
