@@ -25,7 +25,7 @@ import de.uni_mannheim.informatik.dws.winter.matching.rules.WekaMatchingRule;
 import de.uni_mannheim.informatik.dws.winter.matching.blockers.StandardRecordBlocker;
 
 
-public class IR_using_machine_learning_a_b {
+public class IR_using_machine_learning_apple_opendb {
 	
 	/*
 	 * Logging Options:
@@ -59,7 +59,7 @@ public class IR_using_machine_learning_a_b {
 		String options[] = new String[] { "-S" };
 		String modelType = "SimpleLogistic"; // use a logistic regression
 		WekaMatchingRule<Song, Attribute> matchingRule = new WekaMatchingRule<>(0.7, modelType, options);
-		matchingRule.activateDebugReport("data/output/debugResultsMatchingRule_a_b.csv", 1000, gsTraining);
+		matchingRule.activateDebugReport("data/output/debugResultsMatchingRule_apple_opendb.csv", 1000, gsTraining);
 		
 		// add comparators
 		// matchingRule.addComparator(new SongTitleComparatorLevenshtein());
@@ -99,7 +99,7 @@ public class IR_using_machine_learning_a_b {
 		// SortedNeighbourhoodBlocker<Song, Attribute, Attribute> blocker = new SortedNeighbourhoodBlocker<>(new SongBlockingKeyByTitleGenerator(), 30);
 		// SortedNeighbourhoodBlocker<Song, Attribute, Attribute> blocker = new SortedNeighbourhoodBlocker<>(new SongBlockingKeyByArtistGenerator(), 30);
 		// SortedNeighbourhoodBlocker<Song, Attribute, Attribute> blocker = new SortedNeighbourhoodBlocker<>(new SongBlockingKeyByAlbumGenerator(), 30);
-		blocker.collectBlockSizeData("data/output/debugResultsBlocking_a_b.csv", 10000);
+		blocker.collectBlockSizeData("data/output/debugResultsBlocking_apple_opendb.csv", 10000);
 		
 		// Initialize Matching Engine
 		MatchingEngine<Song, Attribute> engine = new MatchingEngine<>();
@@ -111,7 +111,7 @@ public class IR_using_machine_learning_a_b {
 				blocker);
 
 		// write the correspondences to the output file
-		new CSVCorrespondenceFormatter().writeCSV(new File("data/output/opendb_apple_correspondences.csv"), correspondences);
+		new CSVCorrespondenceFormatter().writeCSV(new File("data/output/apple_opendb_correspondences.csv"), correspondences);
 
 		// load the gold standard (test set)
 		logger.info("*\tLoading gold standard\t*");
