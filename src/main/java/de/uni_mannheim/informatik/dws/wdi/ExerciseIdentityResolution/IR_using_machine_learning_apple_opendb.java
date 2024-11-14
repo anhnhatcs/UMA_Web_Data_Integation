@@ -25,7 +25,7 @@ import de.uni_mannheim.informatik.dws.winter.matching.rules.WekaMatchingRule;
 import de.uni_mannheim.informatik.dws.winter.matching.blockers.StandardRecordBlocker;
 
 
-public class IR_using_machine_learning_c_b {
+public class IR_using_machine_learning_apple_opendb {
 	
 	/*
 	 * Logging Options:
@@ -46,42 +46,50 @@ public class IR_using_machine_learning_c_b {
     {
 		// loading data
 		logger.info("*\tLoading datasets\t*");
-		HashedDataSet<Song, Attribute> dataMillion = new HashedDataSet<>();
-		new SongXMLReader().loadFromXML(new File("data/input/million.xml"), "/songs/song", dataMillion);
+		HashedDataSet<Song, Attribute> dataApple = new HashedDataSet<>();
+		new SongXMLReader().loadFromXML(new File("data/input/apple.xml"), "/songs/song", dataApple);
 		HashedDataSet<Song, Attribute> dataOpenDB = new HashedDataSet<>();
 		new SongXMLReader().loadFromXML(new File("data/input/opendb.xml"), "/songs/song", dataOpenDB);
 		
 		// load the training set
 		MatchingGoldStandard gsTraining = new MatchingGoldStandard();
-		gsTraining.loadFromCSVFile(new File("data/goldstandard/gs_million_opendb.csv"));
+		gsTraining.loadFromCSVFile(new File("data/goldstandard/gs_opendb_apple.csv"));
 
 		// create a matching rule
 		String options[] = new String[] { "-S" };
 		String modelType = "SimpleLogistic"; // use a logistic regression
 		WekaMatchingRule<Song, Attribute> matchingRule = new WekaMatchingRule<>(0.7, modelType, options);
-		matchingRule.activateDebugReport("data/output/debugResultsMatchingRule_c_b.csv", 1000, gsTraining);
+		matchingRule.activateDebugReport("data/output/debugResultsMatchingRule_apple_opendb.csv", 1000, gsTraining);
 		
 		// add comparators
-		matchingRule.addComparator(new SongTitleComparatorLevenshtein());
-		matchingRule.addComparator(new SongTitleComparatorJaccard());
+		// matchingRule.addComparator(new SongTitleComparatorLevenshtein());
+		// matchingRule.addComparator(new SongTitleComparatorJaccard());
 		matchingRule.addComparator(new SongTitleComparatorLowerCaseJaccard());
-		matchingRule.addComparator(new SongTitleComparatorJaroWinkler());
-		matchingRule.addComparator(new SongTitleComparatorSoundex());
-		matchingRule.addComparator(new SongTitleComparatorEqual());
+		// matchingRule.addComparator(new SongTitleComparatorJaroWinkler());
+		// matchingRule.addComparator(new SongTitleComparatorSoundex());
+		// matchingRule.addComparator(new SongTitleComparatorEqual());
+		// matchingRule.addComparator(new SongTitleComparatorJaro());
 
-		// matchingRule.addComparator(new SongAlbumComparatorJaccard());
-		// matchingRule.addComparator(new SongAlbumComparatorLowerCaseJaccard());
-		// matchingRule.addComparator(new SongAlbumComparatorSoundex());
-
+		// matchingRule.addComparator(new SongArtistComparatorLevenshtein());
 		// matchingRule.addComparator(new SongArtistComparatorJaccard());
-		// matchingRule.addComparator(new SongArtistComparatorLowerCaseJaccard());
+		matchingRule.addComparator(new SongArtistComparatorLowerCaseJaccard());
+		// matchingRule.addComparator(new SongArtistComparatorJaroWinkler());
 		// matchingRule.addComparator(new SongArtistComparatorSoundex());
-		
-		
+		// matchingRule.addComparator(new SongArtistComparatorEqual());
+		// matchingRule.addComparator(new SongArtistComparatorJaro());
+
+		// matchingRule.addComparator(new SongAlbumComparatorLevenshtein());
+		// matchingRule.addComparator(new SongAlbumComparatorJaccard());
+		matchingRule.addComparator(new SongAlbumComparatorLowerCaseJaccard());
+		// matchingRule.addComparator(new SongAlbumComparatorJaroWinkler());
+		// matchingRule.addComparator(new SongAlbumComparatorSoundex());
+		// matchingRule.addComparator(new SongAlbumComparatorEqual());
+		// matchingRule.addComparator(new SongAlbumComparatorJaro());
+
 		// train the matching rule's model
 		logger.info("*\tLearning matching rule\t*");
 		RuleLearner<Song, Attribute> learner = new RuleLearner<>();
-		learner.learnMatchingRule(dataMillion, dataOpenDB, null, matchingRule, gsTraining);
+		learner.learnMatchingRule(dataApple, dataOpenDB, null, matchingRule, gsTraining);
 		logger.info(String.format("Matching rule is:\n%s", matchingRule.getModelDescription()));
 		
 		// create a blocker (blocking strategy)
@@ -91,7 +99,7 @@ public class IR_using_machine_learning_c_b {
 		// SortedNeighbourhoodBlocker<Song, Attribute, Attribute> blocker = new SortedNeighbourhoodBlocker<>(new SongBlockingKeyByTitleGenerator(), 30);
 		// SortedNeighbourhoodBlocker<Song, Attribute, Attribute> blocker = new SortedNeighbourhoodBlocker<>(new SongBlockingKeyByArtistGenerator(), 30);
 		// SortedNeighbourhoodBlocker<Song, Attribute, Attribute> blocker = new SortedNeighbourhoodBlocker<>(new SongBlockingKeyByAlbumGenerator(), 30);
-		blocker.collectBlockSizeData("data/output/debugResultsBlocking_c_b.csv", 10000);
+		blocker.collectBlockSizeData("data/output/debugResultsBlocking_apple_opendb.csv", 10000);
 		
 		// Initialize Matching Engine
 		MatchingEngine<Song, Attribute> engine = new MatchingEngine<>();
@@ -99,17 +107,17 @@ public class IR_using_machine_learning_c_b {
 		// Execute the matching
 		logger.info("*\tRunning identity resolution\t*");
 		Processable<Correspondence<Song, Attribute>> correspondences = engine.runIdentityResolution(
-			dataMillion, dataOpenDB, null, matchingRule,
+			dataApple, dataOpenDB, null, matchingRule,
 				blocker);
 
 		// write the correspondences to the output file
-		new CSVCorrespondenceFormatter().writeCSV(new File("data/output/million_opendb_correspondences.csv"), correspondences);
+		new CSVCorrespondenceFormatter().writeCSV(new File("data/output/apple_opendb_correspondences.csv"), correspondences);
 
 		// load the gold standard (test set)
 		logger.info("*\tLoading gold standard\t*");
 		MatchingGoldStandard gsTest = new MatchingGoldStandard();
 		gsTest.loadFromCSVFile(new File(
-				"data/goldstandard/gs_million_opendb.csv"));
+				"data/goldstandard/gs_opendb_apple.csv"));
 		
 		// evaluate your result
 		logger.info("*\tEvaluating result\t*");
@@ -118,7 +126,7 @@ public class IR_using_machine_learning_c_b {
 				gsTest);
 		
 		// print the evaluation result
-		logger.info("Million <-> OpenDB");
+		logger.info("Apple <-> OpenDB");
 		logger.info(String.format(
 				"Precision: %.4f",perfTest.getPrecision()));
 		logger.info(String.format(
