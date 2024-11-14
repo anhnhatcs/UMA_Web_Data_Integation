@@ -1,15 +1,23 @@
 package de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.model;
 
+import java.util.Collections;
+import java.util.LinkedList;
+import java.util.List;
+
+import org.apache.commons.lang3.StringUtils;
 import org.w3c.dom.Node;
 
 import de.uni_mannheim.informatik.dws.winter.model.DataSet;
+import de.uni_mannheim.informatik.dws.winter.model.FusibleFactory;
+import de.uni_mannheim.informatik.dws.winter.model.RecordGroup;
 import de.uni_mannheim.informatik.dws.winter.model.defaultmodel.Attribute;
 import de.uni_mannheim.informatik.dws.winter.model.io.XMLMatchableReader;
 
 /**
  * A {@link XMLMatchableReader} for {@link Song}s.
  */
-public class SongXMLReader extends XMLMatchableReader<Song, Attribute> {
+public class SongXMLReader extends XMLMatchableReader<Song, Attribute> implements
+FusibleFactory<Song, Attribute> {
 
     @Override
     protected void initialiseDataset(DataSet<Song, Attribute> dataset) {
@@ -54,4 +62,20 @@ public class SongXMLReader extends XMLMatchableReader<Song, Attribute> {
 
         return song;
     }
+
+    @Override
+	public Song createInstanceForFusion(RecordGroup<Song, Attribute> cluster) {
+	
+	List<String> ids = new LinkedList<>();
+	
+	for (Song m : cluster.getRecords()) {
+		ids.add(m.getIdentifier());
+	}
+	
+	Collections.sort(ids);
+	
+	String mergedId = StringUtils.join(ids, '+');
+	
+	return new Song(mergedId, "fused");
+	}
 }
