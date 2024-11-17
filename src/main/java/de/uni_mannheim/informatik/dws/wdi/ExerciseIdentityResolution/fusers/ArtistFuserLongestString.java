@@ -13,10 +13,10 @@ import de.uni_mannheim.informatik.dws.winter.processing.Processable;
 /**
  * {@link AttributeValueFuser} for the titles of {@link Song}s.
  */
-public class TitleFuserLongestString extends
+public class ArtistFuserLongestString extends
 		AttributeValueFuser<String, Song, Attribute> {
 
-	public TitleFuserLongestString() {
+	public ArtistFuserLongestString() {
 		super(new LongestString<Song, Attribute>());
 	}
 
@@ -27,20 +27,20 @@ public class TitleFuserLongestString extends
 		FusedValue<String, Song, Attribute> fused = getFusedValue(group, schemaCorrespondences, schemaElement);
 
 		// set the value for the fused record
-		fusedRecord.setTrack(fused.getValue());
+		fusedRecord.setArtist(fused.getValue());
 
 		// add provenance info
-		fusedRecord.setAttributeProvenance(Song.TRACK, fused.getOriginalIds());
+		fusedRecord.setAttributeProvenance(Song.ARTIST, fused.getOriginalIds());
 	}
 
 	@Override
 	public boolean hasValue(Song record, Correspondence<Attribute, Matchable> correspondence) {
-		return record.hasValue(Song.TRACK);
+		return record.hasValue(Song.ARTIST);
 	}
 
 	@Override
 	public String getValue(Song record, Correspondence<Attribute, Matchable> correspondence) {
-		return record.getTrack();
+		return record.getArtist();
 	}
 
 }
