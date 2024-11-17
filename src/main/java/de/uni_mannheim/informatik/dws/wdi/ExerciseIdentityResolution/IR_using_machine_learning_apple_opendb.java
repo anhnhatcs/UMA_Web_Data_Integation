@@ -72,8 +72,8 @@ public class IR_using_machine_learning_apple_opendb {
 
 		// matchingRule.addComparator(new SongArtistComparatorLevenshtein());
 		// matchingRule.addComparator(new SongArtistComparatorJaccard());
-		matchingRule.addComparator(new SongArtistComparatorLowerCaseJaccard());
-		// matchingRule.addComparator(new SongArtistComparatorJaroWinkler());
+		// matchingRule.addComparator(new SongArtistComparatorLowerCaseJaccard());
+		matchingRule.addComparator(new SongArtistComparatorJaroWinkler());
 		// matchingRule.addComparator(new SongArtistComparatorSoundex());
 		// matchingRule.addComparator(new SongArtistComparatorEqual());
 		// matchingRule.addComparator(new SongArtistComparatorJaro());
@@ -85,6 +85,7 @@ public class IR_using_machine_learning_apple_opendb {
 		// matchingRule.addComparator(new SongAlbumComparatorSoundex());
 		// matchingRule.addComparator(new SongAlbumComparatorEqual());
 		// matchingRule.addComparator(new SongAlbumComparatorJaro());
+		matchingRule.addComparator(new SongAlbumYearComparator2Years());
 
 		// train the matching rule's model
 		logger.info("*\tLearning matching rule\t*");
