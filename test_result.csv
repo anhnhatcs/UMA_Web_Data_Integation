@@ -1,0 +1,2 @@
+o_apple_key,o_opendb_key,o_flag,apple_id,apple_Artist,apple_Track,apple_Album,apple_Track_Explicitness,apple_Album_Year,apple_Duration,opendb_id,opendb_Artist,opendb_Track,opendb_Album,opendb_Track_Explicitness,opendb_Album_Year,opendb_Duration,match_gpt4o
+A2502,B10,True,A2502,Faith Hill,Breathe,The Hits,notExplicit,1999,247067,B10,Avi Snow,Breathe,Breathe,notExplicit,2022,248000,0

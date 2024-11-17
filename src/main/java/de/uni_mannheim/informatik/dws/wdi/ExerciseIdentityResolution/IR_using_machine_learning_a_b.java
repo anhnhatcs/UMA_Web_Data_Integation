@@ -62,13 +62,17 @@ public class IR_using_machine_learning_a_b {
 		matchingRule.activateDebugReport("data/output/debugResultsMatchingRule_a_b.csv", 1000, gsTraining);
 		
 		// add comparators
-		matchingRule.addComparator(new SongTitleComparatorLevenshtein());
+		// matchingRule.addComparator(new SongTitleComparatorLevenshtein());
+		// matchingRule.addComparator(new SongTitleComparatorJaccard());
+		// matchingRule.addComparator(new SongTitleComparatorLowerCaseJaccard());
+		// matchingRule.addComparator(new SongTitleComparatorJaroWinkler());
+		// matchingRule.addComparator(new SongTitleComparatorSoundex());
+		// matchingRule.addComparator(new SongTitleComparatorEqual());
+		//matchingRule.addComparator(new SongAlbumComparatorJaro());
+		matchingRule.addComparator(new SongTitleComparatorJaro());
 		matchingRule.addComparator(new SongTitleComparatorJaccard());
-		matchingRule.addComparator(new SongTitleComparatorLowerCaseJaccard());
-		matchingRule.addComparator(new SongTitleComparatorJaroWinkler());
-		matchingRule.addComparator(new SongTitleComparatorSoundex());
-		matchingRule.addComparator(new SongTitleComparatorEqual());
 
+		//matchingRule.addComparator(new SongArtistComparatorJaro());
 		// matchingRule.addComparator(new SongAlbumComparatorJaccard());
 		// matchingRule.addComparator(new SongAlbumComparatorLowerCaseJaccard());
 		// matchingRule.addComparator(new SongAlbumComparatorSoundex());

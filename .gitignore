@@ -88,3 +88,5 @@ hs_err_pid*
 
 data/input/
 data/output/
+
+.env

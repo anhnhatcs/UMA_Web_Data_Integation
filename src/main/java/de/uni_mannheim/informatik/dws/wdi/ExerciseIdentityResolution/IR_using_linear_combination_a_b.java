@@ -63,12 +63,15 @@ public class IR_using_linear_combination_a_b {
 		
 		// add comparators
 		// here defines the weight of matching attributes
-		matchingRule.addComparator(new SongTitleComparatorLevenshtein(), 0.2);
-		matchingRule.addComparator(new SongTitleComparatorJaccard(), 0.2);
-		matchingRule.addComparator(new SongTitleComparatorLowerCaseJaccard(), 0.2);
-		matchingRule.addComparator(new SongTitleComparatorSoundex(), 0.2);
-		matchingRule.addComparator(new SongTitleComparatorJaroWinkler(), 0.2);
-		matchingRule.addComparator(new SongTitleComparatorEqual(), 0.2);
+		// matchingRule.addComparator(new SongTitleComparatorLevenshtein(), 0.2);
+		// matchingRule.addComparator(new SongTitleComparatorJaccard(), 0.2);
+		// matchingRule.addComparator(new SongTitleComparatorLowerCaseJaccard(), 0.2);
+		// matchingRule.addComparator(new SongTitleComparatorSoundex(), 0.2);
+		// matchingRule.addComparator(new SongTitleComparatorJaroWinkler(), 0.2);
+		// matchingRule.addComparator(new SongTitleComparatorEqual(), 0.2);
+		//matchingRule.addComparator(new SongAlbumComparatorJaro(), 0.1);
+		matchingRule.addComparator(new SongTitleComparatorJaro(), 1);
+		//matchingRule.addComparator(new SongArtistComparatorJaro(), 0.1);
 
 		// matchingRule.addComparator(new SongAlbumComparatorJaccard(), 0.2);
 		// matchingRule.addComparator(new SongAlbumComparatorLowerCaseJaccard(), 0.2);
@@ -80,10 +83,10 @@ public class IR_using_linear_combination_a_b {
 
 		
 		// create a blocker (blocking strategy)
-		StandardRecordBlocker<Song, Attribute> blocker = new StandardRecordBlocker<Song, Attribute>(new SongBlockingKeyByTitleGenerator());
+		//StandardRecordBlocker<Song, Attribute> blocker = new StandardRecordBlocker<Song, Attribute>(new SongBlockingKeyByTitleGenerator());
 		// StandardRecordBlocker<Song, Attribute> blocker = new StandardRecordBlocker<Song, Attribute>(new SongBlockingKeyByArtistGenerator());		
 		// StandardRecordBlocker<Song, Attribute> blocker = new StandardRecordBlocker<Song, Attribute>(new SongBlockingKeyByAlbumGenerator());		
-		// SortedNeighbourhoodBlocker<Song, Attribute, Attribute> blocker = new SortedNeighbourhoodBlocker<>(new SongBlockingKeyByTitleGenerator(), 30);
+		 SortedNeighbourhoodBlocker<Song, Attribute, Attribute> blocker = new SortedNeighbourhoodBlocker<>(new SongBlockingKeyByTitleGenerator(), 30);
 		// SortedNeighbourhoodBlocker<Song, Attribute, Attribute> blocker = new SortedNeighbourhoodBlocker<>(new SongBlockingKeyByArtistGenerator(), 30);
 		// SortedNeighbourhoodBlocker<Song, Attribute, Attribute> blocker = new SortedNeighbourhoodBlocker<>(new SongBlockingKeyByAlbumGenerator(), 30);
 		blocker.setMeasureBlockSizes(true);
