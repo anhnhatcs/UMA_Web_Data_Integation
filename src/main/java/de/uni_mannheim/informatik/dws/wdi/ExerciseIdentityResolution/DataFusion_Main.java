@@ -99,11 +99,11 @@ public class DataFusion_Main
 		strategy.activateDebugReport("data/output/debugResultsDatafusion.csv", -1, gs);
 		
 		// add attribute fusers
-		// strategy.addAttributeFuser(Song.ALBUM, new AlbumFuserShortestString(),new TitleEvaluationRule());
+		strategy.addAttributeFuser(Song.ALBUM, new AlbumFuserShortestString(),new TitleEvaluationRule());
 		strategy.addAttributeFuser(Song.ALBUM_YEAR,new AlbumYearFuserVoting(), new AlbumYearEvaluationRule());
-		// strategy.addAttributeFuser(Song.ARTIST, new ArtistFuserShortestString(),new ArtistEvaluationRule());
-		// strategy.addAttributeFuser(Song.DURATION,new DurationFuserShortestString(),new DurationEvaluationRule());
-		// strategy.addAttributeFuser(Song.TRACK_EXPLICITNESS,new ExplicitnessFuserShortestString(),new ExplicitnessEvaluationRule());
+		strategy.addAttributeFuser(Song.ARTIST, new ArtistFuserShortestString(),new ArtistEvaluationRule());
+		strategy.addAttributeFuser(Song.DURATION,new DurationFuserFavourSource(),new DurationEvaluationRule());
+		strategy.addAttributeFuser(Song.TRACK_EXPLICITNESS,new ExplicitnessFavourSource(),new ExplicitnessEvaluationRule());
 		strategy.addAttributeFuser(Song.TRACK,new TitleFuserShortestString(),new TitleEvaluationRule());
 
 		// create the fusion engine

@@ -18,11 +18,11 @@ public class AlbumYearEvaluationRule extends EvaluationRule<Song, Attribute> {
 	@Override
 	public boolean isEqual(Song record1, Song record2, Attribute schemaElement) {
 
-		if(record1.getDuration() != 0 && record2.getDuration() != 0){
+		if(record1.getAlbumYear() != 0 && record2.getAlbumYear() != 0){
 			double lowerBound = record1.getAlbumYear() - 1;
 			double upperBound = record1.getAlbumYear() + 1;
 
-			return lowerBound <= record2.getDuration() && record2.getDuration() < upperBound;
+			return lowerBound <= record2.getAlbumYear() && record2.getAlbumYear() <= upperBound;
 		}
 
 		return false;
@@ -31,7 +31,7 @@ public class AlbumYearEvaluationRule extends EvaluationRule<Song, Attribute> {
 	@Override
 	public boolean isEqual(Song record1, Song record2,
 			Correspondence<Attribute, Matchable> schemaCorrespondence) {
-		return false;
+		return isEqual(record1, record2, (Attribute)null);
 	}
 	
 }

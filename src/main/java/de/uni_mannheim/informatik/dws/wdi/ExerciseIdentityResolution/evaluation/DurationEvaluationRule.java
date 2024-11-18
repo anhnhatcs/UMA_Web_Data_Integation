@@ -22,7 +22,7 @@ public class DurationEvaluationRule extends EvaluationRule<Song, Attribute> {
 			double lowerBound = record1.getDuration()*0.95;
 			double upperBound = record1.getDuration()*1.05;
 
-			return lowerBound <= record2.getDuration() && record2.getDuration() < upperBound;
+			return lowerBound <= record2.getDuration() && record2.getDuration() <= upperBound;
 		}
 
 		return false;
@@ -31,7 +31,7 @@ public class DurationEvaluationRule extends EvaluationRule<Song, Attribute> {
 	@Override
 	public boolean isEqual(Song record1, Song record2,
 			Correspondence<Attribute, Matchable> schemaCorrespondence) {
-		return false;
+		return isEqual(record1, record2, (Attribute)null);
 	}
 	
 }
