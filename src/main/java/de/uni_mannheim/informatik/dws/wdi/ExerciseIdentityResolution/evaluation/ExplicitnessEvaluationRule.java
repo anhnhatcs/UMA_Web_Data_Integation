@@ -22,8 +22,7 @@ public class ExplicitnessEvaluationRule extends EvaluationRule<Song, Attribute> 
 
 	@Override
 	public boolean isEqual(Song record1, Song record2, Attribute schemaElement) {
-		// the title is correct if all tokens are there, but the order does not
-		// matter
+		// the title is correct if all tokens are there, but the order does not matter
 		return sim.calculate(record1.getTrackExplicitness(), record2.getTrackExplicitness()) == 1.0;
 	}
 

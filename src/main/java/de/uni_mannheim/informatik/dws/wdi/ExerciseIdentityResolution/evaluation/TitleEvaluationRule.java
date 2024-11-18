@@ -22,8 +22,7 @@ public class TitleEvaluationRule extends EvaluationRule<Song, Attribute> {
 
 	@Override
 	public boolean isEqual(Song record1, Song record2, Attribute schemaElement) {
-		// the title is correct if all tokens are there, but the order does not
-		// matter
+		// the title is correct if all tokens are there, but the order does not matter
 		return sim.calculate(record1.getTrack(), record2.getTrack()) == 1.0;
 	}
 
