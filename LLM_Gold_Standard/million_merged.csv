@@ -1,0 +1,1004 @@
+m_million_key,m_opendb_key,m_flag,million_id,million_Artist,million_Track,million_Album,million_Track_Explicitness,million_Album_Year,million_Duration,opendb_id,opendb_Artist,opendb_Track,opendb_Album,opendb_Track_Explicitness,opendb_Album_Year,opendb_Duration
+C9725,B1,True,C9725,Diana Krall,Little Girl Blue,,,2007,337746,B1,Red Garland,Little Girl Blue,Presenting Red Garland,notExplicit,1956,305000
+C5975,B6,True,C5975,She & Him,In the Sun,,,2010,173693,B6,G Herbo,In the Sun,In the Sun,Explicit,2022,205000
+C2129,B10,True,C2129,The Prodigy,Breathe,,,1997,334800,B10,Avi Snow,Breathe,Breathe,notExplicit,2022,248000
+C24835,B13,True,C24835,Augustana,Sunday Best,,,2006,200840,B13,Kayley Bishop,Sunday Best,Sunday Best,notExplicit,2022,212000
+C3708,B15,True,C3708,Olive,You're Not Alone,,,2013,260000,B15,Amy Grant,You're Not Alone,Heart In Motion,notExplicit,1991,230000
+C7193,B16,True,C7193,Ella Fitzgerald,Summertime,,,2011,255033,B16,Niels-Henning Ørsted Pedersen,Summertime,"Elegies, Mostly",notExplicit,1995,423000
+C30793,B19,True,C30793,The Boomtown Rats,Banana Republic,,,2013,303333,B19,Mad Professor,Banana Republic,Who Knows The Secret Of The Master Tape?,notExplicit,1985,359000
+C3625,B27,True,C3625,Koop,Summer Sun,,,2003,391413,B27,Gladys Knight & The Pips,Summer Sun,2nd Anniversary (Expanded Edition),notExplicit,1975,304000
+C17732,B29,True,C17732,Huey Lewis & The News,I Want a New Drug,,,1983,286373,B29,Ameritz Tribute Club,I Want a New Drug,It's Hip to Be Square - A Tribute to Huey Lewis and the News,notExplicit,2012,284000
+C139,B32,True,C139,The Beatles,Let It Be,,,2012,236133,B32,Connie Talbot,Let It Be,Beautiful World Special Edition,notExplicit,2012,239000
+C220,B39,True,C220,The Beatles,Yellow Submarine,,,2011,171055,B39,Kids Now,Yellow Submarine,Sing Along Travelling Songs,notExplicit,2024,157000
+C20631,B44,True,C20631,Daniel Bedingfield,If You're Not the One,,,2002,257066,B44,The Sign Posters,If You're Not the One,True Love - Love Songs from the Heart,notExplicit,2011,256000
+C13996,B45,True,C13996,Hoobastank,Better,,,2001,173480,B45,Def3,Better,Weddings & Funerals,Explicit,2021,156000
+C32071,B48,True,C32071,Leo Sayer,When I Need You,,,2008,251893,B48,Avscvltate,When I Need You,Gregorian Chants - Nothing but the Best,notExplicit,2015,320000
+C517,B55,True,C517,Alice Cooper,Poison,,,2001,267306,B55,The Long Tall Texans,Poison,In Without Knocking,notExplicit,1991,172000
+C30064,B63,True,C30064,Au Revoir Simone,We Are Here,,,2009,230346,B63,Alexandre Desplat,We Are Here,Unbroken (Original Motion Picture Soundtrack),notExplicit,2014,110000
+C875,B67,True,C875,Jack Johnson,Do You Remember,,,2005,144013,B67,Rob Arsenault,Do You Remember,Reaching Out,notExplicit,2018,199000
+C3779,B72,True,C3779,Placebo,I Know,,,1996,284000,B72,Miyako Shinohara,I Know,Stay Foolish,notExplicit,2018,291000
+C21851,B84,True,C21851,Hayley Westenra,Summer Rain,,,2007,238413,B84,Good Boy Daisy,Summer Rain,Summer Rain,notExplicit,2021,182000
+C1175,B85,True,C1175,Bryan Adams,Heaven,,,1993,243866,B85,Starix,Heaven,Heaven,notExplicit,2016,188000
+C12815,B86,True,C12815,Angus & Julia Stone,Yellow Brick Road,,,2010,456800,B86,Logan Mize,Yellow Brick Road,Yellow Brick Road,notExplicit,2024,208000
+C517,B87,True,C517,Alice Cooper,Poison,,,2001,267306,B87,Schlaasss,Poison,Casa Plaisance,Explicit,2017,230000
+C2129,B94,True,C2129,The Prodigy,Breathe,,,1997,334800,B94,Zena's World,Breathe,Breathe,notExplicit,2024,149000
+C23097,B96,True,C23097,John Travolta,Summer Nights,,,1978,216906,B96,Jazz Fruits Music,Summer Nights,Jazz Jukebox,notExplicit,2022,173000
+C612,B97,True,C612,System of a Down,Psycho,,,2001,225893,B97,Luca Agnelli,Psycho,Rocking Horse,notExplicit,2023,324000
+C2094,B104,True,C2094,Kanye West,Stronger,,,2007,311866,B104,Yan Zapolsky,Stronger,Stronger,notExplicit,2020,283000
+C34790,B112,True,C34790,Panic! at the Disco,Golden Days,,,2016,254320,B112,Bucks Fizz,Golden Days,The Best Of Bucks Fizz,notExplicit,1994,253000
+C38538,B117,True,C38538,Gregory Alan Isakov,Second Chances,,,2013,229226,B117,Ben Monteith,Second Chances,Second Chances,notExplicit,2020,252000
+C7218,B126,True,C7218,The Cranberries,Pretty,,,2002,136200,B126,ATM Curly,Pretty,Pretty,Explicit,2019,112000
+C47276,B127,True,C47276,One Direction,Little White Lies,,,2013,197920,B127,Julie London,Little White Lies,"Julie Is Her Name, Vol. 2",notExplicit,1958,168000
+C10,B128,True,C10,Coldplay,Clocks,,,2002,307879,B128,Immortal Guardian,Clocks,Clocks,notExplicit,2021,313000
+C601,B130,True,C601,Sum 41,Pieces,,,2008,181600,B130,Dinosaur Jr.,Pieces,Farm (15th Anniversary Edition),notExplicit,2024,271000
+C612,B131,True,C612,System of a Down,Psycho,,,2001,225893,B131,Lead Pipe,Psycho,Psycho,Explicit,2020,224000
+C474,B135,True,C474,Fleetwood Mac,Dreams,,,1988,254453,B135,Points Of Conception,Dreams,Dreams,notExplicit,2022,202000
+C33010,B139,True,C33010,DAY26,What It Feels Like,,,2008,249826,B139,FM Static,What It Feels Like,Critically Ashamed,notExplicit,2006,169000
+C574,B147,True,C574,System of a Down,Forest,,,2001,240106,B147,VOVK,Forest,Lair,notExplicit,2019,231000
+C2220,B159,True,C2220,Calvin Harris,Summer,,,2014,219706,B159,Jamestown Story,Summer,Love vs. Life,notExplicit,2008,244000
+C4365,B167,True,C4365,Nick Cave & The Bad Seeds,Breathless,,,2004,193880,B167,Hyman Stansky,Breathless,Starting Over,notExplicit,2008,245000
+C313,B169,True,C313,Sum 41,In Too Deep,,,2010,206493,B169,Camilla Uboldi,In Too Deep,American Animals (Original Motion Picture Soundtrack),notExplicit,2018,148000
+C21704,B175,True,C21704,Andrew Lloyd Webber,Heaven On Their Minds,,,2009,267027,B175,Percy Faith,Heaven On Their Minds,"Jesus Christ, Superstar",notExplicit,1971,151000
+C24055,B176,True,C24055,Ben Harper,I Want To Be Ready,,,1997,242800,B176,Milton Brunson,I Want To Be Ready,"I Want To Be Ready, Jesus Is Coming",notExplicit,1994,172000
+C33015,B193,True,C33015,Keri Hilson,I Like,,,2010,217933,B193,AlienPark,I Like,Mothership EP,notExplicit,2017,269000
+C2129,B196,True,C2129,The Prodigy,Breathe,,,1997,334800,B196,FKA twigs,Breathe,EP1,notExplicit,2012,257000
+C155,B202,True,C155,Kings of Leon,Closer,,,2008,237480,B202,Stereo Productions presents,Closer,Miami Music Conference Sampler 2010,notExplicit,2010,430000
+C6736,B211,True,C6736,Sister Sledge,We Are Family,,,2010,408840,B211,Ultimate Party Mixers,We Are Family,Ultimate Party Mix,notExplicit,2006,222000
+C2607,B214,True,C2607,London Grammar,Strong,,,2015,275084,B214,TRP.P,Strong,Strong,Explicit,2022,216000
+C42183,B215,True,C42183,Robby Roadsteamer,Banana,,,2006,140920,B215,Real Jay,Banana,Sinalibamba,notExplicit,2022,275000
+C5325,B219,True,C5325,Razorlight,Golden Touch,,,2004,205306,B219,Araabmuzik,Golden Touch,Electronic Dream (Deluxe Edition),notExplicit,2011,229000
+C1175,B227,True,C1175,Bryan Adams,Heaven,,,1993,243866,B227,Cappadonna,Heaven,Ear Candy,Explicit,2018,333000
+C23725,B231,True,C23725,Bob Dylan,You're No Good,,,2014,95113,B231,Ritchie,You're No Good,60,notExplicit,2012,135000
+C21299,B234,True,C21299,My Morning Jacket,Rocket Man,,,2004,299826,B234,Iron Horse,Rocket Man,Bluegrass Tribute to Classic Rock,notExplicit,2007,295000
+C48926,B245,True,C48926,Blutengel,In the Distance,,,2004,305120,B245,Deep Sleep Music Collective,In the Distance,"Totally Relaxed Mix - Soft and Soothing Relaxation Melodies for Complete Deep Sleep, Stress & Anxiety Relief and Total Study Focus",notExplicit,2017,143000
+C517,B250,True,C517,Alice Cooper,Poison,,,2001,267306,B250,Louie Rankin,Poison,Showdown,notExplicit,1992,243000
+C560,B262,True,C560,Kings of Leon,I Want You,,,2008,307453,B262,PJ & Duncan,I Want You,PSYCHE,notExplicit,2013,270000
+C13414,B269,True,C13414,Hoobastank,Let It Out,,,2003,198226,B269,Parabelle,Let It Out,Air,notExplicit,2013,222000
+C4902,B270,True,C4902,The Dandy Warhols,Heavenly,,,2009,200560,B270,Little Boots,Heavenly,Tomorrow's Yesterdays,notExplicit,2022,225000
+C574,B273,True,C574,System of a Down,Forest,,,2001,240106,B273,Duvy,Forest,How Did I End Up Here (Deluxe),Explicit,2023,166000
+C31734,B274,True,C31734,A Place to Bury Strangers,I Know I'll See You,,,2007,246712,B274,A Place To Bury Strangers,I Know I'll See You,A Place to Bury Strangers,notExplicit,2007,247000
+C21133,B276,True,C21133,Prince,Uptown,,,1980,332240,B276,Minako Yoshida,Uptown,TWILIGHT ZONE,notExplicit,1977,232000
+C2129,B277,True,C2129,The Prodigy,Breathe,,,1997,334800,B277,Pink Floyd,Breathe,Pulse (Live),notExplicit,1995,154000
+C6649,B279,True,C6649,Blondie,Sunday Girl,,,2012,191786,B279,HOA,Sunday Girl,I Don't Know Why,notExplicit,2024,176000
+C155,B281,True,C155,Kings of Leon,Closer,,,2008,237480,B281,Zamy Baumüller,Closer,Forward,notExplicit,2017,241000
+C612,B285,True,C612,System of a Down,Psycho,,,2001,225893,B285,Nightmare.mm,Psycho,Our History,Explicit,2023,251000
+C2094,B287,True,C2094,Kanye West,Stronger,,,2007,311866,B287,Gloria Gaynor,Stronger,I Wish You Love,notExplicit,2002,198000
+C520,B290,True,C520,30 Seconds to Mars,Attack,,,2005,188186,B290,Jerry Goldsmith,Attack,In Harm's Way,notExplicit,2010,127000
+C5546,B303,True,C5546,James Bay,Let It Go,,,2016,260413,B303,Karl Sapp,Let It Go,I Don't Drink No More,notExplicit,2010,159000
+C38538,B311,True,C38538,Gregory Alan Isakov,Second Chances,,,2013,229226,B311,Michele McLaughlin,Second Chances,Elysium,notExplicit,2001,198000
+C155,B312,True,C155,Kings of Leon,Closer,,,2008,237480,B312,Barış Çakır,Closer,Closer,notExplicit,2022,138000
+C9215,B314,True,C9215,Ray Charles,Lonely Avenue,,,2008,154200,B314,Cletus Eazy Drake and the Fire Trap,Lonely Avenue,Take Care of the New Rap Beats,notExplicit,2016,139000
+C39592,B324,True,C39592,New Found Glory,When I Die,,,2006,222373,B324,The King Blues,When I Die,38 Minutes,notExplicit,2019,179000
+C13414,B334,True,C13414,Hoobastank,Let It Out,,,2003,198226,B334,Warwick Avenue,Let It Out,Let It Out,notExplicit,2005,281000
+C6399,B339,True,C6399,Everlast,What It's Like,,,2006,302320,B339,Ronald-V,What It's Like,Harderz 2013 (Super Hard Bass Mixed By Ronald-V),notExplicit,2013,244000
+C17026,B350,True,C17026,Modern Talking,"You're My Heart, You're My Soul",,,2013,210360,B350,Disco Fever,"You're My Heart, You're My Soul",200 Mega Super Hits (70-80-90-2000),notExplicit,2017,237000
+C15261,B353,True,C15261,Velvet Revolver,Let It Roll,,,2007,152440,B353,Little Feat,Let It Roll,Let It Roll,notExplicit,1988,271000
+C299,B360,True,C299,Maroon 5,Sunday Morning,,,2017,241466,B360,Franz Scheurer,Sunday Morning,Time Pieces,notExplicit,2023,257000
+C29894,B363,True,C29894,Vanessa Carlton,Pretty Baby,,,2002,247040,B363,See Spot,Pretty Baby,The Robbery,notExplicit,2008,194000
+C6251,B373,True,C6251,Akon,Lonely,,,2014,234573,B373,Big Kuza,Lonely,Hurricane Season,Explicit,2019,239000
+C42115,B83555,False,C42115,Santa Sabina,Lamento,,,2011,292000,B83555,Levi7as,Lamentos,Calor Y Sombra,notExplicit,2020,198000
+C27065,B84231,False,C27065,Die Toten Hosen,Paradies,,,1996,248293,B84231,Phillip Cuccias,Parades,Horizons,notExplicit,2020,194000
+C43945,B85372,False,C43945,Kult,Marianna,,,1996,223386,B85372,LA BOVEDA RD,Mariana,Mariana,notExplicit,2023,142000
+C43945,B85645,False,C43945,Kult,Marianna,,,1996,223386,B85645,Kyle Preston,Mariana,Mariana,notExplicit,2023,282000
+C43945,B85891,False,C43945,Kult,Marianna,,,1996,223386,B85891,Primeira Dama,Mariana,Primeira Dama,notExplicit,2017,203000
+C42115,B86005,False,C42115,Santa Sabina,Lamento,,,2011,292000,B86005,"Roney Marczak, Christian Ruvolo",Lamentos,"Descobertas II (Música Brasileira, Arr. for Violin and Piano)",notExplicit,2001,186000
+C43945,B86722,False,C43945,Kult,Marianna,,,1996,223386,B86722,Michel Admette,Mariana,La musique du séga (feat. Les Brigands 2000),notExplicit,2010,273000
+C6248,B86750,False,C6248,Shawn Mendes,Stitches,,,2016,207426,B86750,Ceolulglizzy,Switches,Switches,Explicit,2023,176000
+C6248,B86819,False,C6248,Shawn Mendes,Stitches,,,2016,207426,B86819,MBG BabyJo,Switches,FREE DA BROS,Explicit,2024,106000
+C17066,B87047,False,C17066,Michael Jackson,Get on the Floor,,,1979,277640,B87047,Ice,Get On The Floor,ICE Complete Singles,notExplicit,2023,315000
+C43945,B87107,False,C43945,Kult,Marianna,,,1996,223386,B87107,Moreno & L'Orchestra First Moja One,Mariana,Sister Pili,notExplicit,1977,543000
+C43945,B87212,False,C43945,Kult,Marianna,,,1996,223386,B87212,"Augusto Moreira, Carmo de Famalicão, Adilia Ribeiro",Mariana,Cantares ao Desafio / Casa Comigo,notExplicit,2019,179000
+C1046,B87223,False,C1046,System of a Down,Spiders,,,2000,216333,B87223,Mendoza,Spiders!,The Last Dragon,notExplicit,2008,257000
+C6248,B87825,False,C6248,Shawn Mendes,Stitches,,,2016,207426,B87825,CTG DayDay,Switches,Streets Love DayDay,Explicit,2022,148000
+C46359,B88656,False,C46359,Sublime with Rome,Murdera,,,2011,266386,B88656,Bizzy Bone,Murderah,Busy Bones - [The Dave Cash Collection],Explicit,2011,217000
+C22194,B88905,True,C22194,Jadakiss,Things I've Been Through,,,2013,160548,B88905,Lil Rue,Things I Been Through,Codeine Confessions,Explicit,2016,121000
+C17066,B89124,True,C17066,Michael Jackson,Get on the Floor,,,1979,277640,B89124,T-Groove,Get On The Floor,Get On The Floor,notExplicit,2018,363000
+C25109,B89451,False,C25109,Element Eighty,Victims,,,2006,176013,B89451,Diferentes Actitudes Juveniles,Victimas,Realidad Virtual,notExplicit,1993,82000
+C43945,B90586,False,C43945,Kult,Marianna,,,1996,223386,B90586,Paulo Márcio,Mariana,Experimente Me Deixar,notExplicit,2017,222000
+C43945,B90679,False,C43945,Kult,Marianna,,,1996,223386,B90679,Javier Torres,Mariana,Exclusivo,notExplicit,2018,313000
+C17066,B90796,True,C17066,Michael Jackson,Get on the Floor,,,1979,277640,B90796,Sidney Samson,Get On The Floor,Get On The Floor,notExplicit,2009,272000
+C26804,B91377,True,C26804,Rush,Emotion Detector,,,1985,311133,B91377,TRS-80,Motion Detector,Volume One,Explicit,2013,307000
+C9217,B3382,True,C9217,Louis Armstrong,On The Sunny Side Of The Street,,,2013,179426,B3382,David Leonhardt,On the sunny Side of the Street,Tap Music For Tap Dancers Vol. 1 Swingin' Tappin' and Jammin',notExplicit,1999,217000
+C6228,B33291,True,C6228,Stevie Wonder,I Just Called to Say I Love You,,,2002,261773,B33291,Manuel Alejandro,I Just Call To say I Love You,Love Story Romanticas Instrumentales,notExplicit,2018,230000
+C15557,B46142,True,C15557,Ennio Morricone,"The Good, the Bad and the Ugly",,,2009,165400,B46142,John Morgan Orquesta,"The Good, The Bad, And The Ugly",El Cine Del Oeste,notExplicit,2006,181000
+C33055,B57494,False,C33055,Billy Currington,Must Be Doin' Somethin' Right,,,2013,271093,B57494,The Knickerbockers,I Must Be Doing Something Right,The Hits - Volume 1 & Volume 2,notExplicit,2008,160000
+C33312,B8244,True,C33312,Johnny Cash,If I Were A Carpenter,,,2011,138013,B8244,Jody Miller,If You Were A Carpenter,The Best Of Jody Miller,notExplicit,2016,143000
+C42410,B18020,False,C42410,The Kills,I Hate the Way You Love,,,2005,217946,B18020,Betty Wright,I Love the Way You Love,Clean up Woman,notExplicit,2017,182000
+C14828,B24436,False,C14828,Taio Cruz,I'll Never Love Again,,,2010,229638,B24436,Na Hoon-A,I Will Never Love Again,Na Hoon-A Cabaret Dance Party Vol. 1,notExplicit,1998,155000
+C36180,B28484,True,C36180,The Paris Sisters,I Love How You Love Me,,,2013,126458,B28484,Anthony Quinn,"I Love You, You Love Me",In My Own Way.. I Love You,notExplicit,2011,152000
+C6761,B28728,False,C6761,Carole King,I Feel the Earth Move,,,1978,180733,B28728,ApologetiX,I Feel the Earth Proves,Very Vicarious,notExplicit,2017,180000
+C36180,B32580,False,C36180,The Paris Sisters,I Love How You Love Me,,,2013,126458,B32580,The Temprees,"I Love You, You Love Me",Dedicated To The One I Love,notExplicit,1994,242000
+C10070,B32858,False,C10070,Bon Jovi,I'll Be There For You,,,1988,346573,B32858,Jessica Andrews,I Will Be There For You,Heart Shaped World,notExplicit,1999,203000
+C19421,B49749,False,C19421,God Forbid,The End of the World,,,2005,369066,B49749,Lars Jansson Trio,To the End of the World,Green Moss Black Sand,notExplicit,2017,396000
+C42691,B51081,False,C42691,Dragonland,To The End Of The World,,,2004,280973,B51081,Johnny Reid,To The End Of The Road,Kicking Stones,notExplicit,2007,175000
+C25630,B67043,True,C25630,Spiritualized,Get What You Deserve,,,2012,406986,B67043,Pleasure Venom,We Get What You Deserve,We Get What You Deserve,Explicit,2021,134000
+C13868,B74557,True,C13868,Patti Smith,Gloria: In Excelsis Deo,,,1975,421000,B74557,Amsterdam Baroque Orchestra,Gloria in excelsis Deo,Kerstspel,notExplicit,2017,123000
+C20855,B78528,True,C20855,The Temptations,I Wish It Would Rain,,,2008,165746,B78528,Susan McCann,I Wish It Would It Rain,After All This Time,notExplicit,2024,187000
+C23039,B78591,True,C23039,Mike Doughty,Looking At The World From The Bottom Of A Well,,,2012,270346,B78591,Mike Doughty,Looking at the World from the Bottom of a Well,The Question Jar Show,notExplicit,2012,271000
+C13868,B78894,True,C13868,Patti Smith,Gloria: In Excelsis Deo,,,1975,421000,B78894,Monteverdi Choir,Gloria in excelsis Deo,"Once, as I remember...",notExplicit,1998,127000
+C37613,B79009,True,C37613,Pearl Jam,All Those Yesterdays,,,1998,460853,B79009,Ernest Tubb,All of Those Yesterdays,The Legend and the Legacy,notExplicit,2022,156000
+C13868,B82853,True,C13868,Patti Smith,Gloria: In Excelsis Deo,,,1975,421000,B82853,Ensemble Organum,Gloria in excelsis Deo,Chant Corse (Manuscrits Franciscains),notExplicit,1993,225000
+C32012,B90181,True,C32012,George Harrison,Behind That Locked Door,,,2012,209066,B90181,Dennis Farnon,Behind the Locked Door,Kpm 1000 Series: A Fear of the Dark,notExplicit,1979,183000
+C9981,B96381,False,C9981,Nina Simone,You'll Never Walk Alone,,,2013,227333,B96381,Atli Örvarsson,You'll Never Fly Alone,"Ploey, You Never Fly Alone (Original Motion Picture Soundtrack) (L'envol de Ploé)",notExplicit,2018,185000
+C875,B493,False,C875,Jack Johnson,Do You Remember,,,2005,144013,B493,Night Shop,If You Remember,In the Break,notExplicit,2018,209000
+C42148,B1091,False,C42148,Idle Sons,Little Bit Less,,,2006,209706,B1091,lisawanderlust,Little Bit Lost,Little Bit Lost,notExplicit,2023,127000
+C17092,B1372,True,C17092,Britney Spears,Heaven on Earth,,,2007,292693,B1372,Ebonie Gipson & the Imagine Nation Band,Heaven to Earth,I'm Building Something (The Mixtape),notExplicit,2016,405000
+C16836,B1880,False,C16836,Nick Cave & The Bad Seeds,Do You Love Me?,,,2012,354826,B1880,Baby.com,Do You Like Me?,Tick Tock,Explicit,2019,145000
+C27664,B2421,False,C27664,Isaiah Rashad,Heavenly Father,,,2014,260632,B2421,Pip Millett,Heavenly Mother,Lost In June - EP,Explicit,2020,240000
+C39768,B2757,False,C39768,Ulver,We Are the Dead,,,2000,220986,B2757,Daemus Moon,We Are the Beat,Magnum,notExplicit,2019,137000
+C35061,B3057,False,C35061,All Time Low,Forget About It,,,2016,176506,B3057,Trevor Jackson,Forget About Me,It's Complicated,Explicit,2024,177000
+C7721,B3152,True,C7721,Iron Maiden,Heaven Can Wait,,,1986,440800,B3152,Luciano Pavarotti,Heaven can wait,Pavarotti & Friends Together For The Children Of Bosnia,notExplicit,2007,322000
+C17118,B4040,False,C17118,Patrice Rushen,Forget Me Nots,,,2013,283080,B4040,HONNE,Forget Me Not ◐,Love Me / Love Me Not,notExplicit,2018,174000
+C1647,B4605,False,C1647,Hinder,Better Than Me,,,2007,222426,B4605,Tyrese,Better Than Sex,Alter Ego,notExplicit,2006,266000
+C17308,B7077,True,C17308,Jamiroquai,You Are My Love,,,1993,233600,B7077,Gabriel Antonio,You're My Love,All Night Long,notExplicit,2020,270000
+C35061,B7766,False,C35061,All Time Low,Forget About It,,,2016,176506,B7766,Buunshin,Forget About Me,Forget About Me,notExplicit,2022,187000
+C642,B7825,False,C642,R.E.M.,Man on the Moon,,,2014,307106,B7825,Keith Mansfield,Man on the Move,The Kpm 1000 Series - Volume 2,notExplicit,2006,152000
+C33287,B8112,False,C33287,Clint Black,Like The Rain,,,2003,261066,B8112,Tiffany,I Like The Rain,Shadows,notExplicit,2022,199000
+C17308,B8984,True,C17308,Jamiroquai,You Are My Love,,,1993,233600,B8984,Choi Sung Soo,You're My Love,Choi Sung Soo Vol. 7,notExplicit,1997,229000
+C25308,B10745,True,C25308,Foxygen,In The Darkness,,,2013,119986,B10745,"""Tito"" De Gracia Y Su Naoka Jam",In the Darknes,Atmosphere,notExplicit,2007,33000
+C21049,B10774,False,C21049,Brownstone,If You Love Me,,,1998,298773,B10774,Jars of Clay,If You Love Her,20,notExplicit,2014,244000
+C29433,B10907,False,C29433,Kaskade,I Like The Way,,,2008,220106,B10907,Savella,I Like This Way,Learning to Feel,notExplicit,2023,172000
+C6310,B11071,True,C6310,Madonna,Into the Groove,,,2014,242195,B11071,Roberto Restuccia,In the Groove,Exposure,notExplicit,2016,189000
+C32617,B6128,False,C32617,The Beach Boys,You're So Good to Me,,,2012,135800,B6128,Giorgio Gee,You're No Good for Me,You're No Good for Me,notExplicit,2021,126000
+C7718,B6626,False,C7718,Iron Maiden,Killers,,,1981,301800,B6626,Mini Thin,Killerz,White Trash Inc. Mixtape,Explicit,2016,242000
+C20500,B6685,False,C20500,Avenged Sevenfold,Planets,,,2013,356306,B6685,Pan-Pot,Planet9,Keid,notExplicit,2020,467000
+C30125,B7018,False,C30125,Bob Marley & The Wailers,Africa Unite,,,2002,175133,B7018,Luciano,Africans Unite,Luciano Selects Reggae,notExplicit,2019,266000
+C39452,B7064,False,C39452,Stereophonics,You're My Star,,,2008,269880,B7064,Skeletonprince,You're a Star,You're a Star,notExplicit,2022,149000
+C43429,B7204,False,C43429,Adema,Do You Hear Me,,,2003,206706,B7204,Ghinzu,Do You Read Me,Blow,notExplicit,2004,258000
+C20500,B7227,False,C20500,Avenged Sevenfold,Planets,,,2013,356306,B7227,Wesome,Planeta,Planeta,Explicit,2019,165000
+C36393,B7332,True,C36393,The Coral,In The Forest,,,2003,159853,B7332,Jo Jones,In the Forrest,They Can't Take That Away from Me,notExplicit,2018,160000
+C1677,B7345,False,C1677,Santana,Smooth,,,1999,243026,B7345,Nu Jazz,Smoothe,"Cool, Acid & Nu Jazz – Jazz Music for Dinner Party, Cocktails and Drinks",notExplicit,2016,344000
+C28396,B7770,True,C28396,The Waitresses,I Know What Boys Like,,,2009,191213,B7770,Dan Baird,I Know What It's Like,Dan Baird and Homemade Sin,notExplicit,2008,322000
+C6565,B657,True,C6565,Ed Sheeran,Galway Girl,,,2017,170826,B657,The Punters,Galway Girl,Certified Trad Music,notExplicit,2010,183000
+C560,B658,True,C560,Kings of Leon,I Want You,,,2008,307453,B658,Third Eye Blind,I Want You,The Third Eye Blind Collection,notExplicit,2013,270000
+C16987,B660,True,C16987,The Contours,Do You Love Me,,,2014,174173,B660,The Jets,Do You Love Me,Classic Collection,notExplicit,1999,166000
+C31,B668,True,C31,The Cranberries,Zombie,,,2007,307400,B668,Floral Bugs,Zombie,Nowa Sztuka,Explicit,2020,234000
+C2182,B670,True,C2182,Britney Spears,Circus,,,2009,191973,B670,Deep House,Circus,Tropical Sunset,notExplicit,2022,162000
+C1973,B679,True,C1973,Elvis Presley,In the Ghetto,,,2013,177266,B679,Johnny Lee,In the Ghetto,Johnny Lee,notExplicit,2023,141000
+C47202,B686,True,C47202,Trentemøller,African People,,,2009,403506,B686,Skin Flesh & Bones,African People,Fighting Dub,notExplicit,1975,186000
+C15203,B691,True,C15203,Shinedown,If You Only Knew,,,2008,226640,B691,Sophie Chassée,If You Only Knew,Lesson Learned,notExplicit,2021,320000
+C27878,B693,True,C27878,Isaac Hayes,By the Time I Get to Phoenix,,,1995,414733,B693,Roger Miller,By the Time I Get to Phoenix,Gentle on My Mind,notExplicit,2012,152000
+C23668,B701,True,C23668,Chris Rea,On the Beach,,,1988,410560,B701,Smooth Jazz Music Club,On the Beach,15 Best Trumpet Melodies - Brilliant Variations of Instrumental Jazz for Special Occasion,notExplicit,2020,180000
+C7718,B704,True,C7718,Iron Maiden,Killers,,,1981,301800,B704,Defiance,Killers,Void Terra Firma,notExplicit,1990,283000
+C5975,B707,True,C5975,She & Him,In the Sun,,,2010,173693,B707,Joseph Arthur,In the Sun,Come to Where I'm From (Real World Gold),notExplicit,2000,337000
+C157,B708,True,C157,Foo Fighters,All My Life,,,2009,263560,B708,Victor J Sefo,All My Life,All My Life,notExplicit,2019,192000
+C32613,B715,True,C32613,Johnny Burnette,You're Sixteen,,,2011,119666,B715,The Studio Group,You're Sixteen,Valentine's Ballads of the 70's,notExplicit,2013,136000
+C21180,B718,True,C21180,D'Angelo,Africa,,,2000,373640,B718,African China,Africa,"African China: The Hits, Vol.2",notExplicit,2020,317000
+C2904,B719,True,C2904,Alice Deejay,Better Off Alone,,,2014,215246,B719,Kai Wachi,Better Off Alone,SKINS,notExplicit,2022,292000
+C3627,B723,True,C3627,Cut Copy,Future,,,2004,312040,B723,Lizette Lizette,Future,Queerbody,notExplicit,2018,223000
+C3708,B732,True,C3708,Olive,You're Not Alone,,,2013,260000,B732,DJ BoBo,You're Not Alone,Evolut30n (Evolution),notExplicit,2022,191000
+C2129,B736,True,C2129,The Prodigy,Breathe,,,1997,334800,B736,The Silver,Breathe,Ward of Roses,notExplicit,2021,302000
+C151,B738,True,C151,Jack Johnson,Better Together,,,2006,207693,B738,Acoustic Heartstrings,Better Together,Acoustic Guitar Renditions of Jack Johnson,notExplicit,2018,245000
+C20705,B741,True,C20705,Sly & The Family Stone,Family Affair,,,2013,183333,B741,Lo Cutz,Family Affair,Family Affair,notExplicit,2021,170000
+C6180,B742,True,C6180,Sade,Smooth Operator,,,1995,297800,B742,Parris Chariz,Smooth Operator,2045,notExplicit,2020,164000
+C6180,B747,True,C6180,Sade,Smooth Operator,,,1995,297800,B747,Luke Madness,Smooth Operator,Smooth Operator,notExplicit,2023,157000
+C2982,B748,True,C2982,Death from Above 1979,Little Girl,,,2014,240080,B748,Cleavage,Little Girl,15 Gets Ya 20,notExplicit,2013,170000
+C381,B754,True,C381,Alanis Morissette,Ironic,,,2013,238634,B754,Pinky Dread,Ironic,Sunset Vibes,notExplicit,2021,213000
+C31,B755,True,C31,The Cranberries,Zombie,,,2007,307400,B755,Stoneman,Zombie,Belgiumaïca,notExplicit,2022,236000
+C29301,B759,True,C29301,Scooter,Take a Break,,,2003,255600,B759,Chakra Meditation Specialists,Take a Break,Buddhist Meditation Masterpieces,notExplicit,2020,111000
+C139,B761,True,C139,The Beatles,Let It Be,,,2012,236133,B761,The Hoppers,Let It Be,Let It Be,notExplicit,2021,219000
+C28111,B765,True,C28111,Rufus,Do You Love What You Feel,,,2000,267760,B765,Rufus,Do You Love What You Feel,Masterjam,notExplicit,1979,270000
+C32613,B774,True,C32613,Johnny Burnette,You're Sixteen,,,2011,119666,B774,Johnny Cymbal,You're Sixteen,The Essential Johnny Cymbal,notExplicit,2013,117000
+C2484,B781,True,C2484,Frou Frou,Breathe In,,,2002,277333,B781,Blori,Breathe In,Breathe In (Remix),notExplicit,2022,107000
+C4031,B782,True,C4031,Brand New,Secondary,,,2001,181280,B782,Brand New,Secondary,Your Favorite Weapon (Deluxe Edition),notExplicit,2001,189000
+C8749,B791,True,C8749,Frank Sinatra,Let It Snow! Let It Snow! Let It Snow!,,,2012,158000,B791,Kids Christmas Music Players,Let It Snow! Let It Snow! Let It Snow!,Kids Christmas - Santa's Children,notExplicit,2011,107000
+C21180,B793,True,C21180,D'Angelo,Africa,,,2000,373640,B793,Burt Blanca,Africa,Magic Guitars,notExplicit,1998,164000
+C32557,B795,True,C32557,The Diamonds,Little Darlin',,,2009,131665,B795,The Cedar Walton Trio,Little Darlin',Blues For Myself (Piano Solo),notExplicit,2008,325000
+C875,B806,True,C875,Jack Johnson,Do You Remember,,,2005,144013,B806,A1,Do You Remember,Make It Good,notExplicit,2002,183000
+C313,B809,True,C313,Sum 41,In Too Deep,,,2010,206493,B809,Future Palace,In Too Deep,Distortion,notExplicit,2024,219000
+C23722,B812,True,C23722,Woody Guthrie,Pretty Boy Floyd,,,2013,188000,B812,Woody Guthrie,Pretty Boy Floyd,The Father Of American Folk (Hd Remastered Edition),notExplicit,2018,191000
+C6251,B813,True,C6251,Akon,Lonely,,,2014,234573,B813,Jasmine Tingchu,Lonely,Not Your Puppet,Explicit,2009,248000
+C650,B821,True,C650,Breaking Benjamin,Breath,,,2011,218466,B821,Breaking Benjamin,Breath,Phobia (Clean Version),notExplicit,2006,219000
+C517,B833,True,C517,Alice Cooper,Poison,,,2001,267306,B833,Kashovski,Poison,Poison,notExplicit,2022,349000
+C601,B861,True,C601,Sum 41,Pieces,,,2008,181600,B861,Yannick Bovy,Pieces,All The Way,notExplicit,2014,257000
+C7193,B885,True,C7193,Ella Fitzgerald,Summertime,,,2011,255033,B885,MAR MEJÍA,Summertime,Summertime,notExplicit,2019,173000
+C17369,B887,True,C17369,The Smiths,London,,,1987,126933,B887,N-Dubz,London,Timeless,Explicit,2023,214000
+C2220,B890,True,C2220,Calvin Harris,Summer,,,2014,219706,B890,Skinshape,Summer,Oracolo,notExplicit,0,270000
+C369,B892,True,C369,Pink Floyd,On the Run,,,1973,225384,B892,Yonder Mountain String Band,On the Run,Elevation,notExplicit,1999,230000
+C7193,B895,True,C7193,Ella Fitzgerald,Summertime,,,2011,255033,B895,Herbie Hancock,Summertime,Gershwin's World,notExplicit,1998,282000
+C535,B908,True,C535,Coldplay,What If,,,2005,298519,B908,Praagya,What If,What If,notExplicit,2020,197000
+C5546,B913,True,C5546,James Bay,Let It Go,,,2016,260413,B913,D-Block,Let It Go,D-Block CD Mixtape,notExplicit,2006,196000
+C39762,B19994,False,C39762,jj,Things Will Never Be the Same Again,,,2009,214333,B19994,Maranatha! Praise Band,I Will Never Be (The Same Again),Praise 19 - Glorious Father,notExplicit,1999,255000
+C39762,B86538,False,C39762,jj,Things Will Never Be the Same Again,,,2009,214333,B86538,Spacemen 3,Things'll Never Be the Same (Live),Live In Europe 1989,notExplicit,1995,338000
+C3726,B9684,False,C3726,Wilco,I Am Trying to Break Your Heart,,,2014,417413,B9684,The Busters,I Want to Break Your Heart,Make a Move,notExplicit,1999,281000
+C21092,B16680,False,C21092,Muddy Waters,I Just Want To Make Love To You,,,2013,167471,B16680,Charles Brown,I Just Want To Talk To You,I Just Want To Talk To You,notExplicit,1977,191000
+C32513,B44328,False,C32513,Jay & The Americans,Come A Little Bit Closer,,,2013,168492,B44328,Los Pacaminos,Come a Little Bit Closer (Live),Viva (Live),notExplicit,2018,206000
+C36114,B69684,False,C36114,Todd Rundgren,Can We Still Be Friends,,,2001,213960,B69684,Todd Rundgren,Can We Still Be Friends? (Live),Saban Theatre 2016 (Live),notExplicit,2019,222000
+C33050,B78683,False,C33050,Craig Morgan,That's What I Love About Sunday,,,2013,197746,B78683,Jessy Dixon,That's What I Like About Jesus,In the Right Hands - Chicago Gospel Keyboard Pioneers,notExplicit,2004,167000
+C43731,B85086,False,C43731,Nickelback,What Are You Waiting For?,,,2015,221440,B85086,PierreG ASMR,What Are You Waiting to Tingle?,200 Asmr Triggers in 6 Minutes,notExplicit,2023,59000
+C20692,B1215,False,C20692,Wilson Pickett,In the Midnight Hour,,,2010,157160,B1215,Wolfman Jack,In the Midnight Hour (Live),In the Midnight Hour,notExplicit,2015,161000
+C10268,B5589,False,C10268,13th Floor Elevators,You're Gonna Miss Me,,,2010,146533,B5589,Roky Erickson,You're Gonna Miss Me (Live),Halloween Live 1979-81,notExplicit,2008,251000
+C396,B6347,False,C396,U2,Sunday Bloody Sunday,,,1998,281866,B6347,U2,Sunday Bloody Sunday (Live),The Joshua Tree (Deluxe),notExplicit,1987,254000
+C6822,B9572,False,C6822,Amy Winehouse,You're Wondering Now,,,2007,150173,B9572,The Specials,You're Wondering Now (Live),More... Or Less: The Specials Live,notExplicit,2012,191000
+C36210,B13201,False,C36210,The Temptations,You're My Everything,,,2008,176013,B13201,Steve Ireson,I Know You're My Everything,Elemental,notExplicit,2018,104000
+C10268,B14188,False,C10268,13th Floor Elevators,You're Gonna Miss Me,,,2010,146533,B14188,13th Floor Elevators,You're Gonna Miss Me - Live,Easter Everywhere,notExplicit,2006,144000
+C48236,B15726,False,C48236,Scuba,So You Think You're Special,,,2013,307879,B15726,DAMEFRISØR,Do You Think I'm Special?,Do You Think I'm Special?,notExplicit,2021,286000
+C24759,B22058,False,C24759,Backstreet Boys,I'll Never Break Your Heart,,,2003,288946,B22058,Sami Moh,I Will Not Break Your Heart,Dance,notExplicit,2023,185000
+C3319,B25977,False,C3319,Rita Ora,I Will Never Let You Down,,,2014,202482,B25977,Leæther Strip,I Will Never Hurt You Again,Ængelmaker,notExplicit,2009,370000
+C23761,B27162,False,C23761,Buddy Guy,Let Me Love You Baby,,,2012,175080,B27162,Buddy Guy,"Let Me Love You Baby, Pt. 2","All Blues, Buddy Guy, Vol. 2",notExplicit,2017,173000
+C23761,B27733,False,C23761,Buddy Guy,Let Me Love You Baby,,,2012,175080,B27733,Joe Bonamassa,Let Me Love You Baby (Live),British Blues Explosion Live,notExplicit,2018,336000
+C17638,B29923,False,C17638,Genesis,Follow You Follow Me,,,1978,239666,B29923,Daryl Stuermer,Follow You Follow Me (4:28),The Nylon String Sampler,notExplicit,2005,271000
+C6942,B30154,False,C6942,Britney Spears,I Love Rock 'N' Roll,,,2002,185440,B30154,Joan Jett & The Blackhearts,I Love Rock 'N' Roll (Live),"The Bottom Line, New York, December 27th, 1980 (Doxy Collection, Remastered, Live on Fm Broadcasting)",notExplicit,2015,270000
+C10118,B31238,False,C10118,Bob Dylan,Simple Twist of Fate,,,1975,257626,B31238,Emma Swift,Simple Twist of Fate (Live),Blonde On The Tracks (Deluxe Edition),notExplicit,2020,263000
+C30516,B33194,False,C30516,Black Uhuru,I Love King Selassie,,,1991,270640,B33194,Black Uhuru,I Love King Selassie (Live),Growing In My Backyard,notExplicit,2022,417000
+C9813,B34280,False,C9813,Stacey Kent,In The Still Of The Night,,,1999,308266,B34280,Of the Wand & the Moon,In The Colours Of The Night,Nighttime Nightrhymes (2010 Re-release),notExplicit,1999,218000
+C21715,B51055,False,C21715,Sarah Brightman,It's A Beautiful Day,,,2003,236440,B51055,Sarah Brightman,It's A Beautiful Day (Live),The Harem World Tour: Live From Las Vegas (Live),notExplicit,2004,267000
+C28109,B52722,False,C28109,Pretty Lights,Change Is Gonna Come,,,2008,371214,B52722,Mike Farris,Change Is Gonna Come (Live),Live from Westlake Studio B,notExplicit,2009,206000
+C7455,B55061,False,C7455,Slayer,Seasons In The Abyss,,,2003,404386,B55061,Slayer,Seasons In The Abyss (Live),Damnation's Edge,Explicit,2022,367000
+C49810,B58217,False,C49810,Primordial,To The Ends Of The Earth,,,2009,329813,B58217,Geodesium,To The Ends Of The Universe,Fourth Universe,notExplicit,1992,185000
+C1302,B62271,False,C1302,P!nk,Please Don't Leave Me,,,2009,231826,B62271,Holly Humberstone,Please Don't Leave Just Yet,Please Don't Leave Just Yet,Explicit,2021,230000
+C1563,B62336,False,C1563,Roxette,Listen to Your Heart,,,2011,327179,B62336,Frank McComb,Listen to Your Heart (Live),20 Years of Love Stories,notExplicit,2020,325000
+C32675,B66950,False,C32675,The Mamas & the Papas,Look Through My Window,,,1999,188493,B66950,The Jackson 5  ,Lookin' Through The Windows,Lookin' Through The Windows,notExplicit,1972,224000
+C32675,B71929,False,C32675,The Mamas & the Papas,Look Through My Window,,,1999,188493,B71929,Tiffany,Lookin' Through The Windows,Dreams Never Die - 2005,notExplicit,1993,236000
+C1958,B79288,False,C1958,Leonard Cohen,Famous Blue Raincoat,,,1971,310533,B79288,Flip Noorman,Famous Blue Raincoat (Live),Flip Noorman Zingt Leonard Cohen: Live Vanuit De Kleine Komedie,notExplicit,2020,328000
+C17433,B88325,False,C17433,Howard Jones,Things Can Only Get Better,,,2017,236466,B88325,Zak Williams & 1Akord,Things Are Gonna Get Better,Things Are Gonna Get Better,notExplicit,2010,269000
+C9426,B32600,False,C9426,Bessie Smith,Nobody Knows You When You're Down and Out,,,2010,178880,B32600,Carrie Smith,Nobody Wants You When You're Down and Out (Take 1),"When You're Down and Out [The Definitive Black & Blue Sessions] (feat. George Kelly, Ram Ramirez, Billy Butler & Al Hall)",notExplicit,2008,190000
+C25065,B222,False,C25065,HORSE the band,In the Wake of the Bunt,,,2003,257973,B222,Invisible Vibes,In the Gaze of the Wolf,In the Gaze of the Wolf,notExplicit,2024,216000
+C35429,B388,False,C35429,Tiamat,Do You Dream Of Me?,,,1994,306813,B388,Beverly Willis Jennie,Do You Ever Dream Of Me,Lover Come Back To Me,notExplicit,2020,125000
+C36194,B533,False,C36194,Shakin' Stevens,You Drive Me Crazy,,,1984,168306,B533,Django Reinhardt,You're Driving Me Crazy,"Django, Golden Classics",notExplicit,2020,178000
+C36504,B817,False,C36504,The Alan Parsons Project,You Don't Believe,,,2003,265933,B817,Stathis Koukoularis,If You Don't Believe Me,Magiatiko,notExplicit,2019,278000
+C37241,B1982,False,C37241,Great Good Fine OK,You're the One for Me,,,2013,230937,B1982,Masked Intruder,You're the One to Blame,M.I.,notExplicit,2014,157000
+C36194,B3339,False,C36194,Shakin' Stevens,You Drive Me Crazy,,,1984,168306,B3339,Bonita & the Blues Shacks,You're Driving Me Crazy,Bonita & The Blues Shacks,notExplicit,2015,160000
+C42410,B6121,False,C42410,The Kills,I Hate the Way You Love,,,2005,217946,B6121,Ryo Kawasaki,I Like the Way You Are,Sweet Life,notExplicit,2020,320000
+C36194,B6860,False,C36194,Shakin' Stevens,You Drive Me Crazy,,,1984,168306,B6860,Georgie Fame,You're Driving Me Crazy,Two Faces Of Fame,notExplicit,1967,213000
+C2772,B7001,False,C2772,deadmau5,Strobe (Radio Edit),,,2009,212066,B7001,Squash,Strong Now (Radio Edit),Strong Now,notExplicit,2020,200000
+C25065,B7120,False,C25065,HORSE the band,In the Wake of the Bunt,,,2003,257973,B7120,Johan Söderqvist,In the Name of the Tsar,Battlefield 1: In the Name of the Tsar (Original Game Soundtrack),notExplicit,2018,147000
+C36194,B8969,False,C36194,Shakin' Stevens,You Drive Me Crazy,,,1984,168306,B8969,Ella Fitzgerald,You're Driving Me Crazy,Two of a Kind: Ella Fitzgerald & Mel Tormé,notExplicit,2022,135000
+C42547,B10482,False,C42547,Maria Mena,Just a Little Bit,,,2004,237906,B10482,Bobby Womack,Just a Little Bit Salty,It's Party Time : The 70s Collection,notExplicit,2014,198000
+C46197,B10825,False,C46197,NOFX,I Don't Want You Around,,,1991,99333,B10825,Medsound,I Want You Around,Beach Life,notExplicit,2018,261000
+C36194,B10838,False,C36194,Shakin' Stevens,You Drive Me Crazy,,,1984,168306,B10838,Rudy Vallee,You're Driving Me Crazy,Very Best Of,notExplicit,2009,200000
+C36127,B12030,False,C36127,The Supremes,Back In My Arms Again,,,2011,177600,B12030,Isaac Hayes,You're In My Arms Again,Truck Turner (Original Motion Picture Soundtrack),notExplicit,1974,293000
+C35528,B13362,False,C35528,Om,On the Mountain at Dawn,,,2005,1278466,B13362,The Oh Hellos,On the Mountain Tall,Notos,notExplicit,2017,188000
+C36194,B13896,False,C36194,Shakin' Stevens,You Drive Me Crazy,,,1984,168306,B13896,Ray Noble,You're Driving Me Crazy,Make Yourself A Happiness Pie,notExplicit,2018,70000
+C42060,B15587,False,C42060,Destiny's Child,Home for the Holidays,,,2001,190200,B15587,Classic Christmas Songs,Lonely For The Holidays,Christmas Music For Kids,notExplicit,2022,50000
+C36194,B15705,False,C36194,Shakin' Stevens,You Drive Me Crazy,,,1984,168306,B15705,Jo Jones,You're Driving Me Crazy,Buck and Jo (The Complete Panassié Sessions 1971-1974),notExplicit,2019,332000
+C13248,B19641,False,C13248,Sum 41,Angels With Dirty Faces,,,2004,143293,B19641,KREEPA,Angels With Dracos,Let Me Be Great (Deluxe Version),Explicit,2022,140000
+C10041,B19727,False,C10041,Pink Floyd,Coming Back to Life,,,1994,379400,B19727,A Neverending John's Dream,Coming Back to Paradise,Coming Back To Paradise,notExplicit,2024,283000
+C10070,B32102,False,C10070,Bon Jovi,I'll Be There For You,,,1988,346573,B32102,Lydia Persaud,Let Me Be There For You,Moody31,notExplicit,2022,144000
+C8707,B35837,False,C8707,Tony Bennett,Winter Wonderland,,,2009,132066,B35837,Mike O'Donnell,Winter Wonderland Theme,"The Engine Themes, Vol.6",notExplicit,2022,86000
+C50258,B36430,False,C50258,Nat King Cole,Somewhere Along the Way,,,2007,172986,B36430,Gandalf,Flowers Along the Way,Colors of a New Dawn,notExplicit,2004,182000
+C13634,B37425,False,C13634,Yellowcard,Shadows and Regrets,,,2007,239480,B37425,The Action,Shadows and Reflections,Keep On Holding On,notExplicit,2009,177000
+C8572,B37659,False,C8572,The Smashing Pumpkins,Stand Inside Your Love,,,2001,253666,B37659,Stephanie Mills,Deeper Inside Your Love,What Cha Gonna Do With My Lovin',notExplicit,1979,240000
+C49456,B41274,False,C49456,Niyaz,In The Shadow Of Life,,,2013,245866,B41274,The Rippingtons,In The Shadow of Giants,Built to Last (feat. Russ Freeman),notExplicit,2012,249000
+C8707,B42437,False,C8707,Tony Bennett,Winter Wonderland,,,2009,132066,B42437,SATV Music,Winter Wonderland (Pop),I Love Christmas 2,notExplicit,2017,111000
+C35149,B42893,False,C35149,Thursday,Into The Blinding Light,,,2006,225173,B42893,Billy Strings,In The Morning Light,Renewal,notExplicit,2021,283000
+C6436,B46057,False,C6436,Billy Joel,Only the Good Die Young,,,2004,235586,B46057,Betrayal,The Good Die Young,Abandonment,Explicit,2011,211000
+C6436,B47328,False,C6436,Billy Joel,Only the Good Die Young,,,2004,235586,B47328,Bonfire,The Good Die Young,The Räuber,notExplicit,2008,258000
+C35149,B48776,False,C35149,Thursday,Into The Blinding Light,,,2006,225173,B48776,Olivia Gray,In The Morning Light,Temptation,notExplicit,2006,302000
+C21259,B48833,False,C21259,Phoenix,Holdin' On Together,,,2006,207106,B48833,Merle Haggard,Holding Things Together,Down Every Road 1962-1994,notExplicit,1996,179000
+C20340,B51610,False,C20340,Architects,One Of These Days,,,2009,154160,B51610,Jesper Lindell,One Of These Rainy Days,One Of These Rainy Days,notExplicit,2023,208000
+C24920,B52720,False,C24920,Brett Dennen,Ain't Gonna Lose You,,,2008,291333,B52720,KIDZ BOP Kids,Like I'm Gonna Lose You,KIDZ BOP 31,notExplicit,2016,210000
+C14236,B52971,False,C14236,Two Door Cinema Club,Changing of the Seasons,,,2013,221920,B52971,Mariama,Change With the Seasons,Mariama - EP,notExplicit,2011,249000
+C16976,B53372,False,C16976,Don Henley,The Heart Of The Matter,,,1995,321466,B53372,Master Dee,The Novel Of The Master,Evolution Of Music,notExplicit,2023,368000
+C5262,B53940,False,C5262,Joy Division,Twenty Four Hours,,,2001,279080,B53940,Bobby Lee Trammell,Twenty Four Hours a Day,Uh-Oh,notExplicit,2008,123000
+C19940,B56093,False,C19940,Funeral for a Friend,Red Is The New Black,,,2003,313106,B56093,The Marine Rapper,Orange Is The New Black,Orange Is The New Black,notExplicit,2024,85000
+C566,B61364,False,C566,Iron Maiden,The Number of the Beast,,,2008,290893,B61364,umami,Number Of The Beast,In Exchange For Everything,notExplicit,2019,298000
+C1302,B65627,False,C1302,P!nk,Please Don't Leave Me,,,2009,231826,B65627,EUT,Please Don't Look At Me,Please Don't Look At Me,notExplicit,2023,166000
+C16973,B67046,False,C16973,Kate Bush,King of the Mountain,,,2005,290026,B67046,Sound Healing Center,Spirits of the Mountain,"Sacred Flute: Native American Flute for Deep Sleep, Meditation, Spa, Healing, Relaxation",notExplicit,2015,577000
+C2803,B67282,False,C2803,Marilyn Manson,This Is Halloween,,,2008,202333,B67282,Halloween Party,This Is Halloween Remix,Spooky Scary Halloween,notExplicit,2017,184000
+C36125,B67309,False,C36125,Bee Gees,This Is Where I Came In,,,2001,297933,B67309,Yanger Toshi,This Is Where I Belong,This Is Where I Belong,notExplicit,2021,213000
+C2803,B71081,False,C2803,Marilyn Manson,This Is Halloween,,,2008,202333,B71081,Halloween Party,This Is Halloween Night,"Spooky Time – Night Music, Scary Soundscapes, 2020 Halloween",notExplicit,2020,240000
+C13868,B71959,False,C13868,Patti Smith,Gloria: In Excelsis Deo,,,1975,421000,B71959,Merry Christmas Singers,Gloria in Excelsis,Christmas Party,notExplicit,2009,112000
+C33211,B74708,False,C33211,Lady Antebellum,Lookin' for a Good Time,,,2008,187320,B74708,Al Kooper,Lookin' for a Home,Kooper Session,notExplicit,2017,353000
+C2803,B77148,False,C2803,Marilyn Manson,This Is Halloween,,,2008,202333,B77148,The Citizens of Halloween,This Is Halloween Remix,43 Setting The Tone Of Fear,notExplicit,2022,184000
+C2803,B77436,False,C2803,Marilyn Manson,This Is Halloween,,,2008,202333,B77436,Halloween Party Album Singers,This Is Halloween Remix,Spooky Scary Halloween Party Collection,notExplicit,2016,184000
+C2803,B77778,False,C2803,Marilyn Manson,This Is Halloween,,,2008,202333,B77778,Halloween Sounds,This Is Halloween Night,Sounds from the Grave - Scary and Dark Music Dedicated to Halloween 2020,notExplicit,2020,240000
+C2803,B79482,False,C2803,Marilyn Manson,This Is Halloween,,,2008,202333,B79482,Scary Halloween Music,This Is Halloween Night,Halloween Themed Music: Spooky Halloween Songs to Play at Your Costume Party,notExplicit,2022,240000
+C32178,B80717,False,C32178,Oh No Oh My,I Love You All the Time,,,2006,142800,B80717,Little Walter,Lovin' You All The Time,Windy City Blues,notExplicit,1986,285000
+C32060,B82266,False,C32060,Leonard Cohen,Is This What You Wanted,,,1974,253066,B82266,Flyying Colours,This Is What You Wanted,Mindfullness,notExplicit,2016,263000
+C2772,B85865,False,C2772,deadmau5,Strobe (Radio Edit),,,2009,212066,B85865,Obernik,Stereo Flo (Radio Edit),Stereo Flo,notExplicit,2009,219000
+C19784,B90443,False,C19784,Scorpions,Can't Live Without You,,,1985,332906,B90443,STAMP Apiwat,How To Live Without You,Ekamai Dream 1,notExplicit,2019,240000
+C14696,B97683,False,C14696,Girl Talk,What It's All About,,,2008,254705,B97683,Doug Millaway,What A Cat Is All About,Just Kids,notExplicit,2023,178000
+C47498,B99593,False,C47498,A Sunny Day In Glasgow,Ghost in the Graveyard,,,2007,359053,B99593,Screaming Lord Sutch,Murder in the Graveyard,The Best of Screaming Lord Sutch,notExplicit,2012,184000
+C28832,B246,False,C28832,Above & Beyond,Sun In Your Eyes,,,2019,277826,B246,Shaun Cassidy,Heaven In Your Eyes,Room Service,notExplicit,1979,176000
+C10146,B390,False,C10146,Rush,Closer to the Heart,,,1990,174066,B390,Porter Wagoner,Closer by the Hour,Just the Two of Us,notExplicit,1968,140000
+C1647,B810,False,C1647,Hinder,Better Than Me,,,2007,222426,B810,We the Least,Better Than My Life,Screw It Up,notExplicit,2019,212000
+C32262,B1240,False,C32262,Justice,DVNO (Radio Edit),,,2008,191612,B1240,Paul Oakenfold,Dreams (Radio Edit),Trance Mission,notExplicit,2014,202000
+C14778,B2010,False,C14778,The Cool Kids,A Little Bit Cooler,,,2008,171640,B2010,Landon Austin,Little Bit Longer,Songs For The Drive,notExplicit,2022,175000
+C7279,B2339,False,C7279,Taylor Swift,Better Than Revenge,,,2010,217173,B2339,Super Cassette,Better in Reverse,Better in Reverse,notExplicit,2019,270000
+C6522,B2559,False,C6522,George Baker Selection,Little Green Bag,,,2010,195333,B2559,Jerry Lee Lewis,Little Green Valley,Just Jerry Lee Lewis,notExplicit,2023,113000
+C11502,B30266,False,C11502,Clannad,I Will Find You,,,1992,110960,B30266,Fer Casillas,I Will Find My Own,Strangers - EP,notExplicit,2017,212000
+C15635,B30269,False,C15635,Do Make Say Think,The Universe!,,,2007,302946,B30269,The Soup Dragons,Mother Universe,Lovegod (Deluxe / Remastered),notExplicit,1990,227000
+C11234,B30271,False,C11234,Chet Faker,I'm Into You,,,2012,263693,B30271,Jojo Hammett,I'm So In 2 You,Who Said The Funk Was Dead,notExplicit,2007,239000
+C771,B30296,False,C771,Incubus,Pardon Me,,,1999,223746,B30296,R.Y OFF,Pardonner,Pardonner,notExplicit,2023,137000
+C37290,B30305,False,C37290,The Human League,Empire State Human,,,2008,193600,B30305,Bill Laswell,Empire State,Nowstalgia,notExplicit,2018,493000
+C46514,B30336,False,C46514,Squirrel Nut Zippers,Winter Weather,,,1998,144466,B30336,DJ TICKZZY,"Wanted Weathly,",BASHMENT TING VOL.7,Explicit,2024,368000
+C4796,B30369,False,C4796,Bob Dylan,Beyond the Horizon,,,2006,334773,B30369,Weight of Emptiness,Beyond The Marinas,Withered Paradogma,notExplicit,2023,374000
+C959,B30391,False,C959,Arcade Fire,Modern Man,,,2010,279760,B30391,CombiChrist,Modern Demon,Heads Off,notExplicit,2022,286000
+C43830,B30394,False,C43830,Someone Still Loves You Boris Yeltsin,Modern Mystery,,,2008,259466,B30394,Suburbass,Modern Quackery,Suburbass selecta,notExplicit,2020,358000
+C2001,B30456,False,C2001,The Last Shadow Puppets,Calm Like You,,,2008,146266,B30456,LexMorris,Angels Like You,Angels Like You,notExplicit,2024,132000
+C40789,B30494,False,C40789,The Radio Dept.,Always A Relief,,,2006,201280,B30494,Newmode,Always (Remix),Always (Remix),notExplicit,2023,187000
+C12331,B30554,False,C12331,Xiu Xiu,I Luv the Valley OH!,,,2004,179133,B30554,Ten in the Swear Jar,I Love the Valley (Live),Accordion Solo!,notExplicit,2005,202000
+C17080,B30555,False,C17080,Shanice,I Love Your Smile,,,2014,258173,B30555,Džambo Aguševi Orchestra,"I Love You, Mexico",Brass Like It Hot: Fast & Furious Balkan Brass,notExplicit,2016,213000
+C33484,B30556,False,C33484,Toby Keith,How Do You Like Me Now?!,,,1999,207493,B30556,Blake Neely,How Do You Lie To Me,Arrow: Season 3 (Original Television Soundtrack),notExplicit,2019,110000
+C7467,B30580,False,C7467,Alice Cooper,I'm Eighteen,,,2006,251240,B30580,Roy Orbison,Almost Eighteen,100 Rock 'N Roll Classics ('51 - '61),notExplicit,2013,126000
+C17855,B30587,False,C17855,Coheed and Cambria,Mother May I,,,2005,271933,B30587,Veil of Maya,Mother Pt. 4,Mother Pt. 4,notExplicit,2023,313000
+C11132,B30608,False,C11132,Enya,Fallen Embers,,,2000,148573,B30608,ZiPeso,Fallen Soldiers,Penury to Peso's 2,Explicit,2020,174000
+C1338,B30653,False,C1338,Garbage,Stupid Girl,,,1995,258533,B30653,Mushmellow,Stupid Bitch,Rare Garage Days,Explicit,2021,202000
+C27665,B30666,False,C27665,Matisyahu,Ancient Lullaby,,,2006,257666,B30666,Studi01,Broken Lullaby,Broken Lullaby,notExplicit,2024,159000
+C23171,B30758,False,C23171,Merle Haggard,Always Wanting You,,,2008,184613,B30758,John Adorney,Always Rememering You,The Fire in the Flint,notExplicit,2012,303000
+C24626,B30761,False,C24626,Gin Blossoms,Follow You Down,,,2007,225520,B30761,SSGIRLS,Follow your arrows,Sing a SonG,notExplicit,2024,221000
+C48521,B30762,False,C48521,Great Lake Swimmers,I Will Never See the Sun,,,2003,215720,B30762,The Incredible Staggers,I Will Never Be Free,Zombies of Love,notExplicit,2010,198000
+C10805,B30790,False,C10805,The Who,I'm One,,,1973,157853,B30790,Young Buck,I'm On It,Still Ten-a-Key Pt. 2,Explicit,2012,241000
+C4282,B30797,False,C4282,Evanescence,Lost in Paradise,,,2017,283933,B30797,MS Dance Project,Sunset Of Paradise,Top Hits 2020,notExplicit,2020,247000
+C5386,B30810,False,C5386,Blur,Out of Time,,,2003,233373,B30810,Dad Bod,Out of Order,Pastels,notExplicit,2021,323000
+C4514,B30814,False,C4514,Eels,Losing Streak,,,2008,170573,B30814,Lame3zy,Losing Interest,Losing Interest,notExplicit,2020,126000
+C14594,B30822,False,C14594,Kanye West,Crack Music,,,2005,270866,B30822,Baby Lullaby,Church Music,Concentration Music - Brain Exercises Mind Workout Music for Deep Focus with Soothing Meditative New Age Sounds,notExplicit,2015,328000
+C24009,B30837,False,C24009,Ray Charles,America The Beautiful,,,2013,215480,B30837,Sara Masterson,Always the Beautiful,Always the Beautiful,notExplicit,2013,119000
+C1187,B30890,False,C1187,Foster the People,Waste,,,2011,205493,B30890,Kelanie Gloeckler,Castle,Castle,notExplicit,2018,541000
+C27947,B30904,False,C27947,Teena Marie,I Need Your Lovin',,,1980,452186,B30904,Cristobal Pesce,I Feel You Coming,Obsession,notExplicit,2022,452000
+C36612,B30905,False,C36612,"Albert Hammond, Jr.",Bright Young Thing,,,2007,191680,B30905,Cinco Paul,Bright and Shiny,Bubble Boy (Original Cast Recording),notExplicit,2017,119000
+C2647,B30940,False,C2647,DJ Snake,Let Me Love You,,,2017,206986,B30940,Titus Glenn and United Voices,Let Me Worship You,After the Heart of You,notExplicit,2006,365000
+C32051,B30954,False,C32051,The Band,It Makes No Difference,,,2009,392773,B30954,Ahria,I Will Make a Difference,Heaven Guide Me,notExplicit,2004,320000
+C2431,B30971,False,C2431,Pet Shop Boys,Always on My Mind,,,1998,234906,B30971,Gordon James,Always in My Heart,In Joy,notExplicit,2007,222000
+C36403,B31002,False,C36403,The Doors,Angels and Sailors,,,1978,166733,B31002,Kim Fowley,Angels and Trucks,West Coast Revelation,notExplicit,2011,223000
+C10898,B31010,False,C10898,Petit biscuit,Sunset Lover,,,2019,237792,B31010,Jazz Followers,Sunset Cafe,Bossa Nova Jazz,notExplicit,2020,223000
+C4514,B31021,False,C4514,Eels,Losing Streak,,,2008,170573,B31021,Shiloh Dynasty,Losing Interest,Losing Interest,notExplicit,2022,205000
+C35085,B31024,False,C35085,Amber Pacific,Always You,,,2005,248933,B31024,Melissa Polinar,Always Need You,Calls & Echoes,notExplicit,2014,199000
+C4805,B31071,False,C4805,Elliott Smith,Almost Over,,,2007,131946,B31071,Sharon Cuneta,Almost over You,The All English Album,notExplicit,2009,235000
+C4602,B31096,False,C4602,Gojira,In the Wilderness,,,2005,467306,B31096,B.JACCS BAND,Crying In The Wilderness,You N Me Vol.4,notExplicit,2018,334000
+C6618,B31121,False,C6618,Gavin DeGraw,Follow Through,,,2013,238013,B31121,Brandon Jenkins,Follow Through (Live),Live at the Blue Door,notExplicit,2000,180000
+C26347,B31154,False,C26347,Cult of Luna,Following Betulas,,,2008,536320,B31154,Leonard Rosenman,Following The Orcs,The Lord Of The Rings,notExplicit,1978,197000
+C1592,B31156,False,C1592,No Doubt,Hella Good,,,2002,243466,B31156,The Young Fables,Half as Good,Old Songs,notExplicit,2018,206000
+C2431,B31217,False,C2431,Pet Shop Boys,Always on My Mind,,,1998,234906,B31217,Dean Martin,Always in My Heart,A Star to Remember (Vol. 2),notExplicit,2022,165000
+C14592,B31247,False,C14592,Akon,I'm So Paid,,,2008,266746,B31247,Kenny Vance,I'm So Happy,Looking for an Echo,notExplicit,1996,156000
+C2924,B31270,False,C2924,Röyksopp,Follow My Ruin,,,2005,231880,B31270,Richard Youngs & Raül Refree,Follow My Sleep,All Hands Around the Moment,notExplicit,2019,503000
+C23555,B31291,False,C23555,John Lee Hooker,I'm In The Mood,,,2015,161517,B31291,"Dave Dee, Dozy, Beaky, Mick & Tich",I'm On The Up,If Music Be The Food Of Love … Prepare For Indigestion,notExplicit,1966,143000
+C34386,B31326,False,C34386,Krypteria,Out of Tears,,,2007,237053,B31326,Simon Gross,Out of Stardust,Earth (Avatar Vol.3),notExplicit,2021,128000
+C14570,B31376,False,C14570,Big Sean,Bounce Back,,,2017,222360,B31376,Ben Webster,Bounce Blues,King Of The Tenors,notExplicit,1954,272000
+C38155,B31493,False,C38155,Future Leaders of the World,Let Me Out,,,2004,243440,B31493,GORAE,Let Me Hug U,SHIRT X GORAE : Let Me Hug U,notExplicit,2023,151000
+C47943,B31528,False,C47943,Wolfsheim,Following You,,,1992,298906,B31528,Labrinth,Following Tyler,Euphoria (Original Score from the HBO Series),notExplicit,2019,89000
+C14372,B31531,False,C14372,Birdman,Always Strapped,,,2009,208293,B31531,Jazzy Coffee,Always Happy,Happy Morning Bossa,notExplicit,2022,312000
+C40070,B31532,False,C40070,Throbbing Gristle,Vow of Silence,,,2007,422440,B31532,Billy Talent,Voices of Violence,Billy Talent,notExplicit,2003,191000
+C30754,B31593,False,C30754,Mad Caddies,I'm So Alone,,,1997,250160,B31593,Peter Ivers,I'm Sorry Alice,Peter Ivers,notExplicit,2008,252000
+C22414,B31731,False,C22414,Korn,Mass Hysteria,,,2013,244335,B31731,Sølv,Sunset Hysteria,London With My Mind In LA,notExplicit,2021,224000
+C14592,B31734,False,C14592,Akon,I'm So Paid,,,2008,266746,B31734,Peter Rabbit Singers,I'm So Happy,Vintage Dance Tunes for Kids,notExplicit,2022,125000
+C11447,B31747,False,C11447,Deafheaven,Please Remember,,,2013,386173,B31747,Petree,Let Me Remember,Weakness Makes You Beautiful,notExplicit,2010,355000
+C30671,B31761,False,C30671,Marcia Griffiths,Feel Like Jumping,,,1992,213506,B31761,Johnny Paycheck,I Feel Like Crying,Honky Tonk Hits,notExplicit,2017,182000
+C19778,B31782,False,C19778,Helloween,Follow the Sign,,,1987,107786,B31782,Kana Oike,Follow the feeling,NATURAL,notExplicit,2021,263000
+C14803,B31794,False,C14803,J Dilla,So Far to Go,,,2006,338840,B31794,Eliane Elias,So Far So Close,So Far So Close,notExplicit,1989,350000
+C9633,B31828,False,C9633,Lou Donaldson,Autumn Nocturne,,,2015,294479,B31828,Raphaël Guattari,Animal Nocturne,Animal Nocturne,notExplicit,2019,174000
+C5709,B31834,False,C5709,James Vincent McMorrow,Higher Love,,,2012,214786,B31834,Chris Bushnell,Higher State,Higher State,notExplicit,2017,185000
+C31328,B31895,False,C31328,Wax Tailor,Beyond Words,,,2007,61226,B31895,Sonoton Film Orchestra,Beyond Glory,Orchestral Rock,notExplicit,2011,124000
+C48279,B31981,False,C48279,Benga,Go Tell Them,,,2008,246706,B31981,Benji Blue Bills,I Told Them,500k Degrees,Explicit,2024,198000
+C39140,B32098,False,C39140,Kettel,Church,,,2008,232177,B32098,Samantha Crain,Churchill,Kid Face,notExplicit,2013,239000
+C9653,B32155,False,C9653,Ella Fitzgerald,I Love Paris,,,2013,190013,B32155,Lasca Pedra,I Love Boobs,SHITTRAP GOURMET,Explicit,2024,136000
+C37823,B32216,False,C37823,Nine Black Alps,Not Everyone,,,2005,204573,B32216,Beau Alten,I Love Everyone,I Love Everyone,notExplicit,2023,189000
+C10567,B32232,False,C10567,Kiss,I Love It Loud,,,2008,256079,B32232,KISS,I Love It Loud [Live],Kiss - The Ritz On Fire - 1988 Live Radio Broadcast,notExplicit,2019,240000
+C33671,B32252,False,C33671,Rascal Flatts,I Feel Bad,,,2006,198306,B32252,José Le Gall,I Feel Happy,Electro Swing Lady,notExplicit,2007,118000
+C24632,B32261,False,C24632,Lenny Kravitz,Always on the Run,,,2012,233000,B32261,Nursery Rhymes Songs & Kids Music,Animals on the Bus,The Wheels On The Bus & More Sing A Long Nursery Rhymes,notExplicit,2023,140000
+C6892,B32298,False,C6892,Chaka Khan,I Feel For You,,,2008,222480,B32298,Chaka Khan,I Feel For You (Live),Homecoming (Live),notExplicit,2020,203000
+C11132,B32308,False,C11132,Enya,Fallen Embers,,,2000,148573,B32308,Mike Willion,Fallen Soldiers,Selective Hearing 2,notExplicit,2021,91000
+C1952,B32388,False,C1952,Paramore,Brighter,,,2005,223280,B32388,K-Klass,Brighter Day,K2,notExplicit,1998,358000
+C45961,B32426,False,C45961,The Specials,Stupid Marriage,,,1999,274413,B32426,Darren Hayes,Stupid Mistake,Secret Codes and Battleships,notExplicit,2011,279000
+C17464,B32427,False,C17464,Tears for Fears,Mothers Talk,,,2000,300653,B32427,Hayden Calnin,Mothercall,Something/Anything,notExplicit,2022,399000
+C15638,B32447,False,C15638,The Yardbirds,Got To Hurry,,,2001,156533,B32447,James Brown,Got to Cry,Try Me!,notExplicit,1959,156000
+C4675,B32477,False,C4675,Elbow,Fallen Angel,,,2003,247933,B32477,Danny Vera,Fallen King,Pressure Makes Diamonds 1 - The Year of the Snake,notExplicit,2018,188000
+C1187,B32510,False,C1187,Foster the People,Waste,,,2011,205493,B32510,World's First Cinema,Castle,Castle,notExplicit,2022,193000
+C35953,B32524,False,C35953,Empyrium,The Yearning,,,1996,521240,B32524,Down to Nothing,Higher Learning,The Most,Explicit,2007,139000
+C14194,B32543,False,C14194,Weezer,Simple Pages,,,2001,176693,B32543,Artistes variés,Simple passager,Quand le country dit bonjour...,notExplicit,2009,239000
+C49408,B32548,False,C49408,Anoushka Shankar,Prayer in Passing,,,2005,381853,B32548,Melthodhaye Musical,Prayer On Retiring,Soutoro,notExplicit,2015,152000
+C9653,B32559,False,C9653,Ella Fitzgerald,I Love Paris,,,2013,190013,B32559,Washboard Banjo Band,I Love Banjo,"Washboard Banjo Band, Jitka Vrbová a František Nedvěd",notExplicit,2018,252000
+C26092,B32604,False,C26092,Cult of Luna,Eternal Kingdom,,,2008,401240,B32604,Without Waves,Animal Kingdom,Comedian,Explicit,2022,238000
+C24860,B32633,False,C24860,Days of the New,Shelf In The Room,,,1997,283866,B32633,Daoud,Nobody In The Room,Nobody In The Room,notExplicit,2019,374000
+C24631,B32659,False,C24631,Everclear,I Will Buy You A New Life,,,2009,275426,B32659,Charlie Landsborough,I Will Love You All My Life,With You in Mind + Further Down the Road,notExplicit,2006,229000
+C10898,B32707,False,C10898,Petit biscuit,Sunset Lover,,,2019,237792,B32707,Yogee New Waves,Sunset Town,SUNSET TOWN,notExplicit,2015,319000
+C44811,B32716,False,C44811,Soul Coughing,I Miss The Girl,,,1998,243133,B32716,Alanis Morissette,I Miss the Band,I Miss the Band,notExplicit,2021,252000
+C4201,B32719,False,C4201,Art Brut,Modern Art,,,2005,143666,B32719,Pelle Miljoona,Moderni orja,Unabomber,notExplicit,2007,178000
+C21417,B32775,False,C21417,Bloodhound Gang,Mama's Boy,,,2000,34666,B32775,Mel McDaniel,Mama's Bible,Baby's Got Her Blue Jeans On,notExplicit,1993,230000
+C22452,B32795,False,C22452,Pain,I'm Going In,,,2011,196346,B32795,Mikexangel,I'm on It,I'm on It,Explicit,2019,203000
+C327,B32953,False,C327,Red Hot Chili Peppers,Road Trippin',,,1999,204973,B32953,Ben Harper,Mama's Trippin',Boxed Set Collection,notExplicit,2000,225000
+C1278,B32958,False,C1278,Rammstein,Mutter,,,2001,268600,B32958,Antilopen Gang,Muttertag,Für wenige,Explicit,2024,67000
+C43814,B32968,False,C43814,Hanson,I Will Come To You,,,1997,251306,B32968,Holy Ghost!,I Will Come Back,Holy Ghost! (Deluxe Edition),notExplicit,2011,324000
+C26576,B33013,False,C26576,Amorphis,Highest Star,,,2009,284253,B33013,Sleep Music,Higher Spa,Wellbeing Mindfulness Utopia,notExplicit,2023,165000
+C17021,B33045,False,C17021,Rick James,Give It To Me Baby,,,2002,248240,B33045,Reaction Band,Bounce It For Me Baby,Sunday Night Vibes,Explicit,2022,367000
+C10898,B33049,False,C10898,Petit biscuit,Sunset Lover,,,2019,237792,B33049,Techno House,Sunset Meet,Afterhours Beach Party,notExplicit,2020,214000
+C2001,B33051,False,C2001,The Last Shadow Puppets,Calm Like You,,,2008,146266,B33051,Acoustic Covers Culture,Angels Like You,Angels Like You,notExplicit,2021,187000
+C2587,B33054,False,C2587,Air,Another Day,,,2004,200880,B33054,7Seconds,Mother's Day,Soulforce Revolution,notExplicit,1989,256000
+C34619,B33067,False,C34619,Stereophonics,I Miss You Now,,,2003,290560,B33067,Addison Grace,I Miss You (r Dog),Diving Lessons,notExplicit,2023,178000
+C31482,B33068,False,C31482,Gesaffelstein,Out of Line,,,2013,155946,B33068,RugRat Kevey,Out of Patience,Out of Patience,Explicit,2021,178000
+C8098,B33089,False,C8098,Iron Maiden,Another Life,,,1981,203400,B33089,Reginald Omas Mamode IV,Mother Liza,Where We Going?,notExplicit,2019,193000
+C10221,B50118,False,C10221,The Rolling Stones,It's All Over Now,,,1972,206453,B50118,José James,It's All Over Your Body,It's All Over Your Body,notExplicit,2012,330000
+C9964,B53050,False,C9964,Nina Simone,House of the Rising Sun,,,1962,278600,B53050,Brett Younker,People of the Rising,Come to the Water,notExplicit,2012,253000
+C24752,B54658,False,C24752,The Lemonheads,It's a Shame about Ray,,,2014,186066,B54658,Kool G Rap,It's A Shame (Soul Mix),Genius Of Rap 3,notExplicit,2020,348000
+C42422,B56014,False,C42422,Céline Dion,A New Day Has Come,,,2002,341800,B56014,Matt Maltese,I Hear The Day Has Come,In a New Bed,notExplicit,2016,201000
+C9458,B57853,False,C9458,Duke Ellington & John Coltrane,In a Sentimental Mood,,,1997,254520,B57853,Louis Armstrong,On The Sentimental Side,The Decca Singles 1935-1946,notExplicit,2017,143000
+C566,B58007,False,C566,Iron Maiden,The Number of the Beast,,,2008,290893,B58007,Fear My Thoughts,Numbered By the Beast,Isolation,notExplicit,2008,282000
+C10190,B58390,False,C10190,Tom Jones,It's Not Unusual,,,2005,119120,B58390,June Christy,It's A Most Unusual Day,Gone For The Day,notExplicit,1957,144000
+C3429,B59205,False,C3429,Hellogoodbye,All Of Your Love,,,2006,176560,B59205,Ella Mia,Change All of Your Love,Change All of Your Love,notExplicit,2024,266000
+C3985,B59683,False,C3985,Shout Out Louds,Please Please Please,,,2006,209533,B59683,The Poppyheads,Please Please Me (Live),All I Want,notExplicit,1996,139000
+C648,B59938,False,C648,The Subways,Rock & Roll Queen,,,2005,169946,B59938,Nørrebros Teater,Rock'n Roll Party Queen,Grease - Original Danish Soundtrack,notExplicit,1994,133000
+C33340,B60283,False,C33340,Ryan Adams,Please Do Not Let Me Go,,,2004,215706,B60283,The Barr Brothers,Please Let Me Let it Go,Sleeping Operator,notExplicit,2014,308000
+C28947,B63450,False,C28947,Rank 1,Awakening (Radio Edit),,,2005,175106,B63450,Crew Cardinal,Change You (Radio Edit),Change You,notExplicit,2018,172000
+C8664,B65309,False,C8664,blink-182,Please Take Me Home,,,2001,184840,B65309,Victor Butzelaar,Please Take Care of Her,Underground Blossom (Original Game Soundtrack),notExplicit,2023,34000
+C28205,B65558,False,C28205,Blancmange,Living On The Ceiling,,,2006,239959,B65558,Eddy Grant,Living on the Frontline,This Is Eddy Grant,notExplicit,2013,358000
+C48855,B65808,False,C48855,Helalyn Flowers,Silent Conversation,,,2007,229320,B65808,Sparrows Landing Global,Coffee and Conversation,Coffee and Conversation,notExplicit,2022,228000
+C45871,B66865,False,C45871,Llewellyn,Violet Contemplation,,,2012,301440,B66865,Yoga Sounds,Spiritual Contemplation,"The Amusing Power Of Nature: The Natural Ways Of Life, Planet Paradise Vibrations",notExplicit,2023,227000
+C39403,B67225,False,C39403,The Pigeon Detectives,I'm Not Gonna Take This,,,2008,163413,B67225,Colonel Abrams,I'm Not Gonna Let,Colonel Abrams (Expanded Edition),notExplicit,1985,294000
+C17225,B67305,False,C17225,Imagination,Just an Illusion,,,2012,388640,B67305,Imagination,Just An Illusion (Live),The Very Best Of Imagination - Just An Illusion,notExplicit,2007,343000
+C30450,B68048,False,C30450,RX Bandits,Only For The Night,,,2006,227266,B68048,Jimmy Buffett,Frenchman For The Night,Fruitcakes,notExplicit,1994,270000
+C22188,B70189,False,C22188,Beastie Boys,That's It That's All,,,2019,148640,B70189,George Jones,"That's Good, That's Bad",Who's Gonna Fill Their Shoes,notExplicit,1985,186000
+C8390,B70387,False,C8390,Dream Theater,Stream Of Consciousness,,,2003,676266,B70387,Ion Vader,Astral Consiousness,Turbolift,notExplicit,2020,458000
+C8757,B70796,False,C8757,Ray Charles,I Can't Stop Loving You,,,2014,253857,B70796,Starbuck,I Hate Loving You,Starbuck 2022,notExplicit,2022,221000
+C7996,B71651,False,C7996,Dio,Caught in the Middle,,,1983,252186,B71651,John McCutcheon,Caught in the Crossfire,Water From Another Time: A Retrospective,notExplicit,1989,253000
+C28947,B71699,False,C28947,Rank 1,Awakening (Radio Edit),,,2005,175106,B71699,"Bishop J.D. Means, Sr.",Praise Him (Radio Edit),"A Tribute to Sunday Morning Gospel, Vol. 1 (Part 1)",notExplicit,2015,290000
+C24720,B72649,False,C24720,Céline Dion,That's the Way It Is,,,2008,241133,B72649,BACK DROP BOMB,That's The Way We Unite,Refixx,notExplicit,2002,212000
+C30290,B73076,False,C30290,The Specials,"Friday Night, Saturday Morning",,,1992,214320,B73076,The Specials,"Friday Night, Saturday Morning (2021 Remaster)",Ghost Town [2021 Remaster],notExplicit,1981,216000
+C609,B73906,False,C609,Amy Macdonald,This Is the Life,,,2014,184093,B73906,Dexys Midnight Runners,This Is What She's Like,Don't Stand Me Down,notExplicit,1985,741000
+C35142,B74817,False,C35142,Thursday,Autumn Leaves Revisited,,,2006,414053,B74817,El Prodigio,Autumn Leaves (En Vivo),El Prodigio (en Vivo),notExplicit,2020,550000
+C36125,B74867,False,C36125,Bee Gees,This Is Where I Came In,,,2001,297933,B74867,David Celeste,This Is Where He Went,Days Again,notExplicit,2015,142000
+C37462,B75487,False,C37462,Nemesea,Caught In The Middle,,,2011,289537,B75487,Kindrid,Caught Up In The Moment,Singularity,notExplicit,2020,458000
+C4701,B75803,False,C4701,The Automatic,That's What She Said,,,2006,195666,B75803,Governor,That's What I'm Talkin',Son Of Pain (U.S. Version),notExplicit,2006,246000
+C36381,B76470,False,C36381,The Brian Jonestown Massacre,This Is Why You Love Me,,,1997,115173,B76470,Rainbow High,This Is What You Do!,Rainbow World,notExplicit,2024,63000
+C4701,B77511,False,C4701,The Automatic,That's What She Said,,,2006,195666,B77511,Charlie Landsborough,That's What Love Can Do,Destination,notExplicit,2012,307000
+C7996,B79082,False,C7996,Dio,Caught in the Middle,,,1983,252186,B79082,Big & Rich,Caught up in the Moment,Comin' to Your City,notExplicit,2005,223000
+C2123,B80575,False,C2123,Zero 7,In the Waiting Line,,,2014,270213,B80575,Train,I'm Not Waiting in Line,"For Me, It's You",notExplicit,2006,220000
+C41357,B81665,False,C41357,His Statue Falls,Give It Up! Give It Up!,,,2010,231986,B81665,GrewSum,Get Up! Get Up!,Grass Roots 5,Explicit,2018,212000
+C18135,B82504,False,C18135,Dream Theater,This Is The Life,,,2011,417466,B82504,Daz Dillinger,This Is Tha Life I Lead,This Is the Life I Lead - Clean Version (Digitally Remastered),notExplicit,2014,269000
+C5926,B82937,False,C5926,Mac DeMarco,My Kind of Woman,,,2012,190845,B82937,George Strait,That's My Kind Of Woman,It Just Comes Natural,notExplicit,2006,205000
+C9981,B83683,False,C9981,Nina Simone,You'll Never Walk Alone,,,2013,227333,B83683,John Powell,You'll Never Tango,Ice Age: Dawn Of The Dinosaurs,notExplicit,2009,48000
+C9931,B84056,False,C9931,Diana Krall,White Christmas,,,2005,271173,B84056,Rolando Villazón,Berlin: White Christmas,Feliz Navidad,notExplicit,2018,167000
+C28696,B84297,False,C28696,Jona Lewie,You'll Always Find Me In The Kitchen At Parties,,,1978,186626,B84297,Eats Everything,You'll Always Find Me in the Kitchen At Parties (Eats Everything Dub),Early Bites EP,notExplicit,2013,423000
+C3796,B84441,False,C3796,Rise Against,State of the Union,,,2004,139133,B84441,David Fenn,Estate of the Urn Witch,Death's Door (Original Soundtrack),notExplicit,2021,214000
+C32012,B85011,False,C32012,George Harrison,Behind That Locked Door,,,2012,209066,B85011,Left Hand Black,Behind the Green Door,Left Hand Black,notExplicit,2020,82000
+C29133,B86620,False,C29133,Breathe Carolina,The Introduction,,,2008,148466,B86620,Malow Mac,Ghetto Boy Introduction,Ghetto Boy,Explicit,2022,197000
+C9523,B86740,False,C9523,Imany,You Will Never Know,,,2012,229066,B86740,The Platters,You'll Never Never Know,Smoke Gets in Your Eyes,notExplicit,2021,161000
+C35982,B87386,False,C35982,Burl Ives,A Holly Jolly Christmas,,,2009,137866,B87386,The Kelly Family,A Fairy Merry Christmas,Christmas Party,notExplicit,2022,225000
+C32012,B87611,False,C32012,George Harrison,Behind That Locked Door,,,2012,209066,B87611,AVN,Behind the Green Door,The Greatest Erotic Movie Themes of All Time,notExplicit,2014,131000
+C2104,B89624,False,C2104,Daft Punk,Around the World,,,2008,425453,B89624,Neil Young,Around The World (Live),Life (Live),notExplicit,1987,329000
+C17389,B90351,False,C17389,The Smiths,Death of a Disco Dancer,,,1987,326573,B90351,Bappi Lahiri,I Am A Disco Dancer,Uber Cool - Bappi Lahiri,notExplicit,1982,468000
+C35982,B91311,False,C35982,Burl Ives,A Holly Jolly Christmas,,,2009,137866,B91311,Natalie Cole,A Song For Christmas,Holly & Ivy,notExplicit,1994,206000
+C2772,B91440,False,C2772,deadmau5,Strobe (Radio Edit),,,2009,212066,B91440,Jeromy Darling,Son of God (Radio Edit),Salvaged,notExplicit,2014,243000
+C49087,B93030,False,C49087,mind.in.a.box,Certainty (Single.Edit),,,2006,310053,B93030,LCA & Melo D Bright,Selfie (Single Edit),Selfie,notExplicit,2015,188000
+C40009,B93551,False,C40009,Kylie Minogue,Sleeping with the Enemy,,,2014,234617,B93551,Anna Kristina,Seeing with New Eyes,Soul Truth,notExplicit,2017,311000
+C9981,B94461,False,C9981,Nina Simone,You'll Never Walk Alone,,,2013,227333,B94461,Jaz Coleman,You'll Never Get To Me,Magna Invocatio - A Gnostic Mass For Choir And Orchestra Inspired By The Sublime Music Of Killing Jo,notExplicit,2019,394000
+C8775,B95074,False,C8775,Nat King Cole,When I Fall in Love,,,2010,194040,B95074,Kindness,Anyone Can Fall in Love,"World, You Need a Change of Mind",notExplicit,2012,263000
+C9981,B95488,False,C9981,Nina Simone,You'll Never Walk Alone,,,2013,227333,B95488,Will McMillan,You'll Never Leave Me,My Story,notExplicit,2018,348000
+C566,B95572,False,C566,Iron Maiden,The Number of the Beast,,,2008,290893,B95572,Spandau Ballet,Nature of the Beast,Parade,notExplicit,2013,317000
+C32012,B95898,False,C32012,George Harrison,Behind That Locked Door,,,2012,209066,B95898,J.E. Mainer,Behind The Parlor Door,The Legendary J.E. Mainer (Vol. 4),notExplicit,2015,138000
+C566,B96366,False,C566,Iron Maiden,The Number of the Beast,,,2008,290893,B96366,Dusty Low,Nature of the Beast,Go for Broke,notExplicit,2011,393000
+C9981,B96615,False,C9981,Nina Simone,You'll Never Walk Alone,,,2013,227333,B96615,Change,You'll Never Realize,This Is Your Time,notExplicit,1983,350000
+C37510,B97807,False,C37510,Elis,Are You Missing Me,,,2004,230333,B97807,Hard-Ons,"Missing You, Missing Me",Love is a Battlefield of Wounded Hearts,notExplicit,1989,134000
+C28947,B97836,False,C28947,Rank 1,Awakening (Radio Edit),,,2005,175106,B97836,Stas Underhill,Activation (Radio Edit),Activation,notExplicit,2024,213000
+C500,B97887,False,C500,Led Zeppelin,Communication Breakdown,,,2007,147933,B97887,Blaine Sprouse,Cottontown Breakdown,Indian Springs,notExplicit,1989,166000
+C14638,B97990,False,C14638,Deltron 3030,Things You Can Do,,,2000,299826,B97990,Brandon Santini,Things You Putting Down,This Time Another Year,notExplicit,2013,259000
+C9981,B98119,False,C9981,Nina Simone,You'll Never Walk Alone,,,2013,227333,B98119,Teresa Brewer,You'll Never Get Away,My Best,notExplicit,2019,160000
+C9981,B99360,False,C9981,Nina Simone,You'll Never Walk Alone,,,2013,227333,B99360,Chaos UK,You'll Never Own Me,The Riot City Years,notExplicit,2004,144000
+C27878,B11198,False,C27878,Isaac Hayes,By the Time I Get to Phoenix,,,1995,414733,B11198,Relaxing Piano Man,By the Time I Get to Phoenix (Instrumental),Emblematic Places (Instrumental),notExplicit,2015,208000
+C6270,B20712,False,C6270,Michael Jackson,I Just Can't Stop Loving You,,,2009,251093,B20712,Rockabye Lullaby,I Just Can't Stop Loving You (Instrumental),A Michael Jackson Lullabies Tribute,notExplicit,2013,298000
+C45569,B38011,False,C45569,Mannheim Steamroller,Hark! The Herald Angels Sing,,,2011,210813,B38011,Doris Day,Jingle Bells / Hark! The Herald Angels Sing,Day Time on the Radio: Lost Radio Duets From the Doris Day Show (1952-1953),notExplicit,2017,112000
+C29086,B13813,False,C29086,Above & Beyond,No One On Earth (Gabriel & Dresden Remix),,,2008,427053,B13813,Above & Beyond,No One On Earth (Flashback) [ABGT484] (Gabriel & Dresden Remix),Group Therapy 484,notExplicit,2022,430000
+C37120,B375,False,C37120,St. Lucia,Closer Than This,,,2013,208360,B375,Spa & Spa,Closer Then Promised,Pure Sleep,notExplicit,2016,169000
+C5921,B447,False,C5921,Feist,Lonely Lonely,,,2004,250120,B447,譚詠麟 - Alan Tam,Lonely Lonely (Live),永恆的珍譚詠麟97金曲回歸演唱會 (Live),notExplicit,1997,291000
+C16827,B855,False,C16827,John Mayer,Do You Know Me,,,2012,150320,B855,JFA,Do You Know This Man,Speed of Sound,notExplicit,2010,171000
+C23485,B856,False,C23485,The Moldy Peaches,Little Bunny Foo Foo,,,2001,78853,B856,Kids Songs,Little Bunny Jump,28 Songs To Stimulate Child Development,notExplicit,2022,100000
+C4301,B1050,False,C4301,The Breeders,Do You Love Me Now?,,,1993,181800,B1050,Thebridies,Do You Love An Apple,4 and 9,notExplicit,2010,132000
+C11017,B1192,False,C11017,Max Richter,Horizon Variations,,,2004,112613,B1192,Jakob Bro,Heroines (Variation),Streams,notExplicit,2016,154000
+C19628,B2043,False,C19628,Marilyn Manson,Pretty as a Swastika,,,2009,165133,B2043,Dean Martin,Pretty as a Picture,Sway,notExplicit,2014,147000
+C7566,B2061,False,C7566,System of a Down,Soldier Side - Intro,,,2005,63693,B2061,Kidzone,Golden Time Intro,Alphabet Songs - Golden Time,notExplicit,2015,20000
+C24047,B2437,False,C24047,The Yardbirds,Smokestack Lightning,,,2006,332000,B2437,Electric Light Orchestra,Summer and Lightning,"ELO 50th Anniversary, Vol. 1",notExplicit,2021,255000
+C9398,B2812,False,C9398,George Michael,Cowboys and Angels,,,2010,274200,B2812,Jon Pardi,Cowboys and Plowboys,Cowboys and Plowboys,notExplicit,2023,209000
+C10608,B3226,False,C10608,Bad English,When I See You Smile,,,2009,257640,B3226,Blake Babies,When I See His Face,God Bless The Blake Babies,notExplicit,2001,292000
+C21013,B3386,False,C21013,Seal,Fly Like An Eagle,,,2004,254773,B3386,Filtered Light,Strong Like an Eagle,Life Psalm,notExplicit,2018,152000
+C18511,B3540,False,C18511,Death,Zombie Ritual,,,2001,281866,B3540,Death,Zombie Ritual (Live),Non:Analog - On:Stage Series - Belgium 12-23-1991,Explicit,1991,326000
+C6938,B3542,False,C6938,Fiona Apple,Better Version Of Me,,,2010,179600,B3542,The Original Movies Orchestra,Better Be Good To Me,Themes From Miami Vice,notExplicit,1988,220000
+C233,B3563,False,C233,Foo Fighters,Monkey Wrench,,,1997,231160,B3563,Less Than Jake,Monkey Wrench Myself,Silver Linings (Deluxe),notExplicit,2022,179000
+C29760,B3628,False,C29760,Loleatta Holloway,Love Sensation,,,2013,366200,B3628,70s Greatest Hits,Summerlove Sensation,70s Hits,notExplicit,2015,206000
+C10727,B3861,False,C10727,David Bowie,Little Wonder,,,1997,362333,B3861,David Bowie,Little Wonder (Edit),Best of Bowie,notExplicit,2002,223000
+C36264,B3962,False,C36264,Del Shannon,Little Town Flirt,,,2013,170760,B3962,A. Frank Willis,Little Town of Nutak,"Over the Years, Vol. 2",notExplicit,2003,178000
+C10308,B4265,False,C10308,Kiss,Heaven's On Fire,,,1984,201400,B4265,Thrive Worship,Heaven's Song (Live),Pour Your Spirit Out (Live),notExplicit,2022,550000
+C7263,B4671,False,C7263,Metric,Breathing Underwater,,,2012,236440,B4671,Mother Nature Sound FX,Breathing Exercises,#2018 Asian Spa,notExplicit,2018,247000
+C3049,B4725,False,C3049,Hurts,Better Than Love,,,2011,213613,B4725,The Glitter Band,Better to Have Loved,Paris Match,notExplicit,2014,218000
+C40264,B4992,False,C40264,Thee Oh Sees,Ghost In The Trees,,,2008,134973,B4992,Peter Rowan,Forest For The Trees,Dust Bowl Children,notExplicit,1990,288000
+C884,B5238,False,C884,Led Zeppelin,Misty Mountain Hop,,,2018,278907,B5238,BOKKA,Violet Mountain Tops,Bokka,notExplicit,2013,238000
+C6033,B5555,False,C6033,Madonna,Like a Prayer,,,2009,342680,B5555,Sophie Ellis-Bextor,Like a Prayer (Live),Sophie Ellis-Bextor's Kitchen Disco (Live at The London Palladium),notExplicit,2022,308000
+C12331,B5974,False,C12331,Xiu Xiu,I Luv the Valley OH!,,,2004,179133,B5974,The Ragged Jubilee,In the Valley II,In the Valley,notExplicit,2012,89000
+C20138,B6052,False,C20138,The Dillinger Escape Plan,We Are the Storm,,,2004,278760,B6052,Warrior Soul,We Are the Goverment,Classics,Explicit,2015,155000
+C20705,B6557,False,C20705,Sly & The Family Stone,Family Affair,,,2013,183333,B6557,The Brothers Johnson,Family Affair (Live),Brothers Johnson Live,notExplicit,2014,180000
+C5877,B6811,False,C5877,The Strokes,You're So Right,,,2011,153760,B6811,Pinball,Do You Feel So Right,Do You Feel So Right,notExplicit,2023,155000
+C32194,B6881,False,C32194,The Veronicas,This Is How It Feels,,,2007,251800,B6881,The Marvelettes,I Know How It Feels,"Forever: The Complete Motown Albums, Volume 1",notExplicit,2009,177000
+C16794,B7062,False,C16794,Ron Pope,A Drop In The Ocean,,,2010,276299,B7062,Onur Hunuma ft. Doruk Ereşter,Breathe In The Ocean,Breathe In The Ocean,notExplicit,2017,227000
+C7263,B7224,False,C7263,Metric,Breathing Underwater,,,2012,236440,B7224,Zen Music Garden,Breathing Exercises,"Japanese Zen Garden: 50 Shades of Relaxation Music, Meditation Songs with Soothing Nature Sounds, Spa, Music Therapy, Sleep",notExplicit,2016,307000
+C13374,B20688,False,C13374,Sum 41,I'm Not the One,,,2004,214586,B20688,Clifton Chenier,I'm on the Wonder,The King of Zydeco Live at Montreux,notExplicit,1990,297000
+C19562,B20731,False,C19562,Him,Beyond Redemption,,,2003,268106,B20731,Christian Kleine,Beyond Repair,Beyond Repair,notExplicit,2001,515000
+C34451,B20818,False,C34451,Edguy,Frozen Candle,,,2000,435266,B20818,Peridone,Broken Chandelier,Broken Chandelier,Explicit,2021,235000
+C757,B20840,False,C757,Interpol,Rest My Chemistry,,,2007,300506,B20840,Erotic Music Zone,Sexual Chemistry,"Full Erotic Satisfaction (Sensual Venus, Pathway to Orgasm, New Sexual Experience, Hot Intimate Night)",notExplicit,2018,237000
+C43426,B20876,False,C43426,P.O.D.,Going In Blind,,,2006,268200,B20876,Jungle Fairy and Dan,Coming Into Being,In Between Dreams,notExplicit,2021,866000
+C34864,B20931,False,C34864,Maroon 5,Misery (acoustic),,,2010,226306,B20931,Nora & Will,Angels (Acoustic),Acoustic Sessions,notExplicit,2023,246000
+C7121,B20974,False,C7121,Nina Simone,I Loves You Porgy,,,2010,252839,B20974,Jina Hyojin An,"I Love You, Kitty","XO, Kitty (Soundtrack from the Netflix Series)",notExplicit,2023,24000
+C49338,B21180,False,C49338,Chambao,As De Corazones,,,2004,267306,B21180,Fonseca,Simples Corazones,Agustín,notExplicit,2018,243000
+C19562,B21387,False,C19562,Him,Beyond Redemption,,,2003,268106,B21387,Kidd Kaos,Beyond Limitation,Beyond Limitation,notExplicit,2010,418000
+C5722,B21507,False,C5722,James Blunt,Out of My Mind,,,2004,213106,B21507,Rachael Schroeder,Out of My Own Way,Out of My Own Way,notExplicit,2022,194000
+C7837,B21546,False,C7837,Skid Row,Monkey Business,,,2008,258413,B21546,Frenzy,Nobody's Business,Best Of Frenzy,notExplicit,1990,159000
+C32431,B21646,False,C32431,The Radio Dept.,Never Follow Suit,,,2011,249480,B21646,Trent Dabbs,Follow Suit,Southerner,notExplicit,2011,234000
+C17030,B21662,False,C17030,Benny Benassi,I Love My Sex,,,2003,207354,B21662,Billy Boy Arnold,I Love My Whiskey,Billy Boy Arnold Sings: Big Bill Broonzy,notExplicit,2012,287000
+C7837,B21734,False,C7837,Skid Row,Monkey Business,,,2008,258413,B21734,Kid Chaos,Nobody's Business,Suit & Tie,notExplicit,2013,223000
+C1637,B21759,False,C1637,Arctic Monkeys,Dangerous Animals,,,2009,210666,B21759,Zero Tolerance & Alix Perez,Dangerous Liaison,Refusal / Dangerous Liaison,notExplicit,2007,339000
+C30990,B21830,False,C30990,Cage the Elephant,Always Something,,,2011,221946,B21830,Data Rebel,Always Descending,Basic Form,notExplicit,2023,462000
+C46116,B21923,False,C46116,Save Ferris,Nobody but Me,,,1997,186760,B21923,Mistah F.A.B.,Nobody Next To Me,Alaska,Explicit,2023,187000
+C18667,B22092,False,C18667,Soilwork,Fate in Motion,,,2005,201280,B22092,DJ Taz Rashid & Momentology,Prayers In Motion,Slo Rituals,notExplicit,2022,309000
+C45362,B22112,False,C45362,Blackmore's Night,Beyond The Sunset,,,1999,224773,B22112,Break of Reality,Beyond Recourse,The Sound Between (Electric),notExplicit,2006,252000
+C31679,B22132,False,C31679,Matthew Dear,Good to Be Alive,,,2008,228906,B22132,The Paz Band,Got to Stay Alive,Goldie,notExplicit,2013,255000
+C31889,B22171,False,C31889,The Gun Club,Mother of Earth,,,2004,204640,B22171,"Benedictines of Mary, Queen of Apostles",Mother of Sorrows,Lent at Ephesus (Rereleased),notExplicit,2023,302000
+C11246,B22414,False,C11246,FKA twigs,Home With You,,,2019,224946,B22414,Kyler England,Higher (With You),Higher (With You),notExplicit,2020,173000
+C17080,B22669,False,C17080,Shanice,I Love Your Smile,,,2014,258173,B22669,Fan Ocean,"I Love You, But..",Hazelight,notExplicit,2021,344000
+C7749,B22706,False,C7749,Bullet for My Valentine,Eye of the Storm,,,2008,242920,B22706,David Arnold,End of This Story,Good Omens (Original Television Soundtrack),notExplicit,2019,87000
+C34694,B22897,False,C34694,Stereophonics,Bright Red Star,,,2008,219640,B22897,ViViD,Bright red garden,PRECIOUS＜Type-B＞,notExplicit,2010,251000
+C1637,B23172,False,C1637,Arctic Monkeys,Dangerous Animals,,,2009,210666,B23172,fluencer,Dangerous (Remix),Start Hard,notExplicit,2019,223000
+C42738,B23232,False,C42738,Nails,I Will Not Follow,,,2010,86160,B23232,Don Segundo,I Will Not Beg,Censura,notExplicit,2008,182000
+C35432,B23256,False,C35432,Ozzy Osbourne,I Love You All,,,1983,62626,B23256,Ансамбль имени А.В.Александрова / Red Army Choir,I Love You Russia,Aleksandrov's Song,notExplicit,2019,208000
+C18164,B23363,False,C18164,Steve Vai,Erotic Nightmares,,,2016,255120,B23363,BlankCh3ck,What a Nightmare,Sticks & Stones,notExplicit,2020,273000
+C17827,B23401,False,C17827,Dire Straits,Follow Me Home,,,1979,350533,B23401,Sick Individuals,Follow Me (Mixed),Revealed Selected 013,notExplicit,2021,249000
+C1036,B23417,False,C1036,Jack Johnson,Upside Down,,,2006,208653,B23417,Electric Boys,Upside Down Theme,Upside Down,notExplicit,2021,441000
+C33335,B23532,False,C33335,Edwin McCain,See The Sky Again,,,1999,252706,B23532,Esther Chan,Let Me Try Again,Esther Chan,notExplicit,1974,228000
+C7837,B23592,False,C7837,Skid Row,Monkey Business,,,2008,258413,B23592,The Click Five,Nobody's Business,Tcv,notExplicit,2011,197000
+C14309,B23630,False,C14309,Ja Rule,Always On Time,,,2010,245573,B23630,Kierra Sheard,Always Win (Live),KIERRA,notExplicit,2020,266000
+C443,B23681,False,C443,Train,Drops of Jupiter,,,2013,259146,B23681,Markus Schulz,Voices Of Jupiter,Global DJ Broadcast - Top 20 May 2020,notExplicit,2020,285000
+C3052,B23777,False,C3052,Grizzly Bear,I Live With You,,,2009,297506,B23777,Frankjavcee,I Love Hating You,I Love Hating You,notExplicit,2020,152000
+C50289,B24103,False,C50289,Whitechapel,Prayer of Mockery,,,2010,215173,B24103,CTS,Prayer of Jabez,CTS Special Album 2nd,notExplicit,2011,197000
+C16900,B24196,False,C16900,John Hiatt,Have A Little Faith In Me,,,2014,241706,B24196,John Farnham,Have a Little Faith (In Us) (Edit),One Voice,notExplicit,2003,288000
+C24982,B24270,False,C24982,Broken Social Scene,Me and My Hand,,,2010,125053,B24270,Kali Red,Me and My Hommies,Kali Red,Explicit,2016,144000
+C24632,B24285,False,C24632,Lenny Kravitz,Always on the Run,,,2012,233000,B24285,Andy Mineo,Always In A Rush,Happy Thoughts,notExplicit,2020,162000
+C49869,B24317,False,C49869,Primordial,Here I Am King,,,2009,264960,B24317,Ricky Dillard,Here I Am Send Me,Hallelujah!,notExplicit,1995,313000
+C43004,B24474,False,C43004,Cryptopsy,Angelskingarden,,,2005,427626,B24474,Kiev,Animals in Garden,Falling Bough Wisdom Teeth,notExplicit,2013,241000
+C7121,B24537,False,C7121,Nina Simone,I Loves You Porgy,,,2010,252839,B24537,Chinem O Safadim,I Love you Cowboy,Escuta a Batida (Pow Pow),notExplicit,2023,142000
+C48094,B24592,False,C48094,Sherwood,Song In My Head,,,2007,230243,B24592,Marine,Animal In My Head,Life In Reverse,notExplicit,2004,236000
+C1637,B24802,False,C1637,Arctic Monkeys,Dangerous Animals,,,2009,210666,B24802,Universal Production Music,Dangerous Secrets,Halloween Fright Fest,notExplicit,2013,99000
+C45043,B24824,False,C45043,LTJ Bukem,Inner Guidance,,,2000,225500,B24824,Indian Background Flute Music,Mother's Guidance,"Indian Background Flute Music (Instrumental Meditation Music, Yoga Music and Spa Music for Relaxation)",notExplicit,2020,192000
+C17080,B24864,False,C17080,Shanice,I Love Your Smile,,,2014,258173,B24864,Ayaz Ali,I Love You Sindhi,I Love You Sindhi,notExplicit,2023,156000
+C16237,B25044,False,C16237,Insane Clown Posse,House Of Horrors,,,2009,260173,B25044,Switch Technique,Mother Of Sorrows,Belladonna LP,notExplicit,2014,450000
+C3607,B25076,False,C3607,Cut Copy,Voices in Quartz,,,2008,83040,B25076,Streets Soprano,Voices in Shadows,Damn: Nothing Last Forever.,Explicit,2023,205000
+C2142,B25084,False,C2142,Capital Cities,Safe and Sound,,,2014,191741,B25084,Relaxation,Simple Wind Sound,Windy Atmosphere,notExplicit,2021,155000
+C35088,B25109,False,C35088,The Veronicas,Mother Mother,,,2018,187413,B25109,Dr. Know,Mother and Father,Killing for God,Explicit,2009,186000
+C7121,B25388,False,C7121,Nina Simone,I Loves You Porgy,,,2010,252839,B25388,Xutos & Pontapés,I Love To Play,Gritos Mudos,notExplicit,1990,87000
+C24984,B25721,False,C24984,Brett Dennen,Desert Sunrise,,,2005,309968,B25721,Oakwood Station,Sunset to Sunrise,Jazz in All the Right Places,notExplicit,2021,146000
+C19778,B25908,False,C19778,Helloween,Follow the Sign,,,1987,107786,B25908,Parish Family,Following the Man,Branches,notExplicit,2010,222000
+C28771,B26056,False,C28771,Faithless,What About Love,,,2004,418120,B26056,Oh Seung Keun,What about my age,What about my age,notExplicit,2012,203000
+C28520,B26773,False,C28520,Robert Palmer,Looking For Clues,,,2013,292880,B26773,The Muggs,Losing End Blues,Born Ugly,notExplicit,2011,225000
+C43574,B26871,False,C43574,Flaw,What I Have To Do,,,2001,340573,B26871,Felony,What a Way to Go,The Fanatic,notExplicit,2014,159000
+C31602,B26999,False,C31602,Jay-Jay Johanson,Keep It A Secret,,,2004,230706,B26999,Exempla,Here Is My Secret,Precious,notExplicit,2018,295000
+C19146,B27105,False,C19146,Gojira,Inward Movement,,,2003,353840,B27105,Nessa's PlayHouse,Animals Movements,Monkey Dance,notExplicit,2023,255000
+C24984,B27685,False,C24984,Brett Dennen,Desert Sunrise,,,2005,309968,B27685,The Duprees,Sunset to Sunrise,Hits Singles: Collectors Series,notExplicit,1965,168000
+C48569,B28001,False,C48569,Art of Dying,I Will Be There,,,2006,221346,B28001,Slim Whitman,I Will Pilot Thee,20 Greatest All Time Hymns,notExplicit,2006,199000
+C4463,B28437,False,C4463,Blackalicious,Alphabet Aerobics,,,1999,133800,B28437,Mary Rice Hopkins,Animal Aerobics,If I Knew How to Moo,notExplicit,2022,174000
+C43416,B28461,False,C43416,Sevendust,Broken Down,,,2003,203600,B28461,Nazareth,Broken Down Angel,Hot Tracks,notExplicit,1976,224000
+C1389,B28498,False,C1389,Kate Bush,Wuthering Heights,,,2013,288906,B28498,Lloyd Charmers,Higher Heights,Reggae Is Tight,notExplicit,2020,157000
+C9451,B28816,False,C9451,Martin Tungevaag,Wicked Wonderland,,,2014,217960,B28816,Alx Beats,Wicked Weekend,"Instrumentals, Vol. 6",Explicit,2016,178000
+C29961,B28887,False,C29961,One Direction,Fool's Gold,,,2014,210893,B28887,Rebecca & Fiona,Fool's Gold Outro,Art of Being a Girl,notExplicit,2018,52000
+C7837,B28898,False,C7837,Skid Row,Monkey Business,,,2008,258413,B28898,Don Henley,Nobody's Business,I Can’t Stand Still,notExplicit,1982,225000
+C6478,B29068,False,C6478,Milow,Ayo Technology,,,2009,212080,B29068,Audiosonic,Modern Technology,Modern Technology,notExplicit,2020,530000
+C27530,B29524,False,C27530,Die Apokalyptischen Reiter,We Will Never Die,,,2013,228133,B29524,Spitzbua Markus,I Will Nur Di,I Steig Für Di Am Berg,notExplicit,2008,188000
+C29512,B29586,False,C29512,Groove Armada,Save My Soul,,,2007,262293,B29586,Strive to Be,Savior of My Soul,Savior of My Soul,notExplicit,2023,210000
+C19796,B29827,False,C19796,Tesla,Modern Day Cowboy,,,2016,346093,B29827,Government Warning,Modern Day Heroes,Executed,notExplicit,2009,76000
+C17205,B29858,False,C17205,Infected Mushroom,Vicious Delicious,,,2007,444906,B29858,Jay Tholen,Always Delicious,"Hypnospace Outlaw Original Soundtrack, Vol. 2",notExplicit,2019,49000
+C33035,B29876,False,C33035,Rodney Atkins,Farmer's Daughter,,,2015,207040,B29876,Gary Burton,Farmer's Trust,Cool Nights,notExplicit,1991,402000
+C37364,B30121,False,C37364,We Are the Fallen,I Will Stay,,,2010,247346,B30121,Zoe Grace,I Will Stay (R&B),I Will Stay,notExplicit,2024,239000
+C36296,B30297,False,C36296,One Direction,Midnight Memories,,,2014,175506,B30297,Sunset Chill Out Music Zone,Sunset Memories,Tropical Chill Music 2023,notExplicit,2023,209000
+C27955,B30350,False,C27955,Incognito,Always There,,,1992,305173,B30350,Amy Grant,Always The Winner,My Father's Eyes,notExplicit,1979,151000
+C7837,B30383,False,C7837,Skid Row,Monkey Business,,,2008,258413,B30383,D Mistro,Nobody's Business,Nobody's Business,notExplicit,2022,235000
+C33335,B30497,False,C33335,Edwin McCain,See The Sky Again,,,1999,252706,B30497,Jed Madela,Let Me Try Again,The Jed Madela Songbook,notExplicit,2015,216000
+C3728,B30523,False,C3728,Fall Out Boy,Hum Hallelujah,,,2007,230506,B30523,Mandisa,Broken Hallelujah,Freedom,notExplicit,2009,306000
+C24984,B30552,False,C24984,Brett Dennen,Desert Sunrise,,,2005,309968,B30552,Scream Club,Sunset to Sunrise,Don't Bite Your Sister,Explicit,2004,247000
+C14570,B30609,False,C14570,Big Sean,Bounce Back,,,2017,222360,B30609,Howard Jones,Bounce Right Back,Dream Into Action (Deluxe Audio Commentary Edition - 2018 Remaster),notExplicit,1985,272000
+C34451,B30643,False,C34451,Edguy,Frozen Candle,,,2000,435266,B30643,Kult Eviction,Broken Chandelier,Broken Chandelier,Explicit,2021,235000
+C12940,B30702,False,C12940,Cream,Mother's Lament,,,1967,107573,B30702,3 Heath Brothers,Mother's Day Song,Who We Are,notExplicit,2019,232000
+C50289,B30852,False,C50289,Whitechapel,Prayer of Mockery,,,2010,215173,B30852,Acheron,Prayer of Hell,Rites of the Black Mass,notExplicit,1991,147000
+C50189,B30970,False,C50189,MAE,Sun (acoustic),,,2004,322360,B30970,Leo Stannard,Oceans (Acoustic),Oceans (Acoustic),notExplicit,2016,217000
+C1637,B31036,False,C1637,Arctic Monkeys,Dangerous Animals,,,2009,210666,B31036,Alix Perez,Dangerous Liaison,Refusal / Dangerous Liaison,notExplicit,2007,339000
+C3607,B31067,False,C3607,Cut Copy,Voices in Quartz,,,2008,83040,B31067,Black Soprano Family,Voices in Shadows,Damn: Nothing Last Forever.,Explicit,2023,205000
+C17827,B31152,False,C17827,Dire Straits,Follow Me Home,,,1979,350533,B31152,Vidojean X Oliver Loenn,Follow Me (Mixed),Revealed Selected 013,notExplicit,2021,249000
+C16604,B31153,False,C16604,Celtic Frost,Visual Aggression,,,1984,253293,B31153,Birdflesh,Almost Aggression,Extreme Graveyard Tornado,notExplicit,2019,92000
+C42738,B31178,False,C42738,Nails,I Will Not Follow,,,2010,86160,B31178,Greg Laswell,I Will Not Resign,Next Time,notExplicit,2018,254000
+C7837,B31280,False,C7837,Skid Row,Monkey Business,,,2008,258413,B31280,Edric Connor,Nobody's Business,Songs From Jamaica,notExplicit,2008,146000
+C30362,B31342,False,C30362,Skindred,World Domination,,,2003,144666,B31342,HOYO-MiX,End of Domination,Paradox (Honkai Impact 3rd Original Soundtrack),notExplicit,2022,66000
+C36296,B31355,False,C36296,One Direction,Midnight Memories,,,2014,175506,B31355,Bill Hemstapat,Sunset Memories,Episode II: Unexpected Guests,notExplicit,2016,75000
+C31672,B31395,False,C31672,The Other People Place,Let Me Be Me,,,2001,466413,B31395,The Paris Sisters,Let Me Be the One,The Paris Sisters,notExplicit,1961,159000
+C33335,B31452,False,C33335,Edwin McCain,See The Sky Again,,,1999,252706,B31452,Julie Budd,Let Me Try Again,They Wrote the Songs,notExplicit,2014,254000
+C33035,B31509,False,C33035,Rodney Atkins,Farmer's Daughter,,,2015,207040,B31509,Laura Doherty,Farmer's Market,Kids in the City,notExplicit,2009,158000
+C2047,B31814,False,C2047,Stereophonics,Have a Nice Day,,,2010,206826,B31814,Don Spencer,Have a Beaut Day!,Have a Beaut Day!,notExplicit,1987,168000
+C45579,B32046,False,C45579,Celtic Woman,The Soft Goodbye,,,2008,238186,B32046,J Sugar,I'm Sorry Goodbye,Tras Mis Sueños,notExplicit,2018,237000
+C33335,B32137,False,C33335,Edwin McCain,See The Sky Again,,,1999,252706,B32137,Leslie Mandoki,Let Me Fly Again,Cyberjazz,notExplicit,1997,213000
+C28771,B32168,False,C28771,Faithless,What About Love,,,2004,418120,B32168,Hong Won Bin,What about my age,Seoul Gentleman Hong Wonbin,notExplicit,2013,192000
+C614,B32297,False,C614,The Beach Boys,Good Vibrations,,,2012,217360,B32297,Naomi Hummingbird,Higher Vibrations,"Spiritual Dancing: African Music, Grounding Meditation, Root Chakra, Emotional Release, Rhythmic Music for Transformation Vol.1",notExplicit,2022,231000
+C13421,B32526,False,C13421,Rise Against,Voices Off Camera,,,2013,136960,B32526,Peter Mergener,Voices Of Africa,Instinctive Traveller,notExplicit,1997,548000
+C14133,B32544,False,C14133,Real Estate,Talking Backwards,,,2014,190546,B32544,Viagra Boys,Upside Backwards,Call Of The Wild,Explicit,2017,321000
+C43574,B32912,False,C43574,Flaw,What I Have To Do,,,2001,340573,B32912,Paul Carrack,What a Way to Go,Suburban Voodoo,notExplicit,1982,172000
+C25613,B32989,False,C25613,Santana,Mother's Daughter,,,1970,265466,B32989,Isla Grant,Mother's Chair,The Greatest Hits of Isla Grant,notExplicit,2009,184000
+C12940,B33100,False,C12940,Cream,Mother's Lament,,,1967,107573,B33100,Copper Creek,Mother's Day Song,Round Dance Songs,notExplicit,2007,253000
+C24632,B33293,False,C24632,Lenny Kravitz,Always on the Run,,,2012,233000,B33293,Sight & Sound Theatres,Always the Plan,Jesus (Original Soundtrack Recording),notExplicit,2018,218000
+C39610,B33551,False,C39610,Johnossi,What's The Point,,,2010,255706,B33551,Male Bonding,What's That Scene,Endless Now,notExplicit,2011,205000
+C18894,B33676,False,C18894,Arch Enemy,Bridge Of Destiny,,,1998,464840,B33676,3rd Force,Bridge Of Dreams,Force Field,notExplicit,1999,259000
+C16028,B33724,False,C16028,Amorphis,Drifting Memories,,,2001,264360,B33724,ohtrapstar,Frozen Memories,Frozen Memories,Explicit,2022,166000
+C40600,B33786,False,C40600,Discovery,Can You Discover?,,,2009,142466,B33786,Warner/Chappell Productions,Age of Discovery,Commercial Lingerie 9: No Gravity,notExplicit,2015,102000
+C30529,B33831,False,C30529,The Clash,Shepherds Delight,,,2013,210106,B33831,Mxrc Clxrk,Secret Delight,Good Vibes and Broken Hearts,Explicit,2018,158000
+C43574,B33894,False,C43574,Flaw,What I Have To Do,,,2001,340573,B33894,Greg Ignatovich,I Have To Go,Domo Arigato EP,notExplicit,2021,423000
+C19166,B34115,False,C19166,Anathema,Lovelorn Rhapsody,,,2015,383066,B34115,Jody Jenkins,Desert Rhapsody,Spice Routes,notExplicit,2020,161000
+C12835,B34154,False,C12835,Newton Faulkner,I Need Something,,,2008,175693,B34154,Archie Dale,I Need a Blessing,The Return of Archie Dale and The Tones of Joy,notExplicit,2023,223000
+C13289,B34248,False,C13289,The Libertines,The Good Old Days,,,2002,179533,B34248,Matthew West,The God Who Stays,Walking Miracles - EP,notExplicit,2020,237000
+C13289,B34486,False,C13289,The Libertines,The Good Old Days,,,2002,179533,B34486,Matthew West,The God Who Stays,Brand New,notExplicit,2020,237000
+C40358,B34584,False,C40358,Tim Hecker,Careless Whispers,,,2003,311306,B34584,Ambient Rain,Lovely Whispers,Soft Night-time Music,notExplicit,2020,98000
+C25788,B34885,False,C25788,소녀시대,Flower Power,,,2012,198080,B34885,Black Moth Super Rainbow,Flowers Grow Here,"Lost, Picking Flowers in the Woods",notExplicit,2005,324000
+C50189,B35047,False,C50189,MAE,Sun (acoustic),,,2004,322360,B35047,Ricky Rich,Panama (Acoustic),CRIB SESSIONS PT.1,notExplicit,2020,99000
+C24925,B35549,False,C24925,Bowerbirds,House of Diamonds,,,2009,178000,B35549,Waking Alive,Boston Diamond,Empty Hope,notExplicit,2022,112000
+C24152,B35634,False,C24152,Kreator,Suicide Terrorist,,,2005,208520,B35634,Baby Brother 1800,Street Terrorist,STREET TERRORIST,Explicit,2024,116000
+C45086,B36098,False,C45086,Evol Intent,Double Glock,,,2008,64666,B36098,The Champs,Double Eagle Rock,Too Much Tequila,notExplicit,2022,143000
+C30498,B36245,False,C30498,Anthony B,Higher Meditation,,,2011,258653,B36245,Rain Sounds,Indian Meditation,"#1 The Sound of Rain for Sleep, Relaxing, Yoga, Panic Attacks",notExplicit,2024,78000
+C40647,B36320,False,C40647,Blackmore's Night,Diamonds And Rust,,,2003,294306,B36320,Scott Buckley,Shadows And Dust,Shadows And Dust,notExplicit,2023,409000
+C17687,B36367,False,C17687,R.E.M.,Pretty Persuasion,,,1984,233226,B36367,Frank Sinatra,Hidden Persuasion,"Frank Sinatra At His Best, Vol. 9",notExplicit,2012,147000
+C29126,B36727,False,C29126,Ohmna,Satori Waterfalls,,,2008,366413,B36727,Dormir Profundamente,Hidden Waterfalls,"Timeless Relaxation Compilation - 100 Soothing Songs for Peaceful Relaxation, Powerful Deep Sleep, and Timeless Meditation",notExplicit,2018,54000
+C11877,B36852,False,C11877,Nine Inch Nails,In This Twilight,,,2007,213813,B36852,Michael Gettel,Winter's Twilight,Places In Time,notExplicit,1992,282000
+C6231,B36872,False,C6231,The Zombies,She's Not There,,,1999,142813,B36872,Shawn Pierce,What's Out There?,Haven Score Soundtrack Volume 1,notExplicit,2013,60000
+C50562,B36990,False,C50562,Light This City,Fear Of Heights,,,2006,295920,B36990,Billy Talent,Afraid of Heights,Afraid of Heights (Deluxe Version),notExplicit,2016,226000
+C24362,B37089,False,C24362,Shadows Fall,Act Of Contrition,,,2004,220600,B37089,Black Casino and the Ghost,Age of Contagion,Until the Water Runs Clear,notExplicit,2015,240000
+C39719,B37154,False,C39719,Born Ruffians,I Need a Life,,,2008,209800,B37154,Belinda Carlisle,I Need a Disguise,Belinda (35th Anniversary Edition),notExplicit,2021,238000
+C40358,B37239,False,C40358,Tim Hecker,Careless Whispers,,,2003,311306,B37239,Music For Cats Peace,Lovely Whispers,100 Deeply Relaxing Sounds for Cats,notExplicit,2020,98000
+C20808,B37356,False,C20808,Minnie Riperton,Inside My Love,,,2010,240146,B37356,Eve 6,Inside Out (Live),The Fly Record Live,notExplicit,2020,220000
+C16604,B37363,False,C16604,Celtic Frost,Visual Aggression,,,1984,253293,B37363,Infinite Illusion,Age of Aggression,Age of Aggression,Explicit,2022,268000
+C9708,B37712,False,C9708,Amon Tobin,Wires & Snakes,,,1997,327466,B37712,Lil B,Wolves and Snakes,The Hunchback of BasedGod,notExplicit,2019,272000
+C44365,B37738,False,C44365,Jimi Hendrix,Crash Landing,,,2013,254880,B37738,SFX Connection,Spaceship Landing,Best of Cartoon & Movie Sound F-X,notExplicit,1995,26000
+C50189,B38104,False,C50189,MAE,Sun (acoustic),,,2004,322360,B38104,Meet Me @ the Altar,Garden (Acoustic),Garden (Acoustic),notExplicit,2021,278000
+C24122,B38239,False,C24122,Chimaira,No Reason To Live,,,2007,224862,B38239,Chasing Safety,No Way to Live,The Machine,notExplicit,2014,223000
+C43574,B38355,False,C43574,Flaw,What I Have To Do,,,2001,340573,B38355,blaktone,I Have To Go,Domo Arigato EP,notExplicit,2021,423000
+C7185,B38652,False,C7185,Mariah Carey,Vision of Love,,,1998,209533,B38652,Josephine Pia Wild,Visions of Gideon,Visions of Gideon,notExplicit,2021,262000
+C10216,B38703,False,C10216,Elvis Presley,Always On My Mind,,,2009,218360,B38703,Luciano,Echoes Of My Mind,Serious Times,notExplicit,2004,236000
+C8080,B39593,False,C8080,Shinedown,All I Ever Wanted,,,2003,250080,B39593,Chance Emerson,All We Ever Were,All We Ever Were,notExplicit,2021,192000
+C19540,B39606,False,C19540,HammerFall,Heeding the Call,,,2003,300013,B39606,Fire Sounds,Holding the Flame,Fire Ambience,notExplicit,2023,212000
+C46128,B39750,False,C46128,The Beat,Tears of a Clown,,,2012,161440,B39750,Jeff Ball,Secrets of a Crow,Secrets of a Crow,notExplicit,2010,267000
+C8396,B39828,False,C8396,Iron Maiden,Sea of Madness,,,1986,341933,B39828,Jung Jae Hyung,Echoes of Sadness,The Atypical Family (Original Television Soundtrack),notExplicit,2024,133000
+C17687,B39907,False,C17687,R.E.M.,Pretty Persuasion,,,1984,233226,B39907,Frank Sinatra,Hidden Persuasion,Nice 'n' Easy (Original Album With Bonus Tracks),notExplicit,2011,146000
+C6401,B39985,False,C6401,Alanis Morissette,All I Really Want,,,2013,366106,B39985,The Harmony God,Really Want,Bloodline Harmony Pt1,Explicit,2021,265000
+C1048,B40195,False,C1048,Disturbed,Inside the Fire,,,2009,231573,B40195,Devil-M,Inside the Hollow,Hollow Earth,notExplicit,2017,195000
+C30875,B40427,False,C30875,K-OS,mirror in the Sky,,,2006,201866,B40427,Shanti Chakra Friends,Dragon in the sky,Return to Tibet,notExplicit,2020,344000
+C35952,B40612,False,C35952,Crowbar,I Have Failed,,,1993,262680,B40612,Michael Patrick Kelly,I Have Called You,RUAH,notExplicit,2016,233000
+C6179,B40688,False,C6179,Destiny's Child,Lose My Breath,,,2004,242946,B40688,Crack the Sky,Holding My Breath,Ostrich,notExplicit,2012,285000
+C29126,B41436,False,C29126,Ohmna,Satori Waterfalls,,,2008,366413,B41436,Relaxing Piano Music,Hidden Waterfalls,Ultimate Relaxation Mix: Deep Sleep Edition,notExplicit,2017,56000
+C46514,B41589,False,C46514,Squirrel Nut Zippers,Winter Weather,,,1998,144466,B41589,BabyGee & Kdiows,Winter Bear Cover,Winter Bear Cover,notExplicit,2019,198000
+C26514,B41680,False,C26514,Mudvayne,Shadow of a Man,,,2002,234200,B41680,Eternal Melody,Shadow of Messiah,Persona and Animus,notExplicit,2015,282000
+C4940,B41785,False,C4940,The Subways,All Or Nothing,,,2008,192000,B41785,Fist,Double Or Nothin',Fleet Street,notExplicit,1982,217000
+C16643,B41854,False,C16643,Agathodaimon,Serpent's Embrace,,,2004,256613,B41854,The Holiday People,Winter's Embrace,Christmas In Paradise,notExplicit,2023,109000
+C28062,B41887,False,C28062,EPMD,Let The Funk Flow,,,1988,254573,B41887,The Hollywood Argyles,Do The Funky Foot,Alley Oop - The Very Best Of,notExplicit,1960,112000
+C43148,B42108,False,C43148,Cephalic Carnage,Inside Is Out,,,2005,234306,B42108,The Grodeck Whipperjenny,Inside Or Outside,The Grodeck Whipperjenny,notExplicit,2015,250000
+C23094,B42318,False,C23094,Anne Hathaway,I Dreamed a Dream,,,2012,278413,B42318,Pablo Moses,I Need a Break,The Confession of a Rastaman,notExplicit,1993,245000
+C2352,B42402,False,C2352,Jamiroquai,Canned Heat,,,1997,330533,B42402,Tommy Johnson,Canned Heat Blues,Presenting Tommy Johnson,notExplicit,1928,220000
+C891,B42603,False,C891,Scorpions,Still Loving You,,,1984,387000,B42603,Lyriq Luchiano,Regret Loving You,Now Trending,notExplicit,2023,216000
+C19876,B42904,False,C19876,Avantasia,A New Dimension,,,2001,99266,B42904,Danger Mode,Secret Dimensions,Secret Dimensions,notExplicit,2017,166000
+C1048,B42919,False,C1048,Disturbed,Inside the Fire,,,2009,231573,B42919,Ockeroid,Inside The Bucket,Monkey Wrench (Original Soundtrack),notExplicit,2022,108000
+C30696,B42990,False,C30696,Bob Marley & The Wailers,It's Alright,,,2012,156000,B42990,Shin Hae-chul ,It's alright 2019,Shin Haechul 30th Anniversary(신해철 데뷔 30주년 기념앨범) 'Ghost Touch',notExplicit,2019,328000
+C50189,B43053,False,C50189,MAE,Sun (acoustic),,,2004,322360,B43053,Jota John,Would? (Acoustic),"Cover Sessions, Vol. 4",notExplicit,2023,218000
+C49618,B43224,False,C49618,Eluveitie,Within The Grove,,,2009,111613,B43224,Paralydium,Within the Sphere,Worlds Beyond,notExplicit,2020,316000
+C48608,B43241,False,C48608,Neil Young,Love Is A Rose,,,2018,140800,B43241,Bridie Gallagher,Lovely Irish Rose,The Very Best Of Bridie Gallagher,notExplicit,2009,182000
+C9420,B43821,False,C9420,"Harry Connick, Jr.",Sleigh Ride,,,1993,220760,B43821,Soft Instrumental Christmas Music,Sleigh Ride Sling,Christmas Jazz 2021,notExplicit,2021,77000
+C28166,B43984,False,C28166,Lenny Kravitz,It's Your Life,,,1998,302733,B43984,Kirk Olsen,It's a Dog's Life,Dog Songs,notExplicit,2002,253000
+C33456,B44052,False,C33456,Merle Haggard,Workin' Man Blues,,,2013,159906,B44052,Ivy Smith & Cow Cow Davenport,My Own Man Blues,Ivy Smith & Cow Cow Davenport (1927-1930),notExplicit,2005,188000
+C42778,B44065,False,C42778,Napalm Death,Breed to Breathe,,,1997,197560,B44065,Darryl Worley,I Need A Breather,Have You Forgotten?,notExplicit,2003,219000
+C7185,B44147,False,C7185,Mariah Carey,Vision of Love,,,1998,209533,B44147,Lestat,Vision of Sorrows,Vision of Sorrows,notExplicit,1994,302000
+C10791,B44151,False,C10791,Roy Orbison,I Drove All Night,,,2014,224540,B44151,Sonata Arctica,I Have A Right,Acoustic Adventures - Volume Two,notExplicit,2022,280000
+C38529,B44351,False,C38529,The Rolling Stones,Coming Down Again,,,1973,354173,B44351,Anthony Phillips & Andrew Skeet,Holding You Again,Invisible Men (Deluxe Edition),notExplicit,1983,250000
+C26425,B44477,False,C26425,Sonic Youth,Renegade Princess,,,2000,348160,B44477,Animara,Hungry Princess,Anima,notExplicit,2017,268000
+C29126,B44478,False,C29126,Ohmna,Satori Waterfalls,,,2008,366413,B44478,Spa Music Collective,Hidden Waterfalls,"Fall 2018: Ultimate Mind, Body & Soul Focus Music Collection",notExplicit,2018,96000
+C6179,B44626,False,C6179,Destiny's Child,Lose My Breath,,,2004,242946,B44626,Ali Bakgor,Holding My Breath,Holding My Breath,notExplicit,2021,180000
+C30498,B44763,False,C30498,Anthony B,Higher Meditation,,,2011,258653,B44763,Shamanic Drumming World / Native American Music Consort,Indian Meditation,"Shamanic Meditation Journey: Native American Drums and Flute, Spiritual Healing",notExplicit,2017,228000
+C4105,B44764,False,C4105,Pixies,I've Been Tired,,,1987,180706,B44764,Mark Schultz,I Have Been There,The Best of Mark Schultz,notExplicit,2011,245000
+C30498,B44958,False,C30498,Anthony B,Higher Meditation,,,2011,258653,B44958,Regengeräusche,Mantra Meditation,"#1 The Sound of Rain for Sleep, Relaxing, Yoga, Panic Attacks",notExplicit,2024,77000
+C12772,B44997,False,C12772,Johnny Cash,Streets Of Laredo,,,2002,213426,B44997,Funk Daddy,Streets Of S.E.A,Funk Daddy Is Tha Source,Explicit,1995,267000
+C12268,B45252,False,C12268,Nico,Winter Song,,,2008,198253,B45252,LOTTY FRIENDS,Winter Games Song,로티프렌즈 시즌 영어동요,notExplicit,2022,96000
+C40358,B45771,False,C40358,Tim Hecker,Careless Whispers,,,2003,311306,B45771,Cats Music Zone,Lovely Whispers,100 Deeply Relaxing Sounds for Cats,notExplicit,2020,98000
+C6207,B46016,False,C6207,Sam Smith,Money on My Mind,,,2014,194079,B46016,Fabrizio Campanelli,Lovely on my Hand,Lost in an Orchestral Mood,notExplicit,2015,141000
+C30498,B46039,False,C30498,Anthony B,Higher Meditation,,,2011,258653,B46039,Rain Sounds,Mantra Meditation,"#1 The Sound of Rain for Sleep, Relaxing, Yoga, Panic Attacks",notExplicit,2024,77000
+C26345,B46395,False,C26345,Widowspeak,In the Pines,,,2011,229647,B46395,DrefQuila,In The Pendientes,Amatista,notExplicit,2018,183000
+C47677,B46475,False,C47677,Kate Bush,In the Warm Room,,,1978,215400,B46475,Nana Mouskouri,In The Upper Room,Gospel / Falling In Love Again,notExplicit,2008,335000
+C50562,B46809,False,C50562,Light This City,Fear Of Heights,,,2006,295920,B46809,Billy Talent,Afraid of Heights,Afraid of Heights,notExplicit,2016,226000
+C48128,B46915,False,C48128,Maxïmo Park,Fear Of Falling,,,2005,156826,B46915,Eliza Joy,Afraid of Falling,Almost,notExplicit,2021,174000
+C30498,B47055,False,C30498,Anthony B,Higher Meditation,,,2011,258653,B47055,Meditation Music Zone,Indian Meditation,"Shamanic States of Consciousness - Healing Meditation, Stop Overthinking, Ritual Chants, Kundalini Awakening, Total Peace, Audio Therapy Music",notExplicit,2018,223000
+C16821,B47357,False,C16821,James Blunt,I Really Want You,,,2007,209933,B47357,Scott Brown,Really Need You,Really Need You / Let It All Go,notExplicit,2004,342000
+C43483,B47395,False,C43483,Godsmack,Shadow Of A Soul,,,2010,281773,B47395,Peter Green,Shadow On My Door,Time Traders,notExplicit,2001,336000
+C3195,B47893,False,C3195,Beck,Emergency Exit,,,2005,241706,B47893,Chipper Hammond,Emergency Landing,Turbo Overkill (Selections from the Original Game Soundtrack),notExplicit,2023,55000
+C10687,B48253,False,C10687,Lynyrd Skynyrd,What's Your Name,,,2003,212693,B48253,DA B.O.Z.-MAN,What's your story,The Shadows Of Death,Explicit,2024,158000
+C50189,B48277,False,C50189,MAE,Sun (acoustic),,,2004,322360,B48277,pre kai ro,Garden (Acoustic),Garden (Acoustic),notExplicit,2021,217000
+C1365,B48468,False,C1365,System of a Down,Stealing Society,,,2005,178000,B48468,Julian Cope,Screaming Secrets,Saint Julian,notExplicit,1987,209000
+C34864,B48695,False,C34864,Maroon 5,Misery (acoustic),,,2010,226306,B48695,DETACH,Wasted (Acoustic),Made up of Light (Acoustic Version),notExplicit,2019,190000
+C18894,B48753,False,C18894,Arch Enemy,Bridge Of Destiny,,,1998,464840,B48753,David Lanz,Bridge Of Dreams,Bridge Of Dreams,notExplicit,1993,204000
+C28401,B49026,False,C28401,Eurythmics,I Need A Man,,,1991,261466,B49026,Rebecca Lynn Howard,I Need A Vacation,I Need A Vacation,notExplicit,2003,232000
+C14768,B49050,False,C14768,Fergie,Voodoo Doll,,,2006,263066,B49050,The Beat Daddys,Voodoo Satin Doll,Five Moons,notExplicit,2006,232000
+C10527,B49194,False,C10527,ZZ Top,Cheap Sunglasses,,,1992,287106,B49194,Deep Chillout Music Masters,Winter Sunglasses,Chillout Mix Full of Positive Energy: Cool & Uplifting Chill Out Music,notExplicit,2022,338000
+C3195,B49434,False,C3195,Beck,Emergency Exit,,,2005,241706,B49434,Gabriel Saban,Emergency Housing,Beyond Appearances,notExplicit,2017,165000
+C43610,B49557,False,C43610,Utada,Come Back To Me,,,2008,237200,B49557,Chillout,Come and Touch Me,Sexual Dreams About You – Seductive Chillout Mix Perfect for Pure Intimate Relaxation in the Bed,notExplicit,2020,222000
+C47531,B49685,False,C47531,Cranes,Pale Blue Sky,,,1994,209826,B49685,Naomi Lewis,I Have a Blue Sky,Cottage Songs,notExplicit,2018,128000
+C5920,B49832,False,C5920,Eels,I Need Some Sleep,,,2008,148186,B49832,Johnny Lawhorn and the Pentagram String Band,I Need the Sea,Blood Blood Blood,notExplicit,2023,171000
+C16353,B49971,False,C16353,Primordial,The Golden Spiral,,,2005,483173,B49971,The Manchester Carollers,The Gold of Straw,The Manchester Carols,notExplicit,2009,230000
+C35473,B50296,False,C35473,Candlemass,The Well of Souls,,,2007,445160,B50296,Tarek Mansur,Reaper of Souls,Collapsing Time,notExplicit,2016,155000
+C35578,B50697,False,C35578,Paradise Lost,Living With Scars,,,2009,263040,B50697,John Chris Group,Living with sin,Addiction to Rock,notExplicit,2019,231000
+C30498,B51003,False,C30498,Anthony B,Higher Meditation,,,2011,258653,B51003,London Philharmonic Orchestra,Thaïs: Meditation,LPO plays the Romantic Era Favourites Vol. 1,notExplicit,2010,302000
+C12194,B51236,False,C12194,Frank Zappa,Trouble Every Day,,,2014,694760,B51236,The King's Son,People Everyday,The King's Son,notExplicit,2015,226000
+C38555,B51293,False,C38555,Eric Clapton,Please Be With Me,,,2013,206281,B51293,LANDOKMAI,Please Be True,Over The Sun,notExplicit,2020,314000
+C37019,B51751,False,C37019,Sexy Sushi,Princesse voiture,,,2008,169493,B51751,Princess Power,Princess Power,Princess Power: Season 3 (Soundtrack from the Netflix Series),notExplicit,2024,50000
+C31989,B51801,False,C31989,Aerosmith,Seasons of Wither,,,1973,338840,B51801,Don Moen,Season of Hope,Christmas: A Season of Hope,notExplicit,2012,317000
+C29041,B51843,False,C29041,Tiësto,Battleship Grey,,,2005,313000,B51843,Hindu Love Gods,Battleship Chains,Hindu Love Gods,notExplicit,1990,188000
+C8306,B52390,False,C8306,Linkin Park,Until It's Gone,,,2014,233240,B52390,The Ocean Blue,"Listen, It's Gone",Beneath Rhythm And Sound,notExplicit,1992,227000
+C38116,B52449,False,C38116,Mudhoney,Twenty Four,,,1988,165760,B52449,Avery*Sunshine,Twenty Sixty Four,Twenty Sixty Four,notExplicit,2017,391000
+C41207,B52886,False,C41207,Miss Li,I Heard of a Girl,,,2009,165019,B52886,Calva Louise,I Heard a Cry,Rhinoceros,notExplicit,2019,136000
+C19205,B53141,False,C19205,Napalm Death,Negative Approach,,,1987,32933,B53141,Harry Gregson-Williams,Rescue Approach,Meg 2: The Trench (Original Motion Picture Soundtrack),notExplicit,2023,266000
+C2321,B53430,False,C2321,Calvin Harris,I Need Your Love,,,2012,234506,B53430,Peter Case,I Hear Your Voice,Beeline,notExplicit,2002,305000
+C35890,B53464,False,C35890,Minsk,Circle of Ashes,,,2007,277280,B53464,THE ALFEE,Circle Of Seasons,Hoshizorano Ceremony / Circle Of Seasons,notExplicit,2022,279000
+C48588,B53471,False,C48588,K-OS,Man I Used To Be,,,2011,232986,B53471,Jana Mougin,Like I Used To Do,Like I Used To Do,notExplicit,2024,328000
+C2321,B53489,False,C2321,Calvin Harris,I Need Your Love,,,2012,234506,B53489,Lionel Richie,I Hear Your Voice,Time,notExplicit,1998,241000
+C5276,B53597,False,C5276,Sum 41,Underclass Hero,,,2007,194133,B53597,J-L Cauvin,Middle Class Hero,Fireside Craps: The Deuce,Explicit,2020,163000
+C8662,B53841,False,C8662,Three Days Grace,Get Out Alive,,,2006,262493,B53841,New Model Army,Get Me Out (Live),...& Nobody Else (Live),notExplicit,1999,215000
+C12718,B54178,False,C12718,Cat Power,Silver Stallion,,,2008,174196,B54178,Ray Keith,Silver Dread Lion,"Ray Keith Presents Dread Digital Dubplate Archive, Vol. 2",notExplicit,2013,378000
+C20684,B54232,False,C20684,The Isley Brothers,It's Your Thing,,,1999,235026,B54232,Lau Frank,It's A Jazz Thing,It's A Jazz Thing,notExplicit,2018,408000
+C34864,B54269,False,C34864,Maroon 5,Misery (acoustic),,,2010,226306,B54269,Rosendale,Divine (Acoustic),Divine (Acoustic),notExplicit,2018,202000
+C37019,B55193,False,C37019,Sexy Sushi,Princesse voiture,,,2008,169493,B55193,Bitter Velvet,Princess Within,Unleashed Fears,notExplicit,2023,285000
+C21091,B55428,False,C21091,A Tribe Called Quest,Like It Like That,,,2009,166880,B55428,Projectboy Huncho,Like I'm Lil Tae,Who Is Cho,Explicit,2024,107000
+C49891,B55447,False,C49891,Kiuas,Call Of The Horns,,,2006,218813,B55447,No Innocent Victim,All Of The Color,Flesh And Blood,notExplicit,1999,98000
+C789,B55577,False,C789,The Killers,Change Your Mind,,,2004,190840,B55577,Noel,Change (Club Mix),Change,notExplicit,1993,476000
+C50677,B55693,False,C50677,X Japan,Born To Be Free,,,2015,332848,B55693,Nothing Left,Living to Be Free,But Whats Inside,notExplicit,2008,169000
+C32223,B55842,False,C32223,Lo-Fi-Fnk,Change Channel,,,2006,199626,B55842,Laicositna,Change For Change,Change For Change,Explicit,2022,214000
+C48588,B56036,False,C48588,K-OS,Man I Used To Be,,,2011,232986,B56036,The Seldom Scene,Like I Used To Do,Like We Used To Be,notExplicit,1994,249000
+C32223,B56162,False,C32223,Lo-Fi-Fnk,Change Channel,,,2006,199626,B56162,RTZ,Change For Change,Lost In America,notExplicit,1998,241000
+C24508,B56173,False,C24508,Kreator,Living In Fear,,,1985,190693,B56173,Axel Rudi Pell,Living in a Dream,Sign of the Times,notExplicit,2020,358000
+C9749,B56460,False,C9749,Jill Scott,Slowly Surely,,,2000,275666,B56460,Magik Brothers,Slowly but Surley,Zodiac Forever,notExplicit,2008,203000
+C37458,B56554,False,C37458,Penumbra,Tragical Memories,,,2003,348573,B56554,hngT,Unreal Memories,Unreal Memories,notExplicit,2024,353000
+C3698,B56574,False,C3698,Daft Punk,Rock'n Roll,,,1997,453866,B56574,Betty Blue,Rock'n Roll Party,JADE,notExplicit,1991,233000
+C3181,B56663,False,C3181,Rihanna,Kiss It Better,,,2016,253080,B56663,Kina,Wish I Was Better,Wish I Was Better,notExplicit,2020,141000
+C28943,B56701,False,C28943,Cascada,I Will Believe It,,,2007,176520,B56701,Yung Redd,Please Believe It,Eviction Notice 3,Explicit,2009,140000
+C1131,B56972,False,C1131,Billy Talent,Fallen Leaves,,,2007,208040,B56972,Reza Safinia,Father Jun Leaves,Warrior: Season 2 (Cinemax Original Series Soundtrack),notExplicit,2021,64000
+C38759,B57000,False,C38759,Thurston Moore,Psychic Hearts,,,1995,239320,B57000,Chillout Sound Festival,Psychedelic Beats,Colorful Atmosphere: Psychedelic Trance Music Mix for Festivals,notExplicit,2022,125000
+C5014,B57023,False,C5014,Rogue Wave,Like I Needed,,,2007,181680,B57023,Kenny Turnup,Like I Never Left,Hell B4 Heaven,Explicit,2017,182000
+C38555,B57111,False,C38555,Eric Clapton,Please Be With Me,,,2013,206281,B57111,Billy May,Please Be Kind,Big Band Bash!,notExplicit,1952,154000
+C19419,B57285,False,C19419,Hypocrisy,Living To Die,,,2006,340253,B57285,Stan Webb,Living This Dream,Get A Little Country On You,notExplicit,2009,185000
+C97,B57378,False,C97,Weezer,Island in the Sun,,,2009,200066,B57378,Cobi,Island in My Mind,Island in My Mind,notExplicit,2019,243000
+C16876,B57438,False,C16876,Jason Reeves,Someone Somewhere,,,2015,268280,B57438,Naimthedream,Island Somewhere,Island Somewhere,Explicit,2020,179000
+C42319,B57547,False,C42319,ElectricOkra,Twenty-Four Hours,,,2011,183066,B57547,Patch the Pirate,Twenty-Four/Seven,Rise and Shine,notExplicit,2005,194000
+C38555,B57659,False,C38555,Eric Clapton,Please Be With Me,,,2013,206281,B57659,Ella Fitzgerald,Please Be Kind,Ella For Lovers,notExplicit,2003,214000
+C39519,B57832,False,C39519,Slow Club,Giving Up On Love,,,2009,171106,B57832,Jimmy Dean,Waking up to Love,I.O.U.,notExplicit,1973,188000
+C9394,B58078,False,C9394,Pink Floyd,Biding My Time,,,1971,318266,B58078,Last Lynx,Taking Up My Time,Alaska EP,notExplicit,2011,320000
+C29148,B58204,False,C29148,Ohmna,People Get Lost,,,2007,547681,B58204,Taylon Twins,People Dey Hustle,People Dey Hustle,notExplicit,2024,203000
+C33601,B58265,False,C33601,Lagwagon,Island Of Shame,,,1994,159546,B58265,Luiz Bonfá  ,Island of Tindade,Amor! Fabulous Guitar Of Luiz Bonfa,notExplicit,2006,154000
+C18256,B58298,False,C18256,Porcupine Tree,Up the Downstair,,,1993,614733,B58298,No Noise,People Downstairs,Strange Times,notExplicit,2015,179000
+C10944,B58398,False,C10944,Boards of Canada,Diving Station,,,2002,86706,B58398,Jun Sato,Divine Protection,交渉人〜THE NEGOTIATOR〜オリジナルサウンドトラック・コンプリート,notExplicit,2010,147000
+C38555,B58415,False,C38555,Eric Clapton,Please Be With Me,,,2013,206281,B58415,Count Basie,Please Be Kind,Sinatra - Basie,notExplicit,2013,164000
+C9752,B58508,False,C9752,George Benson,This Masquerade,,,1995,196826,B58508,Cure2tron,Bloody Masquerade,Duel Gig Vol.1,notExplicit,2017,296000
+C46146,B58558,False,C46146,Reel Big Fish,Story Of My Life,,,2005,250146,B58558,Mantovani,Colors Of My Love,All Time Greatest Moments,notExplicit,2008,235000
+C11468,B58634,False,C11468,Moby,Walk With Me,,,2009,241386,B58634,Luigi Tessarollo Quartet,I Walk With Music,Tribute To Hoagy Carmichael,notExplicit,2008,196000
+C1442,B58798,False,C1442,Evanescence,Taking Over Me,,,2003,229973,B58798,Rachel Coleman,Taking Care of Me,Happy Healthy Me,notExplicit,2014,175000
+C6561,B58864,False,C6561,Elvis Presley,It's Now or Never,,,2013,196866,B58864,Jet Set Satellite,If Not Now Never,End of an Era,notExplicit,2008,298000
+C35642,B59003,False,C35642,Witchfinder General,Free Country,,,1982,190626,B59003,Cutty Ranks,Circle Me Country,Reggae Anthology: Cutty Ranks - Limb By Limb,notExplicit,2008,211000
+C25030,B59267,False,C25030,Mastodon,Battle at Sea,,,2006,253426,B59267,Popof,Battle (Rap Beat),"Beat Tape Rap Instrumentals, Vol. 1",Explicit,2014,224000
+C38746,B59552,False,C38746,Texas,Guitar Song,,,2000,236560,B59552,Twinkle twinkle little star,Guitar Baby Songs,"Baby Sleep Music: Soothing Baby Lullabies, Baby Music and Soft Instrumental Baby Sleeping Music",notExplicit,2021,120000
+C31989,B59853,False,C31989,Aerosmith,Seasons of Wither,,,1973,338840,B59853,Christmas Songs Playlist,Season of Giving,Christmas In Paradise,notExplicit,2023,81000
+C50670,B59950,False,C50670,Fact,Lights Of Vein,,,2009,196453,B59950,Halloween Music,Nights Of Witchin,25 Dark Creepy Halloween Ambience,notExplicit,2023,86000
+C18804,B60054,False,C18804,Whitechapel,Father Of Lies,,,2008,243786,B60054,Roger Bellon,Father Denis Dies,The Unholy (Original Motion Picture Soundtrack),notExplicit,2011,191000
+C34097,B60131,False,C34097,Amorphis,Wrong Direction,,,2018,309132,B60131,Cannibal Corpse,Living Dissection,Butchered At Birth,Explicit,1991,239000
+C26427,B60195,False,C26427,Mogwai,Like Herod (live),,,1997,473333,B60195,Steve Gadd,Like It Is (Live),Blicher Hemmer Gadd,notExplicit,2014,288000
+C37252,B60562,False,C37252,Casiotone for the Painfully Alone,Love Connection,,,2006,194120,B60562,The Skatalites,Divine Conception,On The Right Track,notExplicit,2007,260000
+C7559,B60590,False,C7559,Three Days Grace,It's All Over,,,2006,249320,B60590,Philip Labes,It's All Material,It's All Material,notExplicit,2024,206000
+C38555,B60632,False,C38555,Eric Clapton,Please Be With Me,,,2013,206281,B60632,Django Reinhardt,Please Be Kind,1938-1939,notExplicit,2024,166000
+C10137,B60709,False,C10137,Bob Dylan,Masters of War,,,2008,338400,B60709,John Beal,Casualties of War,"Coming Soon: The John Beal Trailer Project, Vol. 1",notExplicit,2014,128000
+C48949,B61070,False,C48949,KMFDM,People Of The Lie,,,2009,293453,B61070,Dead Cult,People of Lies,Fall,notExplicit,2016,221000
+C8662,B61151,False,C8662,Three Days Grace,Get Out Alive,,,2006,262493,B61151,New Model Army,Get Me Out (Live),Original Album Series,notExplicit,2014,212000
+C31285,B61333,False,C31285,Sneaker Pimps,Ten to Twenty,,,1999,270226,B61333,Karen Mitzo Hilderbrand,Numbers to Twenty,Twin Sisters - French,notExplicit,2015,139000
+C38777,B61527,False,C38777,Five for Fighting,I Just Love You,,,1997,240080,B61527,B5,I Must Love Drama,"Don't Talk, Just Listen",notExplicit,2007,256000
+C40279,B61533,False,C40279,Crocodiles,Stoned To Death,,,2010,323586,B61533,Jeza Beats,Stoner Trap Beats,Stoner Trap Beats,notExplicit,2021,133000
+C38555,B61554,False,C38555,Eric Clapton,Please Be With Me,,,2013,206281,B61554,Original Dixieland Jazz Band,Please Be Kind,The Best of Dixieland,notExplicit,2014,178000
+C12646,B61598,False,C12646,Lisa Mitchell,Neopolitan Dreams,,,2009,193946,B61598,Pure Saturday,Utopian Dream,Our Sincere Desire,notExplicit,2023,243000
+C34864,B61637,False,C34864,Maroon 5,Misery (acoustic),,,2010,226306,B61637,Rosendale,Unwell (Acoustic),Modern Myths For A Crazy World (Acoustic),notExplicit,2022,203000
+C19333,B61739,False,C19333,Hypocrisy,Fire in the Sky,,,2000,298360,B61739,Firkin,Finger in the Pie,Finger in the Pie,notExplicit,2015,190000
+C12194,B61889,False,C12194,Frank Zappa,Trouble Every Day,,,2014,694760,B61889,音楽：今堀　恒雄,People Everyday,TRIGUN ORIGINAL SOUNDTRACK THE FIRST DONUTS,notExplicit,1998,176000
+C12461,B62074,False,C12461,Johnny Cash,Orange Blossom Special,,,2012,241120,B62074,Charlie McCoy,Orange Blossom Special (Version 2),Good Time Charlie,notExplicit,1973,171000
+C38555,B62429,False,C38555,Eric Clapton,Please Be With Me,,,2013,206281,B62429,Papa Wemba,Please My Wife,Ya Biso Moko (Nouvelle écriture),notExplicit,2014,392000
+C10944,B63190,False,C10944,Boards of Canada,Diving Station,,,2002,86706,B63190,Mocni w Duchu,Divine Navigation,Power On,notExplicit,2017,223000
+C44403,B63199,False,C44403,Jimmy Page,Writes Of Winter,,,1988,207666,B63199,Dan Gibson,Rituals of Winter,Legend of the Wolf,notExplicit,1995,469000
+C32588,B63529,False,C32588,The Supremes,I Hear A Symphony,,,1983,163266,B63529,The DeCastro Sisters,I Hear A Melody,Teach Me Tonight - The Best Of,notExplicit,2010,174000
+C34864,B63664,False,C34864,Maroon 5,Misery (acoustic),,,2010,226306,B63664,Jadon Lavik,Father (Acoustic),Jadon Lavik Collection,notExplicit,2022,269000
+C7597,B63746,False,C7597,Korn,All in the Family,,,1998,288800,B63746,Richard Myhill,All in a Smile,Leisure Style,notExplicit,1991,175000
+C33653,B63772,False,C33653,Eels,Living Life,,,2007,169826,B63772,Chris Ballin,Living Life Alone,Do It Right,notExplicit,2006,289000
+C28971,B63817,False,C28971,Oceanlab,Sirens Of The Sea,,,2008,356786,B63817,Baby Lullaby,Direct to the Sea,Just Tranquility,notExplicit,2019,216000
+C23580,B63869,False,C23580,B.B. King,Please Love Me,,,2015,169246,B63869,YOUNG DRUG,Please smoke less,Butterfly,notExplicit,2023,259000
+C3125,B63981,False,C3125,The Album Leaf,Twentytwofourteen,,,2004,340840,B63981,Gemini Five,TwentyFourSeven,Babylon Rockets,notExplicit,2003,212000
+C38555,B64047,False,C38555,Eric Clapton,Please Be With Me,,,2013,206281,B64047,Peggy Lee,Please Be Kind,Two of a Kind: Ella Fitzgerald & Peggy Lee,notExplicit,2022,250000
+C48588,B64087,False,C48588,K-OS,Man I Used To Be,,,2011,232986,B64087,Matt Leavy,Like I Used To Do,"...""Like I Used To Do""",notExplicit,2019,272000
+C14010,B64259,False,C14010,Anti-Flag,Sold As Freedom,,,2003,136773,B64259,Elliott Jack Sansom,Melody To Freedom,Finding Beauty,notExplicit,2022,204000
+C33947,B77438,False,C33947,Ensiferum,Finnish Medley,,,2007,310066,B77438,Del Way,Praise Medley,My Time With You- In Memory,notExplicit,2009,804000
+C47717,B77465,False,C47717,Bauhaus,Mirror Remains,,,2012,298186,B77465,Kadavar,Mirror of Lies,Kadavar,notExplicit,2009,191000
+C1708,B77531,False,C1708,Led Zeppelin,That's the Way,,,1970,337109,B77531,Whitefish Bay Singers,That's a Wrap,Oshkè Yè II,notExplicit,2007,240000
+C11766,B77581,False,C11766,Massive Attack,The Academy,,,2005,102173,B77581,DoseOne,Escape Academy,Escape Academy (Original Soundtrack),notExplicit,2022,184000
+C46020,B77613,False,C46020,Ska-P,No Te Pares,,,1996,266533,B77613,Jesús Adrián Romero,No Hay Paredes,Ayer Te Vi…Fue Más Claro Que La Luna,notExplicit,2005,247000
+C19459,B77639,False,C19459,Graveyard,Endless Night,,,2013,166093,B77639,Henri Sorvali,Jungle - Night,Angry Birds Pop Blast (Original Game Soundtrack),notExplicit,2022,211000
+C15585,B77744,False,C15585,Mylo,Guilty Of Love,,,2004,186453,B77744,Louden Swain,Guilty One,Feelings and Such,notExplicit,2022,170000
+C49888,B77817,False,C49888,Frank Sinatra,Spring Is Here,,,2013,283515,B77817,Brandon Fiechter,Spring Harp,Easter Valley,notExplicit,2022,193000
+C8579,B77819,False,C8579,blink-182,I'm Lost Without You,,,2003,380546,B77819,Donald Fagen,I'm Not the Same Without You,Sunken Condos,notExplicit,2012,272000
+C42834,B77870,False,C42834,Nasum,I Hate People,,,2003,96600,B77870,Alexis Gulley,I Hate Georgia,I Hate Georgia,notExplicit,2023,195000
+C22129,B78058,False,C22129,Q-Tip,Johnny Is Dead,,,2008,181493,B78058,Joski Love,Johnny Depp,Bruce Lean Chronicles,Explicit,2014,201000
+C47304,B78204,False,C47304,Black Rebel Motorcycle Club,Gospel Song,,,2005,271226,B78204,"Joseph Yazbeck, Elie Abou Mrad, Ramzi Saad",Gospel Reading,"Great Compline Service (Byzantine Collection, Vol. 6)",notExplicit,2016,133000
+C23912,B78308,False,C23912,Captain Beefheart & His Magic Band,Autumn's Child,,,1967,241733,B78308,Brian Crain,Autumn's Echo,Inside the Melody,notExplicit,2001,186000
+C36106,B78420,False,C36106,Elvis Presley,Silver Bells,,,2014,150160,B78420,Meister der Schlaflieder,Spirited Bells,17 Ruhige Klänge zum Entspannen und Entspannen,notExplicit,2018,307000
+C49855,B78755,False,C49855,Silentium,Autumn Heart,,,2000,336133,B78755,NBSPLV,Autumn on Mars,Mixtape 11,notExplicit,2017,232000
+C21597,B78823,False,C21597,Hans Zimmer,A Way of Life,,,2003,483706,B78823,Birdy,Autumn of Life,Nightbird,notExplicit,2016,225000
+C36106,B78864,False,C36106,Elvis Presley,Silver Bells,,,2014,150160,B78864,Reiki Aromonia,Spirited Bells,"19 Soothing, Relaxing Sounds for Mindfulness",notExplicit,2018,307000
+C49888,B79231,False,C49888,Frank Sinatra,Spring Is Here,,,2013,283515,B79231,Constantin Dourountzis,Spring Flower,"Greek Party / Syrtaki Dance, Vol. II",notExplicit,2017,235000
+C46822,B79296,False,C46822,Colleen,Sweet Rolling,,,2005,244440,B79296,Stu Bangas,How We Rolling,3rd Chamber Grail Bars Limited Wu-Tang Gold Edition,Explicit,2022,170000
+C12133,B79390,False,C12133,Roxy Music,Do the Strand,,,2011,240213,B79390,Wotsthekid,Doctor Strange,Wotsthekid IV,Explicit,2023,118000
+C5619,B79431,False,C5619,Yo La Tengo,Autumn Sweater,,,2014,317893,B79431,No Angels,Autumn Breeze,Now...US!,notExplicit,2002,213000
+C28383,B79573,False,C28383,No Doubt,Looking Hot,,,2012,282600,B79573,Paul McCartney,Looking At Her,NEW (Deluxe Edition),notExplicit,2013,186000
+C20665,B79586,False,C20665,Kool & The Gang,Jungle Boogie,,,2013,182186,B79586,beef,Jungle Bumpin',Jungle Japes,notExplicit,2021,146000
+C44356,B79611,False,C44356,Supertramp,Easy Does It,,,1975,140160,B79611,Zhu Jintai,Gently Does It,Ancient China,notExplicit,2019,74000
+C17030,B79688,False,C17030,Benny Benassi,I Love My Sex,,,2003,207354,B79688,Sek Loso,I Hate My Self,The Very Best Of Sek Loso II,notExplicit,2007,251000
+C26676,B79744,False,C26676,Symphony X,Awakenings,,,2002,501733,B79744,Knights／Leo Tsukinaga(CV.Shintaro Asanuma)、Izumi Sena(CV.Masami Itou)、Ritsu Sakuma(CV.Daiki Yamashita)、Arashi Narukami(CV.Ryo Kitamura)、Tsukasa Suou(CV.Reiou Tsuchida),Awakening Myth,TV ANIMATION ENSEMBLE STARS! ENDING THEME COLLECTION 06,notExplicit,2020,235000
+C47201,B79803,False,C47201,Moritz von Oswald,Ole (Remix),,,2008,628040,B79803,Vincent Lima,Escape (Remix),Escape (Remix),notExplicit,2019,190000
+C35497,B79822,False,C35497,Eyehategod,Dixie Whiskey,,,1996,175360,B79822,Rory Block,Lovin' Whiskey,Ain't Nobody Worried,notExplicit,2022,248000
+C5038,B79859,False,C5038,My Morning Jacket,Look At You,,,2008,207493,B79859,Yehudi Menuhin,Looking at you,Icon: Menuhin and Grappelli,notExplicit,2009,205000
+C47530,B79957,False,C47530,Pity Sex,Hollow Body,,,2013,109614,B79957,Proletariat,Hollow Victory,Voodoo Economics And Other American Tragedies,notExplicit,1998,164000
+C33452,B79993,False,C33452,Dixie Chicks,Bitter End,,,2006,278533,B79993,Elixir Nocturne,Bitter Ecuador,Resonanz Flavor -Coffee&Chocolate-,notExplicit,2023,245000
+C4018,B80318,False,C4018,Wilco,Hate It Here,,,2007,270920,B80318,Shane Howard,Rather be Here,Other Side of the Rock,notExplicit,2012,291000
+C15926,B80365,False,C15926,Roadrunner United,The Dagger,,,2005,332466,B80365,Slomatics,Tunnel Dragger,Estron,notExplicit,2014,356000
+C27805,B80369,False,C27805,Erykah Badu,Master Teacher,,,2008,407733,B80369,Rokeri s Moravu,Mister drajver,Sabrana nedela 1,notExplicit,2004,178000
+C38314,B80445,False,C38314,Love And Rockets,Mirror People,,,1987,245933,B80445,SOFT PLAY,Mirror Muscles,Everything and Nothing,Explicit,2024,162000
+C24975,B80467,False,C24975,Jasmine Thompson,Rather Be,,,2014,247816,B80467,Heather Maloney,Rather Be Free,Making Me Break,notExplicit,2015,245000
+C49649,B80483,False,C49649,Orphaned Land,The Warrior,,,2010,431160,B80483,iBenji,Jungle Warrior,Never Get Burn,notExplicit,2015,254000
+C10746,B80553,False,C10746,The Kinks,Autumn Almanac,,,2002,190760,B80553,Native American Nature,Autumn Aurora,Eternity: Native American Flute and Nature Sounds For Spa and Sleep,notExplicit,2020,132000
+C9764,B80577,False,C9764,Parov Stelar,Autumn Song,,,2005,237426,B80577,Dreamlife,Autumn Meeting,Autumn Meeting,notExplicit,2018,425000
+C40482,B80614,False,C40482,Passengers,United Colours,,,1995,330960,B80614,John Sumner,United Fronts,Breaking and Exiting,notExplicit,2016,116000
+C21506,B80640,False,C21506,Ladytron,I'm Not Scared,,,2008,238306,B80640,ENDO,I'm Now Savage,Q,Explicit,2020,113000
+C5554,B80659,False,C5554,Beach House,10 Mile Stereo,,,2010,303853,B80659,Shotty Horroh,My Old Stereo,Xombie Xoo,notExplicit,2013,168000
+C9764,B80777,False,C9764,Parov Stelar,Autumn Song,,,2005,237426,B80777,Jazzinho,Autumn Monsoon,Veludo,notExplicit,2013,308000
+C26392,B80812,False,C26392,65daysofstatic,Safe Passage,,,2013,357573,B80812,Group-Forty Orchestra,Stormy Passage,"Themes for Radio, Film and Television, Vol. 26",notExplicit,2016,139000
+C7116,B80942,False,C7116,Bat for Lashes,Seal Jubilee,,,2006,284213,B80942,Lloyd Glenn,Jungle Jubilee,Old time shuffle (1974) (The Definitive Black & Blue Sessions),notExplicit,2008,238000
+C39145,B81484,False,C39145,Röyksopp,Go Away (Live),,,2006,335706,B81484,Insieme,Gloria (Live),Insieme Live,notExplicit,2017,202000
+C9594,B81490,False,C9594,Cat Power,Still in Love,,,1996,209733,B81490,DIM3NSION,United in Love,United in Love,notExplicit,2024,207000
+C33947,B81512,False,C33947,Ensiferum,Finnish Medley,,,2007,310066,B81512,W. David Cannon,Praise Medley,How Great Thou Art: Inspirational Songs and Hymns for Trombone,notExplicit,2020,207000
+C10998,B81543,False,C10998,Vangelis,Rachel's Song,,,2008,259720,B81543,Daniel Pemberton,Rachel's Death,Upstairs Downstairs: Original Soundtrack From The BBC TV Series,notExplicit,2010,102000
+C19339,B81547,False,C19339,Entombed,Living Dead,,,1998,362600,B81547,Jim & Melissa Brady,Livin' A Dream,Our Love Songs,notExplicit,2023,185000
+C12489,B81666,False,C12489,José González,In Our Nature,,,2007,162680,B81666,Preson Phillips,In Our Winters,In Our Winters,notExplicit,2014,321000
+C5420,B81667,False,C5420,The Kooks,Stormy Weather,,,2010,240800,B81667,Ocean Sounds Collection,Stormy Sea,The Music of Nature: Rain,notExplicit,2018,156000
+C24975,B81702,False,C24975,Jasmine Thompson,Rather Be,,,2014,247816,B81702,New American Shame,Rather Be Rich,New American Shame,notExplicit,1999,202000
+C32830,B81750,False,C32830,The Shadows,Man of Mystery,,,2011,121920,B81750,NCYC,Man of Dust,Hand of God,notExplicit,2023,250000
+C6068,B81818,False,C6068,John Legend,All of Me,,,2014,269493,B81818,The Paradons,Take All of Me,The Paradons & The Trend Tones,notExplicit,2014,144000
+C11018,B81825,False,C11018,Four Tet,Spirit Fingers,,,2003,202106,B81825,Native American Flute,Spirit Free,"Meditation Lounge – New Age Music, Buddhism Meditation, Lounge 2017, Relaxation & Meditation, Yoga Music",notExplicit,2017,217000
+C49855,B81865,False,C49855,Silentium,Autumn Heart,,,2000,336133,B81865,BGM channel,Autumn Jewelry,紅葉読書,notExplicit,2023,156000
+C28886,B81915,False,C28886,Astral Projection,People Can Fly,,,1994,595466,B81915,Richie Kotzen,Wheels Can Fly,Fever Dream,notExplicit,1990,197000
+C49888,B81946,False,C49888,Frank Sinatra,Spring Is Here,,,2013,283515,B81946,Jay Cevon,Spring's Eve,Spring's Eve,Explicit,2021,296000
+C11018,B82000,False,C11018,Four Tet,Spirit Fingers,,,2003,202106,B82000,The Peaceful Collective,Spirit Guides,The Ultimate New Age Collection,notExplicit,2012,496000
+C50502,B82154,False,C50502,Darkest Hour,Escape Artist,,,2001,259506,B82154,Le Lone Ranger,Escape Convict,Rosemarie Meets D.J. Daddy,notExplicit,1982,230000
+C7063,B82191,False,C7063,Nelly Furtado,No Hay Igual,,,2006,219106,B82191,Konsumo Respeto,No Hay Cuartel,Como Te Iba Diciendo…,notExplicit,2014,232000
+C16461,B82204,False,C16461,Samael,Western Ground,,,2007,245253,B82204,Arthur Kalb,Mister Grouch,In A Little Red Schoolhouse,notExplicit,2019,96000
+C11802,B82253,False,C11802,Jon Hopkins,Autumn Hill,,,2009,160040,B82253,Mizuho Yasuda,Autumn Drizzle,Japan Today: J-Pop & Rock,notExplicit,2015,204000
+C11191,B82599,False,C11191,Spiritualized,Stay With Me,,,1997,308160,B82599,Leek OTG,Get Up With Me,Get Up With Me,Explicit,2022,151000
+C21145,B82627,False,C21145,The Roots,Tunnel Vision,,,2010,40906,B82627,Angus MacLise,Tunnel music 1,The cloud doctrine,notExplicit,2003,172000
+C24206,B82628,False,C24206,Testament,Killing Season,,,2008,292906,B82628,Don Gibson,Lovin' Season,Dottie West & Don Gibson,notExplicit,1969,151000
+C898,B82732,False,C898,Marilyn Manson,This Is the New Shit,,,2004,260093,B82732,Anti-Flag,This Is the New Sound (Live),"Live, Vol. 2",notExplicit,2019,166000
+C27452,B82796,False,C27452,Digitalism,Taken Away (Instrumental),,,2008,187653,B82796,AZ,Rather Unique (Instrumental),Greatest Beats (Instrumentals),notExplicit,2019,286000
+C47095,B82913,False,C47095,Audion,Just Fucking,,,2008,352360,B82913,Barbara Mandrell,Just A Pickin',Masters Of The Last Century: Best of Barbara Mandrell,notExplicit,2014,149000
+C28510,B82921,False,C28510,New Order,Guilty Partner,,,1989,288013,B82921,K.Matsuoka,Guilty fangs,DRAGON POKER ORIGINAL SOUNDTRACK 5,notExplicit,2021,219000
+C19724,B82932,False,C19724,Scorpions,Alien Nation,,,2006,344040,B82932,The Viceroys,United Nations,Brethren & Sistren,notExplicit,2024,189000
+C33125,B83229,False,C33125,Billy Currington,That's How Country Boys Roll,,,2012,225666,B83229,The Johner Brothers,That's How the Boys Play,My Brother and Me,notExplicit,1993,209000
+C17724,B83480,False,C17724,The La's,Son of a Gun,,,2001,117173,B83480,Rob Gee,Son of Rob Gee,30 Years Of Rob GEE,notExplicit,2023,263000
+C30609,B83523,False,C30609,Dennis Brown,Things In Life,,,1986,211850,B83523,Julien Lavoie,Things I Said,Things I Said,Explicit,2020,226000
+C8763,B83525,False,C8763,Perry Como,Magic Moments,,,2013,158786,B83525,Chillout Lounge,Monday Moments,Lofi Chill for Youngsters,notExplicit,2023,197000
+C34584,B83553,False,C34584,Scar Symmetry,Radiant Strain,,,2009,255513,B83553,Steve Roach,Radiant Mind,Sense,notExplicit,2014,1369000
+C2316,B83600,False,C2316,Cut Copy,Hearts On Fire,,,2008,292560,B83600,Frumious Bandersnatch,Hearts to Cry,The Studio Outtakes,notExplicit,2003,327000
+C30609,B83634,False,C30609,Dennis Brown,Things In Life,,,1986,211850,B83634,Brother Culture,Things to See,City of Vibes,notExplicit,2011,224000
+C12010,B83695,False,C12010,Dirty Projectors,Useful Chamber,,,2009,388173,B83695,Ivor Cutler,Useful Cat,Velvet Donkey,notExplicit,1975,27000
+C5682,B83780,False,C5682,Kaiser Chiefs,Saturday Night,,,2005,206960,B83780,Beachwood Sparks,Nature's Light,The Tarnished Gold,notExplicit,2012,282000
+C25988,B83814,False,C25988,The Notwist,Gloomy Planets,,,2008,289840,B83814,IDXO,Gloomy Face,Gloomy Face,notExplicit,2023,190000
+C38629,B83836,False,C38629,Caetano Veloso,Triste Bahia,,,1972,584106,B83836,Flor da Serra e Pinheirá,Triste Notícia,Flor da Serra e Pinheirá,notExplicit,1968,147000
+C21970,B84166,False,C21970,Sarah Brightman,Misere Mei,,,2003,54659,B84166,Madricale,Miseremini mei,Sempre fidi (Canti sacri è prufani di Corsica),notExplicit,2015,105000
+C8242,B84180,False,C8242,Gojira,Flying Whales,,,2016,464453,B84180,Sławek Jaskułke,Flying Flowers,The Son,notExplicit,2019,475000
+C38629,B84256,False,C38629,Caetano Veloso,Triste Bahia,,,1972,584106,B84256,Grupo Restauracion,Triste Cancion,"Orando Por Ti, Vol. 4",notExplicit,1998,213000
+C24586,B84329,False,C24586,Edguy,Holy Shadows,,,1999,270373,B84329,The Newcranes,Box of Shadows,Frontline,notExplicit,1992,234000
+C22995,B84393,False,C22995,Massive Attack,Simple Rules,,,2005,80573,B84393,White Noise,Simply Relaxed,Sleep Therapy: Soothing Winter Vibes,notExplicit,2020,169000
+C35513,B84773,False,C35513,My Dying Bride,A Doomed Lover,,,2004,474080,B84773,Deftones,Doomed User,Doomed User,Explicit,2016,267000
+C40422,B84790,False,C40422,Ariel Pink's Haunted Graffiti,Flying Circles,,,2006,235933,B84790,Luke Haines,Flying People,All The Kids Are Super Bummed Out,notExplicit,2022,154000
+C20350,B84851,False,C20350,Silverstein,American Dream,,,2009,188253,B84851,Cemetary Creeper,Amandas Dream,Piano Tunes 1,notExplicit,2016,144000
+C21571,B84872,False,C21571,Samuel Barber,"Adagio for Strings, Op. 11",,,2014,431412,B84872,Antonio Vivaldi,Adagio for strings and organ,Ligonier Sinfonia: Music of the High Baroque 1700-1750,notExplicit,2009,516000
+C23060,B84996,False,C23060,Carlos Gardel,Por una cabeza,,,2014,154775,B84996,Ministerio Adoradores de Cristo,Por un Papel,Gloriosos Triunfos,notExplicit,2011,281000
+C21207,B85223,False,C21207,Barry White,What Am I Gonna Do With You,,,2009,218986,B85223,The Harden Trio,What Am I Gonna Tell 'Em Now,Sing Me Back Home,notExplicit,1968,167000
+C38629,B85268,False,C38629,Caetano Veloso,Triste Bahia,,,1972,584106,B85268,Antônio Carlos Jobim,Triste Alegria,Miúcha & Tom Jobim Vol. 2,notExplicit,2001,125000
+C9950,B85277,False,C9950,Skalpel,Flying Officer,,,2005,267160,B85277,Central Band of the Royal Air Force,Flying Review,The Best of The Central Band of the Royal Air Force,notExplicit,2010,196000
+C24051,B85437,False,C24051,B.B. King,Ghetto Woman,,,2009,312250,B85437,Bobby Blaze,Ghetto Scholar,The Text,notExplicit,2006,239000
+C792,B85472,False,C792,Radiohead,Lotus Flower,,,2011,300219,B85472,Smooth Morning Jazz,Loving Flowers,"Jazz for Smooth Mornings, Vol 3",notExplicit,2020,129000
+C23060,B85604,False,C23060,Carlos Gardel,Por una cabeza,,,2014,154775,B85604,José Velazco,Por una Mirada,Cantor Fogonero,notExplicit,2020,211000
+C10985,B85609,False,C10985,Zero 7,Seeing Things,,,2006,309786,B85609,Kankick,Seeing Spirits,Outer Xellence (Kan Essentials),notExplicit,2019,174000
+C16134,B85647,False,C16134,Chino & Nacho,Niña Bonita,,,2010,215826,B85647,Gerardo Fernandez,"Bonita, Bonita","Bonita, Bonita",notExplicit,2004,176000
+C46385,B85653,False,C46385,Babylon Circus,No Competition,,,2008,166760,B85653,DJ Quik,So Compton,The Book of David,Explicit,2011,220000
+C24779,B85731,False,C24779,The Smashing Pumpkins,Tristessa,,,1991,212240,B85731,Parada Firme em Jesus,Triste Passado,Amor de Cristo,notExplicit,2019,180000
+C24693,B85768,False,C24693,LeAnn Rimes,How Do I Live,,,2012,263786,B85768,Of Mice & Men,How To Survive,EARTHANDSKY,notExplicit,2019,237000
+C9594,B85898,False,C9594,Cat Power,Still in Love,,,1996,209733,B85898,mabanua,Simply in love,Simply in love,notExplicit,2023,285000
+C13930,B34493,False,C13930,Copeland,No One Really Wins,,,2005,206426,B34493,Inner Life,No Way (Special Club Mix),No Way,notExplicit,1983,500000
+C26591,B34507,False,C26591,Symphony X,Out Of The Ashes,,,1997,220266,B34507,DJ Tarkan,Out Of The Ashes (feat. Alexandra McKay),Emotions,notExplicit,2023,212000
+C23041,B34589,False,C23041,Clannad,Robin (The Hooded Man),,,1998,169360,B34589,Banda Bostik,Rolando Pacheco Mota del Campo,Hipotecados,notExplicit,2000,263000
+C49356,B34837,False,C49356,The Very Best,Warm Heart Of Africa (feat. Ezra Koenig),,,2009,229253,B34837,Nicki Minaj,Bed Of Lies (feat. Skylar Grey),The Pinkprint,Explicit,2014,270000
+C14206,B34851,False,C14206,Pavement,Summer Babe (Winter Version),,,2010,195173,B34851,Playdough,Shadow Dance (Lonely Superstar Album Version),Lonely Superstar,notExplicit,2002,265000
+C21276,B35025,False,C21276,Massive Attack,Light My Fire (Live),,,1994,195493,B35025,Vineyard Worship,Hungry (Falling On My Knees) (Live),Winds of Worship: Come Now Is the Time (Live),notExplicit,2004,272000
+C16155,B35026,False,C16155,Windir,Dance of Mortal Lust,,,2002,344006,B35026,Sonidos De Truenos y Lluvia,Mantra Con Tormentas De Lluvia,Lluvia: La Contemplación Del Agua,notExplicit,2022,151000
+C29683,B35337,False,C29683,The Bloody Beetroots,Yeyo (feat. Raw Man),,,2009,210463,B35337,Big Sad 1900,Really That (feat. Chuckstaaa),Percs & Syrup,Explicit,2022,98000
+C16760,B35345,False,C16760,Die Apokalyptischen Reiter,Licked by the Tongues of Pride,,,2004,215560,B35345,LEVIATHAN,At the Door to the Tenth Sub Level of Suicide,The Tenth Sub Level Of Suicide,notExplicit,2003,903000
+C26789,B35506,False,C26789,Orphaned Land,The Kiss Of Babylon (the Sins),,,2004,443706,B35506,Jah Bull,Out Of Babylon (feat. Baboo),Roots Time (feat. Baboo),notExplicit,2007,104000
+C9616,B35783,False,C9616,Flying Lotus,RobertaFlack (feat. Dolly),,,2008,187532,B35783,Dimtonic SA,Zodiac Chants (feat. Jay Blaq),For The Lovers Of Sgija & Dub,notExplicit,2022,421000
+C19986,B35785,False,C19986,As I Lay Dying,Behind Me Lies Another Fallen Soldier,,,2003,182986,B35785,Ale Mora,Remind Me (feat. Daramola & Karen Inder),Remind Me (feat. Daramola & Karen Inder),notExplicit,2019,197000
+C31077,B35817,False,C31077,Gorillaz,Kids With Guns (Hot Chip Remix),,,2007,429666,B35817,Roni Size,It's a Jazz Thing (Utah Jazz Remix),It's a Jazz Thing / It's a Big up Thing (Remixes),notExplicit,2006,361000
+C45458,B36096,False,C45458,Enya,The Spirit of Christmas Past,,,2019,258066,B36096,Top Christmas Songs,Silent Night (Relaxing Christmas Piano Music),Top Christmas Hits - Best Nativity Songs,notExplicit,2015,115000
+C15557,B36276,False,C15557,Ennio Morricone,"The Good, the Bad and the Ugly",,,2009,165400,B36276,Hans Zimmer,"The Good, The Bad and The Ugly (From ""The Good, The Bad and The Ugly"")",Blockbuster Movie Soundtracks,notExplicit,2023,174000
+C43423,B36354,False,C43423,Saliva,King Of The Stereo,,,2007,222600,B36354,Genesis,Visions Of Angels (2007 Stereo Mix),Trespass (2007 Stereo Mix),notExplicit,1970,412000
+C14206,B36565,False,C14206,Pavement,Summer Babe (Winter Version),,,2010,195173,B36565,Peter Reber,"Winterzyt, Wiehnachtszyt (Ninas Version)",Schöni Wiehnachte,notExplicit,2011,48000
+C18345,B36700,False,C18345,Peeping Tom,Getaway (feat. Kool Keith),,,2006,202333,B36700,Native Kyng,My Own Thang (feat. DramaveliBeatz),Still I Rise E.P,Explicit,2023,183000
+C29729,B36759,False,C29729,Sub Focus,Could This Be Real (Joker Remix),,,2010,251640,B36759,Anne Savage,I Need U (Anne Savage & Tom Berry Remix),Full Throttle,notExplicit,2020,362000
+C39015,B7958,False,C39015,Lightning Bolt,No Rest for the Obsessed,,,2008,130386,B7958,Bad Eight18teen,Lonely (feat. Oz The Oddz & 99blessed),Lonely (feat. 99blessed & Oz The Oddz),Explicit,2020,195000
+C18345,B8121,False,C18345,Peeping Tom,Getaway (feat. Kool Keith),,,2006,202333,B8121,IV Conerly,Let It Burn (feat. The Chocolate Knox),The Unknown God,notExplicit,2018,260000
+C14206,B8217,False,C14206,Pavement,Summer Babe (Winter Version),,,2010,195173,B8217,The Cranberries,Linger (BBC Radio 1 John Peel Session),"Everybody Else Is Doing It, So Why Can't We? (Super Deluxe)",notExplicit,1993,206000
+C41833,B9763,False,C41833,Frank Sinatra,Nancy (With The Laughing Face),,,2013,199079,B9763,Budda Mack,Lonely (feat. YOS & Running Fugitives),Lonely (feat. YOS & Running Fugitives),Explicit,2020,194000
+C12266,B12072,False,C12266,65daysofstatic,When We Were Younger & Better,,,2012,414306,B12072,The Dave Clark Five,What Is There to Say (2019 - Remaster),Coast to Coast (2019 - Remaster),notExplicit,2019,110000
+C22834,B12434,False,C22834,MSTRKRFT,It Ain't Love (Feat. Lil' Mo),,,2009,220613,B12434,DoggyStyleeee,Say It Witcha Chest (feat. Snoop Dogg),All Doggs Go To Heaven,Explicit,2023,183000
+C8749,B13038,False,C8749,Frank Sinatra,Let It Snow! Let It Snow! Let It Snow!,,,2012,158000,B13038,Anna Puu,Let It Snow! (Vain elämää kausi 14),Let It Snow! (Vain elämää kausi 14),notExplicit,2023,168000
+C6257,B14485,False,C6257,ABBA,"Money, Money, Money",,,2003,185706,B14485,Maqueque,"Monkey See, Monkey Do (feat. Maqueque)",On Firm Ground/Tierra Firme,notExplicit,2019,286000
+C18487,B15953,False,C18487,Children of Bodom,If You Want Peace... Prepare For War,,,2005,237640,B15953,Coldzy,If You Said So (feat. 2Pillz & Wxrdie),If You Said So (feat. Wxrdie & 2Pillz),notExplicit,2020,157000
+C39292,B16514,False,C39292,The Future Sound of London,"Papua New Guinea (12"" Version)",,,1992,302626,B16514,Lizard,Psychopuls #002 Pt. 1&2 (live version),Tales From The Artichoke Wood,notExplicit,2005,543000
+C29443,B16741,False,C29443,The Toxic Avenger,Escape (The Bloody Beetroots Remix),,,2011,279706,B16741,Jamesy P,Nookie (M.I.A & Jabba Masteroom Remix),Nookie,notExplicit,2005,217000
+C1832,B16766,False,C1832,Bob Dylan,Shelter from the Storm,,,1976,329000,B16766,Original Broadway Cast: Seussical: The Musical,"I Feel Pretty (From ""West Side Story"")",The Best Songs from Musicals,notExplicit,2015,179000
+C42092,B17771,False,C42092,Spice Girls,Viva Forever (Tony Rich Remix),,,1998,321400,B17771,Above & Beyond,Losing Ground (ABGT541) (Rinzen Remix),Group Therapy 541,notExplicit,2023,363000
+C22560,B18056,False,C22560,Lords of Acid,I Sit On Acid (Soulwax remix),,,2017,179546,B18056,Plus Staples,I Feel The Friction (Modular Bass Mix),I feel the friction,notExplicit,2009,267000
+C9577,B18241,False,C9577,Gil Scott-Heron,I Think I'll Call It Morning,,,2010,209306,B18241,Albany,I Told My Mom I Will Neva Stop Shining,Sad Volumes I,notExplicit,2017,153000
+C21131,B18388,False,C21131,Mariah Carey,Miss You Most (At Christmas Time),,,1994,271600,B18388,HWIHYUN,I Miss You (Inst.) (보고 싶은 날이야 (Inst.)),I Miss You (보고 싶은 날이야),notExplicit,2021,205000
+C776,B19142,False,C776,Bon Jovi,Wanted Dead or Alive,,,2010,308560,B19142,Benedetto Ghiglia,Wanted (Orchestra e coro / Mix stereo),Adios Gringo (Original Motion Picture Soundtrack),notExplicit,2016,98000
+C29544,B19380,False,C29544,The Bloody Beetroots,Romborama (feat. All Leather),,,2009,222106,B19380,WDR Big Band,Always Forward (feat. Marshall Gilkes),Always Forward,notExplicit,2018,521000
+C15673,B19430,False,C15673,Safri Duo,Played-A-Live (The Bongo Song),,,2002,405600,B19430,Natasha Bure,Cry Me A River (The Voice Performance),Cry Me A River (The Voice Performance),notExplicit,2016,143000
+C3319,B19801,False,C3319,Rita Ora,I Will Never Let You Down,,,2014,202482,B19801,Ruby Turner,I Will Hold On (Live at Ronnie Scotts),Live At Ronnie Scotts,notExplicit,2007,521000
+C29544,B24114,False,C29544,The Bloody Beetroots,Romborama (feat. All Leather),,,2009,222106,B24114,Marshall Gilkes,Always Forward (feat. Marshall Gilkes),Always Forward,notExplicit,2018,521000
+C13248,B24876,False,C13248,Sum 41,Angels With Dirty Faces,,,2004,143293,B24876,Vicetone,Angels (Radio Edit) (feat. Kat Nestel),Angels (Radio Edit) (feat. Kat Nestel),notExplicit,2015,215000
+C9672,B25042,False,C9672,Diana Krall,I Love Being Here With You,,,1995,220093,B25042,Martine Bazelais,I Love Him & I Adore Him (French Song),Praises to the Highest,notExplicit,2015,194000
+C17492,B26037,False,C17492,George Strait,All My Ex's Live In Texas,,,2011,197933,B26037,Within Temptation,Say My Name (Elements Live in Concert),Let Us Burn (Elements & Hydra Live in Concert),notExplicit,2014,247000
+C45834,B26954,False,C45834,Enigma,Age Of Loneliness (Enigmatic Club Mix),,,2001,250440,B26954,Nick Colon,Broken (Tst Post Office Club Mix),Broken,notExplicit,2018,378000
+C31312,B27417,False,C31312,Peeping Tom,Caipirinha (feat. Bebel Gilberto),,,2006,166866,B27417,Spray Allen,Judith's Revenge (feat. Angelnumber 8),Needful Things,Explicit,2022,215000
+C17814,B27527,False,C17814,Quiet Riot,Metal Health (Bang Your Head),,,2008,412573,B27527,Tweet,"Sexual Healing (Oops, Pt. 2) (Amended)",Southern Hummingbird,notExplicit,2002,287000
+C39183,B28449,False,C39183,Aphex Twin,Ventolin (Video Edit),,,1995,269253,B28449,Scarlet,Angels Unite (Godlike Music Port Edit),Angels Unite,notExplicit,2012,189000
+C1019,B29320,False,C1019,Jimi Hendrix,Voodoo Child (Slight Return),,,2001,313200,B29320,Alison Moyet,Hoodoo (Single Version; 2016 Remaster),Hoodoo (Deluxe Version),notExplicit,1991,247000
+C32485,B29606,False,C32485,Kaiser Chiefs,Always Happens Like That,,,2008,192840,B29606,Tiësto,Always Near (Extended Tiësto Beat Mix),Kaleidoscope: Remixed,notExplicit,2019,360000
+C4345,B30145,False,C4345,The Magic Numbers,"I See You, You See Me",,,2009,360826,B30145,4 Strings,I Feel You (Nord Horizon Extended Mix),I Feel You (Nord Horizon Remix),notExplicit,2020,396000
+C40934,B30395,False,C40934,Ace of Base,"Always Have, Always Will",,,1998,224440,B30395,Rex Orange County,Always (Live at Radio City Music Hall),Live at Radio City Music Hall,notExplicit,2020,371000
+C33373,B31332,False,C33373,Brooks & Dunn,Rock My World (Little Country Girl),,,2009,221773,B31332,ApologetiX,"Stupid World (Parody of ""Stupid Girl"")",Apologetix Classics: 90's,notExplicit,2010,220000
+C8320,B32481,False,C8320,Black Sabbath,Am I Going Insane (Radio),,,1975,256733,B32481,Animal Crossing Lofi Hiphop Chill Music,Animal Crossing Instrumentals Playlist,Lo fi Chillhop Animal Crossing Playlist - Chill HipHop Playlist,notExplicit,2022,73000
+C2940,B32504,False,C2940,múm,We Have a Map of the Piano,,,2002,319760,B32504,Kris Kristofferson,Me and Paul (Live at the Philharmonic),Live at the Philharmonic,notExplicit,1992,170000
+C903,B33217,False,C903,Whitesnake,Here I Go Again,,,2010,231813,B33217,Minniva,Here I Go Again (feat. Quentin Cornet),Here I Go Again (feat. Quentin Cornet),notExplicit,2020,235000
+C15370,B33441,False,C15370,Mogwai,Summer (Priority Version),,,1997,208080,B33441,Coil,Cosmic Disaster (Prescription Edition),Astral Disaster Sessions Un/Finished Musics (Prescription Edition),notExplicit,1999,846000
+C11075,B33672,False,C11075,Kleerup,Until We Bleed (feat. Lykke Li),,,2008,264040,B33672,MIYAVI,What's My Name? (feat. Ichiro Yoshida),What's My Name? - EP,notExplicit,2011,177000
+C3327,B34422,False,C3327,Nine Inch Nails,Lights in the Sky,,,2008,209637,B34422,Cam'ron & Vado,"Lights, Camera, Action (feat. Skylynn)",Gunz N' Butta,Explicit,2011,190000
+C18345,B34836,False,C18345,Peeping Tom,Getaway (feat. Kool Keith),,,2006,202333,B34836,Jr Crown,Street Luv (feat. Yella Yurz & Kenjie),Street Luv (feat. Yella Yurz & Kenjie),Explicit,2023,217000
+C11075,B35768,False,C11075,Kleerup,Until We Bleed (feat. Lykke Li),,,2008,264040,B35768,Classmatic,Lately (Terrace Mix) (feat. Leah Rose),Lately,notExplicit,2023,333000
+C42274,B35818,False,C42274,Adam Steffey,One More For The Road,,,2009,238760,B35818,"Original Broadway Cast of Bring in 'da Noise, Bring in 'da Funk",Street Corner Symphony: Them Conkheads,"Bring in 'da Noise, Bring in 'da Funk (Original Broadway Cast Recording)",notExplicit,1995,147000
+C46091,B19571,False,C46091,Bandits of the Acoustic Revolution,They Provide the Paint for the Picture-Perfect Masterpiece That You Will Paint on the Insides of Your Eyelids,,,2002,219840,B19571,Be Bop Deluxe,"Modern Music: Modern Music/Dancing In The Moonlight (All Alone)/Honeymoon On Mars/Lost In The Neon World/Dance Of The Uncle Sam Humanoids/Modern Music (Reprise) (BBC Radio1 ""In Concert"", Hammersmith Odeon, London, 2 October 1976)",Modern Music (Deluxe Edition),notExplicit,2019,766000
+C46091,B51519,False,C46091,Bandits of the Acoustic Revolution,They Provide the Paint for the Picture-Perfect Masterpiece That You Will Paint on the Insides of Your Eyelids,,,2002,219840,B51519,Orchestre de l'Opéra de Paris,"Carmen, Act 2: ""Holà Carmen! Holà! Holà!"" (Zuniga, José, Carmen, Dancaïre, Remendado) (feat. Jacques Mars, Jean-Paul Vauquelin, Maurice Maievski & Nicolai Gedda)",Bizet: Carmen (1964 - Prêtre) - Callas Remastered,notExplicit,2014,294000
+C46091,B50809,False,C46091,Bandits of the Acoustic Revolution,They Provide the Paint for the Picture-Perfect Masterpiece That You Will Paint on the Insides of Your Eyelids,,,2002,219840,B50809,Plácido Domingo,"Samson et Dalila, Op. 47, Act 3: ""Guidez ses pas vers le milieu du temple"" (Le Grand-Prêtre, Samson, Les Philistins, Dalila) (feat. Alain Fondary, Choeur de l'Opéra Bastille, Plácido Domingo & Waltraud Meier)",Samson Et Dalila Chung,notExplicit,2008,263000
+C46091,B65680,False,C46091,Bandits of the Acoustic Revolution,They Provide the Paint for the Picture-Perfect Masterpiece That You Will Paint on the Insides of Your Eyelids,,,2002,219840,B65680,Camille Saint-Saëns,"Samson et Dalila, Op. 47, Act 1: ""Seigneur ! La troupe furieuse"" (Un messager Philistin, 1er et 2ème Philistins, Le Grand-Prêtre) (feat. Alain Fondary, Christian Papis, Daniel Galvez-Vallejo & François Harismendy)",Samson Et Dalila Chung,notExplicit,2008,169000
+C46486,B45251,False,C46486,The Suicide Machines,Rebellion Is on the Clearance Rack (And I Think I Like It),,,2005,108493,B45251,Sugar Soul,Garden (2nd Nov. 2000 <TOYO EIWA JOGAKUIN>) - Garden (2nd Nov. 2000 <TOYO EIWA JOGAKUIN),Sugar Soul Live Balance,notExplicit,2007,252000
+C21034,B43938,False,C21034,Stevie Wonder,I Believe (When I Fall in Love It Will Be Forever),,,2000,293066,B43938,モモタロス ウラタロス キンタロス リュウタロス（CV．関 俊彦・遊佐浩二・てらそままさき・鈴村健一）,Double-Action CLIMAX form(モモ･ウラ･キン･リュウ･デネブ セリフver.) - Double-Action CLIMAX form(Momo Ura Kin Ryu Deneb Serif ver),Double-Action CLIMAX form,notExplicit,2008,256000
+C4914,B37732,False,C4914,Beatsteaks,What's Coming Over You,,,2004,195000,B37732,Off Jumpol,What's Zabb (เพลงประกอบซีรีส์ Cooking Crush อาหารเป็นยังไงครับหมอ),What's Zabb,notExplicit,2023,205000
+C46091,B78223,False,C46091,Bandits of the Acoustic Revolution,They Provide the Paint for the Picture-Perfect Masterpiece That You Will Paint on the Insides of Your Eyelids,,,2002,219840,B78223,Mady Mesplé,"La vie parisienne, Act 1: Chœur. ""À Paris, nous arrivons en masse"" - ""Je suis Brésilien, j'ai de l'or"" (Gardefeu, Le Baron, La Baronne, Le Brésilien, Chœur) (feat. Christiane Château, Chœur du Capitole de Toulouse, Jean-Christophe Benoît & Luis Masson)",Offenbach: La vie parisienne,notExplicit,2023,331000
+C10909,B6893,False,C10909,Sufjan Stevens,"Out of Egypt, Into the Great Laugh of Mankind, and I Shake the Dirt From My Sandals as I Run",,,2005,261519,B6893,The Chieftains,"Golden Gate Medley: Seán Chuilfhionn / Clare Reel / Róisín Dubh / John O'Connor / Golden Gate Slides / Steam Packet Selections (Reels) /Pretty Girls Reel (Live At The Great American Music Hall, San Francisco / 1976)","Bear’s Sonic Journals: The Foxhunt, The Chieftains, San Francisco 1973 & 1976",notExplicit,2022,684000
+C46091,B72702,False,C46091,Bandits of the Acoustic Revolution,They Provide the Paint for the Picture-Perfect Masterpiece That You Will Paint on the Insides of Your Eyelids,,,2002,219840,B72702,Régine Crespin,"La vie parisienne, Act 4: Rondo. ""C'est ici l'endroit redouté des mères"" - Dialogue. ""Moi aussi je suis venu pour me divertir"" (Métella, Le Baron, Alfred, La Baronne) (feat. Christiane Château, Luis Masson, Michel Jarry & Régine Crespin)",Offenbach: La vie parisienne,notExplicit,2023,211000
+C46091,B81991,False,C46091,Bandits of the Acoustic Revolution,They Provide the Paint for the Picture-Perfect Masterpiece That You Will Paint on the Insides of Your Eyelids,,,2002,219840,B81991,Michel Plasson,"La vie parisienne, Act 4: Rondo. ""C'est ici l'endroit redouté des mères"" - Dialogue. ""Moi aussi je suis venu pour me divertir"" (Métella, Le Baron, Alfred, La Baronne) (feat. Christiane Château, Luis Masson, Michel Jarry & Régine Crespin)",Offenbach: La vie parisienne,notExplicit,2023,211000
+C46091,B72621,False,C46091,Bandits of the Acoustic Revolution,They Provide the Paint for the Picture-Perfect Masterpiece That You Will Paint on the Insides of Your Eyelids,,,2002,219840,B72621,Michel Plasson,"La vie parisienne, Act 2: Dialogue. ""Il est enragé"" - Rondo. ""Vous souvient-il ma belle"" (Gardefeu, Le Baron, Gabrielle, Frick, Bobinet, La Baronne, Alphonse, Métella) (feat. André Batisse, Christiane Château, Jean-Christophe Benoît & Luis Masson)",Offenbach: La vie parisienne,notExplicit,2023,513000
+C17968,B14499,False,C17968,Roxy Music,In Every Dream Home a Heartache,,,2003,379000,B14499,歌っちゃ王,Dreams come true(オリジナルアーティスト:Hey!Say!JUMP)[ガイドメロディ無しカラオケ] - Dreams come true karaoke Hey!Say!JUMP,Dreams come true karaoke Hey!Say!JUMP,notExplicit,2021,232000
+C38402,B36717,False,C38402,Adele,Melt My Heart To Stone (Live At Hotel Cafe),,,2008,201866,B36717,歌っちゃ王,Secret of my heart -2Key(原曲歌手: 倉木麻衣) - SECRET OF MY HEART -2Key No Guide melody Original by KURAKI MAI,SECRET OF MY HEART No Guide melody Original by KURAKI MAI,notExplicit,2021,261000
+C46091,B77298,False,C46091,Bandits of the Acoustic Revolution,They Provide the Paint for the Picture-Perfect Masterpiece That You Will Paint on the Insides of Your Eyelids,,,2002,219840,B77298,Orchestre Du Capitole De Toulouse,"La vie parisienne, Act 4: Finale. ""Par nos chansons et par nos cris, célébrons Paris"" (Chœur, Gabrielle, Le Baron, La Baronne, Bobinet, Gardefeu, Le Brésilien, Urbain, Métella) (feat. Christiane Château, Chœur du Capitole de Toulouse, Jean-Christophe Benoît & Luis Masson)",Offenbach: La vie parisienne,notExplicit,2023,193000
+C46091,B84269,False,C46091,Bandits of the Acoustic Revolution,They Provide the Paint for the Picture-Perfect Masterpiece That You Will Paint on the Insides of Your Eyelids,,,2002,219840,B84269,The Astrology Bell,"Gemini Zodiac (1h 3d Sound Experience, Relaxing Nature Sounds Relaxation and Tibetan Chakra Meditation Music for Relaxation Meditation, Deep Sleep, Studying, Healing Massage, Spa, Sound Therapy, Chakra Balancing, Baby Sleep, Serenity and Yoga)","Gemini Zodiac (1h 3d Sound Experience, Relaxing Nature Sounds Relaxation and Tibetan Chakra Meditation Music for Relaxation Meditation, Deep Sleep, Studying, Healing Massage, Spa, Sound Therapy, Chakra Balancing, Baby Sleep, Serenity and Yoga)",notExplicit,2013,3601000
+C46091,B4641,False,C46091,Bandits of the Acoustic Revolution,They Provide the Paint for the Picture-Perfect Masterpiece That You Will Paint on the Insides of Your Eyelids,,,2002,219840,B4641,May J.,"Let It Go [劇中歌/英語歌] (billboard classics May J. Premium Concert 2017 ～Me, Myself & Orchestra～ at Tokyo Bunka Kaikan 2017.11.5) - Let It Go (billboard classics May J. Premium Concert 2017)","billboard classics May J. Premium Concert 2017 -Me, Myself & Orchestra- at Tokyo Bunka Kaikan 2017.11.5",notExplicit,2018,232000
+C46091,B13626,False,C46091,Bandits of the Acoustic Revolution,They Provide the Paint for the Picture-Perfect Masterpiece That You Will Paint on the Insides of Your Eyelids,,,2002,219840,B13626,Joyful Way Incorporated,"African Praise Medley 2020: Yesu Ni Wangu / Meyi N'ayɛ / Nyame Yɛ ꓛsaahen / Sɛ M'ammbɔ Yesu Din A / Akpe Na Mawu / Akpe Mia Da Na Mawu / Mawu Lolo Tɔ / Wɔngɛ Mawu Ko / Wɔ Lɛ, Wo Le Noko (Live)",Explosion of Joy '20: God Is Faithful,notExplicit,2020,776000
+C46091,B24241,False,C46091,Bandits of the Acoustic Revolution,They Provide the Paint for the Picture-Perfect Masterpiece That You Will Paint on the Insides of Your Eyelids,,,2002,219840,B24241,Malaysian Worship Collective,"I Will Trust (feat. Josh Jesudasan, Acts Church, LifeGen Worship, Echo, Every Nation Gateway, Faith Christian Centre, Harvest Klang, HOPECITY, Klhop Music, Metro Tabernacle, Resonate DUMC, SGCKL, SIBLife Church, SS Gospel Centre,... (feat. Josh Jesudasan, Acts Church, LifeGen Worship & Echo)",Revo Worship Project 2022: EP.1,notExplicit,2022,556000
+C46091,B79771,False,C46091,Bandits of the Acoustic Revolution,They Provide the Paint for the Picture-Perfect Masterpiece That You Will Paint on the Insides of Your Eyelids,,,2002,219840,B79771,Michel Plasson,"La vie parisienne, Act 1: Ouverture - Chœur. ""Nous sommes employés de la ligne de l'Ouest"" - Dialogue. ""À quelle heure arrive le train de Trouville ?"" (Chœur, Bobinet, Gardefeu, L'Employé) (feat. André Batisse, Chœur du Capitole de Toulouse, Michel Sénéchal & Michel Trempont)",Offenbach: La vie parisienne,notExplicit,2023,468000
+C42969,B46320,False,C42969,See You Next Tuesday,Good Christians Don't Get Jiggy With It 'Til After Marriage,,,2007,74613,B46320,May J.,"Garden feat. DJ KAORI,Diggy-MO',クレンチ&ブリスタ - Garden feat. DJ KAORI,Diggy-MO',Clench&Blistah (feat. DJ KAORI, Diggy-MO' & クレンチ&ブリスタ)",FAMILY,notExplicit,2009,326000
+C10909,B50424,False,C10909,Sufjan Stevens,"Out of Egypt, Into the Great Laugh of Mankind, and I Shake the Dirt From My Sandals as I Run",,,2005,261519,B50424,DJ PMX,"It's Alright feat. AK-69, YOUNG DAIS (N.C.B.B), DJ☆GO, Ram - It's Alright feat. AK-69, YOUNG DAIS (N.C.B.B), DJ GO, Ram (feat. AK-69 & YOUNG DAIS)",THE ORIGINAL III,notExplicit,2017,274000
+C28587,B78220,False,C28587,The Police,"When The World Is Running Down, You Make The Best Of What's Still Around",,,1980,216600,B78220,Daichi Miura,Anchor (DAICHI MIURA LIVE TOUR ONE END in 大阪城ホール [2019.3.13]) - Anchor (DAICHI MIURA LIVE TOUR ONE END in OSAKA-JO HALL [2019.3.13]),DAICHI MIURA LIVE TOUR ONE END in OSAKA-JO HALL [2019.3.13],notExplicit,2019,427000
+C11021,B16462,False,C11021,Sufjan Stevens,In This Temple as in the Hearts of Man for Whom He Saved the Earth,,,2005,35386,B16462,李克勤 - Hacken Lee,Golden Lyrics Medley 2: 深深深 / 偷偷摸摸 / 不知不覺愛上你 / 高妹 / 情非首爾 / 空中飛人 / 眷戀 /你是我的太陽 / 希望/夏日之神話 / C3PO / 大會堂演奏廳 (Live),李克勤慶祝成立30週年演唱會,notExplicit,2017,1436000
+C20726,B89682,False,C20726,Marvin Gaye,How Sweet It Is (To Be Loved By You),,,1994,175706,B89682,2Baba,"Police (feat. BEENIE MAN,KUNLE,O.J.B.,BLACK FACE,DE NATIVES,FREESTYL,E.T.C., Black Face, O.J.B. & E.T.C.)","Face 2 Face (feat. BEENIE MAN,KUNLE,O.J.B.,BLACK FACE,DE NATIVES,FREESTYL,E.T.C.)",notExplicit,2004,27000
+C10909,B67227,False,C10909,Sufjan Stevens,"Out of Egypt, Into the Great Laugh of Mankind, and I Shake the Dirt From My Sandals as I Run",,,2005,261519,B67227,Régine Crespin,"La vie parisienne, Act 1: Couplets. ""Elles sont tristes les marquises"" - Dialogue. ""Et maintenant, rue de Varenne !"" (Bobinet, Gardefeu, Joseph) (feat. Luis Masson, Michel Sénéchal & Michel Trempont)",Offenbach: La vie parisienne,notExplicit,2023,212000
+C46091,B28324,False,C46091,Bandits of the Acoustic Revolution,They Provide the Paint for the Picture-Perfect Masterpiece That You Will Paint on the Insides of Your Eyelids,,,2002,219840,B28324,The Jamborees,Mother Goose/ Dance Little Baby/ Sleep My Baby/ Sweet Dreams/ Little Piggy/ Little Blue Ben/ Lullaby Magic/ Sleep Safely Tonight/ Night Time Rhyme/ Drift Away/ Cockles&Mussels/ Mary Mary,"50 Favourite Lullabies, Soothing Songs & Nursery Chimes",notExplicit,2011,1326000
+C10909,B65569,False,C10909,Sufjan Stevens,"Out of Egypt, Into the Great Laugh of Mankind, and I Shake the Dirt From My Sandals as I Run",,,2005,261519,B65569,Olga Borodina,"Samson et Dalila, Op. 47, Act 1: Trio. ""Je viens célébrer la victoire"" (Dalila, Samson, Un vieillard hébreu) (feat. José Cura, Olga Borodina & Robert Lloyd)","Saint-Saëns: Samson et Dalila (feat. Egils Silins, Jean-Philippe Lafont, London Symphony Chorus & Robert Lloyd)",notExplicit,2006,197000
+C42829,B40744,False,C42829,The Chariot,Die Interviewer (I Am Only Speaking In German),,,2011,160813,B40744,歌っちゃ王,Winter fall+2Key(原曲歌手:L'Arc～en～Ciel)[ガイド無しカラオケ] - WINTER FALL +2KeyOriginal by L'arc-en-ciel No Guide melody,WINTER FALL No Guide melody Original by L'arc-en-ciel,notExplicit,2021,303000
+C10909,B68635,False,C10909,Sufjan Stevens,"Out of Egypt, Into the Great Laugh of Mankind, and I Shake the Dirt From My Sandals as I Run",,,2005,261519,B68635,Jive Bunny and the Mastermixers,"That's What I Like: Hawaii 5-0, Let's Twist Again, Let's Dance, Wipe Out, Great Balls Of Fire, Johnny B. Goode, Good Golly Miss Molly, The Twist, Summertime Blues, Razzle Dazzle, Runaround Sue, Chanti",Jive Bunny And The Mastermixers Beach Party,notExplicit,2009,224000
+C10909,B59684,False,C10909,Sufjan Stevens,"Out of Egypt, Into the Great Laugh of Mankind, and I Shake the Dirt From My Sandals as I Run",,,2005,261519,B59684,Georges Prêtre,"Carmen, Act 2: ""Halte là !"" (José, Carmen, Frasquita, Mercédès, Dancaïre, Remendado) (feat. Jacques Pruvost, Jane Berbié, Jean-Paul Vauquelin & Nadine Sautereau)",Bizet: Carmen (1964 - Prêtre) - Callas Remastered,notExplicit,2014,93000
+C10909,B85337,False,C10909,Sufjan Stevens,"Out of Egypt, Into the Great Laugh of Mankind, and I Shake the Dirt From My Sandals as I Run",,,2005,261519,B85337,Dohzi-T,"better days feat．加藤ミリヤ、田中ロウマ－Instrumal－ - Better Days Feat.Miliyah Kato,Rouma Tanaka-Instrumental- (feat. Miliyah Kato, Roma Tanaka & Rouma Tanaka-Instrumental-)","Better Days Feat. Kato Miliyah,Rouma Tanaka",notExplicit,2006,281000
+C46091,B85598,False,C46091,Bandits of the Acoustic Revolution,They Provide the Paint for the Picture-Perfect Masterpiece That You Will Paint on the Insides of Your Eyelids,,,2002,219840,B85598,Richard Pryor,"Nature (Live at The John F. Kennedy Center For The Performing Arts, Washington, DC, 9/3/78) [Remastered Version] (Live at The John F. Kennedy Center For The Performing Arts, Washington, DC, 9/3/78 (Remastered Version))",Wanted/Richard Pryor - Live In Concert,Explicit,1978,212000
+C10909,B50112,False,C10909,Sufjan Stevens,"Out of Egypt, Into the Great Laugh of Mankind, and I Shake the Dirt From My Sandals as I Run",,,2005,261519,B50112,Sir Thomas Beecham,"Carmen, WD 31, Act 3: ""Reposons-nous une heure ici, mes camarades"" (Le Dancaïre, Carmen, José) (feat. Victoria de los Angeles, Nicolai Gedda & Jean-Christophe Benoit)",Bizet: Carmen,notExplicit,2019,185000
+C516,B59592,False,C516,Arctic Monkeys,You Probably Couldn't See for the Lights but You Were Staring Straight at Me,,,2006,130800,B59592,Freda Betti,"Carmen, Act II, Scene 2: Air du toréador. ""Votre toast, je peux vous le rendre"" (Escamillo, Carmen, Mercédès, Frasquita, Chœur)","Bizet: Carmen, extraits (Mono Version)",notExplicit,2015,293000
+C14902,B91354,False,C14902,Gorillaz,"White Flag (Feat. Bashy, Kano and The National Orchestra For Arabic Music)",,,2010,223466,B91354,Ensemble Vocal Europeén de la Chapelle Royale,"Lamentationes Hieremiae, H. xxii/3, Vendredi Saint: Lamentatio tertia, Secundi Diei, Feria VI ad matutinum in nocturno I: Lectio III",Lassus: Hieremiae prophetae lamentationes,notExplicit,2007,528000
+C10909,B50877,False,C10909,Sufjan Stevens,"Out of Egypt, Into the Great Laugh of Mankind, and I Shake the Dirt From My Sandals as I Run",,,2005,261519,B50877,Orchestre de l'Opéra Bastille,"Samson et Dalila, Op. 47, Act 3: ""Laisse-moi prendre ta main"" (Dalila, Les Philistins, Samson) (feat. Choeur de l'Opéra Bastille, Plácido Domingo & Waltraud Meier)","Saint-Saëns: Samson et Dalila, Op. 47",notExplicit,2003,172000
+C10909,B51068,False,C10909,Sufjan Stevens,"Out of Egypt, Into the Great Laugh of Mankind, and I Shake the Dirt From My Sandals as I Run",,,2005,261519,B51068,Plácido Domingo,"Samson et Dalila, Op. 47, Act 3: ""Laisse-moi prendre ta main"" (Dalila, Les Philistins, Samson) (feat. Choeur de l'Opéra Bastille, Plácido Domingo & Waltraud Meier)","Saint-Saëns: Samson et Dalila, Op. 47",notExplicit,2003,172000

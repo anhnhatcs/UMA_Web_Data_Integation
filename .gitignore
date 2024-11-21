@@ -88,3 +88,9 @@ hs_err_pid*
 
 data/input/
 data/output/
+
+.env
+
+
+# Ignore CSV files in LLM_Gold_Standard/output
+LLM_Gold_Standard/output/*.csv

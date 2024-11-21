@@ -1,0 +1,1173 @@
+source_id,opendb_id,source_artist,source_track,opendb_artist,opendb_track,source_combined,opendb_combined,similarity_score,match_classification
+A3678,B29271,Big Time Rush,Windows Down,Bill Evans,I Loves You Porgy,big time rush windows down 2012,bill evans i loves you porgy 2021,0.273,-1
+A2753,B66083,Marc Anthony,I Need to Know,Matthew Daddino,Battlefield of Death,marc anthony i need to know 1999,matthew daddino battlefield of death 2022,0.268,-1
+A4819,B46884,Paramore,Future,Panjabi MC,Indian Timing (Jeona Morh) [Instrumental],paramore future 2013,panjabi mc indian timing (jeona morh) [instrumental] 2008,0.228,-1
+A9578,B96974,Sia,You're Never Fully Dressed Without a Smile (2014 Film Version),Siddhartha Khosla,Son of Sam (The Tell),sia you're never fully dressed without a smile (2014 film version) 2014,siddhartha khosla son of sam (the tell) 2022,0.254,-1
+A6059,B90003,Madonna,Frozen,Max Cooper,Stereoscopic Dive,madonna frozen 1998,max cooper stereoscopic dive 2023,0.212,-1
+A5960,B91676,Disturbed,What Are You Waiting For,Disturbed,What Are You Waiting For,disturbed what are you waiting for 2015,disturbed what are you waiting for 2015,1.0,1
+A9351,B91388,Mariah Carey,Vision of Love,Mantovani,Around the World in 80 Days,mariah carey vision of love 1990,mantovani around the world in 80 days 2012,0.262,-1
+A2154,B73835,Meghan Trainor,What If I,Melba Moore,Lovin' Touch,meghan trainor what if i 2015,melba moore lovin' touch 2016,0.31,-1
+A5771,B47443,The Archies,"Sugar, Sugar",The Yuletide Singers And Chorus,Silent Night,"the archies sugar, sugar 1969",the yuletide singers and chorus silent night 2008,0.286,-1
+A3839,B98154,Daughtry,What About Now,David Bromberg Quartet,Suffer To Sing The Blues,daughtry what about now 2006,david bromberg quartet suffer to sing the blues 1998,0.212,-1
+A5810,B73587,The Archies,"Sugar, Sugar",The Archies,"Sugar, Sugar","the archies sugar, sugar 1969","the archies sugar, sugar 1969",1.0,1
+A4654,B49760,Michelle Branch,Breathe,Miles Hankins,I Need to Know Who's Messing Up My Life,michelle branch breathe 2003,miles hankins i need to know who's messing up my life 2022,0.207,-1
+A2753,B69279,Marc Anthony,I Need to Know,Master's Promise,That's the Word,marc anthony i need to know 1999,master's promise that's the word 2018,0.243,-1
+A5810,B67498,The Archies,"Sugar, Sugar",The Archies,"Sugar, Sugar","the archies sugar, sugar 1969","the archies sugar, sugar 2016",0.862,1
+A4119,B33035,Childish Gambino,This Is America,Christopher Gibson,Always On My Side,childish gambino this is america 2018,christopher gibson always on my side 2021,0.341,-1
+A925,B49400,Miley Cyrus,Flowers,Mitch DB,Flowers,miley cyrus flowers 2023,mitch db flowers 2023,0.667,0
+A4287,B52524,Alan Jackson,Little Bitty,Al Bowlly,All Of Me,alan jackson little bitty 1996,al bowlly all of me 2022,0.267,-1
+A3740,B97353,Daughtry,What About Now,David Rovics,Israeli Geography 101,daughtry what about now 2006,david rovics israeli geography 101 2011,0.282,-1
+A895,B1250,Madonna,Like a Prayer,MAYOT,Shiver Outro,madonna like a prayer 1989,mayot shiver outro 2019,0.308,-1
+A9275,B74991,Lin-Manuel Miranda,Almost Like Praying (feat. Artists for Puerto Rico),Lil Wyte,That's How I Do It,lin-manuel miranda almost like praying (feat. artists for puerto rico) 2017,lil wyte that's how i do it 2019,0.28,-1
+A1478,B97065,Carrie Underwood,Little Toy Guns,Carl Cracchiolo,Hot In It (Original mix),carrie underwood little toy guns 2014,carl cracchiolo hot in it (original mix) 2023,0.289,-1
+A8715,B14202,Luke Bryan,All My Friends Say,Lukae,When I'm With You,luke bryan all my friends say 2007,lukae when i'm with you 2021,0.382,-1
+A3806,B29507,Billy Idol,Rebel Yell,Big Boi,Higher Res (feat. Jai Paul & Little Dragon),billy idol rebel yell 1983,big boi higher res (feat. jai paul & little dragon) 2012,0.232,-1
+A895,B20476,Madonna,Like a Prayer,Martin Tungevaag,Wicked Wonderland (Instrumental Extended Mix),madonna like a prayer 1989,martin tungevaag wicked wonderland (instrumental extended mix) 2014,0.239,-1
+A4061,B25029,Taylor Swift,august,Tales of Series SOUND TEAM,Follow the Nightingale「テイルズ オブ イノセンス」より (Orchestra Version-Live) - Follow the Nightingale from「TALES OF INNOCENCE」 (Orchestra Version-Live),taylor swift august 2020,tales of series sound team follow the nightingale「テイルズ オブ イノセンス」より (orchestra version-live) - follow the nightingale from「tales of innocence」 (orchestra version-live) 2023,0.105,-1
+A6948,B19890,Michelle Branch,Breathe,MIDIFine Systems,Say My Name ((Originally Performed by Destiny's Child) [Karaoke Version]),michelle branch breathe 2003,midifine systems say my name ((originally performed by destiny's child) [karaoke version]) 2010,0.179,-1
+A8831,B1713,Trans-Siberian Orchestra,A Star to Follow,Trio Settecento,"Pieces de viole, Book 3: La Guitare",trans-siberian orchestra a star to follow 1996,"trio settecento pieces de viole, book 3: la guitare 2011",0.214,-1
+A2052,B46045,Mat Kearney,Closer to Love,Matthew Gee,"Winterreise, Op. 89, D. 911 (Arr. M. Gee for Trombone & Piano): No. 16, Letzte Hoffnung",mat kearney closer to love 2009,"matthew gee winterreise, op. 89, d. 911 (arr. m. gee for trombone & piano): no. 16, letzte hoffnung 2019",0.192,-1
+A9118,B9356,The Beach Boys,"Dance, Dance, Dance",The Heads,Planet Suite,"the beach boys dance, dance, dance 1965",the heads planet suite 2018,0.359,-1
+A5031,B83733,Martina McBride,I Just Call You Mine,Max Cooper,Cyclic (John Tejada Remix),martina mcbride i just call you mine 2009,max cooper cyclic (john tejada remix) 2017,0.238,-1
+A1026,B20230,Ed Sheeran,Eraser,Ed Sheeran,Eraser,ed sheeran eraser 2017,ed sheeran eraser 2017,1.0,1
+A9118,B2817,The Beach Boys,"Dance, Dance, Dance",Three for Silver,"I Know, I Know","the beach boys dance, dance, dance 1965","three for silver i know, i know 2015",0.308,-1
+A9351,B72703,Mariah Carey,Vision of Love,Mark Winkler,Spring Can Really Hang You up the Most,mariah carey vision of love 1990,mark winkler spring can really hang you up the most 2018,0.286,-1
+A5771,B23258,The Archies,"Sugar, Sugar",The Rain Within,Coming Down,"the archies sugar, sugar 1969",the rain within coming down 2021,0.25,-1
+A8604,B87056,Fetty Wap,D.A.M.,Fetty Wap,Boomin,fetty wap d.a.m. 2015,fetty wap boomin 2015,0.714,0
+A7819,B28576,LINKIN PARK,Figure.09,Lily Band Psalmist,Coming To The Throne,linkin park figure.09 2003,lily band psalmist coming to the throne 2021,0.295,-1
+A4119,B45688,Childish Gambino,This Is America,Choicevaughan,Streetfighter III: New Generation,childish gambino this is america 2018,choicevaughan streetfighter iii: new generation 2020,0.308,-1
+A5200,B42685,Madonna,Like a Prayer,Manticora,Winter Solstice,madonna like a prayer 1989,manticora winter solstice 2024,0.267,-1
+A2751,B60371,Mariah Carey,Always Be My Baby,Madeline Juno,Please Don't Have Somebody Else,mariah carey always be my baby 1995,madeline juno please don't have somebody else 2016,0.26,-1
+A3103,B22299,Jason Mraz,Coyotes,James Galway,I Just Called to Say I Love You,jason mraz coyotes 2008,james galway i just called to say i love you 1994,0.224,-1
+A1894,B88535,Christina Aguilera,Dirrty (feat. Redman),Children's Music,Humpty Dumpty,christina aguilera dirrty (feat. redman) 2002,children's music humpty dumpty 2019,0.267,-1
+A2219,B15525,Billy Joel,And So It Goes,Bill Hicks,You're in the Right Place,billy joel and so it goes 1989,bill hicks you're in the right place 2019,0.341,-1
+A8194,B83843,America,Sister Golden Hair,America,Sister Golden Hair,america sister golden hair 1975,america sister golden hair 1975,1.0,1
+A8584,B57595,Fetty Wap,D.A.M.,Felix da Housecat,Silver Screen (Shower Scene) [Club Mix],fetty wap d.a.m. 2015,felix da housecat silver screen (shower scene) [club mix] 2022,0.161,-1
+A4425,B34884,Gabby Barrett,The Good Ones,Gabby Barrett,The Good Ones,gabby barrett the good ones 2020,gabby barrett the good ones 2020,1.0,1
+A7271,B8486,Blake Shelton,I Lived It,Blasphereion,Future Earth,blake shelton i lived it 2017,blasphereion future earth 2016,0.4,-1
+A3177,B48634,Rednex,Cotton Eye Joe,RECKLESS ONES,Desert Rose,rednex cotton eye joe 1994,reckless ones desert rose 2013,0.333,-1
+A2753,B2687,Marc Anthony,I Need to Know,Matt Caldwell,I Know Mexico,marc anthony i need to know 1999,matt caldwell i know mexico 2012,0.281,-1
+A4819,B67244,Paramore,Future,Papoose,I'm Not Impressed,paramore future 2013,papoose i'm not impressed 2005,0.333,-1
+A2219,B69244,Billy Joel,And So It Goes,Billionaire Black,Add It Up (feat. Jimbo Go Dumb),billy joel and so it goes 1989,billionaire black add it up (feat. jimbo go dumb) 2014,0.296,-1
+A6313,B50883,TOOL,Pneuma,Tommy Riccio,Angelaro',tool pneuma 2019,tommy riccio angelaro' 2018,0.333,-1
+A3963,B87459,Percy Sledge,When a Man Loves a Woman,Percy Sledge,When a Man Loves a Woman,percy sledge when a man loves a woman 1966,percy sledge when a man loves a woman 1966,1.0,1
+A1478,B37622,Carrie Underwood,Little Toy Guns,Carrie Underwood,Silent Night,carrie underwood little toy guns 2014,carrie underwood silent night 2020,0.676,0
+A3740,B68063,Daughtry,What About Now,David Wilson,Autumn Leaves,daughtry what about now 2006,david wilson autumn leaves 1998,0.194,-1
+A4479,B93858,Chicago,We Can Last Forever,Charlie Bustos,Israel,chicago we can last forever 1988,charlie bustos israel 2008,0.344,-1
+A5810,B37279,The Archies,"Sugar, Sugar",The Kinks,What's in Store for Me,"the archies sugar, sugar 1969",the kinks what's in store for me 2016,0.27,-1
+A4654,B55400,Michelle Branch,Breathe,Michael Jackson,Twenty Five Miles (1987 Remix),michelle branch breathe 2003,michael jackson twenty five miles (1987 remix) 1987,0.235,-1
+A5810,B42981,The Archies,"Sugar, Sugar",The Bilge Pumps,Pirate Yells,"the archies sugar, sugar 1969",the bilge pumps pirate yells 2010,0.273,-1
+A2287,B3535,Nickelback,Follow You Home,Nitrate,In the Night,nickelback follow you home 2005,nitrate in the night 2019,0.29,-1
+A9151,B36201,Santigold,Unstoppable,Salesian Music Ministry,I Need a Mother,santigold unstoppable 2008,salesian music ministry i need a mother 2020,0.273,-1
+A8216,B83843,America,Sister Golden Hair,America,Sister Golden Hair,america sister golden hair 1975,america sister golden hair 1975,1.0,1
+A4287,B93603,Alan Jackson,Little Bitty,Alabama 3,Get On This One,alan jackson little bitty 1996,alabama 3 get on this one 2023,0.2,-1
+A2185,B59500,Billy Joel,And So It Goes,Billy Valentine,On The Street Where You Live,billy joel and so it goes 1989,billy valentine on the street where you live 2006,0.306,-1
+A1966,B53925,Daryl Hall & John Oates,Out of Touch,Damien Dempsey,It's All Good (Live),daryl hall & john oates out of touch 1984,damien dempsey it's all good (live) 2018,0.195,-1
+A5954,B68061,Camila Cabello,Crying in the Club,Carlos Murillo,Misterio De Amor,camila cabello crying in the club 2017,carlos murillo misterio de amor 1998,0.316,-1
+A2920,B92745,Stone Sour,Bother,Stephan Micus,A Song For Zeus,stone sour bother 2002,stephan micus a song for zeus 2023,0.353,-1
+A2185,B14037,Billy Joel,And So It Goes,Big Black Delta,Sunday,billy joel and so it goes 1989,big black delta sunday 2020,0.2,-1
+A5954,B49047,Camila Cabello,Crying in the Club,Cafe De Anatolia,Desert Groove,camila cabello crying in the club 2017,cafe de anatolia desert groove 2024,0.237,-1
+A2753,B40780,Marc Anthony,I Need to Know,Martin Luther King Jr.,I Have Been To The Mountaintop ringtone,marc anthony i need to know 1999,martin luther king jr. i have been to the mountaintop ringtone 2010,0.284,-1
+A3678,B37621,Big Time Rush,Windows Down,Big H.A.W.K.,What's Happening (feat. Mr. 3-2 & Mafio),big time rush windows down 2012,big h.a.w.k. what's happening (feat. mr. 3-2 & mafio) 2003,0.224,-1
+A54,B53668,Jason Derulo,Ridin' Solo,James Brown,I Walked Alone,jason derulo ridin' solo 2010,james brown i walked alone 2014,0.323,-1
+A6944,B82619,Leona Lewis,Here I Am,Lefti,Spirits Up (Babert Italo Remix),leona lewis here i am 2007,lefti spirits up (babert italo remix) 2022,0.357,-1
+A4654,B35763,Michelle Branch,Breathe,MIZERY,Piraterie (feat. Bad Shadow),michelle branch breathe 2003,mizery piraterie (feat. bad shadow) 2020,0.3,-1
+A895,B82538,Madonna,Like a Prayer,Max Cooper,Autumn Haze,madonna like a prayer 1989,max cooper autumn haze 2012,0.222,-1
+A5031,B90674,Martina McBride,I Just Call You Mine,Matthew McCarthy,Seeing Stars,martina mcbride i just call you mine 2009,matthew mccarthy seeing stars 2022,0.293,-1
+A9351,B49599,Mariah Carey,Vision of Love,Matt Fax,Out Of Sight (Mixed),mariah carey vision of love 1990,matt fax out of sight (mixed) 2021,0.206,-1
+A1250,B70888,Michael Jackson,Man In the Mirror,Milk Inc.,Livin' a Lie,michael jackson man in the mirror 1987,milk inc. livin' a lie 2001,0.263,-1
+A2751,B16083,Mariah Carey,Always Be My Baby,Matthew Ifield,Heaven,mariah carey always be my baby 1995,matthew ifield heaven 2021,0.229,-1
+A5031,B25718,Martina McBride,I Just Call You Mine,Magdalena Bay,Follow the Leader,martina mcbride i just call you mine 2009,magdalena bay follow the leader 2022,0.244,-1
+A4287,B45169,Alan Jackson,Little Bitty,Al Grey,Bluish Grey,alan jackson little bitty 1996,al grey bluish grey 2011,0.233,-1
+A1026,B18675,Ed Sheeran,Eraser,Edith Imonikhe,Dangerous Type,ed sheeran eraser 2017,edith imonikhe dangerous type 2023,0.382,-1
+A5390,B74331,Cole Swindell,Get Up,Country Nation,That's My Kind of Night (Instrumental Version),cole swindell get up 2014,country nation that's my kind of night (instrumental version) 2013,0.242,-1
+A80,B26020,Michael Jackson,Man In the Mirror,Michele Chiavarini,I'm So Alive (Michele Chiavarini Remix Instrumental) (feat. Cheryl Porter),michael jackson man in the mirror 1987,michele chiavarini i'm so alive (michele chiavarini remix instrumental) (feat. cheryl porter) 2017,0.255,-1
+A609,B73345,Rodney Atkins,Take a Back Road,Rodney Atkins,Take A Back Road,rodney atkins take a back road 2011,rodney atkins take a back road 2011,1.0,1
+A6165,B5424,Kenny Chesney,What I Need to Do,Kenny Chesney,What I Need to Do,kenny chesney what i need to do 1999,kenny chesney what i need to do 2000,0.889,1
+A1894,B14451,Christina Aguilera,Dirrty (feat. Redman),Choi Yu Ree,Like a Dream,christina aguilera dirrty (feat. redman) 2002,choi yu ree like a dream 2023,0.356,-1
+A5623,B27894,Bullet for My Valentine,Hearts Burst Into Fire,Bunny Sigler,Follow Your Heart,bullet for my valentine hearts burst into fire 2008,bunny sigler follow your heart 1967,0.216,-1
+A6059,B59331,Madonna,Frozen,Marianne Faithfull,Ode to a Nightingale,madonna frozen 1998,marianne faithfull ode to a nightingale 2021,0.227,-1
+A1966,B89892,Daryl Hall & John Oates,Out of Touch,Dana,Victims Of Hardstyle (Greco Di Tufo Mix),daryl hall & john oates out of touch 1984,dana victims of hardstyle (greco di tufo mix) 2003,0.22,-1
+A2287,B21912,Nickelback,Follow You Home,Nickelback,Follow You Home,nickelback follow you home 2005,nickelback follow you home 2005,1.0,1
+A6948,B76174,Michelle Branch,Breathe,Miles Davis,Spring Is Here,michelle branch breathe 2003,miles davis spring is here 2012,0.29,-1
+A1478,B82659,Carrie Underwood,Little Toy Guns,Cary Brothers,Honestly (EP Mix),carrie underwood little toy guns 2014,cary brothers honestly (ep mix) 2004,0.351,-1
+A5031,B64867,Martina McBride,I Just Call You Mine,Max Cruise,Memory of You (feat. The Motion Epic & Sparkee),martina mcbride i just call you mine 2009,max cruise memory of you (feat. the motion epic & sparkee) 2022,0.286,-1
+A8194,B45681,America,Sister Golden Hair,Amy Schumer,Garden Gnome (Live),america sister golden hair 1975,amy schumer garden gnome (live) 2016,0.278,-1
+A6059,B84275,Madonna,Frozen,Mari Wilson,Anyone Who Had a Heart,madonna frozen 1998,mari wilson anyone who had a heart 2016,0.231,-1
+A6734,B2184,Panic! At the Disco,One of the Drunks,Patsy Cline,Just a Closer Walk with Thee,panic! at the disco one of the drunks 2018,patsy cline just a closer walk with thee 2013,0.289,-1
+A9859,B8163,Young the Giant,Islands,Young Earth Sauce,Better (feat. Gud Griff),young the giant islands 2010,young earth sauce better (feat. gud griff) 2022,0.34,-1
+A5810,B27051,The Archies,"Sugar, Sugar",The Blind Shake,Broken Racehorse,"the archies sugar, sugar 1969",the blind shake broken racehorse 2016,0.243,-1
+A1678,B92459,Toby Keith,Wish I Didn't Know Now,Tony Rice,Stoney Creek,toby keith wish i didn't know now 1993,tony rice stoney creek 1977,0.316,-1
+A3740,B89789,Daughtry,What About Now,Daughtry,What About Now,daughtry what about now 2006,daughtry what about now 2006,1.0,1
+A1079,B79381,New Boyz,Better With the Lights Off (feat. Chris Brown),Neon Hunk,That's Not Gums,new boyz better with the lights off (feat. chris brown) 2011,neon hunk that's not gums 2003,0.267,-1
+A3740,B54220,Daughtry,What About Now,Daphne Rubin-Vega,Change (Fathers Of Sound Sunset Vocal Mix),daughtry what about now 2006,daphne rubin-vega change (fathers of sound sunset vocal mix) 2023,0.262,-1
+A6948,B34692,Michelle Branch,Breathe,Michelle Branch,One of These Days,michelle branch breathe 2003,michelle branch one of these days 2003,0.658,0
+A8194,B67506,America,Sister Golden Hair,Amy Rigby,That's the Time,america sister golden hair 1975,amy rigby that's the time 2005,0.29,-1
+A7794,B17923,LINKIN PARK,Figure.09,Linkin Park,Numb / Encore,linkin park figure.09 2003,linkin park numb / encore 2004,0.567,-1
+A5031,B16083,Martina McBride,I Just Call You Mine,Matthew Ifield,Heaven,martina mcbride i just call you mine 2009,matthew ifield heaven 2021,0.293,-1
+A9118,B57449,The Beach Boys,"Dance, Dance, Dance",The Goo Goo Dolls,Listen (Live),"the beach boys dance, dance, dance 1965",the goo goo dolls listen (live) 2021,0.308,-1
+A5031,B96717,Martina McBride,I Just Call You Mine,Marimba Alma Lira la Internacional,Triste Corazon (En vivo),martina mcbride i just call you mine 2009,marimba alma lira la internacional triste corazon (en vivo) 2023,0.344,-1
+A3103,B296,Jason Mraz,Coyotes,Jamie Lewis,Tattoo Woman (Sex on the Beach Mix),jason mraz coyotes 2008,jamie lewis tattoo woman (sex on the beach mix) 2008,0.288,-1
+A9351,B25512,Mariah Carey,Vision of Love,Maickel Telussa & Patrick Tijssen,I Love House,mariah carey vision of love 1990,maickel telussa & patrick tijssen i love house 2024,0.333,-1
+A9501,B15146,Jeremy Soule,Dragonborn,Jeff Richardson,Lonely Soul,jeremy soule dragonborn 2011,jeff richardson lonely soul 2017,0.281,-1
+A5810,B46074,The Archies,"Sugar, Sugar",The Go Gos,At the Beach,"the archies sugar, sugar 1969",the go gos at the beach 1964,0.379,-1
+A1547,B45729,David Guetta,Dangerous (feat. Sam Martin),Dani Zavera,Clouds,david guetta dangerous (feat. sam martin) 2014,dani zavera clouds 2022,0.261,-1
+A4315,B21472,Sia,Reaper,Sisters Doll,I Love Barbie,sia reaper 2016,sisters doll i love barbie 2012,0.29,-1
+A7128,B44089,David Bowie,Modern Love,David Bowie,Sorrow,david bowie modern love 1983,david bowie sorrow 1973,0.679,0
+A7128,B74400,David Bowie,Modern Love,DaGamba,Spring,david bowie modern love 1983,dagamba spring 2016,0.214,-1
+A9714,B18877,Bring Me The Horizon,Doomed,Brenda Lee,I'm Sorry,bring me the horizon doomed 2015,brenda lee i'm sorry 2024,0.375,-1
+A9118,B66500,The Beach Boys,"Dance, Dance, Dance",The Godfathers,Unreal World,"the beach boys dance, dance, dance 1965",the godfathers unreal world 1991,0.333,-1
+A5771,B76874,The Archies,"Sugar, Sugar",The Wild Feathers,Top of the World,"the archies sugar, sugar 1969",the wild feathers top of the world 2021,0.256,-1
+A5411,B91938,Cole Swindell,Get Up,Conway Twitty,You'll Never Walk Alone,cole swindell get up 2014,conway twitty you'll never walk alone 2014,0.357,-1
+A9351,B2327,Mariah Carey,Vision of Love,Mahalia Jackson,In the Upper Room,mariah carey vision of love 1990,mahalia jackson in the upper room 1995,0.342,-1
+A4130,B94454,Bring Me The Horizon,Throne,Bring Me the Horizon,Doomed,bring me the horizon throne 2015,bring me the horizon doomed 2015,0.844,1
+A6286,B28281,Newcleus,Jam On It,Nemo Schiffman,I Miss You,newcleus jam on it 1984,nemo schiffman i miss you 2018,0.233,-1
+A9118,B93679,The Beach Boys,"Dance, Dance, Dance",The Highwaymen,Loving Her Was Easier (Than Anything I'll Ever Do Again) [live],"the beach boys dance, dance, dance 1965",the highwaymen loving her was easier (than anything i'll ever do again) [live] 2021,0.253,-1
+A5390,B71041,Cole Swindell,Get Up,Cole Swindell,Get Up,cole swindell get up 2014,cole swindell get up 2014,1.0,1
+A5220,B19289,Madonna,Like a Prayer,Making Love Music Ensemble,Sexual Energy,madonna like a prayer 1989,making love music ensemble sexual energy 2017,0.244,-1
+A9714,B55305,Bring Me The Horizon,Doomed,Brent Wood,Direct to Toronto,bring me the horizon doomed 2015,brent wood direct to toronto 2022,0.303,-1
+A6734,B35951,Panic! At the Disco,One of the Drunks,Panic! At The Disco,One of the Drunks,panic! at the disco one of the drunks 2018,panic! at the disco one of the drunks 2018,1.0,1
+A2920,B43816,Stone Sour,Bother,Steve Yoo,Hidden (Hymn),stone sour bother 2002,steve yoo hidden (hymn) 2001,0.357,-1
+A9041,B79828,Bread,Sweet Surrender,Bryan Austin,That's What She Said,bread sweet surrender 1972,bryan austin that's what she said 2017,0.263,-1
+A3737,B56673,Daryl Hall & John Oates,Did It In a Minute,Dan Musselman,Listening To My Creator,daryl hall & john oates did it in a minute 1981,dan musselman listening to my creator 2022,0.213,-1
+A2055,B84855,America,Sister Golden Hair,America,Sister Golden Hair,america sister golden hair 1975,america sister golden hair 2017,0.871,1
+A5771,B58097,The Archies,"Sugar, Sugar",The Mills Brothers,I Heard,"the archies sugar, sugar 1969",the mills brothers i heard 2023,0.29,-1
+A2312,B93978,Vampire Weekend,Giving Up the Gun,Valentino,Mellow Dancer,vampire weekend giving up the gun 2010,valentino mellow dancer 2018,0.289,-1
+A5200,B94433,Madonna,Like a Prayer,Marika Takeuchi,Missing Link,madonna like a prayer 1989,marika takeuchi missing link 2022,0.212,-1
+A80,B16070,Michael Jackson,Man In the Mirror,MIDIFine Systems,Africa ((Originally Performed by Toto) [Karaoke Version]),michael jackson man in the mirror 1987,midifine systems africa ((originally performed by toto) [karaoke version]) 2010,0.215,-1
+A5200,B82041,Madonna,Like a Prayer,Matt Kennon,That's Love,madonna like a prayer 1989,matt kennon that's love 2015,0.214,-1
+A5031,B61997,Martina McBride,I Just Call You Mine,Mansion Accompaniment Tracks,Please Forgive Me (Vocal Demonstration),martina mcbride i just call you mine 2009,mansion accompaniment tracks please forgive me (vocal demonstration) 2009,0.315,-1
+A4060,B31531,Jana Kramer,Why Ya Wanna,Jazzy Coffee,Always Happy,jana kramer why ya wanna 2012,jazzy coffee always happy 2022,0.4,-1
+A9118,B74259,The Beach Boys,"Dance, Dance, Dance",Tha Voice,Do the Same (feat. Trump da Don),"the beach boys dance, dance, dance 1965",tha voice do the same (feat. trump da don) 2014,0.277,-1
+A8363,B8099,Keith Urban,Coming Home (feat. Julia Michaels),Ketty Lester,When I Fall in Love,keith urban coming home (feat. julia michaels) 2018,ketty lester when i fall in love 2023,0.314,-1
+A5810,B41415,The Archies,"Sugar, Sugar",The Dön Beatz,Indian type beat (kanpatti),"the archies sugar, sugar 1969",the dön beatz indian type beat (kanpatti) 2022,0.217,-1
+A2751,B35653,Mariah Carey,Always Be My Baby,Mark Tremonti,Jingle Bells,mariah carey always be my baby 1995,mark tremonti jingle bells 2023,0.229,-1
+A5771,B58718,The Archies,"Sugar, Sugar",The Hit Crew,Ghosts And Spirits,"the archies sugar, sugar 1969",the hit crew ghosts and spirits 2007,0.306,-1
+A7037,B14240,Blackmill,Let It Be (feat. Veela),Blaze of Perdition,Dreams Shall Flesh,blackmill let it be (feat. veela) 2011,blaze of perdition dreams shall flesh 2015,0.357,-1
+A4119,B24537,Childish Gambino,This Is America,Chinem O Safadim,I Love you Cowboy,childish gambino this is america 2018,chinem o safadim i love you cowboy 2023,0.282,-1
+A4819,B76318,Paramore,Future,Panorama Panama Town,Top of the Head,paramore future 2013,panorama panama town top of the head 2019,0.341,-1
+A2920,B34475,Stone Sour,Bother,Strange Talk,The Good Days,stone sour bother 2002,strange talk the good days 2021,0.323,-1
+A4654,B82209,Michelle Branch,Breathe,Michelle Branch,You’re Good,michelle branch breathe 2003,michelle branch you’re good 2017,0.656,0
+A5771,B43985,The Archies,"Sugar, Sugar",The Fizz,Winter Wonderland,"the archies sugar, sugar 1969",the fizz winter wonderland 2018,0.194,-1
+A3177,B2017,Rednex,Cotton Eye Joe,Rev. James Cleveland and the Southern California Community Choir,If You Believe (Faith Will Conquer Everything) (feat. The New Jersey Mass Choir),rednex cotton eye joe 1994,rev. james cleveland and the southern california community choir if you believe (faith will conquer everything) (feat. the new jersey mass choir) 1982,0.147,-1
+A4315,B11187,Sia,Reaper,Sister Rosetta Tharpe,Take a New Look,sia reaper 2016,sister rosetta tharpe take a new look 2015,0.286,-1
+A7239,B7104,Mariah Carey,Vision of Love,Manga Saint Hilare,All My Sins,mariah carey vision of love 1990,manga saint hilare all my sins 2022,0.257,-1
+A4479,B37894,Chicago,We Can Last Forever,Christmas Songs Remix,Winter Holiday Ambient Noises for Total Relax pt. 2,chicago we can last forever 1988,christmas songs remix winter holiday ambient noises for total relax pt. 2 2021,0.244,-1
+A3963,B94752,Percy Sledge,When a Man Loves a Woman,Percy Sledge,When a Man Loves a Woman,percy sledge when a man loves a woman 1966,percy sledge when a man loves a woman 2016,0.929,1
+A9275,B99522,Lin-Manuel Miranda,Almost Like Praying (feat. Artists for Puerto Rico),Live,Like A Soldier,lin-manuel miranda almost like praying (feat. artists for puerto rico) 2017,live like a soldier 2001,0.24,-1
+A9118,B63369,The Beach Boys,"Dance, Dance, Dance",The Damned,Trojans,"the beach boys dance, dance, dance 1965",the damned trojans 1985,0.359,-1
+A9714,B95732,Bring Me The Horizon,Doomed,Brenda Lee,Around the World,bring me the horizon doomed 2015,brenda lee around the world 2024,0.312,-1
+A5535,B8031,"Tyler, The Creator",Tamale,"Tyler, The Creator",Golden,"tyler, the creator tamale 2013","tyler, the creator golden 2011",0.767,1
+A5200,B65986,Madonna,Like a Prayer,Marcel Dettmann,Skyway (Marcel Dettmann Remix) (mixed),madonna like a prayer 1989,marcel dettmann skyway (marcel dettmann remix) (mixed) 2016,0.22,-1
+A9606,B8994,Sia,You're Never Fully Dressed Without a Smile (2014 Film Version),Sia,You're Never Fully Dressed Without a Smile (2014 Film Version),sia you're never fully dressed without a smile (2014 film version) 2014,sia you're never fully dressed without a smile (2014 film version) 2014,1.0,1
+A609,B3856,Rodney Atkins,Take a Back Road,Roland Cedermark,Let It Be Me (Je t'appartiens),rodney atkins take a back road 2011,roland cedermark let it be me (je t'appartiens) 2006,0.308,-1
+A4800,B37109,Paramore,Future,Paul McCartney,Really Love You (04 Summer Tour Remix),paramore future 2013,paul mccartney really love you (04 summer tour remix) 2005,0.259,-1
+A5031,B95571,Martina McBride,I Just Call You Mine,Manu Victoria,Lamento Boliviano (Guaracha Mix),martina mcbride i just call you mine 2009,manu victoria lamento boliviano (guaracha mix) 2020,0.294,-1
+A9118,B48662,The Beach Boys,"Dance, Dance, Dance",The Belle Stars,Indian Summer,"the beach boys dance, dance, dance 1965",the belle stars indian summer 2004,0.333,-1
+A7239,B94806,Mariah Carey,Vision of Love,Marz Funk Band,Hooked On That Lovin Thang,mariah carey vision of love 1990,marz funk band hooked on that lovin thang 2022,0.304,-1
+A5810,B30894,The Archies,"Sugar, Sugar",The Veer Union,I Will Make It Out (Acoustic),"the archies sugar, sugar 1969",the veer union i will make it out (acoustic) 2022,0.245,-1
+A3177,B52269,Rednex,Cotton Eye Joe,Rebecca Y. Yoo,Changements (vol.3),rednex cotton eye joe 1994,rebecca y. yoo changements (vol.3) 2022,0.256,-1
+A3806,B67744,Billy Idol,Rebel Yell,Big Chief Juan Pardo & Golden Comanche's,Looking for Mardi Gras,billy idol rebel yell 1983,big chief juan pardo & golden comanche's looking for mardi gras 2015,0.162,-1
+A2753,B39960,Marc Anthony,I Need to Know,Masatoshi Ono,Starry night,marc anthony i need to know 1999,masatoshi ono starry night 2023,0.188,-1
+A3678,B89646,Big Time Rush,Windows Down,Bill Frisell,Nature's Symphony,big time rush windows down 2012,bill frisell nature's symphony 1998,0.229,-1
+A1250,B14439,Michael Jackson,Man In the Mirror,Mike Mains & The Branches,Breathing Underwater,michael jackson man in the mirror 1987,mike mains & the branches breathing underwater 2019,0.255,-1
+A4119,B7402,Childish Gambino,This Is America,Christian Burns,We Are Tonight,childish gambino this is america 2018,christian burns we are tonight 2013,0.324,-1
+A2920,B60518,Stone Sour,Bother,Stone Sour,Bother,stone sour bother 2002,stone sour bother 2002,1.0,1
+A5771,B23849,The Archies,"Sugar, Sugar",The Healers,Mama's baby,"the archies sugar, sugar 1969",the healers mama's baby 2014,0.31,-1
+A925,B99893,Miley Cyrus,Flowers,Mighty Sparrow,Spider,miley cyrus flowers 2023,mighty sparrow spider 2018,0.385,-1
+A7239,B96570,Mariah Carey,Vision of Love,Matilda Mann,Borderline Insane,mariah carey vision of love 1990,matilda mann borderline insane 2023,0.229,-1
+A4479,B52994,Chicago,We Can Last Forever,Christa Ludwig,"Carmen · Oper in 4 Akten (deutsch gesungen), Erster Akt: Nr.6a Ha! Das heiß ich doch Unverschämtheit! (Don José, Micaëla)",chicago we can last forever 1988,"christa ludwig carmen · oper in 4 akten (deutsch gesungen), erster akt: nr.6a ha! das heiß ich doch unverschämtheit! (don josé, micaëla) 2013",0.149,-1
+A5031,B10237,Martina McBride,I Just Call You Mine,Manami Kiyota,Planet Earth 2nd (2019 New Arrange Ver.),martina mcbride i just call you mine 2009,manami kiyota planet earth 2nd (2019 new arrange ver.) 2020,0.237,-1
+A2460,B43447,Santigold,L.E.S. Artistes,Saxophone Allstars,My Way (Romantic Candlelight Mix),santigold l.e.s. artistes 2008,saxophone allstars my way (romantic candlelight mix) 2013,0.263,-1
+A5220,B45481,Madonna,Like a Prayer,Max Werner,In The Winter,madonna like a prayer 1989,max werner in the winter 1981,0.379,-1
+A9578,B28501,Sia,You're Never Fully Dressed Without a Smile (2014 Film Version),Silent Rage,I'm on Fire,sia you're never fully dressed without a smile (2014 film version) 2014,silent rage i'm on fire 2021,0.254,-1
+A8216,B13926,America,Sister Golden Hair,Amaryllis Chamber Ensemble,You're Too Pretty For This,america sister golden hair 1975,amaryllis chamber ensemble you're too pretty for this 2019,0.276,-1
+A9714,B42152,Bring Me The Horizon,Doomed,Bruce Dickinson,Shadow of the Gods,bring me the horizon doomed 2015,bruce dickinson shadow of the gods 2024,0.282,-1
+A1547,B84649,David Guetta,Dangerous (feat. Sam Martin),Davoodi,Balrog (Davoodi remix),david guetta dangerous (feat. sam martin) 2014,davoodi balrog (davoodi remix) 2012,0.37,-1
+A1057,B49910,Avenged Sevenfold,Almost Easy,Avenged Sevenfold,Scream,avenged sevenfold almost easy 2007,avenged sevenfold scream 2007,0.765,1
+A4843,B85652,Regina Spektor,Better,Relaxation Jazz Music Ensemble,Mellow Workflow,regina spektor better 2006,relaxation jazz music ensemble mellow workflow 2022,0.275,-1
+A6313,B44201,TOOL,Pneuma,Tony Glausi,Silent Night,tool pneuma 2019,tony glausi silent night 2017,0.31,-1
+A5810,B24410,The Archies,"Sugar, Sugar",The Specials,Bright Lights (Instrumental),"the archies sugar, sugar 1969",the specials bright lights (instrumental) 1984,0.326,-1
+A8177,B63487,Miranda Lambert,Use My Heart,Mirror Gazer,Inhale The Sky (King Most's Dance Mix),miranda lambert use my heart 2016,mirror gazer inhale the sky (king most's dance mix) 2021,0.268,-1
+A2681,B52608,Gia Farrell,Hit Me Up,Gia Farrell,Hit Me Up,gia farrell hit me up 2006,gia farrell hit me up 2006,1.0,1
+A7794,B61003,LINKIN PARK,Figure.09,Linkin Park,Figure.09,linkin park figure.09 2003,linkin park figure.09 2003,1.0,1
+A8598,B34672,Fetty Wap,Boomin,Feast For Crows,Unholy Confessions,fetty wap boomin 2015,feast for crows unholy confessions 2019,0.333,-1
+A4060,B31788,Jana Kramer,Why Ya Wanna,Jamie Lancaster,Dangerous (feat. Dinah Eastwood),jana kramer why ya wanna 2012,jamie lancaster dangerous (feat. dinah eastwood) 2019,0.321,-1
+A6059,B97401,Madonna,Frozen,Manolo Otero,Besame Mucho : Solamente Una Vez : El Reloj : La Barca : Sabor A Mi : Aquellos Ojos Verdes,madonna frozen 1998,manolo otero besame mucho : solamente una vez : el reloj : la barca : sabor a mi : aquellos ojos verdes 2004,0.102,-1
+A5588,B49650,Bullet for My Valentine,Hearts Burst Into Fire,Budamunky,At the Top,bullet for my valentine hearts burst into fire 2008,budamunky at the top 2011,0.275,-1
+A3789,B92843,Billy Idol,Rebel Yell,Big June,"Ghetto Gospel (feat. BigFase100, BossManHogg, TuppG & Sonny Bo)",billy idol rebel yell 1983,"big june ghetto gospel (feat. bigfase100, bossmanhogg, tuppg & sonny bo) 2015",0.156,-1
+A7819,B78071,LINKIN PARK,Figure.09,Light of the World,Famous Faces / Swingin' / Midnight Groovin' (Medley),linkin park figure.09 2003,light of the world famous faces / swingin' / midnight groovin' (medley) 2020,0.171,-1
+A8831,B92004,Trans-Siberian Orchestra,A Star to Follow,Trans-Siberian Orchestra,A Star to Follow,trans-siberian orchestra a star to follow 1996,trans-siberian orchestra a star to follow 1996,1.0,1
+A3103,B97354,Jason Mraz,Coyotes,Jason Mraz,Coyotes,jason mraz coyotes 2008,jason mraz coyotes 2008,1.0,1
+A4800,B75879,Paramore,Future,Party Tyme Karaoke,This Is How It Works (Made Popular By TLC) [Vocal Version],paramore future 2013,party tyme karaoke this is how it works (made popular by tlc) [vocal version] 2020,0.171,-1
+A7239,B71199,Mariah Carey,Vision of Love,Madness,Johnny the Horse,mariah carey vision of love 1990,madness johnny the horse 1999,0.281,-1
+A609,B44112,Rodney Atkins,Take a Back Road,Roy Zimmerman,Jingle Bell Iraq,rodney atkins take a back road 2011,roy zimmerman jingle bell iraq 2005,0.286,-1
+A54,B18643,Jason Derulo,Ridin' Solo,Jasad,Beliefs,jason derulo ridin' solo 2010,jasad beliefs 2019,0.414,-1
+A9501,B12840,Jeremy Soule,Dragonborn,Jens Johansson,On the Fritz,jeremy soule dragonborn 2011,jens johansson on the fritz 1996,0.188,-1
+A7819,B75398,LINKIN PARK,Figure.09,Little Baby Bum,Wheels on the Bus (All Through the Town),linkin park figure.09 2003,little baby bum wheels on the bus (all through the town) 2021,0.18,-1
+A589,B75655,Rodney Atkins,Take a Back Road,Rob Crow's Gloomy Place,Autumnal Palette,rodney atkins take a back road 2011,rob crow's gloomy place autumnal palette 2016,0.289,-1
+A7819,B11411,LINKIN PARK,Figure.09,Lil Piru,If You Die,linkin park figure.09 2003,lil piru if you die 2021,0.346,-1
+A4843,B32073,Regina Spektor,Better,Rediscover,I Will Forget You,regina spektor better 2006,rediscover i will forget you 2008,0.333,-1
+A2052,B92885,Mat Kearney,Closer to Love,Massage Music Guru,Nature Meditation Phase,mat kearney closer to love 2009,massage music guru nature meditation phase 2023,0.277,-1
+A5390,B22835,Cole Swindell,Get Up,Cold Flamez,"Nobody Is Illa (feat. Dashxdigital, D Realz & Mic 3rd)",cole swindell get up 2014,"cold flamez nobody is illa (feat. dashxdigital, d realz & mic 3rd) 2021",0.211,-1
+A8161,B95553,Pentatonix,Sleigh Ride,Percy Sledge,When a Man Loves a Woman,pentatonix sleigh ride 2014,percy sledge when a man loves a woman 2015,0.262,-1
+A4287,B525,Alan Jackson,Little Bitty,Alan Jackson,Little Bitty,alan jackson little bitty 1996,alan jackson little bitty 1996,1.0,1
+A5771,B71863,The Archies,"Sugar, Sugar",The Archies,"Sugar, Sugar","the archies sugar, sugar 1969","the archies sugar, sugar 1969",1.0,1
+A9118,B23153,The Beach Boys,"Dance, Dance, Dance",The Moleskins,I Feel The Earth Move (Remix),"the beach boys dance, dance, dance 1965",the moleskins i feel the earth move (remix) 2010,0.229,-1
+A5200,B49646,Madonna,Like a Prayer,Mandella Linkz,Secret,madonna like a prayer 1989,mandella linkz secret 2020,0.385,-1
+A4800,B5858,Paramore,Future,Paramore,Future,paramore future 2013,paramore future 2013,1.0,1
+A6059,B98504,Madonna,Frozen,Mango,When all the ships are gone (Mango mix),madonna frozen 1998,mango when all the ships are gone (mango mix) 2009,0.22,-1
+A5810,B35605,The Archies,"Sugar, Sugar",The Karaoke Channel,Screaming in the Night,"the archies sugar, sugar 1969",the karaoke channel screaming in the night 2015,0.319,-1
+A5810,B80881,The Archies,"Sugar, Sugar",The Hollywood Edge Sound Effects Library,Excuse Me Burp,"the archies sugar, sugar 1969",the hollywood edge sound effects library excuse me burp 2015,0.233,-1
+A7128,B85499,David Bowie,Modern Love,Dave Pike,Besame Mucho,david bowie modern love 1983,dave pike besame mucho 1961,0.321,-1
+A6059,B3514,Madonna,Frozen,Marian Hill,Breathe Into Me,madonna frozen 1998,marian hill breathe into me 2016,0.25,-1
+A2751,B53196,Mariah Carey,Always Be My Baby,Masked Wolf,Sailor On The Moon (feat. IDK & KayCyy),mariah carey always be my baby 1995,masked wolf sailor on the moon (feat. idk & kaycyy) 2022,0.232,-1
+A4061,B47566,Taylor Swift,august,Tantric Sex Background Music Experts,Double Orgasm,taylor swift august 2020,tantric sex background music experts double orgasm 2019,0.236,-1
+A4819,B54638,Paramore,Future,Pacific Range,Comin' After You,paramore future 2013,pacific range comin' after you 2020,0.314,-1
+A9501,B67454,Jeremy Soule,Dragonborn,Jerry Lee Lewis,Johnny B. Goode,jeremy soule dragonborn 2011,jerry lee lewis johnny b. goode 1974,0.306,-1
+A8177,B7281,Miranda Lambert,Use My Heart,Minnie Riperton,Lonely Girl,miranda lambert use my heart 2016,minnie riperton lonely girl 1997,0.303,-1
+A8177,B28577,Miranda Lambert,Use My Heart,Michael Giacchino,Losing Control,miranda lambert use my heart 2016,michael giacchino losing control 2007,0.27,-1
+A4060,B28002,Jana Kramer,Why Ya Wanna,Jackboii Dezz,Who Is That,jana kramer why ya wanna 2012,jackboii dezz who is that 2020,0.333,-1
+A9118,B60040,The Beach Boys,"Dance, Dance, Dance",The Mighty Soulmates,One On One,"the beach boys dance, dance, dance 1965",the mighty soulmates one on one 2021,0.308,-1
+A9118,B75539,The Beach Boys,"Dance, Dance, Dance",The New Zealand School Of Music Big Band,Autumn Leaves,"the beach boys dance, dance, dance 1965",the new zealand school of music big band autumn leaves 2011,0.271,-1
+A2185,B33843,Billy Joel,And So It Goes,Billy Joel,And So It Goes,billy joel and so it goes 1989,billy joel and so it goes 1989,1.0,1
+A1961,B52544,Michael Jackson,I Just Can't Stop Loving You (feat. Siedah Garrett),Michael Franks,Island Life,michael jackson i just can't stop loving you (feat. siedah garrett) 1987,michael franks island life 1998,0.319,-1
+A9351,B1698,Mariah Carey,Vision of Love,Mark Diamond,In the End (Lost Recording #10),mariah carey vision of love 1990,mark diamond in the end (lost recording #10) 2016,0.286,-1
+A80,B33845,Michael Jackson,Man In the Mirror,Michael Jackson,Man in the Mirror (2003 Edit),michael jackson man in the mirror 1987,michael jackson man in the mirror (2003 edit) 2003,0.68,0
+A9714,B99279,Bring Me The Horizon,Doomed,Brendan Grace,Flying,bring me the horizon doomed 2015,brendan grace flying 1909,0.219,-1
+A8216,B84855,America,Sister Golden Hair,America,Sister Golden Hair,america sister golden hair 1975,america sister golden hair 2017,0.871,1
+A5810,B65932,The Archies,"Sugar, Sugar",The Beatles,"Please, Please Me","the archies sugar, sugar 1969","the beatles please, please me 2022",0.353,-1
+A1966,B29190,Daryl Hall & John Oates,Out of Touch,Daryl Hall & John Oates,Out of Touch,daryl hall & john oates out of touch 1984,daryl hall & john oates out of touch 2001,0.902,1
+A7241,B12812,Fetty Wap,Couple Bands,Felix Jaehn,Better (Hight Remix / Extended Version) (feat. Clara Mae),fetty wap couple bands 2015,felix jaehn better (hight remix / extended version) (feat. clara mae) 2018,0.189,-1
+A1966,B48418,Daryl Hall & John Oates,Out of Touch,Dave Davies,I Need You (Live),daryl hall & john oates out of touch 1984,dave davies i need you (live) 2000,0.268,-1
+A9118,B35767,The Beach Boys,"Dance, Dance, Dance",The Martins,In The Presence Of Jehovah (High Key-Studio Track Without Background Vocals),"the beach boys dance, dance, dance 1965",the martins in the presence of jehovah (high key-studio track without background vocals) 2009,0.183,-1
+A2453,B43784,Foreigner,Urgent,Foreigner,Urgent,foreigner urgent 1981,foreigner urgent 1981,1.0,1
+A9118,B70368,The Beach Boys,"Dance, Dance, Dance",The Busters,Chainsaw Reggae,"the beach boys dance, dance, dance 1965",the busters chainsaw reggae 1993,0.359,-1
+A9351,B47056,Mariah Carey,Vision of Love,Magnetic Man,I Need Air (feat. Angela Hunte),mariah carey vision of love 1990,magnetic man i need air (feat. angela hunte) 2010,0.265,-1
+A5031,B50133,Martina McBride,I Just Call You Mine,Malcolm Arnold,Finale,martina mcbride i just call you mine 2009,malcolm arnold finale 1963,0.22,-1
+A5411,B93827,Cole Swindell,Get Up,Cole Swindell,Stereotype,cole swindell get up 2014,cole swindell stereotype 2022,0.655,0
+A1737,B49910,Avenged Sevenfold,Scream,Avenged Sevenfold,Scream,avenged sevenfold scream 2007,avenged sevenfold scream 2007,1.0,1
+A7794,B46724,LINKIN PARK,Figure.09,Lifter Puller,Secret Santa Cruz (Live From The Black Cat 2000),linkin park figure.09 2003,lifter puller secret santa cruz (live from the black cat 2000) 2009,0.224,-1
+A5200,B4641,Madonna,Like a Prayer,May J.,"Let It Go [劇中歌/英語歌] (billboard classics May J. Premium Concert 2017 ～Me, Myself & Orchestra～ at Tokyo Bunka Kaikan 2017.11.5) - Let It Go (billboard classics May J. Premium Concert 2017)",madonna like a prayer 1989,"may j. let it go [劇中歌/英語歌] (billboard classics may j. premium concert 2017 ～me, myself & orchestra～ at tokyo bunka kaikan 2017.11.5) - let it go (billboard classics may j. premium concert 2017) 2018",0.101,-1
+A5810,B52797,The Archies,"Sugar, Sugar",The Pyrates Royale,Sailor's Hornpipe,"the archies sugar, sugar 1969",the pyrates royale sailor's hornpipe 1998,0.341,-1
+A5200,B60360,Madonna,Like a Prayer,Master Freez,Listen Up (80 Club Mix) - Prod. by Roberto Ferrante (2022 Remaster),madonna like a prayer 1989,master freez listen up (80 club mix) - prod. by roberto ferrante (2022 remaster) 0,0.171,-1
+A6059,B34444,Madonna,Frozen,Machito,Indianola,madonna frozen 1998,machito indianola 2020,0.227,-1
+A4654,B9424,Michelle Branch,Breathe,Michelle Branch,Breathe,michelle branch breathe 2003,michelle branch breathe 2003,1.0,1
+A8584,B87056,Fetty Wap,D.A.M.,Fetty Wap,Boomin,fetty wap d.a.m. 2015,fetty wap boomin 2015,0.714,0
+A4654,B46461,Michelle Branch,Breathe,Mir Fontane,Streets Ain't The Same,michelle branch breathe 2003,mir fontane streets ain't the same 2021,0.333,-1
+A5200,B22384,Madonna,Like a Prayer,Marián Oviedo,Simplemente Gracias,madonna like a prayer 1989,marián oviedo simplemente gracias 2020,0.263,-1
+A1250,B72840,Michael Jackson,Man In the Mirror,Michiru Oshima,Burden of Her Past,michael jackson man in the mirror 1987,michiru oshima burden of her past 2005,0.237,-1
+A7239,B68113,Mariah Carey,Vision of Love,Mark Knopfler,Tahitian Skies,mariah carey vision of love 1990,mark knopfler tahitian skies 1990,0.364,-1
+A2287,B64228,Nickelback,Follow You Home,Niconé,People In The City (Get Your Yoga Together Mix) (feat. Enda Gallery),nickelback follow you home 2005,niconé people in the city (get your yoga together mix) (feat. enda gallery) 2020,0.225,-1
+A1894,B10602,Christina Aguilera,Dirrty (feat. Redman),Charlie Parker,Billies Bounce,christina aguilera dirrty (feat. redman) 2002,charlie parker billies bounce 2022,0.311,-1
+A9118,B47243,The Beach Boys,"Dance, Dance, Dance",The Singing Nun (Soeur Sourire),I Have Found the Lord,"the beach boys dance, dance, dance 1965",the singing nun (soeur sourire) i have found the lord 2014,0.224,-1
+A2753,B59111,Marc Anthony,I Need to Know,Maria Callas,"Louise, Depuis Le Jour (feat. Italian Radio Symphony Orchestra Milan & Alfredo Simonetto)",marc anthony i need to know 1999,"maria callas louise, depuis le jour (feat. italian radio symphony orchestra milan & alfredo simonetto) 2023",0.187,-1
+A7794,B30528,LINKIN PARK,Figure.09,Liege Lord,Broken Wasteland,linkin park figure.09 2003,liege lord broken wasteland 1990,0.188,-1
+A2918,B74853,Carrie Underwood,I Know You Won't,Cab Calloway,I'm Now Prepared to Tell the World It's You,carrie underwood i know you won't 2007,cab calloway i'm now prepared to tell the world it's you 1931,0.23,-1
+A4654,B34692,Michelle Branch,Breathe,Michelle Branch,One of These Days,michelle branch breathe 2003,michelle branch one of these days 2003,0.658,0
+A9118,B4582,The Beach Boys,"Dance, Dance, Dance",The Sha La Das,Summer Breeze,"the beach boys dance, dance, dance 1965",the sha la das summer breeze 2018,0.333,-1
+A9166,B48103,Carrie Underwood,That's Where It Is,Cats Music Zone,Frozen Time,carrie underwood that's where it is 2005,cats music zone frozen time 2021,0.275,-1
+A3678,B26985,Big Time Rush,Windows Down,Bill Frisell,Half a Million,big time rush windows down 2012,bill frisell half a million 1990,0.219,-1
+A9118,B52811,The Beach Boys,"Dance, Dance, Dance",The Shirelles,For My Sake,"the beach boys dance, dance, dance 1965",the shirelles for my sake 2021,0.282,-1
+A4287,B86391,Alan Jackson,Little Bitty,ALcot,Withers,alan jackson little bitty 1996,alcot withers 2006,0.333,-1
+A6059,B7907,Madonna,Frozen,Martial Canterel,Forget the Combat,madonna frozen 1998,martial canterel forget the combat 2017,0.205,-1
+A5771,B34942,The Archies,"Sugar, Sugar",Third Coast Percussion,Common Patterns in Uncommon Time - III. Repose,"the archies sugar, sugar 1969",third coast percussion common patterns in uncommon time - iii. repose 2013,0.189,-1
+A4119,B89528,Childish Gambino,This Is America,Charlie Byrd,Django,childish gambino this is america 2018,charlie byrd django 1997,0.216,-1
+A5031,B76267,Martina McBride,I Just Call You Mine,Marcus Cole,That's Alright (Cause I Got You),martina mcbride i just call you mine 2009,marcus cole that's alright (cause i got you) 2006,0.306,-1
+A9714,B15928,Bring Me The Horizon,Doomed,Bro'Sis,Do You (C-B-M Remix),bring me the horizon doomed 2015,bro'sis do you (c-b-m remix) 2020,0.242,-1
+A5390,B47883,Cole Swindell,Get Up,Cold Blue,Frozen (Chill Mix),cole swindell get up 2014,cold blue frozen (chill mix) 2020,0.303,-1
+A4060,B6900,Jana Kramer,Why Ya Wanna,James Ray,If You Gotta Make a Fool of Somebody,jana kramer why ya wanna 2012,james ray if you gotta make a fool of somebody 2001,0.255,-1
+A2219,B35384,Billy Joel,And So It Goes,Bill Withers,Lovely Day,billy joel and so it goes 1989,bill withers lovely day 2017,0.267,-1
+A4800,B56526,Paramore,Future,Paul Grant,Middle,paramore future 2013,paul grant middle 2022,0.364,-1
+A1961,B66164,Michael Jackson,I Just Can't Stop Loving You (feat. Siedah Garrett),Michelle Pan,Season's Song,michael jackson i just can't stop loving you (feat. siedah garrett) 1987,michelle pan season's song 1988,0.278,-1
+A1547,B84524,David Guetta,Dangerous (feat. Sam Martin),David Brent,Native American,david guetta dangerous (feat. sam martin) 2014,david brent native american 2016,0.413,-1
+A589,B76260,Rodney Atkins,Take a Back Road,Rolland Peter,Stormy Dreams (Radio Edit),rodney atkins take a back road 2011,rolland peter stormy dreams (radio edit) 2023,0.311,-1
+A6165,B34342,Kenny Chesney,What I Need to Do,Kenny Chesney,The Good Stuff,kenny chesney what i need to do 1999,kenny chesney the good stuff 2009,0.556,-1
+A925,B37998,Miley Cyrus,Flowers,Miracle A Kettor,Double Double,miley cyrus flowers 2023,miracle a kettor double double 2019,0.314,-1
+A9118,B22708,The Beach Boys,"Dance, Dance, Dance",The Statler Brothers,Beyond Romance,"the beach boys dance, dance, dance 1965",the statler brothers beyond romance 1987,0.375,-1
+A5200,B9817,Madonna,Like a Prayer,Matthew Pinder,Golden Hour,madonna like a prayer 1989,matthew pinder golden hour 2019,0.29,-1
+A2753,B40249,Marc Anthony,I Need to Know,Mary Mary,In The Morning,marc anthony i need to know 1999,mary mary in the morning 2001,0.344,-1
+A2185,B94198,Billy Joel,And So It Goes,Bird Sounds,Flying Birds Sounds,billy joel and so it goes 1989,bird sounds flying birds sounds 2021,0.278,-1
+A1547,B26269,David Guetta,Dangerous (feat. Sam Martin),Dance Assassins,Here I Am (Extended Mix),david guetta dangerous (feat. sam martin) 2014,dance assassins here i am (extended mix) 2005,0.283,-1
+A4119,B11163,Childish Gambino,This Is America,Chris Duckenfield,Let It Ride (Speakeasy Remix),childish gambino this is america 2018,chris duckenfield let it ride (speakeasy remix) 2008,0.327,-1
+A1678,B7610,Toby Keith,Wish I Didn't Know Now,Tony Evans Jr.,If You're Ever in Georgia,toby keith wish i didn't know now 1993,tony evans jr. if you're ever in georgia 2023,0.289,-1
+A7271,B75920,Blake Shelton,I Lived It,Blake Neely,This Is Who I Am,blake shelton i lived it 2017,blake neely this is who i am 2021,0.485,-1
+A4516,B37645,Vampire Weekend,Hudson,Val Doonican,O Holy Night,vampire weekend hudson 2013,val doonican o holy night 2020,0.233,-1
+A3737,B56822,Daryl Hall & John Oates,Did It In a Minute,Daryl Hall & John Oates,Did It In A Minute,daryl hall & john oates did it in a minute 1981,daryl hall & john oates did it in a minute 2003,0.915,1
+A9151,B38426,Santigold,Unstoppable,Satella,Shadow Dance,santigold unstoppable 2008,satella shadow dance 2017,0.385,-1
+A5031,B12870,Martina McBride,I Just Call You Mine,Malcolm Martineau,On the Idle Hill of Summer,martina mcbride i just call you mine 2009,malcolm martineau on the idle hill of summer 2011,0.347,-1
+A9351,B96748,Mariah Carey,Vision of Love,Marilla Ness,Yahweh I Know You Are Near,mariah carey vision of love 1990,marilla ness yahweh i know you are near 1990,0.432,-1
+A4800,B45189,Paramore,Future,Pandora,Echoes (Prologue),paramore future 2013,pandora echoes (prologue) 1996,0.267,-1
+A5771,B87587,The Archies,"Sugar, Sugar",The Dahmers,Murder Ride,"the archies sugar, sugar 1969",the dahmers murder ride 2016,0.345,-1
+A3839,B2347,Daughtry,What About Now,Dawn Deep,Dreams,daughtry what about now 2006,dawn deep dreams 2022,0.25,-1
+A8598,B87056,Fetty Wap,Boomin,Fetty Wap,Boomin,fetty wap boomin 2015,fetty wap boomin 2015,1.0,1
+A4315,B48840,Sia,Reaper,Signals Midwest,In The Pauses,sia reaper 2016,signals midwest in the pauses 2013,0.324,-1
+A9118,B75305,The Beach Boys,"Dance, Dance, Dance",The Lowkeys,Stolen Goods,"the beach boys dance, dance, dance 1965",the lowkeys stolen goods 2020,0.282,-1
+A2052,B6568,Mat Kearney,Closer to Love,Masha and the Bear,Monkey Around,mat kearney closer to love 2009,masha and the bear monkey around 2023,0.324,-1
+A3789,B88836,Billy Idol,Rebel Yell,Bill Traylor,What A Friend We Have In Jesus,billy idol rebel yell 1983,bill traylor what a friend we have in jesus 2017,0.271,-1
+A3737,B94137,Daryl Hall & John Oates,Did It In a Minute,David Banner,Like A Pimp (feat. Lil' Flip),daryl hall & john oates did it in a minute 1981,david banner like a pimp (feat. lil' flip) 2003,0.191,-1
+A9351,B92510,Mariah Carey,Vision of Love,Massimo Zamboni,Berlin,mariah carey vision of love 1990,massimo zamboni berlin 2019,0.25,-1
+A2918,B11941,Carrie Underwood,I Know You Won't,Cannibal Ox,Harlem Knights,carrie underwood i know you won't 2007,cannibal ox harlem knights 2015,0.237,-1
+A3177,B16605,Rednex,Cotton Eye Joe,Relaxing Jazz Music,Little Chillin,rednex cotton eye joe 1994,relaxing jazz music little chillin 2024,0.256,-1
+A2753,B38974,Marc Anthony,I Need to Know,Matt Papa,To the Least of These,marc anthony i need to know 1999,matt papa to the least of these 2010,0.278,-1
+A895,B14230,Madonna,Like a Prayer,Magic System,Africa,madonna like a prayer 1989,magic system africa 2018,0.231,-1
+A5551,B82828,Jazmine Sullivan,Need U Bad,Jazmine Sullivan,Need U Bad,jazmine sullivan need u bad 2008,jazmine sullivan need u bad 2008,1.0,1
+A5810,B33116,The Archies,"Sugar, Sugar",The Weavers,Almost Done,"the archies sugar, sugar 1969",the weavers almost done 1990,0.345,-1
+A54,B31023,Jason Derulo,Ridin' Solo,Jason Derulo,Stupid Love,jason derulo ridin' solo 2010,jason derulo stupid love 2013,0.655,0
+A1079,B82324,New Boyz,Better With the Lights Off (feat. Chris Brown),Nelly Furtado,In God's Hands (Single Version) (feat. Keith Urban),new boyz better with the lights off (feat. chris brown) 2011,nelly furtado in god's hands (single version) (feat. keith urban) 2008,0.343,-1
+A1966,B62382,Daryl Hall & John Oates,Out of Touch,Daryl Hall & John Oates,One On One,daryl hall & john oates out of touch 1984,daryl hall & john oates one on one 2003,0.732,0
+A3737,B59446,Daryl Hall & John Oates,Did It In a Minute,Daryl Hall & John Oates,Did It In A Minute,daryl hall & john oates did it in a minute 1981,daryl hall & john oates did it in a minute 1981,1.0,1
+A9275,B84033,Lin-Manuel Miranda,Almost Like Praying (feat. Artists for Puerto Rico),Livestep,Like A Star,lin-manuel miranda almost like praying (feat. artists for puerto rico) 2017,livestep like a star 2022,0.227,-1
+A1966,B9341,Daryl Hall & John Oates,Out of Touch,Daryl Hall & John Oates,Africa,daryl hall & john oates out of touch 1984,daryl hall & john oates africa 1980,0.732,0
+A8831,B23916,Trans-Siberian Orchestra,A Star to Follow,Tristen,Wicked Heart,trans-siberian orchestra a star to follow 1996,tristen wicked heart 2014,0.304,-1
+A5031,B19116,Martina McBride,I Just Call You Mine,Maxi Trusso,Let Me Know,martina mcbride i just call you mine 2009,maxi trusso let me know 2014,0.293,-1
+A3798,B38959,Tech N9ne,"Fragile (feat. Kendrick Lamar, ¡MAYDAY! & Kendall Morgan)",Tenpenny Joke,Emergency,"tech n9ne fragile (feat. kendrick lamar, ¡mayday! & kendall morgan) 2013",tenpenny joke emergency 2009,0.208,-1
+A5771,B9298,The Archies,"Sugar, Sugar",The Hit Crew,If You're Happy And You Know It,"the archies sugar, sugar 1969",the hit crew if you're happy and you know it 2016,0.224,-1
+A2052,B8623,Mat Kearney,Closer to Love,Mat Kearney,Closer to Love,mat kearney closer to love 2009,mat kearney closer to love 2009,1.0,1
+A589,B10180,Rodney Atkins,Take a Back Road,Roly Daniels,Do You Fool Around,rodney atkins take a back road 2011,roly daniels do you fool around 2017,0.389,-1
+A9578,B78080,Sia,You're Never Fully Dressed Without a Smile (2014 Film Version),Sizzla,Praises to Selassie,sia you're never fully dressed without a smile (2014 film version) 2014,sizzla praises to selassie 2022,0.268,-1
+A3737,B59160,Daryl Hall & John Oates,Did It In a Minute,David Lanz,Nights In White Satin,daryl hall & john oates did it in a minute 1981,david lanz nights in white satin 1990,0.362,-1
+A2287,B76209,Nickelback,Follow You Home,Nikolas Schreck,In Our Evanescence,nickelback follow you home 2005,nikolas schreck in our evanescence 2019,0.282,-1
+A4425,B95447,Gabby Barrett,The Good Ones,Garry B,Missing,gabby barrett the good ones 2020,garry b missing 2019,0.312,-1
+A5771,B67540,The Archies,"Sugar, Sugar",The Boss Band,Tunnel Of Love,"the archies sugar, sugar 1969",the boss band tunnel of love 2011,0.242,-1
+A3202,B55989,Rednex,Cotton Eye Joe,Return,Father Father,rednex cotton eye joe 1994,return father father 2015,0.231,-1
+A3789,B92182,Billy Idol,Rebel Yell,Billy Gilman,Anyway (The Voice Performance),billy idol rebel yell 1983,billy gilman anyway (the voice performance) 2016,0.25,-1
+A5810,B57084,The Archies,"Sugar, Sugar",The Upsetters,Psyche & Trim (2022 Remaster),"the archies sugar, sugar 1969",the upsetters psyche & trim (2022 remaster) 1978,0.312,-1
+A4060,B34111,Jana Kramer,Why Ya Wanna,Jason Boland,Mexico or Crazy,jana kramer why ya wanna 2012,jason boland mexico or crazy 2002,0.333,-1
+A3839,B33962,Daughtry,What About Now,Dave Porter,Flowers And Eggs,daughtry what about now 2006,dave porter flowers and eggs 2015,0.273,-1
+A3103,B61643,Jason Mraz,Coyotes,Jake Shimabukuro,On The Road To Freedom (feat. Warren Haynes),jason mraz coyotes 2008,jake shimabukuro on the road to freedom (feat. warren haynes) 2021,0.258,-1
+A4800,B86124,Paramore,Future,Patsy Cline,A Poor Man's Roses,paramore future 2013,patsy cline a poor man's roses 1996,0.229,-1
+A6059,B99752,Madonna,Frozen,Markus Schulz,Parademisa,madonna frozen 1998,markus schulz parademisa 2019,0.207,-1
+A309,B6936,Rodney Atkins,Watching You,Rorschach,No One Dies Alone,rodney atkins watching you 2006,rorschach no one dies alone 1990,0.25,-1
+A5810,B14194,The Archies,"Sugar, Sugar",The Brokedown,Sparks,"the archies sugar, sugar 1969",the brokedown sparks 2005,0.31,-1
+A5623,B64012,Bullet for My Valentine,Hearts Burst Into Fire,Buddy Holly,Listen To Me,bullet for my valentine hearts burst into fire 2008,buddy holly listen to me 1993,0.294,-1
+A6734,B94447,Panic! At the Disco,One of the Drunks,Patti LuPone,Berlin: Call Me Madam Dances,panic! at the disco one of the drunks 2018,patti lupone berlin: call me madam dances 1995,0.239,-1
+A4119,B26617,Childish Gambino,This Is America,Christophe Filippi,Beyond,childish gambino this is america 2018,christophe filippi beyond 2017,0.324,-1
+A5810,B71220,The Archies,"Sugar, Sugar",The Everly Brothers,Take A Message To Mary (1959 Recording Remastered),"the archies sugar, sugar 1969",the everly brothers take a message to mary (1959 recording remastered) 2020,0.227,-1
+A8216,B5320,America,Sister Golden Hair,Amir Yussof,Little Bird (Unplugged),america sister golden hair 1975,amir yussof little bird (unplugged) 1995,0.325,-1
+A4060,B34889,Jana Kramer,Why Ya Wanna,James Ingram,Lately,jana kramer why ya wanna 2012,james ingram lately 1986,0.241,-1
+A5031,B90873,Martina McBride,I Just Call You Mine,Maná,Oye Mi Amor,martina mcbride i just call you mine 2009,maná oye mi amor 2012,0.293,-1
+A7128,B17681,David Bowie,Modern Love,David Bowie,Modern Love,david bowie modern love 1983,david bowie modern love 1983,1.0,1
+A4329,B11625,Sia,Hostage,Sizzla,Attack,sia hostage 2014,sizzla attack 2009,0.444,-1
+A925,B32788,Miley Cyrus,Flowers,Mike Howe,Beyond the Mountains,miley cyrus flowers 2023,mike howe beyond the mountains 2011,0.314,-1
+A9578,B4027,Sia,You're Never Fully Dressed Without a Smile (2014 Film Version),Singlish - Building Language the Fun Way!,London Bridge (Instrumental Only),sia you're never fully dressed without a smile (2014 film version) 2014,singlish - building language the fun way! london bridge (instrumental only) 2005,0.262,-1
+A3789,B56958,Billy Idol,Rebel Yell,Big Al Downing,Please Come Home,billy idol rebel yell 1983,big al downing please come home 2010,0.25,-1
+A2751,B77291,Mariah Carey,Always Be My Baby,Masters of Binaurality,Stormy Skies,mariah carey always be my baby 1995,masters of binaurality stormy skies 2020,0.275,-1
+A3678,B88182,Big Time Rush,Windows Down,Big Jay McNeely,Deacon's Hop,big time rush windows down 2012,big jay mcneely deacon's hop 2009,0.364,-1
+A3678,B92424,Big Time Rush,Windows Down,Birds In Row,Triste Sire,big time rush windows down 2012,birds in row triste sire 2018,0.323,-1
+A5220,B26250,Madonna,Like a Prayer,Marion Meadows,Bounce,madonna like a prayer 1989,marion meadows bounce 2006,0.192,-1
+A5771,B19372,The Archies,"Sugar, Sugar",The Three Sounds,Let Me Off Uptown,"the archies sugar, sugar 1969",the three sounds let me off uptown 1962,0.333,-1
+A3740,B66223,Daughtry,What About Now,David Penn,People Lovin' People (Vanilla Ace Remix) (feat. Robert Owens),daughtry what about now 2006,david penn people lovin' people (vanilla ace remix) (feat. robert owens) 2014,0.182,-1
+A3815,B90886,Tech N9ne,"Fragile (feat. Kendrick Lamar, ¡MAYDAY! & Kendall Morgan)",Terry Baucom,Around The Corner,"tech n9ne fragile (feat. kendrick lamar, ¡mayday! & kendall morgan) 2013",terry baucom around the corner 2017,0.25,-1
+A4843,B90138,Regina Spektor,Better,Relaxation Ensemble,Indigo Eyes (feat. Llewellyn),regina spektor better 2006,relaxation ensemble indigo eyes (feat. llewellyn) 2013,0.259,-1
+A80,B69010,Michael Jackson,Man In the Mirror,Miguel Cassina,Gloria y poder,michael jackson man in the mirror 1987,miguel cassina gloria y poder 1989,0.421,-1
+A2219,B19524,Billy Joel,And So It Goes,Bill $aber,Bounce,billy joel and so it goes 1989,bill $aber bounce 2017,0.3,-1
+A5200,B93456,Madonna,Like a Prayer,Mambo Sauce,Things Will Get Better (feat. Deangelo Redman),madonna like a prayer 1989,mambo sauce things will get better (feat. deangelo redman) 2011,0.222,-1
+A2154,B17542,Meghan Trainor,What If I,Megan Slankard,What a Way to Fail,meghan trainor what if i 2015,megan slankard what a way to fail 2015,0.526,-1
+A544,B14851,Panic! At the Disco,This Is Gospel,Paul Monroe,In Too Deep (feat. Ray Andres),panic! at the disco this is gospel 2013,paul monroe in too deep (feat. ray andres) 2020,0.298,-1
+A5771,B80775,The Archies,"Sugar, Sugar",The Original Gospel Harmonettes,That's Enough,"the archies sugar, sugar 1969",the original gospel harmonettes that's enough 1991,0.32,-1
+A4479,B60069,Chicago,We Can Last Forever,Chorale Esperance,Finale,chicago we can last forever 1988,chorale esperance finale 2007,0.281,-1
+A3789,B43683,Billy Idol,Rebel Yell,Bing Crosby,O Holy Night,billy idol rebel yell 1983,bing crosby o holy night 2023,0.276,-1
+A2154,B38690,Meghan Trainor,What If I,Mellow Adlib Club,Common Sense,meghan trainor what if i 2015,mellow adlib club common sense 2022,0.257,-1
+A2052,B43452,Mat Kearney,Closer to Love,Magnus Deus,Mantra for Success,mat kearney closer to love 2009,magnus deus mantra for success 2020,0.286,-1
+A4060,B3674,Jana Kramer,Why Ya Wanna,Jazzanova,Little Bird (Funkhaus Sessions),jana kramer why ya wanna 2012,jazzanova little bird (funkhaus sessions) 2012,0.348,-1
+A80,B80250,Michael Jackson,Man In the Mirror,Mickymar Productions Ltd,"Settle, Old Soldier",michael jackson man in the mirror 1987,"mickymar productions ltd settle, old soldier 2023",0.306,-1
+A309,B17860,Rodney Atkins,Watching You,Roy Orbison,Crying,rodney atkins watching you 2006,roy orbison crying 2008,0.419,-1
+A1079,B490,New Boyz,Better With the Lights Off (feat. Chris Brown),Neon Electronics vs The Hacker,Better Way (Neon Electronics vs The Hacker Mix),new boyz better with the lights off (feat. chris brown) 2011,neon electronics vs the hacker better way (neon electronics vs the hacker mix) 2009,0.277,-1
+A7271,B40070,Blake Shelton,I Lived It,Blake Shelton,I Need My Girl,blake shelton i lived it 2017,blake shelton i need my girl 2014,0.697,0
+A3798,B16068,Tech N9ne,"Fragile (feat. Kendrick Lamar, ¡MAYDAY! & Kendall Morgan)",Tennis,How to Forgive,"tech n9ne fragile (feat. kendrick lamar, ¡mayday! & kendall morgan) 2013",tennis how to forgive 2020,0.194,-1
+A4287,B28331,Alan Jackson,Little Bitty,Alina Baraz,Coming To My Senses,alan jackson little bitty 1996,alina baraz coming to my senses 2018,0.25,-1
+A5954,B53060,Camila Cabello,Crying in the Club,Carter Burwell,Waking Up Dead,camila cabello crying in the club 2017,carter burwell waking up dead 2019,0.421,-1
+A1966,B63460,Daryl Hall & John Oates,Out of Touch,David Kramer,Citrusdal,daryl hall & john oates out of touch 1984,david kramer citrusdal 2017,0.195,-1
+A2052,B3971,Mat Kearney,Closer to Love,Mark Mancina,Second Call,mat kearney closer to love 2009,mark mancina second call 1998,0.258,-1
+A1250,B52714,Michael Jackson,Man In the Mirror,Michele Mercure,Ghosts Before Breakfast,michael jackson man in the mirror 1987,michele mercure ghosts before breakfast 2018,0.25,-1
+A1966,B88353,Daryl Hall & John Oates,Out of Touch,David Polansky,Jaguar,daryl hall & john oates out of touch 1984,david polansky jaguar 1998,0.268,-1
+A2681,B40140,Gia Farrell,Hit Me Up,Givwits,No Way Out,gia farrell hit me up 2006,givwits no way out 2023,0.308,-1
+A5200,B73160,Madonna,Like a Prayer,Manian,Just Another Night (Anthem 4) (Manian Mix),madonna like a prayer 1989,manian just another night (anthem 4) (manian mix) 2013,0.204,-1
+A5810,B71866,The Archies,"Sugar, Sugar",The Nolans,"Spirit, Body And Soul","the archies sugar, sugar 1969","the nolans spirit, body and soul 2004",0.27,-1
+A7239,B49288,Mariah Carey,Vision of Love,Marty Robbins,It's a Sin,mariah carey vision of love 1990,marty robbins it's a sin 1969,0.312,-1
+A6313,B79649,TOOL,Pneuma,Toad The Wet Sprocket,Enough,tool pneuma 2019,toad the wet sprocket enough 2013,0.303,-1
+A544,B75940,Panic! At the Disco,This Is Gospel,Panic! At The Disco,This Is Gospel,panic! at the disco this is gospel 2013,panic! at the disco this is gospel 2013,1.0,1
+A8951,B41109,Blake Shelton,I Need My Girl,Blue Öyster Cult,In Thee (Live),blake shelton i need my girl 2014,blue öyster cult in thee (live) 2023,0.333,-1
+A54,B11339,Jason Derulo,Ridin' Solo,Jason Derulo,Ridin' Solo,jason derulo ridin' solo 2010,jason derulo ridin' solo 2010,1.0,1
+A6944,B81727,Leona Lewis,Here I Am,Leonald,Bubble~森の声~,leona lewis here i am 2007,leonald bubble~森の声~ 2021,0.385,-1
+A8161,B45917,Pentatonix,Sleigh Ride,Pentatonix,Sleigh Ride,pentatonix sleigh ride 2014,pentatonix sleigh ride 2014,1.0,1
+A309,B54557,Rodney Atkins,Watching You,Ron van den Beuken,Rewind (Extended Mix) (feat. Menno),rodney atkins watching you 2006,ron van den beuken rewind (extended mix) (feat. menno) 2022,0.271,-1
+A9118,B74971,The Beach Boys,"Dance, Dance, Dance",The Best of Northern Soul,That's The Way It Is featuring The Sweet Three (feat. The Sweet Three),"the beach boys dance, dance, dance 1965",the best of northern soul that's the way it is featuring the sweet three (feat. the sweet three) 2006,0.208,-1
+A1966,B40471,Daryl Hall & John Oates,Out of Touch,Dance Hits 2015,Holding On,daryl hall & john oates out of touch 1984,dance hits 2015 holding on 2019,0.268,-1
+A6059,B37238,Madonna,Frozen,Matteo Tarantino,My Way,madonna frozen 1998,matteo tarantino my way 2016,0.25,-1
+A1737,B20226,Avenged Sevenfold,Scream,Avenged Sevenfold,Higher,avenged sevenfold scream 2007,avenged sevenfold higher 2016,0.724,0
+A3678,B62924,Big Time Rush,Windows Down,Big Time Rush,Windows Down,big time rush windows down 2012,big time rush windows down 2012,1.0,1
+A3740,B27498,Daughtry,What About Now,David Mallett,End of the Day,daughtry what about now 2006,david mallett end of the day 2009,0.333,-1
+A3334,B83351,Metallica,The God That Failed,Mel Tormé,Spoken Intro (Live - Version 2),metallica the god that failed 1991,mel tormé spoken intro (live - version 2) 1999,0.261,-1
+A895,B62208,Madonna,Like a Prayer,Max LL,Meteoroids,madonna like a prayer 1989,max ll meteoroids 2022,0.231,-1
+A3678,B373,Big Time Rush,Windows Down,Big Kuza,Lonely,big time rush windows down 2012,big kuza lonely 2019,0.355,-1
+A3678,B3892,Big Time Rush,Windows Down,Big Scary,Heaven On Earth,big time rush windows down 2012,big scary heaven on earth 2016,0.355,-1
+A5031,B51699,Martina McBride,I Just Call You Mine,Manuel Landy,Aurora,martina mcbride i just call you mine 2009,manuel landy aurora 1984,0.195,-1
+A2920,B59413,Stone Sour,Bother,Stephan Vegas,Please Myself,stone sour bother 2002,stephan vegas please myself 2020,0.281,-1
+A6948,B9617,Michelle Branch,Breathe,Mike Johnson,Second Lovers Song,michelle branch breathe 2003,mike johnson second lovers song 1994,0.194,-1
+A925,B62682,Miley Cyrus,Flowers,Michael E,People Watching (Rubber Neck Mix),miley cyrus flowers 2023,michael e people watching (rubber neck mix) 2014,0.25,-1
+A8951,B44340,Blake Shelton,I Need My Girl,BluntOne,Winter Jazz,blake shelton i need my girl 2014,bluntone winter jazz 2017,0.364,-1
+A1966,B16347,Daryl Hall & John Oates,Out of Touch,David Arkenstone,Second Wind,daryl hall & john oates out of touch 1984,david arkenstone second wind 2022,0.244,-1
+A1250,B93040,Michael Jackson,Man In the Mirror,Mikey Dread,Rockers Roadshow,michael jackson man in the mirror 1987,mikey dread rockers roadshow 2005,0.184,-1
+A1116,B22530,One Direction,What a Feeling,One Direction,What a Feeling,one direction what a feeling 2015,one direction what a feeling 2015,1.0,1
+A5771,B14389,The Archies,"Sugar, Sugar",The Worship Crew,In the Midst,"the archies sugar, sugar 1969",the worship crew in the midst 2011,0.324,-1
+A9118,B72082,The Beach Boys,"Dance, Dance, Dance",The Sweeps,Escape,"the beach boys dance, dance, dance 1965",the sweeps escape 2020,0.282,-1
+A5771,B2572,The Archies,"Sugar, Sugar",THE GYM BEATS,In the Flow,"the archies sugar, sugar 1969",the gym beats in the flow 2010,0.267,-1
+A8216,B74240,America,Sister Golden Hair,Amonkst the Trees,Burden of Will,america sister golden hair 1975,amonkst the trees burden of will 2019,0.324,-1
+A3177,B236,Rednex,Cotton Eye Joe,Reba McEntire,Little Rock,rednex cotton eye joe 1994,reba mcentire little rock 1986,0.333,-1
+A80,B36631,Michael Jackson,Man In the Mirror,Militant Me,Unholy Confessions,michael jackson man in the mirror 1987,militant me unholy confessions 2019,0.211,-1
+A4119,B29460,Childish Gambino,This Is America,Christmas Songs Playlist,Angels Above,childish gambino this is america 2018,christmas songs playlist angels above 2023,0.31,-1
+A3815,B93223,Tech N9ne,"Fragile (feat. Kendrick Lamar, ¡MAYDAY! & Kendall Morgan)",Teresa James & The Rhythm Tramps,Easier Said Than Done (Live),"tech n9ne fragile (feat. kendrick lamar, ¡mayday! & kendall morgan) 2013",teresa james & the rhythm tramps easier said than done (live) 2019,0.25,-1
+A6059,B44469,Madonna,Frozen,Madonna,Frozen,madonna frozen 1998,madonna frozen 1998,1.0,1
+A8584,B86680,Fetty Wap,D.A.M.,Fetty Wap,D.A.M.,fetty wap d.a.m. 2015,fetty wap d.a.m. 2015,1.0,1
+A4425,B63683,Gabby Barrett,The Good Ones,galih,Melody Dark Rap Beat (Remix),gabby barrett the good ones 2020,galih melody dark rap beat (remix) 2023,0.282,-1
+A309,B68695,Rodney Atkins,Watching You,Roberta Flack,Lovin' You (Is Such An Easy Thang To Do),rodney atkins watching you 2006,roberta flack lovin' you (is such an easy thang to do) 1981,0.271,-1
+A3789,B78800,Billy Idol,Rebel Yell,Bino,Snakes,billy idol rebel yell 1983,bino snakes 2015,0.231,-1
+A5810,B69876,The Archies,"Sugar, Sugar",The Kinks,All of My Friends Were There (2018 Stereo Remaster),"the archies sugar, sugar 1969",the kinks all of my friends were there (2018 stereo remaster) 1968,0.273,-1
+A4287,B51108,Alan Jackson,Little Bitty,AllStars BallHard,Get It Sold,alan jackson little bitty 1996,allstars ballhard get it sold 2014,0.235,-1
+A2219,B65458,Billy Joel,And So It Goes,Biomusique,"10,000 Steps",billy joel and so it goes 1989,"biomusique 10,000 steps 2008",0.233,-1
+A9118,B90071,The Beach Boys,"Dance, Dance, Dance",THE ALFEE,Loving You,"the beach boys dance, dance, dance 1965",the alfee loving you 1989,0.282,-1
+A8177,B35662,Miranda Lambert,Use My Heart,Miss Jane,It's a Fine Day (Hoshi Reloaded Mix),miranda lambert use my heart 2016,miss jane it's a fine day (hoshi reloaded mix) 2013,0.294,-1
+A9351,B6189,Mariah Carey,Vision of Love,Marvin Sease,Do You Need A Licker?,mariah carey vision of love 1990,marvin sease do you need a licker? 2006,0.308,-1
+A1057,B28299,Avenged Sevenfold,Almost Easy,Avey Tare,Modern Days E,avenged sevenfold almost easy 2007,avey tare modern days e 2014,0.324,-1
+A2918,B4997,Carrie Underwood,I Know You Won't,Carrie Underwood,I Know You Won't,carrie underwood i know you won't 2007,carrie underwood i know you won't 2007,1.0,1
+A4119,B46132,Childish Gambino,This Is America,Chill Out 2018,Desert Girl,childish gambino this is america 2018,chill out 2018 desert girl 2019,0.324,-1
+A1966,B30973,Daryl Hall & John Oates,Out of Touch,Daryl Hall & John Oates,Out of Touch,daryl hall & john oates out of touch 1984,daryl hall & john oates out of touch 2008,0.902,1
+A2287,B31224,Nickelback,Follow You Home,Nina Simone,I Loves You Porgy,nickelback follow you home 2005,nina simone i loves you porgy 2023,0.382,-1
+A4287,B86833,Alan Jackson,Little Bitty,Aldo de Scalzi,Motion,alan jackson little bitty 1996,aldo de scalzi motion 2021,0.233,-1
+A2751,B21872,Mariah Carey,Always Be My Baby,Manatee Commune,Simple Lessons,mariah carey always be my baby 1995,manatee commune simple lessons 2016,0.171,-1
+A4315,B61336,Sia,Reaper,Sia,Reaper,sia reaper 2016,sia reaper 2016,1.0,1
+A4843,B3894,Regina Spektor,Better,Reece Loc,In the Game (feat. E.Klips da Hustla),regina spektor better 2006,reece loc in the game (feat. e.klips da hustla) 2015,0.25,-1
+A2052,B2295,Mat Kearney,Closer to Love,Marc Eric,Prisoner of Love,mat kearney closer to love 2009,marc eric prisoner of love 2020,0.484,-1
+A4287,B5323,Alan Jackson,Little Bitty,Alan Jackson,Little Bitty,alan jackson little bitty 1996,alan jackson little bitty 2004,0.867,1
+A5810,B22150,The Archies,"Sugar, Sugar",The Mellowells,Coming of Age,"the archies sugar, sugar 1969",the mellowells coming of age 2016,0.303,-1
+A5390,B95594,Cole Swindell,Get Up,Commence,Withering Images,cole swindell get up 2014,commence withering images 2022,0.333,-1
+A1966,B14979,Daryl Hall & John Oates,Out of Touch,Dan Siegel,If You Say So,daryl hall & john oates out of touch 1984,dan siegel if you say so 1993,0.293,-1
+A80,B98002,Michael Jackson,Man In the Mirror,Ministério Vineyard,Yahweh (Ao Vivo),michael jackson man in the mirror 1987,ministério vineyard yahweh (ao vivo) 2022,0.22,-1
+A2154,B43871,Meghan Trainor,What If I,Meli ARAKI,La Vie en Rose,meghan trainor what if i 2015,meli araki la vie en rose 2022,0.3,-1
+A4119,B45925,Childish Gambino,This Is America,Chet Baker,"Silent Night, Pt. 2",childish gambino this is america 2018,"chet baker silent night, pt. 2 2017",0.243,-1
+A9351,B60290,Mariah Carey,Vision of Love,Maurice Owens,Island,mariah carey vision of love 1990,maurice owens island 2024,0.281,-1
+A1057,B22889,Avenged Sevenfold,Almost Easy,Avril Lavigne,Let Me Go (feat. Chad Kroeger),avenged sevenfold almost easy 2007,avril lavigne let me go (feat. chad kroeger) 2013,0.265,-1
+A2751,B74813,Mariah Carey,Always Be My Baby,Matumbi,Boy Oh Boy,mariah carey always be my baby 1995,matumbi boy oh boy 2012,0.257,-1
+A1547,B7911,David Guetta,Dangerous (feat. Sam Martin),Danny Boy,If You Were Mine,david guetta dangerous (feat. sam martin) 2014,danny boy if you were mine 2023,0.326,-1
+A2052,B24592,Mat Kearney,Closer to Love,Marine,Animal In My Head,mat kearney closer to love 2009,marine animal in my head 2004,0.355,-1
+A6059,B23654,Madonna,Frozen,Mad Lighters,Sunset,madonna frozen 1998,mad lighters sunset 2014,0.25,-1
+A7128,B38450,David Bowie,Modern Love,Daniel Caesar,Streetcar,david bowie modern love 1983,daniel caesar streetcar 2015,0.179,-1
+A2460,B67750,Santigold,L.E.S. Artistes,SALTNPAPER,Ending,santigold l.e.s. artistes 2008,saltnpaper ending 2016,0.3,-1
+A3839,B13234,Daughtry,What About Now,Dami Àlvarez,I Know,daughtry what about now 2006,dami àlvarez i know 2022,0.321,-1
+A4060,B98749,Jana Kramer,Why Ya Wanna,Jamaster A,Pepper Man 1999 (Raving Drummer Remix),jana kramer why ya wanna 2012,jamaster a pepper man 1999 (raving drummer remix) 2006,0.278,-1
+A3740,B36968,Daughtry,What About Now,David Garfield,Pirate's Cove (feat. Dan Fornero & Eric Marienthal),daughtry what about now 2006,david garfield pirate's cove (feat. dan fornero & eric marienthal) 2021,0.211,-1
+A6944,B84693,Leona Lewis,Here I Am,Le piccole ore,Estate Malandrina,leona lewis here i am 2007,le piccole ore estate malandrina 2006,0.324,-1
+A5771,B73587,The Archies,"Sugar, Sugar",The Archies,"Sugar, Sugar","the archies sugar, sugar 1969","the archies sugar, sugar 1969",1.0,1
+A1678,B71318,Toby Keith,Wish I Didn't Know Now,Tony Blonko,Looking for Me,toby keith wish i didn't know now 1993,tony blonko looking for me 2021,0.263,-1
+A5771,B73029,The Archies,"Sugar, Sugar",The Murder City Devils,Johnny Thunders,"the archies sugar, sugar 1969",the murder city devils johnny thunders 1998,0.349,-1
+A80,B86591,Michael Jackson,Man In the Mirror,Michael Silverman,Flying,michael jackson man in the mirror 1987,michael silverman flying 2013,0.368,-1
+A80,B27675,Michael Jackson,Man In the Mirror,Mina Mazzini,"Let Me Go (Lassame, Remastered)",michael jackson man in the mirror 1987,"mina mazzini let me go (lassame, remastered) 2013",0.204,-1
+A9118,B92971,The Beach Boys,"Dance, Dance, Dance",The Tibetan Monks,Nature Ambience,"the beach boys dance, dance, dance 1965",the tibetan monks nature ambience 2018,0.359,-1
+A895,B44538,Madonna,Like a Prayer,Marcel Khalife,Ode To A Homeland (Tousbihouna Ala Watan),madonna like a prayer 1989,marcel khalife ode to a homeland (tousbihouna ala watan) 1990,0.213,-1
+A5810,B89711,The Archies,"Sugar, Sugar",The Daysleepers,Stereo Honey,"the archies sugar, sugar 1969",the daysleepers stereo honey 2006,0.333,-1
+A7239,B43921,Mariah Carey,Vision of Love,Maria Naumova,Secrets,mariah carey vision of love 1990,maria naumova secrets 2006,0.312,-1
+A4119,B74543,Childish Gambino,This Is America,Chakra Frequencies,Honesty,childish gambino this is america 2018,chakra frequencies honesty 2024,0.243,-1
+A2753,B33554,Marc Anthony,I Need to Know,MAKHABACITY,One of my best,marc anthony i need to know 1999,makhabacity one of my best 2024,0.281,-1
+A1547,B69182,David Guetta,Dangerous (feat. Sam Martin),Dance 'n Beats,This Is the Way We Sled,david guetta dangerous (feat. sam martin) 2014,dance 'n beats this is the way we sled 2020,0.283,-1
+A5954,B14529,Camila Cabello,Crying in the Club,Canario Kids,London Bridge & Vívora De La Mar,camila cabello crying in the club 2017,canario kids london bridge & vívora de la mar 2023,0.28,-1
+A1547,B82504,David Guetta,Dangerous (feat. Sam Martin),Daz Dillinger,This Is Tha Life I Lead,david guetta dangerous (feat. sam martin) 2014,daz dillinger this is tha life i lead 2014,0.283,-1
+A1079,B3816,New Boyz,Better With the Lights Off (feat. Chris Brown),New Boyz,Better with the Lights Off (feat. Chris Brown),new boyz better with the lights off (feat. chris brown) 2011,new boyz better with the lights off (feat. chris brown) 2011,1.0,1
+A9118,B82852,The Beach Boys,"Dance, Dance, Dance",The Ohio State University Marching Band,Johnny B. Goode (Arr. For Marching Band),"the beach boys dance, dance, dance 1965",the ohio state university marching band johnny b. goode (arr. for marching band) 2020,0.259,-1
+A7128,B24345,David Bowie,Modern Love,Darren Rahn,Simple Song,david bowie modern love 1983,darren rahn simple song 2005,0.214,-1
+A3963,B82140,Percy Sledge,When a Man Loves a Woman,Perc3ption,Bitter Lamentations,percy sledge when a man loves a woman 1966,perc3ption bitter lamentations 2023,0.262,-1
+A2185,B75900,Billy Joel,And So It Goes,Billy Khan,Jungle,billy joel and so it goes 1989,billy khan jungle 2021,0.4,-1
+A5200,B76157,Madonna,Like a Prayer,Madison Avenue,This Is Your Introduction,madonna like a prayer 1989,madison avenue this is your introduction 2000,0.267,-1
+A5551,B32927,Jazmine Sullivan,Need U Bad,Jason Graves,Beyond Salvation,jazmine sullivan need u bad 2008,jason graves beyond salvation 2021,0.265,-1
+A7128,B93885,David Bowie,Modern Love,Darren Percival,Damage Down (The Voice Performance),david bowie modern love 1983,darren percival damage down (the voice performance) 2012,0.25,-1
+A3177,B79926,Rednex,Cotton Eye Joe,Relaxamento,Oxygen,rednex cotton eye joe 1994,relaxamento oxygen 2020,0.269,-1
+A4287,B74690,Alan Jackson,Little Bitty,Allan Eshuijs,End Of The World,alan jackson little bitty 1996,allan eshuijs end of the world 2017,0.343,-1
+A9118,B23656,The Beach Boys,"Dance, Dance, Dance",The Kiboomers,I Love You Mommy,"the beach boys dance, dance, dance 1965",the kiboomers i love you mommy 2019,0.231,-1
+A4287,B69611,Alan Jackson,Little Bitty,Allison Road,This Is Our Town,alan jackson little bitty 1996,allison road this is our town 2023,0.206,-1
+A8161,B77378,Pentatonix,Sleigh Ride,Peach Pyramid,Escape,pentatonix sleigh ride 2014,peach pyramid escape 2017,0.296,-1
+A5771,B15193,The Archies,"Sugar, Sugar",The Imperials,Lonely Mile,"the archies sugar, sugar 1969",the imperials lonely mile 2004,0.267,-1
+A7271,B64875,Blake Shelton,I Lived It,Blackchild (ITA),Changes (Acid Mix),blake shelton i lived it 2017,blackchild (ita) changes (acid mix) 2023,0.325,-1
+A1894,B37655,Christina Aguilera,Dirrty (feat. Redman),Choklate,What's About to Go Down,christina aguilera dirrty (feat. redman) 2002,choklate what's about to go down 2006,0.289,-1
+A1250,B3532,Michael Jackson,Man In the Mirror,Michael Franti,Summertime Won't Last Long,michael jackson man in the mirror 1987,michael franti summertime won't last long 2019,0.326,-1
+A544,B97879,Panic! At the Disco,This Is Gospel,Party Tyme Karaoke,Bonita (Made Popular By Frank Sinatra) [Karaoke Version],panic! at the disco this is gospel 2013,party tyme karaoke bonita (made popular by frank sinatra) [karaoke version] 2018,0.225,-1
+A5551,B36505,Jazmine Sullivan,Need U Bad,Jasmine Ash,Echoes,jazmine sullivan need u bad 2008,jasmine ash echoes 2012,0.375,-1
+A8951,B40070,Blake Shelton,I Need My Girl,Blake Shelton,I Need My Girl,blake shelton i need my girl 2014,blake shelton i need my girl 2014,1.0,1
+A1057,B52213,Avenged Sevenfold,Almost Easy,Avraham Fried,Finale,avenged sevenfold almost easy 2007,avraham fried finale 2010,0.294,-1
+A8194,B84855,America,Sister Golden Hair,America,Sister Golden Hair,america sister golden hair 1975,america sister golden hair 2017,0.871,1
+A4800,B12487,Paramore,Future,Pasquale Catalano,Secondo ricciardi,paramore future 2013,pasquale catalano secondo ricciardi 2021,0.25,-1
+A9606,B44633,Sia,You're Never Fully Dressed Without a Smile (2014 Film Version),Sissel,Winter Morning,sia you're never fully dressed without a smile (2014 film version) 2014,sissel winter morning 2022,0.254,-1
+A4654,B63752,Michelle Branch,Breathe,Milky Chance,Cocoon,michelle branch breathe 2003,milky chance cocoon 2017,0.393,-1
+A3740,B83052,Daughtry,What About Now,Daniel Powter,Lie to Me,daughtry what about now 2006,daniel powter lie to me 2005,0.321,-1
+A1079,B15956,New Boyz,Better With the Lights Off (feat. Chris Brown),New Boyz,Better with the Lights Off (feat. Chris Brown),new boyz better with the lights off (feat. chris brown) 2011,new boyz better with the lights off (feat. chris brown) 2011,1.0,1
+A925,B17135,Miley Cyrus,Flowers,MIREI,Let Me Be (Remix),miley cyrus flowers 2023,mirei let me be (remix) 2019,0.321,-1
+A2753,B45322,Marc Anthony,I Need to Know,Masalo,Double Spire (Club Mix),marc anthony i need to know 1999,masalo double spire (club mix) 2022,0.171,-1
+A4119,B72714,Childish Gambino,This Is America,Choicevaughan,End Of The Weak (Instrumental),childish gambino this is america 2018,choicevaughan end of the weak (instrumental) 2020,0.347,-1
+A1894,B29146,Christina Aguilera,Dirrty (feat. Redman),Christmas Time,Church Bells,christina aguilera dirrty (feat. redman) 2002,christmas time church bells 2022,0.378,-1
+A6165,B56966,Kenny Chesney,What I Need to Do,Kei Linch,Ritual,kenny chesney what i need to do 1999,kei linch ritual 2023,0.222,-1
+A1547,B8313,David Guetta,Dangerous (feat. Sam Martin),David Bowie,Future Legend,david guetta dangerous (feat. sam martin) 2014,david bowie future legend 1974,0.304,-1
+A8951,B57437,Blake Shelton,I Need My Girl,Blacc Zacc,Bloody Bluff,blake shelton i need my girl 2014,blacc zacc bloody bluff 2022,0.303,-1
+A3789,B93158,Billy Idol,Rebel Yell,Bird Songs,Natures Bird Sounds,billy idol rebel yell 1983,bird songs natures bird sounds 2016,0.229,-1
+A9351,B82083,Mariah Carey,Vision of Love,Marc Hudson,Astralive,mariah carey vision of love 1990,marc hudson astralive 2023,0.312,-1
+A925,B41885,Miley Cyrus,Flowers,Miroslav Žbirka,I Need You,miley cyrus flowers 2023,miroslav žbirka i need you 2009,0.323,-1
+A5771,B77811,The Archies,"Sugar, Sugar",The Shadows,I Wish I Could Shimmy Like My Sister Arthur,"the archies sugar, sugar 1969",the shadows i wish i could shimmy like my sister arthur 2003,0.233,-1
+A3740,B28645,Daughtry,What About Now,David Butterbaugh,I Will Rejoice,daughtry what about now 2006,david butterbaugh i will rejoice 2010,0.27,-1
+A5771,B17936,The Archies,"Sugar, Sugar",The Wonder Kids,Follow Me,"the archies sugar, sugar 1969",the wonder kids follow me 2009,0.267,-1
+A9166,B12740,Carrie Underwood,That's Where It Is,Cartier God,Pretty Ass D3mon (Special Version) (feat. DOMD),carrie underwood that's where it is 2005,cartier god pretty ass d3mon (special version) (feat. domd) 2021,0.281,-1
+A2753,B62835,Marc Anthony,I Need to Know,Maria Callas,"Carmen, Act 1: Séguedille. ""Près des remparts de Séville"" (Carmen, José)",marc anthony i need to know 1999,"maria callas carmen, act 1: séguedille. ""près des remparts de séville"" (carmen, josé) 2006",0.2,-1
+A3789,B91977,Billy Idol,Rebel Yell,Bill Holman,Tanglefoot (Bonus Track),billy idol rebel yell 1983,bill holman tanglefoot (bonus track) 2015,0.244,-1
+A2312,B51853,Vampire Weekend,Giving Up the Gun,Vampire Weekend,Giving Up the Gun,vampire weekend giving up the gun 2010,vampire weekend giving up the gun 2010,1.0,1
+A7239,B36765,Mariah Carey,Vision of Love,Matisse & Sadko,Dragon (Radio Edit),mariah carey vision of love 1990,matisse & sadko dragon (radio edit) 2015,0.3,-1
+A9714,B94454,Bring Me The Horizon,Doomed,Bring Me the Horizon,Doomed,bring me the horizon doomed 2015,bring me the horizon doomed 2015,1.0,1
+A5200,B26771,Madonna,Like a Prayer,Martha Munizzi,Always Welcome,madonna like a prayer 1989,martha munizzi always welcome 2006,0.265,-1
+A7239,B72022,Mariah Carey,Vision of Love,Marco Beltrami,Beware of Dog,mariah carey vision of love 1990,marco beltrami beware of dog 2006,0.303,-1
+A1966,B59446,Daryl Hall & John Oates,Out of Touch,Daryl Hall & John Oates,Did It In A Minute,daryl hall & john oates out of touch 1984,daryl hall & john oates did it in a minute 1981,0.681,0
+A7271,B66367,Blake Shelton,I Lived It,Blackstreet,Ticket To Ride (Intro),blake shelton i lived it 2017,blackstreet ticket to ride (intro) 2002,0.385,-1
+A7271,B40282,Blake Shelton,I Lived It,Black Bear Beats,Street Fighters,blake shelton i lived it 2017,black bear beats street fighters 2023,0.351,-1
+A1678,B64960,Toby Keith,Wish I Didn't Know Now,Tony Mantana,What U Do (feat. Cymphonique & Kay Klover),toby keith wish i didn't know now 1993,tony mantana what u do (feat. cymphonique & kay klover) 2018,0.267,-1
+A3177,B90029,Rednex,Cotton Eye Joe,Reiki Healing Zone,Radiant Roots Wellness,rednex cotton eye joe 1994,reiki healing zone radiant roots wellness 2023,0.217,-1
+A5771,B58513,The Archies,"Sugar, Sugar",The Boss Group,Princesa (En Vivo),"the archies sugar, sugar 1969",the boss group princesa (en vivo) 2019,0.263,-1
+A9118,B12389,The Beach Boys,"Dance, Dance, Dance",The Pianos of Cha'n,Let It Be,"the beach boys dance, dance, dance 1965",the pianos of cha'n let it be 2006,0.333,-1
+A9118,B35852,The Beach Boys,"Dance, Dance, Dance",The Animals,I Need Your Love so Bad (Rerecorded Version),"the beach boys dance, dance, dance 1965",the animals i need your love so bad (rerecorded version) 2016,0.23,-1
+A8951,B33816,Blake Shelton,I Need My Girl,Black Messiah,Moskau,blake shelton i need my girl 2014,black messiah moskau 2006,0.333,-1
+A1894,B43372,Christina Aguilera,Dirrty (feat. Redman),Christophe Beck,"Winter's Waltz (From ""Frozen""/Score)",christina aguilera dirrty (feat. redman) 2002,"christophe beck winter's waltz (from ""frozen""/score) 2014",0.351,-1
+A9166,B79901,Carrie Underwood,That's Where It Is,Carrie Underwood,That's Where It Is,carrie underwood that's where it is 2005,carrie underwood that's where it is 2005,1.0,1
+A1966,B63944,Daryl Hall & John Oates,Out of Touch,David Crosby,To The Last Whale a) Critical Mass b) Wind On The Water,daryl hall & john oates out of touch 1984,david crosby to the last whale a) critical mass b) wind on the water 2011,0.26,-1
+A2753,B76893,Marc Anthony,I Need to Know,Martha Psyko,Havana Rock,marc anthony i need to know 1999,martha psyko havana rock 2018,0.281,-1
+A2918,B45318,Carrie Underwood,I Know You Won't,Carl Allen,Ask Me Now (feat. Carl Allen & Rodney Whitaker),carrie underwood i know you won't 2007,carl allen ask me now (feat. carl allen & rodney whitaker) 2022,0.27,-1
+A309,B5433,Rodney Atkins,Watching You,Rockridge Synthesizer Orchestra | The Atmospheric Synth Group,When I'm Sixty Four,rodney atkins watching you 2006,rockridge synthesizer orchestra | the atmospheric synth group when i'm sixty four 2015,0.244,-1
+A895,B15556,Madonna,Like a Prayer,Madonna,Like a Prayer,madonna like a prayer 1989,madonna like a prayer 1989,1.0,1
+A1303,B6152,Post Malone,Psycho (feat. Ty Dolla $ign),Poetree,Forgetting day (feat.Jui) (잊을 날 (feat. Jui),post malone psycho (feat. ty dolla $ign) 2018,poetree forgetting day (feat.jui) (잊을 날 (feat. jui) 2012,0.357,-1
+A1966,B30347,Daryl Hall & John Oates,Out of Touch,Daryl Hall & John Oates,Out of Touch,daryl hall & john oates out of touch 1984,daryl hall & john oates out of touch 1984,1.0,1
+A80,B95726,Michael Jackson,Man In the Mirror,Michael Cleveland,Son of a Ramblin' Man (feat. Dan Tyminski & Flamekeeper),michael jackson man in the mirror 1987,michael cleveland son of a ramblin' man (feat. dan tyminski & flamekeeper) 2019,0.304,-1
+A7239,B56014,Mariah Carey,Vision of Love,Matt Maltese,I Hear The Day Has Come,mariah carey vision of love 1990,matt maltese i hear the day has come 2016,0.268,-1
+A4843,B22394,Regina Spektor,Better,Rebels Band HD,Have a Lot to Say,regina spektor better 2006,rebels band hd have a lot to say 2018,0.27,-1
+A544,B72349,Panic! At the Disco,This Is Gospel,Paul Clark,Take All of Me,panic! at the disco this is gospel 2013,paul clark take all of me 1973,0.256,-1
+A1713,B7567,One Direction,I Want to Write You a Song,One Direction,I Want to Write You a Song,one direction i want to write you a song 2015,one direction i want to write you a song 2015,1.0,1
+A2052,B95640,Mat Kearney,Closer to Love,Marco Frisina,Miserere,mat kearney closer to love 2009,marco frisina miserere 1988,0.226,-1
+A4479,B69608,Chicago,We Can Last Forever,Chris Tomlin,Praise Him Forever,chicago we can last forever 1988,chris tomlin praise him forever 2020,0.417,-1
+A1961,B76941,Michael Jackson,I Just Can't Stop Loving You (feat. Siedah Garrett),Mihaita Piticu,Talentul lui nevasta mea (Live),michael jackson i just can't stop loving you (feat. siedah garrett) 1987,mihaita piticu talentul lui nevasta mea (live) 2015,0.306,-1
+A5200,B80500,Madonna,Like a Prayer,Man U FanChants,That's a Fact,madonna like a prayer 1989,man u fanchants that's a fact 2020,0.235,-1
+A5771,B58964,The Archies,"Sugar, Sugar",The Ink Spots,As You Desire Me,"the archies sugar, sugar 1969",the ink spots as you desire me 2010,0.257,-1
+A3740,B22772,Daughtry,What About Now,Daughters of St. Paul,"Here I Am, Lord",daughtry what about now 2006,"daughters of st. paul here i am, lord 1995",0.333,-1
+A5960,B95596,Disturbed,What Are You Waiting For,Disturbed,What Are You Waiting For,disturbed what are you waiting for 2015,disturbed what are you waiting for 2015,1.0,1
+A3202,B52520,Rednex,Cotton Eye Joe,Rebecca Y. Yoo,Changements (vol.2 Center),rednex cotton eye joe 1994,rebecca y. yoo changements (vol.2 center) 2021,0.239,-1
+A3789,B22053,Billy Idol,Rebel Yell,Billy Idol,Beyond Belief,billy idol rebel yell 1983,billy idol beyond belief 1986,0.655,0
+A7239,B30968,Mariah Carey,Vision of Love,Manu Lopez,I Will Survive (Saxophone Version),mariah carey vision of love 1990,manu lopez i will survive (saxophone version) 2016,0.24,-1
+A8069,B11959,3OH!3,We Are Young,3OH!3,We Are Young,3oh!3 we are young 2010,3oh!3 we are young 2010,1.0,1
+A2185,B76800,Billy Joel,And So It Goes,Big Joe Turner,Boogie Woogie Country Girl,billy joel and so it goes 1989,big joe turner boogie woogie country girl 2000,0.283,-1
+A8177,B98628,Miranda Lambert,Use My Heart,Miranda Lambert,Use My Heart,miranda lambert use my heart 2016,miranda lambert use my heart 2016,1.0,1
+A9041,B94772,Bread,Sweet Surrender,Bryan Ferry,Gemini Moon,bread sweet surrender 1972,bryan ferry gemini moon 2023,0.214,-1
+A3334,B94799,Metallica,The God That Failed,Meditation Music,Nature's Piano,metallica the god that failed 1991,meditation music nature's piano 2020,0.222,-1
+A5810,B76386,The Archies,"Sugar, Sugar",The Bobcats,That's A Plenty,"the archies sugar, sugar 1969",the bobcats that's a plenty 2011,0.25,-1
+A4455,B75829,Jelly Roll,Son Of A Sinner,Jerry Garcia,Turtle Dove (Live) (feat. Jerry Garcia Acoustic Band),jelly roll son of a sinner 2021,jerry garcia turtle dove (live) (feat. jerry garcia acoustic band) 2010,0.268,-1
+A5771,B67498,The Archies,"Sugar, Sugar",The Archies,"Sugar, Sugar","the archies sugar, sugar 1969","the archies sugar, sugar 2016",0.862,1
+A5551,B54626,Jazmine Sullivan,Need U Bad,Jason Owen,Father And Son,jazmine sullivan need u bad 2008,jason owen father and son 2021,0.281,-1
+A5200,B15997,Madonna,Like a Prayer,Matt Nathanson,Pretty The World,madonna like a prayer 1989,matt nathanson pretty the world 2003,0.306,-1
+A5771,B56439,The Archies,"Sugar, Sugar",The Ratmen,Lolita,"the archies sugar, sugar 1969",the ratmen lolita 1988,0.379,-1
+A7037,B51157,Blackmill,Let It Be (feat. Veela),Black Tiger Sex Machine,Numbers (Eliminate Remix),blackmill let it be (feat. veela) 2011,black tiger sex machine numbers (eliminate remix) 2016,0.444,-1
+A5551,B81037,Jazmine Sullivan,Need U Bad,Jack Rutter,Stormy Winds,jazmine sullivan need u bad 2008,jack rutter stormy winds 2017,0.25,-1
+A4654,B4661,Michelle Branch,Breathe,Mike Denver,Galway Tae,michelle branch breathe 2003,mike denver galway tae 2018,0.321,-1
+A5810,B3634,The Archies,"Sugar, Sugar",The Main Ingredient,By the Time I Get to Phoenix / Wichita Lineman,"the archies sugar, sugar 1969",the main ingredient by the time i get to phoenix / wichita lineman 1970,0.211,-1
+A3202,B30567,Rednex,Cotton Eye Joe,Resist and Exist,Beyond the Shadows,rednex cotton eye joe 1994,resist and exist beyond the shadows 2018,0.3,-1
+A3798,B79126,Tech N9ne,"Fragile (feat. Kendrick Lamar, ¡MAYDAY! & Kendall Morgan)",Terry Dexter,Just A Little Bit Of Love 2019 (Lonely C Remix),"tech n9ne fragile (feat. kendrick lamar, ¡mayday! & kendall morgan) 2013",terry dexter just a little bit of love 2019 (lonely c remix) 2017,0.236,-1
+A4060,B61853,Jana Kramer,Why Ya Wanna,Jana Kramer,Why Ya Wanna,jana kramer why ya wanna 2012,jana kramer why ya wanna 2012,1.0,1
+A8598,B12812,Fetty Wap,Boomin,Felix Jaehn,Better (Hight Remix / Extended Version) (feat. Clara Mae),fetty wap boomin 2015,felix jaehn better (hight remix / extended version) (feat. clara mae) 2018,0.176,-1
+A5031,B43486,Martina McBride,I Just Call You Mine,Mark McKenzie,I Have Been Blind,martina mcbride i just call you mine 2009,mark mckenzie i have been blind 2017,0.39,-1
+A5031,B90398,Martina McBride,I Just Call You Mine,Marilyn Baker,What A Friend We Have In Jesus,martina mcbride i just call you mine 2009,marilyn baker what a friend we have in jesus 2011,0.286,-1
+A925,B23006,Miley Cyrus,Flowers,Michael Jackson,Sunset Driver (Demo),miley cyrus flowers 2023,michael jackson sunset driver (demo) 2022,0.341,-1
+A1478,B70380,Carrie Underwood,Little Toy Guns,Canzoni Tristi Collection,Lovin' You,carrie underwood little toy guns 2014,canzoni tristi collection lovin' you 2012,0.268,-1
+A5411,B76427,Cole Swindell,Get Up,Congregación María de Jesús,"Misterios Gozosos, Lunes y Sábado",cole swindell get up 2014,"congregación maría de jesús misterios gozosos, lunes y sábado 2018",0.227,-1
+A5771,B31798,The Archies,"Sugar, Sugar",The Hillbilly Moon Explosion,Nobody's Baby,"the archies sugar, sugar 1969",the hillbilly moon explosion nobody's baby 2005,0.234,-1
+A5810,B14109,The Archies,"Sugar, Sugar",The Godfathers Of Deep House SA,Decoder (Nostalgic Mix),"the archies sugar, sugar 1969",the godfathers of deep house sa decoder (nostalgic mix) 2020,0.233,-1
+A1250,B3699,Michael Jackson,Man In the Mirror,Mike LaBianca,Let It Go,michael jackson man in the mirror 1987,mike labianca let it go 2022,0.316,-1
+A5610,B26407,Avenged Sevenfold,Almost Easy (Jam-Along Version),Avenged Sevenfold,Almost Easy (Jam-Along Version),avenged sevenfold almost easy (jam-along version) 2007,avenged sevenfold almost easy (jam-along version) 2007,1.0,1
+A5954,B58967,Camila Cabello,Crying in the Club,Calm Music,Guitar Studying Music with Ocean Sounds,camila cabello crying in the club 2017,calm music guitar studying music with ocean sounds 2020,0.364,-1
+A1961,B2732,Michael Jackson,I Just Can't Stop Loving You (feat. Siedah Garrett),Michael Sterling,If You Still Love Me (Here I Am),michael jackson i just can't stop loving you (feat. siedah garrett) 1987,michael sterling if you still love me (here i am) 2016,0.375,-1
+A7239,B3587,Mariah Carey,Vision of Love,Manzanera/Mackay,Dreams Of The East,mariah carey vision of love 1990,manzanera/mackay dreams of the east 2011,0.3,-1
+A6059,B76567,Madonna,Frozen,Mahalia Jackson,That's What He's Done for Me,madonna frozen 1998,mahalia jackson that's what he's done for me 2022,0.184,-1
+A895,B49932,Madonna,Like a Prayer,Martin Sexton,In The Journey,madonna like a prayer 1989,martin sexton in the journey 2002,0.242,-1
+A7128,B51829,David Bowie,Modern Love,Darkwole,Choose Your Trip,david bowie modern love 1983,darkwole choose your trip 2020,0.267,-1
+A7271,B43319,Blake Shelton,I Lived It,Bloco do Sargento Pimenta,Lovely Rita,blake shelton i lived it 2017,bloco do sargento pimenta lovely rita 2017,0.476,-1
+A54,B63043,Jason Derulo,Ridin' Solo,Jazz Guitar Music Zone,Coffee Talk,jason derulo ridin' solo 2010,jazz guitar music zone coffee talk 2019,0.308,-1
+A7128,B13611,David Bowie,Modern Love,Daniel Lentz,"On the Leopard Altar, ""Aztec Altar""",david bowie modern love 1983,"daniel lentz on the leopard altar, ""aztec altar"" 2006",0.245,-1
+A589,B28367,Rodney Atkins,Take a Back Road,Ronnie Burnett,I Just Wanna Dance,rodney atkins take a back road 2011,ronnie burnett i just wanna dance 2018,0.316,-1
+A2052,B81949,Mat Kearney,Closer to Love,Martin Garrix,Glitch,mat kearney closer to love 2009,martin garrix glitch 2018,0.29,-1
+A3103,B38753,Jason Mraz,Coyotes,Jay Cas,Aliens,jason mraz coyotes 2008,jay cas aliens 2023,0.391,-1
+A3789,B66004,Billy Idol,Rebel Yell,Billie Holiday,Please Tell Me Now,billy idol rebel yell 1983,billie holiday please tell me now 2017,0.368,-1
+A4130,B64290,Bring Me The Horizon,Throne,breathe,Galaxy,bring me the horizon throne 2015,breathe galaxy 2015,0.375,-1
+A1478,B78166,Carrie Underwood,Little Toy Guns,Capolow,Honesty (feat. AzJah),carrie underwood little toy guns 2014,capolow honesty (feat. azjah) 2021,0.216,-1
+A1026,B18134,Ed Sheeran,Eraser,EDM Tribe,I Love Sex (Dancing Night),ed sheeran eraser 2017,edm tribe i love sex (dancing night) 2016,0.293,-1
+A3678,B20725,Big Time Rush,Windows Down,Bill Anderson,I Love You Drops,big time rush windows down 2012,bill anderson i love you drops 1966,0.286,-1
+A9166,B12960,Carrie Underwood,That's Where It Is,Carmen McRae,Sunday (Live),carrie underwood that's where it is 2005,carmen mcrae sunday (live) 1990,0.25,-1
+A5771,B77851,The Archies,"Sugar, Sugar",The Cockman Family,Looking For A Place To Cross,"the archies sugar, sugar 1969",the cockman family looking for a place to cross 2006,0.231,-1
+A2052,B29381,Mat Kearney,Closer to Love,Mark O'Connor,Always Do,mat kearney closer to love 2009,mark o'connor always do 2016,0.29,-1
+A544,B73274,Panic! At the Disco,This Is Gospel,Parole di Vita,Spirito Santo sei il mio Aiuto,panic! at the disco this is gospel 2013,parole di vita spirito santo sei il mio aiuto 2021,0.34,-1
+A2287,B26932,Nickelback,Follow You Home,Nikolauss & Starpicker,Always & Forever (Mike Rodas Remix),nickelback follow you home 2005,nikolauss & starpicker always & forever (mike rodas remix) 2015,0.286,-1
+A4455,B49377,Jelly Roll,Son Of A Sinner,Jesus Culture,In The River (Live) (feat. Kim Walker-Smith),jelly roll son of a sinner 2021,jesus culture in the river (live) (feat. kim walker-smith) 2020,0.27,-1
+A3839,B23850,Daughtry,What About Now,DABEDABEDU,Fallen,daughtry what about now 2006,dabedabedu fallen 2020,0.25,-1
+A6059,B55054,Madonna,Frozen,Magguy Faraux,I Hear Thunder (Chouval bwa),madonna frozen 1998,magguy faraux i hear thunder (chouval bwa) 2014,0.149,-1
+A4479,B51738,Chicago,We Can Last Forever,Chicago,We Can Last Forever,chicago we can last forever 1988,chicago we can last forever 2015,0.875,1
+A1678,B10198,Toby Keith,Wish I Didn't Know Now,Toni Gonzaga,You're My Right Kind Of Wrong,toby keith wish i didn't know now 1993,toni gonzaga you're my right kind of wrong 2007,0.298,-1
+A8831,B36283,Trans-Siberian Orchestra,A Star to Follow,Tracy Bonham,One of These Days,trans-siberian orchestra a star to follow 1996,tracy bonham one of these days 2015,0.261,-1
+A9606,B90796,Sia,You're Never Fully Dressed Without a Smile (2014 Film Version),Sidney Samson,Get On The Floor,sia you're never fully dressed without a smile (2014 film version) 2014,sidney samson get on the floor 2009,0.268,-1
+A1723,B13577,Glen Hansard,Broken Hearted Hoover Fixer Sucker Guy,Glenn Miller,Little Brown Jug,glen hansard broken hearted hoover fixer sucker guy 2007,glenn miller little brown jug 2022,0.304,-1
+A1966,B69858,Daryl Hall & John Oates,Out of Touch,Dark Twin,Reborn,daryl hall & john oates out of touch 1984,dark twin reborn 2021,0.244,-1
+A3678,B52874,Big Time Rush,Windows Down,Bill Campbell,Sophia,big time rush windows down 2012,bill campbell sophia 2017,0.29,-1
+A4287,B58929,Alan Jackson,Little Bitty,Albert West,Living Doll,alan jackson little bitty 1996,albert west living doll 1972,0.333,-1
+A1478,B13187,Carrie Underwood,Little Toy Guns,Canzoni di Natale,Smooth Santa,carrie underwood little toy guns 2014,canzoni di natale smooth santa 2022,0.27,-1
+A5535,B69764,"Tyler, The Creator",Tamale,"Tyler, The Creator",Tamale,"tyler, the creator tamale 2013","tyler, the creator tamale 2013",1.0,1
+A9275,B60882,Lin-Manuel Miranda,Almost Like Praying (feat. Artists for Puerto Rico),Little Baby Bum,Finger Family (How Do You Do),lin-manuel miranda almost like praying (feat. artists for puerto rico) 2017,little baby bum finger family (how do you do) 2018,0.32,-1
+A9041,B10027,Bread,Sweet Surrender,Brand X Music,Family Discourse,bread sweet surrender 1972,brand x music family discourse 2022,0.257,-1
+A4843,B67093,Regina Spektor,Better,Relaxing Music Therapy,Spiritual Insight,regina spektor better 2006,relaxing music therapy spiritual insight 2019,0.289,-1
+A3202,B88521,Rednex,Cotton Eye Joe,Regina Spektor,Genius Next Door,rednex cotton eye joe 1994,regina spektor genius next door 2009,0.306,-1
+A5810,B74085,The Archies,"Sugar, Sugar",The Beach Boys,"Johnny B Goode (Live At Arie Crown Theater, Chicago/March 27, 1965)","the archies sugar, sugar 1969","the beach boys johnny b goode (live at arie crown theater, chicago/march 27, 1965) 2015",0.23,-1
+A5535,B29114,"Tyler, The Creator",Tamale,Tynisha Keli,Always Into Something,"tyler, the creator tamale 2013",tynisha keli always into something 2024,0.282,-1
+A5551,B75017,Jazmine Sullivan,Need U Bad,Jackwasfaster,Bitter Pill To Swallow,jazmine sullivan need u bad 2008,jackwasfaster bitter pill to swallow 2016,0.268,-1
+A895,B90890,Madonna,Like a Prayer,Matthias Keller,Claire de Lune für Panflöte und Orchester,madonna like a prayer 1989,matthias keller claire de lune für panflöte und orchester 2018,0.226,-1
+A5810,B53350,The Archies,"Sugar, Sugar",The O'Neill Brothers Group,Ode to Joy (Instrumental Version),"the archies sugar, sugar 1969",the o'neill brothers group ode to joy (instrumental version) 2018,0.231,-1
+A5954,B25580,Camila Cabello,Crying in the Club,Camila Cabello,Crying in the Club,camila cabello crying in the club 2017,camila cabello crying in the club 2017,1.0,1
+A4060,B33914,Jana Kramer,Why Ya Wanna,James Newton Howard,Secret Service,jana kramer why ya wanna 2012,james newton howard secret service 2013,0.282,-1
+A3740,B2319,Daughtry,What About Now,DamnPocket,What If (feat. EazyTheRaskal),daughtry what about now 2006,damnpocket what if (feat. eazytheraskal) 2019,0.289,-1
+A8216,B71904,America,Sister Golden Hair,Ameritz Karaoke,That's My Job (In the Style of Conway Twitty) [Karaoke Version],america sister golden hair 1975,ameritz karaoke that's my job (in the style of conway twitty) [karaoke version] 2012,0.214,-1
+A4654,B37641,Michelle Branch,Breathe,Miner,Lovely,michelle branch breathe 2003,miner lovely 2014,0.286,-1
+A7794,B22795,LINKIN PARK,Figure.09,Lion's Share,Losing My Head,linkin park figure.09 2003,lion's share losing my head 2001,0.375,-1
+A5200,B1230,Madonna,Like a Prayer,Marcus Anderson,Pretty Things,madonna like a prayer 1989,marcus anderson pretty things 2009,0.265,-1
+A5771,B15058,The Archies,"Sugar, Sugar",The Cedar Walton Trio,Little Waltz,"the archies sugar, sugar 1969",the cedar walton trio little waltz 1982,0.282,-1
+A9351,B5219,Mariah Carey,Vision of Love,MattRach,On the Run,mariah carey vision of love 1990,mattrach on the run 2010,0.281,-1
+A9606,B27379,Sia,You're Never Fully Dressed Without a Smile (2014 Film Version),Sizzla,I Love You,sia you're never fully dressed without a smile (2014 film version) 2014,sizzla i love you 2011,0.211,-1
+A8194,B29406,America,Sister Golden Hair,American Country Karaoke,I Love You This Big (Karaoke In The Style Of Scotty McCreery),america sister golden hair 1975,american country karaoke i love you this big (karaoke in the style of scotty mccreery) 2011,0.209,-1
+A5588,B67447,Bullet for My Valentine,Hearts Burst Into Fire,Bubbles & the Shit Rockers,Liquor and Whores (feat. Alex Lifeson),bullet for my valentine hearts burst into fire 2008,bubbles & the shit rockers liquor and whores (feat. alex lifeson) 2017,0.314,-1
+A3789,B7665,Billy Idol,Rebel Yell,Billie the Vision and the Dancers,Summercat (Acoustic Version),billy idol rebel yell 1983,billie the vision and the dancers summercat (acoustic version) 2019,0.194,-1
+A1966,B1219,Daryl Hall & John Oates,Out of Touch,Daniel Lee,No You in Us,daryl hall & john oates out of touch 1984,daniel lee no you in us 2014,0.341,-1
+A4287,B87036,Alan Jackson,Little Bitty,Alan Wools,Stereo (Alan Wools Remix),alan jackson little bitty 1996,alan wools stereo (alan wools remix) 2023,0.268,-1
+A2751,B81941,Mariah Carey,Always Be My Baby,Mason Embry Trio,My Old Kentucky Home,mariah carey always be my baby 1995,mason embry trio my old kentucky home 2022,0.238,-1
+A6313,B80850,TOOL,Pneuma,TOOL,Pneuma,tool pneuma 2019,tool pneuma 2019,1.0,1
+A3202,B53757,Rednex,Cotton Eye Joe,Reclam Hörbücher,"Carmen (Kapitel 2, Teil 10)",rednex cotton eye joe 1994,"reclam hörbücher carmen (kapitel 2, teil 10) 2018",0.245,-1
+A2453,B59563,Foreigner,Urgent,Foam and Sand,Circle 26 (Tom Ashbrook Rework),foreigner urgent 1981,foam and sand circle 26 (tom ashbrook rework) 2021,0.18,-1
+A5200,B31182,Madonna,Like a Prayer,Matt Fax,Beyond Belief,madonna like a prayer 1989,matt fax beyond belief 2023,0.259,-1
+A6948,B60241,Michelle Branch,Breathe,Mikehv,Fly Me To The Moon,michelle branch breathe 2003,mikehv fly me to the moon 2021,0.3,-1
+A7128,B25871,David Bowie,Modern Love,"Dancematics, Bobby Solo",Upside Down,david bowie modern love 1983,"dancematics, bobby solo upside down 2014",0.275,-1
+A3177,B25687,Rednex,Cotton Eye Joe,Relaxing Instrumentals,Angels In Flight,rednex cotton eye joe 1994,relaxing instrumentals angels in flight 2011,0.205,-1
+A9118,B76463,The Beach Boys,"Dance, Dance, Dance",This Is Hell,This Is Hell,"the beach boys dance, dance, dance 1965",this is hell this is hell 2017,0.179,-1
+A9351,B50477,Mariah Carey,Vision of Love,Maxence Cyrin,Seasons,mariah carey vision of love 1990,maxence cyrin seasons 2022,0.312,-1
+A1250,B90759,Michael Jackson,Man In the Mirror,Michael Sterling,Lovers and Friends,michael jackson man in the mirror 1987,michael sterling lovers and friends 2018,0.35,-1
+A4800,B27970,Paramore,Future,Paxquiao,Nobody Cares,paramore future 2013,paxquiao nobody cares 2024,0.346,-1
+A5960,B50926,Disturbed,What Are You Waiting For,Dionne Warwick,Please Make Him Love Me,disturbed what are you waiting for 2015,dionne warwick please make him love me 1964,0.233,-1
+A895,B34207,Madonna,Like a Prayer,Marion Maerz,Winter in Athen (Remastered 2023),madonna like a prayer 1989,marion maerz winter in athen (remastered 2023) 1979,0.373,-1
+A4130,B34267,Bring Me The Horizon,Throne,Brendan Philip,Shadow Ceremony,bring me the horizon throne 2015,brendan philip shadow ceremony 2015,0.4,-1
+A3177,B6387,Rednex,Cotton Eye Joe,Reid Stefan,Take a Look,rednex cotton eye joe 1994,reid stefan take a look 2020,0.25,-1
+A1703,B84188,Pentatonix,Sleigh Ride,PET NEEDS,Dallas,pentatonix sleigh ride 2014,pet needs dallas 2017,0.333,-1
+A9151,B12831,Santigold,Unstoppable,Sabaton,In the Army Now,santigold unstoppable 2008,sabaton in the army now 2016,0.286,-1
+A9859,B63139,Young the Giant,Islands,Young Decades,Islands,young the giant islands 2010,young decades islands 2020,0.679,0
+A6948,B71746,Michelle Branch,Breathe,Micky,This Is The Life,michelle branch breathe 2003,micky this is the life 2023,0.321,-1
+A2753,B16678,Marc Anthony,I Need to Know,Masaru Sato,End of Resistance,marc anthony i need to know 1999,masaru sato end of resistance 2022,0.294,-1
+A9351,B19096,Mariah Carey,Vision of Love,Masaya Uechi,Castle In A Dream,mariah carey vision of love 1990,masaya uechi castle in a dream 2024,0.257,-1
+A5200,B4734,Madonna,Like a Prayer,Majella,Galway Bay,madonna like a prayer 1989,majella galway bay 2019,0.346,-1
+A5771,B95824,The Archies,"Sugar, Sugar",The Net Chords,Nature Sounds,"the archies sugar, sugar 1969",the net chords nature sounds 2020,0.394,-1
+A5771,B44048,The Archies,"Sugar, Sugar",The Eggies,Do The Wobble (Wobble),"the archies sugar, sugar 1969",the eggies do the wobble (wobble) 2022,0.237,-1
+A8177,B63627,Miranda Lambert,Use My Heart,Michael Charles Smith,Waking,miranda lambert use my heart 2016,michael charles smith waking 2009,0.273,-1
+A5771,B55010,The Archies,"Sugar, Sugar",The Moffatts,Like I Love U,"the archies sugar, sugar 1969",the moffatts like i love u 2023,0.258,-1
+A4287,B6275,Alan Jackson,Little Bitty,Alex Kvitta,Little Girl (DavidChristoph Remix),alan jackson little bitty 1996,alex kvitta little girl (davidchristoph remix) 2009,0.255,-1
+A2751,B26209,Mariah Carey,Always Be My Baby,Mariah Carey,Always Be My Baby,mariah carey always be my baby 1995,mariah carey always be my baby 1995,1.0,1
+A2287,B92129,Nickelback,Follow You Home,Nidhogg,Nature's Church,nickelback follow you home 2005,nidhogg nature's church 2002,0.258,-1
+A9041,B49214,Bread,Sweet Surrender,Brendan Bennett,Wasted Time (feat. Supa Bwe),bread sweet surrender 1972,brendan bennett wasted time (feat. supa bwe) 2019,0.286,-1
+A2312,B3462,Vampire Weekend,Giving Up the Gun,Valeriy Antonyuk,Strong Western,vampire weekend giving up the gun 2010,valeriy antonyuk strong western 2020,0.342,-1
+A4654,B66567,Michelle Branch,Breathe,Michael Leonhart Orchestra,The Normyn Suite #1: Nostalgia,michelle branch breathe 2003,michael leonhart orchestra the normyn suite #1: nostalgia 2022,0.306,-1
+A609,B13743,Rodney Atkins,Take a Back Road,Robert Savage,Lonely World,rodney atkins take a back road 2011,robert savage lonely world 2010,0.4,-1
+A2751,B88447,Mariah Carey,Always Be My Baby,Mariachi México,Bonita,mariah carey always be my baby 1995,mariachi méxico bonita 2014,0.314,-1
+A609,B78231,Rodney Atkins,Take a Back Road,Rosa,Bullet Holez,rodney atkins take a back road 2011,rosa bullet holez 2023,0.257,-1
+A2219,B3933,Billy Joel,And So It Goes,Bianca Aponno,I Want You,billy joel and so it goes 1989,bianca aponno i want you 2021,0.233,-1
+A3839,B26269,Daughtry,What About Now,Dance Assassins,Here I Am (Extended Mix),daughtry what about now 2006,dance assassins here i am (extended mix) 2005,0.267,-1
+A7128,B86670,David Bowie,Modern Love,Darrian Lilly,Lovers & Friends,david bowie modern love 1983,darrian lilly lovers & friends 2018,0.314,-1
+A5200,B67048,Madonna,Like a Prayer,Martha Reeves & The Vandellas,Mobile Lil The Dancing Witch,madonna like a prayer 1989,martha reeves & the vandellas mobile lil the dancing witch 1965,0.206,-1
+A9151,B69530,Santigold,Unstoppable,"Sam ""The Man"" Taylor",Stormy,santigold unstoppable 2008,"sam ""the man"" taylor stormy 2012",0.25,-1
+A7271,B67248,Blake Shelton,I Lived It,Black Room Orchestra,Friday vibrations,blake shelton i lived it 2017,black room orchestra friday vibrations 2021,0.372,-1
+A2920,B8373,Stone Sour,Bother,Stacey Kent,"Summer Me, Winter Me",stone sour bother 2002,"stacey kent summer me, winter me 2024",0.324,-1
+A5200,B39960,Madonna,Like a Prayer,Masatoshi Ono,Starry night,madonna like a prayer 1989,masatoshi ono starry night 2023,0.226,-1
+A9118,B79856,The Beach Boys,"Dance, Dance, Dance",The Cavers,Trains,"the beach boys dance, dance, dance 1965",the cavers trains 2018,0.256,-1
+A5810,B71863,The Archies,"Sugar, Sugar",The Archies,"Sugar, Sugar","the archies sugar, sugar 1969","the archies sugar, sugar 1969",1.0,1
+A2154,B86693,Meghan Trainor,What If I,Mel Ashton,Andare,meghan trainor what if i 2015,mel ashton andare 2013,0.379,-1
+A1250,B98039,Michael Jackson,Man In the Mirror,Mike Garbo,Son of a Gun,michael jackson man in the mirror 1987,mike garbo son of a gun 2022,0.316,-1
+A2154,B9967,Meghan Trainor,What If I,Meghan Trainor,What If I,meghan trainor what if i 2015,meghan trainor what if i 2015,1.0,1
+A4061,B30122,Taylor Swift,august,Tanner Swift,Almost,taylor swift august 2020,tanner swift almost 2015,0.667,0
+A6286,B62778,Newcleus,Jam On It,Never Broke Again,Bloody,newcleus jam on it 1984,never broke again bloody 2024,0.241,-1
+A1966,B89882,Daryl Hall & John Oates,Out of Touch,Dave Barker,What A Confusion,daryl hall & john oates out of touch 1984,dave barker what a confusion 2022,0.268,-1
+A4479,B20861,Chicago,We Can Last Forever,Church of Christ,Prayer,chicago we can last forever 1988,church of christ prayer 2023,0.375,-1
+A1961,B70497,Michael Jackson,I Just Can't Stop Loving You (feat. Siedah Garrett),Mighty Sparrow,Willie Dead,michael jackson i just can't stop loving you (feat. siedah garrett) 1987,mighty sparrow willie dead 2011,0.208,-1
+A9118,B88548,The Beach Boys,"Dance, Dance, Dance",The Creepy Creeps,Spider Zombie,"the beach boys dance, dance, dance 1965",the creepy creeps spider zombie 2016,0.282,-1
+A2052,B94585,Mat Kearney,Closer to Love,Madonna,Like A Prayer (Hd Remastered Version),mat kearney closer to love 2009,madonna like a prayer (hd remastered version) 2017,0.34,-1
+A4287,B1517,Alan Jackson,Little Bitty,Alex Angelo,I Like U Too,alan jackson little bitty 1996,alex angelo i like u too 2013,0.333,-1
+A4819,B58581,Paramore,Future,Patti Page,I Walk the Line,paramore future 2013,patti page i walk the line 2012,0.323,-1
+A2055,B83843,America,Sister Golden Hair,America,Sister Golden Hair,america sister golden hair 1975,america sister golden hair 1975,1.0,1
+A1250,B88744,Michael Jackson,Man In the Mirror,Mississippi Fred McDowell,Germany Blues,michael jackson man in the mirror 1987,mississippi fred mcdowell germany blues 2022,0.159,-1
+A5200,B64837,Madonna,Like a Prayer,Mara Lakour,Inhale,madonna like a prayer 1989,mara lakour inhale 2019,0.385,-1
+A9151,B81856,Santigold,Unstoppable,Savage,Vanity,santigold unstoppable 2008,savage vanity 2023,0.308,-1
+A7239,B50785,Mariah Carey,Vision of Love,Matthew Greif,Guitar Talks: No. 1 - Funk in E,mariah carey vision of love 1990,matthew greif guitar talks: no. 1 - funk in e 1996,0.32,-1
+A4479,B454,Chicago,We Can Last Forever,Christmas Hits,Little drummer boy,chicago we can last forever 1988,christmas hits little drummer boy 2018,0.263,-1
+A4060,B24131,Jana Kramer,Why Ya Wanna,Jane Ira Bloom,Out of This World,jana kramer why ya wanna 2012,jane ira bloom out of this world 2013,0.378,-1
+A54,B18626,Jason Derulo,Ridin' Solo,Jarvis Smith,Nobody like you (feat. lowell Pye),jason derulo ridin' solo 2010,jarvis smith nobody like you (feat. lowell pye) 2014,0.269,-1
+A2154,B59596,Meghan Trainor,What If I,Merle Kilgore,It's All Over Now,meghan trainor what if i 2015,merle kilgore it's all over now 2017,0.306,-1
+A1250,B46283,Michael Jackson,Man In the Mirror,Michael Jackson,Man in the Mirror,michael jackson man in the mirror 1987,michael jackson man in the mirror 1987,1.0,1
+A1894,B52154,Christina Aguilera,Dirrty (feat. Redman),Chill Aguilar,It's All Yours,christina aguilera dirrty (feat. redman) 2002,chill aguilar it's all yours 2017,0.4,-1
+A9041,B99285,Bread,Sweet Surrender,Bruford,"Age Of Information (Live, The Venue, London)",bread sweet surrender 1972,"bruford age of information (live, the venue, london) 2020",0.211,-1
+A6165,B28974,Kenny Chesney,What I Need to Do,KETTAMA,Higher (Steel City Power House) (Edit),kenny chesney what i need to do 1999,kettama higher (steel city power house) (edit) 2021,0.275,-1
+A5390,B93050,Cole Swindell,Get Up,Converge,Locust Reign (Redux),cole swindell get up 2014,converge locust reign (redux) 2022,0.294,-1
+A5031,B76231,Martina McBride,I Just Call You Mine,Marc Z,Caught in a Dream (Zed's Radio Mix),martina mcbride i just call you mine 2009,marc z caught in a dream (zed's radio mix) 2014,0.298,-1
+A895,B56460,Madonna,Like a Prayer,Magik Brothers,Slowly but Surley,madonna like a prayer 1989,magik brothers slowly but surley 2008,0.243,-1
+A3334,B54717,Metallica,The God That Failed,Meditation Music Masters,Divine Energy,metallica the god that failed 1991,meditation music masters divine energy 2020,0.256,-1
+A4654,B7977,Michelle Branch,Breathe,Mickey Newbury,Heaven Help the Child,michelle branch breathe 2003,mickey newbury heaven help the child 2011,0.39,-1
+A2052,B95278,Mat Kearney,Closer to Love,Marcia Barrett,Seeing Is Believing,mat kearney closer to love 2009,marcia barrett seeing is believing 2021,0.333,-1
+A6059,B94814,Madonna,Frozen,Mario Adnet,Lamento de Preto Velho,madonna frozen 1998,mario adnet lamento de preto velho 2014,0.256,-1
+A3740,B51564,Daughtry,What About Now,Daniel Weirdo,Energy (Patrick Scuro & Daniel Weirdo Remix),daughtry what about now 2006,daniel weirdo energy (patrick scuro & daniel weirdo remix) 2023,0.238,-1
+A5551,B85424,Jazmine Sullivan,Need U Bad,Janne Lucas,Lesson One,jazmine sullivan need u bad 2008,janne lucas lesson one 2006,0.438,-1
+A5551,B22585,Jazmine Sullivan,Need U Bad,JayCandy,Always Lit,jazmine sullivan need u bad 2008,jaycandy always lit 2024,0.281,-1
+A9351,B31935,Mariah Carey,Vision of Love,Maureen McGovern,I Will Arise,mariah carey vision of love 1990,maureen mcgovern i will arise 2018,0.265,-1
+A4516,B13883,Vampire Weekend,Hudson,Valdeir procópio na pegada do forró,Cowboy Chora (Cover),vampire weekend hudson 2013,valdeir procópio na pegada do forró cowboy chora (cover) 2024,0.213,-1
+A5810,B37867,The Archies,"Sugar, Sugar",The Jam,In The Midnight Hour,"the archies sugar, sugar 1969",the jam in the midnight hour 1997,0.303,-1
+A9118,B81521,The Beach Boys,"Dance, Dance, Dance",The Arcadian Wild,Spring: Wake,"the beach boys dance, dance, dance 1965",the arcadian wild spring: wake 2021,0.282,-1
+A8177,B88707,Miranda Lambert,Use My Heart,Michel Jonasz,"Tristesse (Live au Casino de Paris, 2013)",miranda lambert use my heart 2016,"michel jonasz tristesse (live au casino de paris, 2013) 2013",0.267,-1
+A8177,B15445,Miranda Lambert,Use My Heart,Mike O'Donnell,Little Engines,miranda lambert use my heart 2016,mike o'donnell little engines 2022,0.206,-1
+A9578,B8994,Sia,You're Never Fully Dressed Without a Smile (2014 Film Version),Sia,You're Never Fully Dressed Without a Smile (2014 Film Version),sia you're never fully dressed without a smile (2014 film version) 2014,sia you're never fully dressed without a smile (2014 film version) 2014,1.0,1
+A7271,B34988,Blake Shelton,I Lived It,Black Stone Cherry,Out Of Pocket,blake shelton i lived it 2017,black stone cherry out of pocket 2023,0.351,-1
+A1478,B47478,Carrie Underwood,Little Toy Guns,Calum Bowen,"Desert Race, Co-Op 3",carrie underwood little toy guns 2014,"calum bowen desert race, co-op 3 2019",0.243,-1
+A3678,B44746,Big Time Rush,Windows Down,Billy Edd Wheeler,Ode To The Little Brown Shack Out Back,big time rush windows down 2012,billy edd wheeler ode to the little brown shack out back 2011,0.262,-1
+A2219,B77845,Billy Joel,And So It Goes,Binum,Anthem 2010 (feat. MC Linez) (feat. MC Linez),billy joel and so it goes 1989,binum anthem 2010 (feat. mc linez) (feat. mc linez) 2010,0.232,-1
+A2185,B56493,Billy Joel,And So It Goes,Big Pound,Living Dunb Way (feat. Vogotit),billy joel and so it goes 1989,big pound living dunb way (feat. vogotit) 2022,0.261,-1
+A7271,B35156,Blake Shelton,I Lived It,Blancarte,Zodiaco,blake shelton i lived it 2017,blancarte zodiaco 2022,0.31,-1
+A6059,B22035,Madonna,Frozen,Mac Dre,Stupid (Part 1),madonna frozen 1998,mac dre stupid (part 1) 2004,0.214,-1
+A925,B49346,Miley Cyrus,Flowers,Miley Cyrus,Flowers,miley cyrus flowers 2023,miley cyrus flowers 2023,1.0,1
+A3737,B38143,Daryl Hall & John Oates,Did It In a Minute,Dapayk & Padberg,Silent Fireworks (Dapayk Remix),daryl hall & john oates did it in a minute 1981,dapayk & padberg silent fireworks (dapayk remix) 2014,0.226,-1
+A8715,B90123,Luke Bryan,All My Friends Say,Lul Trill,Suffer In Silence,luke bryan all my friends say 2007,lul trill suffer in silence 2021,0.324,-1
+A4479,B60667,Chicago,We Can Last Forever,Chicago,We Can Last Forever,chicago we can last forever 1988,chicago we can last forever 2002,0.875,1
+A4819,B5858,Paramore,Future,Paramore,Future,paramore future 2013,paramore future 2013,1.0,1
+A5031,B9506,Martina McBride,I Just Call You Mine,Manuel Morgenthal,Londonderry Air,martina mcbride i just call you mine 2009,manuel morgenthal londonderry air 2013,0.244,-1
+A5810,B42630,The Archies,"Sugar, Sugar",The Hawks,Clouds of Darkness,"the archies sugar, sugar 1969",the hawks clouds of darkness 1991,0.333,-1
+A7794,B61611,LINKIN PARK,Figure.09,Lingokids,Please and Thank You,linkin park figure.09 2003,lingokids please and thank you 2022,0.343,-1
+A5771,B89553,The Archies,"Sugar, Sugar",The Duhks,Suffer No Fools,"the archies sugar, sugar 1969",the duhks suffer no fools 2014,0.333,-1
+A3806,B51066,Billy Idol,Rebel Yell,Biffy Clyro,People,billy idol rebel yell 1983,biffy clyro people 2016,0.308,-1
+A9275,B53596,Lin-Manuel Miranda,Almost Like Praying (feat. Artists for Puerto Rico),Little Texas,Living In a Bullseye,lin-manuel miranda almost like praying (feat. artists for puerto rico) 2017,little texas living in a bullseye 2020,0.267,-1
+A544,B33797,Panic! At the Disco,This Is Gospel,Papichulo Bangger,Really Flipping (feat. Nizzy Zwop & Money Bagz),panic! at the disco this is gospel 2013,papichulo bangger really flipping (feat. nizzy zwop & money bagz) 2017,0.271,-1
+A54,B78081,Jason Derulo,Ridin' Solo,Jaco Joubert,Livin' On Love,jason derulo ridin' solo 2010,jaco joubert livin' on love 2021,0.438,-1
+A5031,B15264,Martina McBride,I Just Call You Mine,Macky Gee,Let It Shine (VIP) (feat. Youngman),martina mcbride i just call you mine 2009,macky gee let it shine (vip) (feat. youngman) 2017,0.34,-1
+A9041,B75859,Bread,Sweet Surrender,Broken Social Scene,All To All,bread sweet surrender 1972,broken social scene all to all 2010,0.257,-1
+A1250,B88970,Michael Jackson,Man In the Mirror,Michael Angelo,Hearts Unspoken (Nolans Stenemberg Remix) (feat. Melissa Loretta),michael jackson man in the mirror 1987,michael angelo hearts unspoken (nolans stenemberg remix) (feat. melissa loretta) 2012,0.294,-1
+A5390,B21362,Cole Swindell,Get Up,Commander Cody and His Lost Planet Airmen,Sunset on the Sage (Live),cole swindell get up 2014,commander cody and his lost planet airmen sunset on the sage (live) 2021,0.208,-1
+A3737,B6704,Daryl Hall & John Oates,Did It In a Minute,Daniel Rojas,Monkey in a Suit,daryl hall & john oates did it in a minute 1981,daniel rojas monkey in a suit 2021,0.362,-1
+A7037,B45297,Blackmill,Let It Be (feat. Veela),Black Spell,Visions from the Dark Side,blackmill let it be (feat. veela) 2011,black spell visions from the dark side 2020,0.326,-1
+A9118,B31347,The Beach Boys,"Dance, Dance, Dance",The Ambassadors,Prayer of the Children,"the beach boys dance, dance, dance 1965",the ambassadors prayer of the children 2021,0.302,-1
+A7794,B22933,LINKIN PARK,Figure.09,Lifeway Kids Worship,Always Pray: Ephesians 6:18,linkin park figure.09 2003,lifeway kids worship always pray: ephesians 6:18 2019,0.245,-1
+A3740,B55639,Daughtry,What About Now,Darin and Brooke Aldridge,To The Moon And Back,daughtry what about now 2006,darin and brooke aldridge to the moon and back 2013,0.235,-1
+A2918,B42046,Carrie Underwood,I Know You Won't,Cabaret Voltaire,Do The Mussolini (Headkick) They Kill Him Dub,carrie underwood i know you won't 2007,cabaret voltaire do the mussolini (headkick) they kill him dub 2003,0.269,-1
+A5771,B85599,The Archies,"Sugar, Sugar",Thelonious Monk,Monk's Mood,"the archies sugar, sugar 1969",thelonious monk monk's mood 2022,0.188,-1
+A5031,B35117,Martina McBride,I Just Call You Mine,Magestick Records,Regrets,martina mcbride i just call you mine 2009,magestick records regrets 2019,0.268,-1
+A2751,B66377,Mariah Carey,Always Be My Baby,MAJOR BRYCE,One One One,mariah carey always be my baby 1995,major bryce one one one 0,0.229,-1
+A4329,B21661,Sia,Hostage,Sing it Live,Danger Zone,sia hostage 2014,sing it live danger zone 2023,0.31,-1
+A2052,B35791,Mat Kearney,Closer to Love,Martial Canterel,Vision,mat kearney closer to love 2009,martial canterel vision 2007,0.355,-1
+A4654,B22861,Michelle Branch,Breathe,Michael Schulte,Higher,michelle branch breathe 2003,michael schulte higher 2012,0.393,-1
+A5771,B93896,The Archies,"Sugar, Sugar",The Game Music Committee,Heroes (Dance Version),"the archies sugar, sugar 1969",the game music committee heroes (dance version) 2010,0.269,-1
+A1713,B24007,One Direction,I Want to Write You a Song,OneJustChris,Higher Levels (feat. Scootie Wop & Deon),one direction i want to write you a song 2015,onejustchris higher levels (feat. scootie wop & deon) 2020,0.345,-1
+A1079,B13936,New Boyz,Better With the Lights Off (feat. Chris Brown),Neal McCoy,I Know You,new boyz better with the lights off (feat. chris brown) 2011,neal mccoy i know you 1997,0.167,-1
+A4455,B64467,Jelly Roll,Son Of A Sinner,Jelly Roll,Son Of A Sinner,jelly roll son of a sinner 2021,jelly roll son of a sinner 2021,1.0,1
+A8363,B19315,Keith Urban,Coming Home (feat. Julia Michaels),Keith Urban,Coming Home (feat. Julia Michaels),keith urban coming home (feat. julia michaels) 2018,keith urban coming home (feat. julia michaels) 2018,1.0,1
+A7128,B42645,David Bowie,Modern Love,Daniel Price,In The End,david bowie modern love 1983,daniel price in the end 2022,0.25,-1
+A5031,B27094,Martina McBride,I Just Call You Mine,Martina McBride,I Just Call You Mine,martina mcbride i just call you mine 2009,martina mcbride i just call you mine 2009,1.0,1
+A3202,B51431,Rednex,Cotton Eye Joe,Reese Lansangan,Islands (Acoustic Version),rednex cotton eye joe 1994,reese lansangan islands (acoustic version) 2018,0.213,-1
+A8194,B3161,America,Sister Golden Hair,Amen Dunes,What I Want,america sister golden hair 1975,amen dunes what i want 2024,0.29,-1
+A925,B94824,Miley Cyrus,Flowers,Mike Mains & The Branches,Around the Corner,miley cyrus flowers 2023,mike mains & the branches around the corner 2019,0.271,-1
+A9118,B17168,The Beach Boys,"Dance, Dance, Dance",The Cruel Sea,I Feel,"the beach boys dance, dance, dance 1965",the cruel sea i feel 1991,0.308,-1
+A3678,B75693,Big Time Rush,Windows Down,Billie Holiday,I Wished On The Moon,big time rush windows down 2012,billie holiday i wished on the moon 1958,0.3,-1
+A9351,B82649,Mariah Carey,Vision of Love,Marco Beltrami,This Is Making A Move,mariah carey vision of love 1990,marco beltrami this is making a move 2022,0.341,-1
+A6059,B40424,Madonna,Frozen,Madonna,Secret (Junior's Luscious Club Mix),madonna frozen 1998,madonna secret (junior's luscious club mix) 1994,0.292,-1
+A3103,B59266,Jason Mraz,Coyotes,Jay Kay,Princess (Spanish Radio Version),jason mraz coyotes 2008,jay kay princess (spanish radio version) 2010,0.267,-1
+A2052,B40424,Mat Kearney,Closer to Love,Madonna,Secret (Junior's Luscious Club Mix),mat kearney closer to love 2009,madonna secret (junior's luscious club mix) 1994,0.25,-1
+A9151,B36702,Santigold,Unstoppable,Santana,Echoes Of Angels (Live),santigold unstoppable 2008,santana echoes of angels (live) 2015,0.333,-1
+A80,B46283,Michael Jackson,Man In the Mirror,Michael Jackson,Man in the Mirror,michael jackson man in the mirror 1987,michael jackson man in the mirror 1987,1.0,1
+A1966,B39574,Daryl Hall & John Oates,Out of Touch,David Baroni,No Ways Tired,daryl hall & john oates out of touch 1984,david baroni no ways tired 2010,0.293,-1
+A609,B3270,Rodney Atkins,Take a Back Road,Roman Royce,I Want You Tonight,rodney atkins take a back road 2011,roman royce i want you tonight 2024,0.229,-1
+A4800,B29314,Paramore,Future,Paul Mauriat,I Will Follow Him,paramore future 2013,paul mauriat i will follow him 2011,0.286,-1
+A5031,B92823,Martina McBride,I Just Call You Mine,Manfred Mann's Earth Band,Laguna,martina mcbride i just call you mine 2009,manfred mann's earth band laguna 1991,0.244,-1
+A1894,B27866,Christina Aguilera,Dirrty (feat. Redman),Chihiro Onitsuka,End of the world,christina aguilera dirrty (feat. redman) 2002,chihiro onitsuka end of the world 2019,0.311,-1
+A2751,B96756,Mariah Carey,Always Be My Baby,Mark Petrie,Nebula,mariah carey always be my baby 1995,mark petrie nebula 2012,0.257,-1
+A5575,B26407,Avenged Sevenfold,Almost Easy (Jam-Along Version),Avenged Sevenfold,Almost Easy (Jam-Along Version),avenged sevenfold almost easy (jam-along version) 2007,avenged sevenfold almost easy (jam-along version) 2007,1.0,1
+A5031,B61073,Martina McBride,I Just Call You Mine,Mark Harper,Twenty III,martina mcbride i just call you mine 2009,mark harper twenty iii 2010,0.341,-1
+A2052,B69743,Mat Kearney,Closer to Love,Madison Ryann Ward,Anchor,mat kearney closer to love 2009,madison ryann ward anchor 2021,0.258,-1
+A54,B28667,Jason Derulo,Ridin' Solo,Jazz Instrumentals,Sexual Music for Sex,jason derulo ridin' solo 2010,jazz instrumentals sexual music for sex 2023,0.295,-1
+A5810,B23957,The Archies,"Sugar, Sugar",The Libertines,Up the Bracket (Radio 1 Evening Session),"the archies sugar, sugar 1969",the libertines up the bracket (radio 1 evening session) 2022,0.217,-1
+A2753,B48984,Marc Anthony,I Need to Know,Marc Anthony,I Need You,marc anthony i need to know 1999,marc anthony i need you 2002,0.688,0
+A8598,B72161,Fetty Wap,Boomin,Fernando Ortega,Just As I Am,fetty wap boomin 2015,fernando ortega just as i am 1994,0.182,-1
+A6059,B90188,Madonna,Frozen,Magazine,"A Song From Under The Floorboards (Live From Melbourne Festival Hall, Australia / 1980)",madonna frozen 1998,"magazine a song from under the floorboards (live from melbourne festival hall, australia / 1980) 1980",0.168,-1
+A4654,B92908,Michelle Branch,Breathe,Milky Chance,Like A Clown (Instrumental),michelle branch breathe 2003,milky chance like a clown (instrumental) 2023,0.356,-1
+A1678,B40323,Toby Keith,Wish I Didn't Know Now,Tom Gaebel,It's a Good Life (2020 Re-Recording),toby keith wish i didn't know now 1993,tom gaebel it's a good life (2020 re-recording) 2020,0.231,-1
+A4479,B29703,Chicago,We Can Last Forever,Chris Smither,I Feel The Same,chicago we can last forever 1988,chris smither i feel the same 2012,0.206,-1
+A5771,B73429,The Archies,"Sugar, Sugar",The City of Prague Philharmonic Orchestra,"May It Be (From ""The Lord of the Rings: The Fellowship of the Ring"")","the archies sugar, sugar 1969","the city of prague philharmonic orchestra may it be (from ""the lord of the rings: the fellowship of the ring"") 2004",0.139,-1
+A1478,B9812,Carrie Underwood,Little Toy Guns,Carrie Underwood,Little Toy Guns,carrie underwood little toy guns 2014,carrie underwood little toy guns 2014,1.0,1
+A7271,B36299,Blake Shelton,I Lived It,black diamond,I Need You,blake shelton i lived it 2017,black diamond i need you 2018,0.483,-1
+A7819,B13798,LINKIN PARK,Figure.09,lil lav,Family feud freestyle,linkin park figure.09 2003,lil lav family feud freestyle 2024,0.324,-1
+A2753,B52664,Marc Anthony,I Need to Know,Maria Callas,Carmen: Prélude,marc anthony i need to know 1999,maria callas carmen: prélude 2014,0.212,-1
+A6286,B82725,Newcleus,Jam On It,Newcleus,Jam On It,newcleus jam on it 1984,newcleus jam on it 1984,1.0,1
+A8177,B82669,Miranda Lambert,Use My Heart,Mike Vallas,Take A Pill,miranda lambert use my heart 2016,mike vallas take a pill 2018,0.394,-1
+A6286,B32948,Newcleus,Jam On It,Ned Doheny,I Will Let You Go,newcleus jam on it 1984,ned doheny i will let you go 2011,0.242,-1
+A589,B56069,Rodney Atkins,Take a Back Road,Rory Gallagher,Middle Name,rodney atkins take a back road 2011,rory gallagher middle name 1990,0.2,-1
+A5551,B87812,Jazmine Sullivan,Need U Bad,Jason Lazarus,Missing,jazmine sullivan need u bad 2008,jason lazarus missing 2020,0.281,-1
+A7819,B56988,LINKIN PARK,Figure.09,Lim Jong Hwan,Please Go (Instrumental),linkin park figure.09 2003,lim jong hwan please go (instrumental) 1994,0.279,-1
+A2460,B17154,Santigold,L.E.S. Artistes,Santigold,L.E.S. Artistes,santigold l.e.s. artistes 2008,santigold l.e.s. artistes 2008,1.0,1
+A9118,B84751,The Beach Boys,"Dance, Dance, Dance",The Hoosiers,Things You Remember When You’re Falling,"the beach boys dance, dance, dance 1965",the hoosiers things you remember when you’re falling 2023,0.246,-1
+A3103,B58532,Jason Mraz,Coyotes,Jay Rox,Battle Scars (feat. Stevo),jason mraz coyotes 2008,jay rox battle scars (feat. stevo) 2023,0.282,-1
+A54,B4303,Jason Derulo,Ridin' Solo,Jason Derulo,Tattoo,jason derulo ridin' solo 2010,jason derulo tattoo 2013,0.655,0
+A6944,B92426,Leona Lewis,Here I Am,Lele Marchitelli,Sister Mary,leona lewis here i am 2007,lele marchitelli sister mary 2016,0.333,-1
+A1250,B47132,Michael Jackson,Man In the Mirror,Michael Bormann,No Way Out (It Hurts),michael jackson man in the mirror 1987,michael bormann no way out (it hurts) 2015,0.381,-1
+A6944,B68074,Leona Lewis,Here I Am,Led Er Est,Divided Parallel,leona lewis here i am 2007,led er est divided parallel 2012,0.281,-1
+A9118,B88375,The Beach Boys,"Dance, Dance, Dance",The Tannahill Weavers,Gloomy Winter's Noo Awa',"the beach boys dance, dance, dance 1965",the tannahill weavers gloomy winter's noo awa' 2021,0.275,-1
+A4512,B37338,Band of Horses,Window Blues,Bassline Drift,Wolves,band of horses window blues 2007,bassline drift wolves 2018,0.375,-1
+A4119,B42726,Childish Gambino,This Is America,Children’s Christmas,Silent Night,childish gambino this is america 2018,children’s christmas silent night 2022,0.316,-1
+A589,B73345,Rodney Atkins,Take a Back Road,Rodney Atkins,Take A Back Road,rodney atkins take a back road 2011,rodney atkins take a back road 2011,1.0,1
+A7271,B74737,Blake Shelton,I Lived It,Black Sweet,That's The Only Way,blake shelton i lived it 2017,black sweet that's the only way 2017,0.389,-1
+A8951,B52774,Blake Shelton,I Need My Girl,Blake Shelton,I Lived It,blake shelton i need my girl 2014,blake shelton i lived it 2017,0.697,0
+A2460,B6390,Santigold,L.E.S. Artistes,SAULT,In the Beginning,santigold l.e.s. artistes 2008,sault in the beginning 2022,0.267,-1
+A4065,B14326,Khalid,Better,Khalid,Better,khalid better 2018,khalid better 2018,1.0,1
+A5954,B49836,Camila Cabello,Crying in the Club,Cafe Music Jazz Channel,At the Table,camila cabello crying in the club 2017,cafe music jazz channel at the table 2022,0.341,-1
+A8177,B65300,Miranda Lambert,Use My Heart,Mississippi Fred McDowell,Louise (Live),miranda lambert use my heart 2016,mississippi fred mcdowell louise (live) 2016,0.318,-1
+A5411,B58268,Cole Swindell,Get Up,Coone,It's All In The Game (Official Intents Festival 2016 Anthem) (Radio Version),cole swindell get up 2014,coone it's all in the game (official intents festival 2016 anthem) (radio version) 2016,0.195,-1
+A80,B65300,Michael Jackson,Man In the Mirror,Mississippi Fred McDowell,Louise (Live),michael jackson man in the mirror 1987,mississippi fred mcdowell louise (live) 2016,0.182,-1
+A9118,B43077,The Beach Boys,"Dance, Dance, Dance",The French Young Singers,Jingle Bells (Instrumental),"the beach boys dance, dance, dance 1965",the french young singers jingle bells (instrumental) 2013,0.333,-1
+A3963,B63631,Percy Sledge,When a Man Loves a Woman,Pedro Guerra,Daniela (Directo Rivas),percy sledge when a man loves a woman 1966,pedro guerra daniela (directo rivas) 2008,0.238,-1
+A9151,B19879,Santigold,Unstoppable,Sal De Sol,How Do You Do (Extended Mix),santigold unstoppable 2008,sal de sol how do you do (extended mix) 2024,0.25,-1
+A925,B44640,Miley Cyrus,Flowers,Milk Teeth,Flowers,miley cyrus flowers 2023,milk teeth flowers 2020,0.667,0
+A3839,B37286,Daughtry,What About Now,Daniel Lenzmeier,Desert Massacre,daughtry what about now 2006,daniel lenzmeier desert massacre 2013,0.216,-1
+A2918,B97484,Carrie Underwood,I Know You Won't,Carles Magraner,Paradetas de Gaspar Sanz,carrie underwood i know you won't 2007,carles magraner paradetas de gaspar sanz 2021,0.267,-1
+A3737,B30347,Daryl Hall & John Oates,Did It In a Minute,Daryl Hall & John Oates,Out of Touch,daryl hall & john oates did it in a minute 1981,daryl hall & john oates out of touch 1984,0.681,0
+A5810,B324,The Archies,"Sugar, Sugar",The King Blues,When I Die,"the archies sugar, sugar 1969",the king blues when i die 2019,0.267,-1
+A8177,B49400,Miranda Lambert,Use My Heart,Mitch DB,Flowers,miranda lambert use my heart 2016,mitch db flowers 2023,0.303,-1
+A895,B6908,Madonna,Like a Prayer,Manfred Mann,Pretty Flamingo,madonna like a prayer 1989,manfred mann pretty flamingo 2019,0.273,-1
+A9351,B95333,Mariah Carey,Vision of Love,Martin Horntveth,Victims List,mariah carey vision of love 1990,martin horntveth victims list 2020,0.324,-1
+A5810,B1858,The Archies,"Sugar, Sugar",The Karaoke Channel,Lonely Boy [In the Style of Paul Anka] {Karaoke Version},"the archies sugar, sugar 1969",the karaoke channel lonely boy [in the style of paul anka] {karaoke version} 2011,0.222,-1
+A5771,B94519,The Archies,"Sugar, Sugar",The Hometown Boys,Por un Amor,"the archies sugar, sugar 1969",the hometown boys por un amor 2020,0.294,-1
+A2918,B36422,Carrie Underwood,I Know You Won't,Camilo Eque,Secreto Azul,carrie underwood i know you won't 2007,camilo eque secreto azul 2016,0.263,-1
+A4329,B28359,Sia,Hostage,Simrit Kaur,Let Me Know,sia hostage 2014,simrit kaur let me know 2014,0.357,-1
+A5200,B70160,Madonna,Like a Prayer,Mallin,Set Me Free (Extended Mix),madonna like a prayer 1989,mallin set me free (extended mix) 2023,0.211,-1
+A3839,B33279,Daughtry,What About Now,Dan Gibson,Follow The Wind,daughtry what about now 2006,dan gibson follow the wind 2024,0.258,-1
+A1250,B4531,Michael Jackson,Man In the Mirror,Miami Rockets,I Like to Move it (Spankers Remix),michael jackson man in the mirror 1987,miami rockets i like to move it (spankers remix) 2016,0.245,-1
+A8216,B61515,America,Sister Golden Hair,Amick Byram,I Must Leave You Now,america sister golden hair 1975,amick byram i must leave you now 2004,0.189,-1
+A7239,B6000,Mariah Carey,Vision of Love,Max Greger,Little Brown Jug,mariah carey vision of love 1990,max greger little brown jug 1970,0.281,-1
+A9151,B51055,Santigold,Unstoppable,Sarah Brightman,It's A Beautiful Day (Live),santigold unstoppable 2008,sarah brightman it's a beautiful day (live) 2004,0.292,-1
+A9118,B85188,The Beach Boys,"Dance, Dance, Dance",The Levellers,What A Beautiful Day (Live at Berlin Lido),"the beach boys dance, dance, dance 1965",the levellers what a beautiful day (live at berlin lido) 2015,0.262,-1
+A4843,B9786,Regina Spektor,Better,Regina Spektor,Better,regina spektor better 2006,regina spektor better 2006,1.0,1
+A9151,B33917,Santigold,Unstoppable,Sarcotoxin,Inside Me,santigold unstoppable 2008,sarcotoxin inside me 2021,0.346,-1
+A5810,B43939,The Archies,"Sugar, Sugar",The Trammps,Winter Wonderland,"the archies sugar, sugar 1969",the trammps winter wonderland 2011,0.294,-1
+A3103,B12494,Jason Mraz,Coyotes,Jackson Dean,Heavens To Betsy,jason mraz coyotes 2008,jackson dean heavens to betsy 2024,0.412,-1
+A3737,B18014,Daryl Hall & John Oates,Did It In a Minute,David Rovics,Up the Provos,daryl hall & john oates did it in a minute 1981,david rovics up the provos 2011,0.234,-1
+A2052,B9785,Mat Kearney,Closer to Love,Matt Redman,We Are The Free (Live),mat kearney closer to love 2009,matt redman we are the free (live) 2020,0.385,-1
+A609,B47715,Rodney Atkins,Take a Back Road,Rome Streetz,Silent Murderers,rodney atkins take a back road 2011,rome streetz silent murderers 2021,0.343,-1
+A6734,B82939,Panic! At the Disco,One of the Drunks,Paul Anka,P.S. I Love You,panic! at the disco one of the drunks 2018,paul anka p.s. i love you 2019,0.357,-1
+A544,B45098,Panic! At the Disco,This Is Gospel,Patty Shukla,Doubles (Math Song),panic! at the disco this is gospel 2013,patty shukla doubles (math song) 2016,0.282,-1
+A8715,B71201,Luke Bryan,All My Friends Say,Luke Garrett,Praise the Lord (feat. Bethesda Community Choir),luke bryan all my friends say 2007,luke garrett praise the lord (feat. bethesda community choir) 2012,0.288,-1
+A3737,B66779,Daryl Hall & John Oates,Did It In a Minute,Dave Barker,Set Me Free,daryl hall & john oates did it in a minute 1981,dave barker set me free 1970,0.277,-1
+A9351,B91046,Mariah Carey,Vision of Love,Mantra para Dormir,Native Night River,mariah carey vision of love 1990,mantra para dormir native night river 2021,0.31,-1
+A6734,B37953,Panic! At the Disco,One of the Drunks,Paul Bateman,O Holy Night,panic! at the disco one of the drunks 2018,paul bateman o holy night 2020,0.286,-1
+A1079,B2388,New Boyz,Better With the Lights Off (feat. Chris Brown),New Model Army,If You Can't Save Me,new boyz better with the lights off (feat. chris brown) 2011,new model army if you can't save me 2002,0.283,-1
+A9275,B99786,Lin-Manuel Miranda,Almost Like Praying (feat. Artists for Puerto Rico),Lirico En La Casa,Marianela,lin-manuel miranda almost like praying (feat. artists for puerto rico) 2017,lirico en la casa marianela 2017,0.253,-1
+A3839,B78313,Daughtry,What About Now,Dave Burgess,That's What Lovers Do,daughtry what about now 2006,dave burgess that's what lovers do 2022,0.41,-1
+A5771,B21944,The Archies,"Sugar, Sugar",The Jacka,Losing It (feat. Ampichino),"the archies sugar, sugar 1969",the jacka losing it (feat. ampichino) 2014,0.238,-1
+A895,B80044,Madonna,Like a Prayer,MariSela,I'm No Angel (Original Ultra House Lounge Mix),madonna like a prayer 1989,marisela i'm no angel (original ultra house lounge mix) 2011,0.2,-1
+A3740,B70900,Daughtry,What About Now,Damn Nation,Set Me Off,daughtry what about now 2006,damn nation set me off 2019,0.25,-1
+A9351,B75168,Mariah Carey,Vision of Love,Makoto Matsushita,This Is All I Have For You (2020 Remaster) - This Is All I Have for You (2020 Remastered),mariah carey vision of love 1990,makoto matsushita this is all i have for you (2020 remaster) - this is all i have for you (2020 remastered) 2020,0.179,-1
+A6165,B9102,Kenny Chesney,What I Need to Do,Kenny Chesney,What I Need to Do,kenny chesney what i need to do 1999,kenny chesney what i need to do 1999,1.0,1
+A8951,B92945,Blake Shelton,I Need My Girl,Blind Blake,Police Dog Blues,blake shelton i need my girl 2014,blind blake police dog blues 2005,0.273,-1
+A5390,B93827,Cole Swindell,Get Up,Cole Swindell,Stereotype,cole swindell get up 2014,cole swindell stereotype 2022,0.655,0
+A8363,B73407,Keith Urban,Coming Home (feat. Julia Michaels),Keith Montrell,This Is the Day,keith urban coming home (feat. julia michaels) 2018,keith montrell this is the day 2021,0.314,-1
+A3103,B78879,Jason Mraz,Coyotes,Jaber,Praise (feat. Végh Janka),jason mraz coyotes 2008,jaber praise (feat. végh janka) 2024,0.278,-1
+A8604,B74953,Fetty Wap,D.A.M.,Ferlin Husky,Just Another Face,fetty wap d.a.m. 2015,ferlin husky just another face 2019,0.257,-1
+A5810,B6662,The Archies,"Sugar, Sugar",thquib,Dreams,"the archies sugar, sugar 1969",thquib dreams 2014,0.241,-1
+A2055,B82215,America,Sister Golden Hair,Ameritz Karaoke,Autumn Leaves (In the Style of Matt Monro) [Karaoke Version],america sister golden hair 1975,ameritz karaoke autumn leaves (in the style of matt monro) [karaoke version] 2013,0.222,-1
+A3806,B22053,Billy Idol,Rebel Yell,Billy Idol,Beyond Belief,billy idol rebel yell 1983,billy idol beyond belief 1986,0.655,0
+A544,B16698,Panic! At the Disco,This Is Gospel,Paul Baker,Cry Me a River,panic! at the disco this is gospel 2013,paul baker cry me a river 2017,0.308,-1
+A5810,B31281,The Archies,"Sugar, Sugar",The Madison Pres Paper Plane,Here I Am,"the archies sugar, sugar 1969",the madison pres paper plane here i am 2014,0.279,-1
+A54,B98465,Jason Derulo,Ridin' Solo,Jack Jezzro,Maiden's Prayer,jason derulo ridin' solo 2010,jack jezzro maiden's prayer 2023,0.406,-1
+A1966,B29511,Daryl Hall & John Oates,Out of Touch,Daryl Hall & John Oates,I'm Sorry,daryl hall & john oates out of touch 1984,daryl hall & john oates i'm sorry 2019,0.659,0
+A5220,B29540,Madonna,Like a Prayer,MAKTUB,Always and Forever (feat. Van Kwang Ok),madonna like a prayer 1989,maktub always and forever (feat. van kwang ok) 2014,0.196,-1
+A4654,B71574,Michelle Branch,Breathe,Michael Wong,Ending,michelle branch breathe 2003,michael wong ending 2001,0.429,-1
+A4455,B12840,Jelly Roll,Son Of A Sinner,Jens Johansson,On the Fritz,jelly roll son of a sinner 2021,jens johansson on the fritz 1996,0.312,-1
+A3963,B95553,Percy Sledge,When a Man Loves a Woman,Percy Sledge,When a Man Loves a Woman,percy sledge when a man loves a woman 1966,percy sledge when a man loves a woman 2015,0.905,1
+A7128,B63293,David Bowie,Modern Love,David Wise,Rescue a Bee,david bowie modern love 1983,david wise rescue a bee 2019,0.393,-1
+A6059,B37824,Madonna,Frozen,Madonna,Frozen,madonna frozen 1998,madonna frozen 2009,0.789,1
+A5200,B15556,Madonna,Like a Prayer,Madonna,Like a Prayer,madonna like a prayer 1989,madonna like a prayer 1989,1.0,1
+A4479,B66469,Chicago,We Can Last Forever,Chance The Rapper,Buried Alive,chicago we can last forever 1988,chance the rapper buried alive 2024,0.229,-1
+A3839,B27108,Daughtry,What About Now,David Arkenstone,Voices In The Wind,daughtry what about now 2006,david arkenstone voices in the wind 2014,0.25,-1
+A5954,B46281,Camila Cabello,Crying in the Club,Camila Cabello,Inside Out,camila cabello crying in the club 2017,camila cabello inside out 2018,0.658,0
+A2219,B33843,Billy Joel,And So It Goes,Billy Joel,And So It Goes,billy joel and so it goes 1989,billy joel and so it goes 1989,1.0,1
+A6948,B74322,Michelle Branch,Breathe,Michael Schenker Group,"Doctor Doctor (Live at the Budokan, Tokyo, 12 August 1981)",michelle branch breathe 2003,"michael schenker group doctor doctor (live at the budokan, tokyo, 12 august 1981) 1982",0.221,-1
+A2219,B83228,Billy Joel,And So It Goes,Big Daddy's Breakfast Voodoo,Looking for Gas,billy joel and so it goes 1989,big daddy's breakfast voodoo looking for gas 2020,0.286,-1
+A1961,B98039,Michael Jackson,I Just Can't Stop Loving You (feat. Siedah Garrett),Mike Garbo,Son of a Gun,michael jackson i just can't stop loving you (feat. siedah garrett) 1987,mike garbo son of a gun 2022,0.25,-1
+A895,B23838,Madonna,Like a Prayer,Mark Knopfler,So Far From The Clyde,madonna like a prayer 1989,mark knopfler so far from the clyde 2022,0.25,-1
+A3334,B37528,Metallica,The God That Failed,Metallica,The God That Failed,metallica the god that failed 1991,metallica the god that failed 1991,1.0,1
+A5810,B57286,The Archies,"Sugar, Sugar",The Side Eyes,Please Float Away,"the archies sugar, sugar 1969",the side eyes please float away 2017,0.306,-1
+A1478,B19924,Carrie Underwood,Little Toy Guns,Cade Thompson,Voices,carrie underwood little toy guns 2014,cade thompson voices 2021,0.297,-1
+A309,B73345,Rodney Atkins,Watching You,Rodney Atkins,Take A Back Road,rodney atkins watching you 2006,rodney atkins take a back road 2011,0.571,-1
+A2219,B5677,Billy Joel,And So It Goes,Bing Crosby,You're In Kentucky Sure As You're Born,billy joel and so it goes 1989,bing crosby you're in kentucky sure as you're born 2010,0.273,-1
+A1116,B79591,One Direction,What a Feeling,Onslaught,Bomber,one direction what a feeling 2015,onslaught bomber 2011,0.303,-1
+A4800,B51079,Paramore,Future,Paul Weller,I Walk On Gilded Splinters,paramore future 2013,paul weller i walk on gilded splinters 1995,0.233,-1
+A4315,B2751,Sia,Reaper,SiR,Better,sia reaper 2016,sir better 2018,0.667,0
+A3177,B4324,Rednex,Cotton Eye Joe,Reggie B,"Do You Wanna Ride (feat. B. Bravo, Salva, C-Note) (feat. B. Bravo, Salva & C-Note)",rednex cotton eye joe 1994,"reggie b do you wanna ride (feat. b. bravo, salva, c-note) (feat. b. bravo, salva & c-note) 2013",0.167,-1
+A5551,B59437,Jazmine Sullivan,Need U Bad,Jack Bruce,"Twenty Past Four (Live, BBC Radio Three, Jazz In Britain, 4 September 1978)",jazmine sullivan need u bad 2008,"jack bruce twenty past four (live, bbc radio three, jazz in britain, 4 september 1978) 2024",0.22,-1
+A4455,B67397,Jelly Roll,Son Of A Sinner,Jerry Lee Lewis,That's My Desire (extra verse),jelly roll son of a sinner 2021,jerry lee lewis that's my desire (extra verse) 1981,0.275,-1
+A9351,B66083,Mariah Carey,Vision of Love,Matthew Daddino,Battlefield of Death,mariah carey vision of love 1990,matthew daddino battlefield of death 2022,0.268,-1
+A2751,B22384,Mariah Carey,Always Be My Baby,Marián Oviedo,Simplemente Gracias,mariah carey always be my baby 1995,marián oviedo simplemente gracias 2020,0.263,-1
+A4315,B13023,Sia,Reaper,Silas Biglefthand,In the Morning We Sing,sia reaper 2016,silas biglefthand in the morning we sing 2014,0.267,-1
+A1723,B66691,Glen Hansard,Broken Hearted Hoover Fixer Sucker Guy,Global Karaoke,That's What Friends Are For (In the Style of Dionne Warwick) [Karaoke Backing Track],glen hansard broken hearted hoover fixer sucker guy 2007,global karaoke that's what friends are for (in the style of dionne warwick) [karaoke backing track] 2014,0.288,-1
+A4060,B85186,Jana Kramer,Why Ya Wanna,Jackopierce,Heroes,jana kramer why ya wanna 2012,jackopierce heroes 1991,0.241,-1
+A9859,B13200,Young the Giant,Islands,Young Buck,Like a Million,young the giant islands 2010,young buck like a million 2015,0.467,-1
+A3740,B97895,Daughtry,What About Now,Dark Mark,Murder in Fugue,daughtry what about now 2006,dark mark murder in fugue 2019,0.233,-1
+A4119,B67899,Childish Gambino,This Is America,Cheer Trax,United We Stand Short Cheer Edit 152 BPM,childish gambino this is america 2018,cheer trax united we stand short cheer edit 152 bpm 2003,0.268,-1
+A9166,B4626,Carrie Underwood,That's Where It Is,Cassandra Lucas,Say It,carrie underwood that's where it is 2005,cassandra lucas say it 2019,0.35,-1
+A9166,B44486,Carrie Underwood,That's Where It Is,Casket Cassette,Inside the Sphere,carrie underwood that's where it is 2005,casket cassette inside the sphere 2024,0.25,-1
+A1703,B45917,Pentatonix,Sleigh Ride,Pentatonix,Sleigh Ride,pentatonix sleigh ride 2014,pentatonix sleigh ride 2014,1.0,1
+A9166,B33507,Carrie Underwood,That's Where It Is,Caio Mesquita,Jingle Bell Rock,carrie underwood that's where it is 2005,caio mesquita jingle bell rock 2022,0.275,-1
+A2751,B21998,Mariah Carey,Always Be My Baby,Masa & Topher,Always On My Mind,mariah carey always be my baby 1995,masa & topher always on my mind 2015,0.5,-1
+A1057,B49154,Avenged Sevenfold,Almost Easy,Avscvltate,Bridge over Troubled Water,avenged sevenfold almost easy 2007,avscvltate bridge over troubled water 2015,0.238,-1
+A3839,B28050,Daughtry,What About Now,David Sylvian,Brightness Falls,daughtry what about now 2006,david sylvian brightness falls 1994,0.229,-1
+A8831,B40147,Trans-Siberian Orchestra,A Star to Follow,TripleS,Cherry Gene 'Baddest Mix',trans-siberian orchestra a star to follow 1996,triples cherry gene 'baddest mix' 2023,0.239,-1
+A5623,B14046,Bullet for My Valentine,Hearts Burst Into Fire,Buck Owens,I Know What It Means,bullet for my valentine hearts burst into fire 2008,buck owens i know what it means 2016,0.294,-1
+A6948,B82209,Michelle Branch,Breathe,Michelle Branch,You’re Good,michelle branch breathe 2003,michelle branch you’re good 2017,0.656,0
+A609,B31551,Rodney Atkins,Take a Back Road,Roberto Rodriguez (Manolo),Broken,rodney atkins take a back road 2011,roberto rodriguez (manolo) broken 2016,0.289,-1
+A6948,B9424,Michelle Branch,Breathe,Michelle Branch,Breathe,michelle branch breathe 2003,michelle branch breathe 2003,1.0,1
+A9275,B49560,Lin-Manuel Miranda,Almost Like Praying (feat. Artists for Puerto Rico),Like A Storm,Man in the Box,lin-manuel miranda almost like praying (feat. artists for puerto rico) 2017,like a storm man in the box 2022,0.267,-1
+A1547,B20215,David Guetta,Dangerous (feat. Sam Martin),David Guetta,Dangerous (feat. Sam Martin),david guetta dangerous (feat. sam martin) 2014,david guetta dangerous (feat. sam martin) 2014,1.0,1
+A5771,B76636,The Archies,"Sugar, Sugar",The Countdown Kids,"Praise Him, Praise Him All Ye Little Children","the archies sugar, sugar 1969","the countdown kids praise him, praise him all ye little children 2018",0.203,-1
+A5954,B33971,Camila Cabello,Crying in the Club,Catch One Baldie,No Way Jose,camila cabello crying in the club 2017,catch one baldie no way jose 2021,0.289,-1
+A2753,B12742,Marc Anthony,I Need to Know,Maximum Balloon,If You Return (feat. Little Dragon),marc anthony i need to know 1999,maximum balloon if you return (feat. little dragon) 2010,0.268,-1
+A3806,B44042,Billy Idol,Rebel Yell,BilinguaSing,Jingle Bells in French,billy idol rebel yell 1983,bilinguasing jingle bells in french 2021,0.275,-1
+A3839,B96318,Daughtry,What About Now,Dashdot,Loving Momma,daughtry what about now 2006,dashdot loving momma 2013,0.25,-1
+A3798,B79934,Tech N9ne,"Fragile (feat. Kendrick Lamar, ¡MAYDAY! & Kendall Morgan)",Terrell Grice,Livin' my Dream (Live),"tech n9ne fragile (feat. kendrick lamar, ¡mayday! & kendall morgan) 2013",terrell grice livin' my dream (live) 2020,0.292,-1
+A5220,B97706,Madonna,Like a Prayer,Massage Therapy Music,Claire De Lune (Debussy) Spa Music,madonna like a prayer 1989,massage therapy music claire de lune (debussy) spa music 2018,0.18,-1
+A5411,B86496,Cole Swindell,Get Up,Codeko,Bad At Being Alone,cole swindell get up 2014,codeko bad at being alone 2020,0.333,-1
+A5960,B63854,Disturbed,What Are You Waiting For,Disney Tribute Band,"Circle of Life (From ""The Lion King"") [Vocal Tribal Version]",disturbed what are you waiting for 2015,"disney tribute band circle of life (from ""the lion king"") [vocal tribal version] 2010",0.282,-1
+A7819,B61003,LINKIN PARK,Figure.09,Linkin Park,Figure.09,linkin park figure.09 2003,linkin park figure.09 2003,1.0,1
+A2185,B75298,Billy Joel,And So It Goes,Billie Holiday,"Lover, Come Back To Me (Take 3)",billy joel and so it goes 1989,"billie holiday lover, come back to me (take 3) 1997",0.353,-1
+A5031,B17496,Martina McBride,I Just Call You Mine,Manomurthy,I Love You,martina mcbride i just call you mine 2009,manomurthy i love you 2008,0.39,-1
+A4654,B99011,Michelle Branch,Breathe,Mighty Clouds Of Joy,What A Wonderful God,michelle branch breathe 2003,mighty clouds of joy what a wonderful god 2012,0.239,-1
+A5771,B35924,The Archies,"Sugar, Sugar",THE BLACK TANKS,Dragon Ball Z - Solid State Scouter -Xenoverse Cover Remaster-,"the archies sugar, sugar 1969",the black tanks dragon ball z - solid state scouter -xenoverse cover remaster- 2018,0.193,-1
+A6059,B15291,Madonna,Frozen,Martin Harley,Lonely With You,madonna frozen 1998,martin harley lonely with you 2005,0.206,-1
+A9118,B74050,The Beach Boys,"Dance, Dance, Dance",The Frank and Walters,This Is Not A Song,"the beach boys dance, dance, dance 1965",the frank and walters this is not a song 2006,0.267,-1
+A3963,B22332,Percy Sledge,When a Man Loves a Woman,Peter Plate,Mutter Brause (feat. David Jakobs & Ku'damm 56 Cast),percy sledge when a man loves a woman 1966,peter plate mutter brause (feat. david jakobs & ku'damm 56 cast) 2021,0.261,-1
+A9118,B50716,The Beach Boys,"Dance, Dance, Dance",The Brat,It's A Climb,"the beach boys dance, dance, dance 1965",the brat it's a climb 2017,0.333,-1
+A5771,B62772,The Archies,"Sugar, Sugar",The Gumbo Brothers,People Say,"the archies sugar, sugar 1969",the gumbo brothers people say 2007,0.294,-1
+A5623,B35226,Bullet for My Valentine,Hearts Burst Into Fire,Bull Moose Jackson,I Needed You,bullet for my valentine hearts burst into fire 2008,bull moose jackson i needed you 2012,0.294,-1
+A9118,B81589,The Beach Boys,"Dance, Dance, Dance",The Scottish Fiddle Orchestra,Spirit Of The Water,"the beach boys dance, dance, dance 1965",the scottish fiddle orchestra spirit of the water 2003,0.241,-1
+A5771,B51239,The Archies,"Sugar, Sugar",The Main Street Band and Orchestra,Circle Of Life,"the archies sugar, sugar 1969",the main street band and orchestra circle of life 2011,0.241,-1
+A4512,B61588,Band of Horses,Window Blues,Barrington Levy,Living Dangerously,band of horses window blues 2007,barrington levy living dangerously 2022,0.308,-1
+A2753,B20114,Marc Anthony,I Need to Know,Martyn,Broken (2024 Remaster),marc anthony i need to know 1999,martyn broken (2024 remaster) 2024,0.176,-1
+A2453,B99570,Foreigner,Urgent,Fondo de la lectura,Claire De Lune - Debussy - Ocean Waves - Classical Piano,foreigner urgent 1981,fondo de la lectura claire de lune - debussy - ocean waves - classical piano 2019,0.148,-1
+A5960,B74871,Disturbed,What Are You Waiting For,Diahann Carroll,I Wish I Were In Love Again (Live),disturbed what are you waiting for 2015,diahann carroll i wish i were in love again (live) 2004,0.309,-1
+A8618,B86680,Fetty Wap,Boomin,Fetty Wap,D.A.M.,fetty wap boomin 2015,fetty wap d.a.m. 2015,0.714,0
+A9275,B21511,Lin-Manuel Miranda,Almost Like Praying (feat. Artists for Puerto Rico),Lin-Manuel Miranda,Almost Like Praying (feat. Artists for Puerto Rico),lin-manuel miranda almost like praying (feat. artists for puerto rico) 2017,lin-manuel miranda almost like praying (feat. artists for puerto rico) 2017,1.0,1
+A7239,B4817,Mariah Carey,Vision of Love,Mary Carpenter,Little Boy Blue,mariah carey vision of love 1990,mary carpenter little boy blue 2012,0.371,-1
+A5575,B16502,Avenged Sevenfold,Almost Easy (Jam-Along Version),Aviram,All My Love's In Vain,avenged sevenfold almost easy (jam-along version) 2007,aviram all my love's in vain 2023,0.315,-1
+A9578,B44611,Sia,You're Never Fully Dressed Without a Smile (2014 Film Version),Sir Edward Elgar,Flower Of Scotland (Pipe Solo),sia you're never fully dressed without a smile (2014 film version) 2014,sir edward elgar flower of scotland (pipe solo) 2011,0.338,-1
+A9351,B86938,Mariah Carey,Vision of Love,Marcelo Moguilevsky,Tristeza,mariah carey vision of love 1990,marcelo moguilevsky tristeza 2005,0.182,-1
+A9578,B32505,Sia,You're Never Fully Dressed Without a Smile (2014 Film Version),SiPhunk,Beyond Faint,sia you're never fully dressed without a smile (2014 film version) 2014,siphunk beyond faint 2020,0.211,-1
+A2055,B14357,America,Sister Golden Hair,Amigo the Devil,Closer,america sister golden hair 1975,amigo the devil closer 2024,0.226,-1
+A1547,B63603,David Guetta,Dangerous (feat. Sam Martin),Danny Elfman,Princess And Abe,david guetta dangerous (feat. sam martin) 2014,danny elfman princess and abe 2024,0.326,-1
+A4479,B60217,Chicago,We Can Last Forever,Chicago,We Can Last Forever,chicago we can last forever 1988,chicago we can last forever 1988,1.0,1
+A5771,B86460,The Archies,"Sugar, Sugar",THE RUNAWAY WILD,Carrier Sunset Romance,"the archies sugar, sugar 1969",the runaway wild carrier sunset romance 2023,0.318,-1
+A2918,B11478,Carrie Underwood,I Know You Won't,Canzoni di Natale,Let It Snow,carrie underwood i know you won't 2007,canzoni di natale let it snow 2022,0.263,-1
+A2154,B48733,Meghan Trainor,What If I,Menace Monroe,Sorrow of My Og,meghan trainor what if i 2015,menace monroe sorrow of my og 2023,0.353,-1
+A2460,B31719,Santigold,L.E.S. Artistes,Sacramentum,Beyond All Horizons,santigold l.e.s. artistes 2008,sacramentum beyond all horizons 1996,0.222,-1
+A3963,B4963,Percy Sledge,When a Man Loves a Woman,Pete Wylie & The Mighty WAH!,I Know There Was Something,percy sledge when a man loves a woman 1966,pete wylie & the mighty wah! i know there was something 1982,0.35,-1
+A3839,B89789,Daughtry,What About Now,Daughtry,What About Now,daughtry what about now 2006,daughtry what about now 2006,1.0,1
+A7239,B23369,Mariah Carey,Vision of Love,Mark Prator,Out of Your League,mariah carey vision of love 1990,mark prator out of your league 1998,0.4,-1
+A6059,B11720,Madonna,Frozen,Mantra para Dormir,Better Time,madonna frozen 1998,mantra para dormir better time 2021,0.2,-1
+A8715,B2386,Luke Bryan,All My Friends Say,Luke Bryan,All My Friends Say,luke bryan all my friends say 2007,luke bryan all my friends say 2007,1.0,1
+A4119,B82944,Childish Gambino,This Is America,Christmas Lullaby Music Maestro,Joy to the World (Christmas Classics),childish gambino this is america 2018,christmas lullaby music maestro joy to the world (christmas classics) 2015,0.284,-1
+A2460,B1232,Santigold,L.E.S. Artistes,Sasha Sobhani,I Like That,santigold l.e.s. artistes 2008,sasha sobhani i like that 2019,0.2,-1
+A7239,B4642,Mariah Carey,Vision of Love,Mafis MusiQ,Family (Instrumental Version),mariah carey vision of love 1990,mafis musiq family (instrumental version) 2022,0.283,-1
+A9118,B78425,The Beach Boys,"Dance, Dance, Dance",The Hit Crew,Friday The 13th,"the beach boys dance, dance, dance 1965",the hit crew friday the 13th 2007,0.256,-1
+A609,B95092,Rodney Atkins,Take a Back Road,Robbie Rivera,Flying to Rio,rodney atkins take a back road 2011,robbie rivera flying to rio 2014,0.314,-1
+A3737,B12270,Daryl Hall & John Oates,Did It In a Minute,David Phelps,Little White Church,daryl hall & john oates did it in a minute 1981,david phelps little white church 2015,0.234,-1
+A3798,B54846,Tech N9ne,"Fragile (feat. Kendrick Lamar, ¡MAYDAY! & Kendall Morgan)",Text Tones,Static Bell Climb Sound Effects Tone,"tech n9ne fragile (feat. kendrick lamar, ¡mayday! & kendall morgan) 2013",text tones static bell climb sound effects tone 2013,0.347,-1
+A9859,B62647,Young the Giant,Islands,Young The Giant,Islands,young the giant islands 2010,young the giant islands 2010,1.0,1
+A5031,B97700,Martina McBride,I Just Call You Mine,Mad Cobra,Ghetto Youth,martina mcbride i just call you mine 2009,mad cobra ghetto youth 2021,0.341,-1
+A5810,B42205,The Archies,"Sugar, Sugar",The Source,The Golden Key,"the archies sugar, sugar 1969",the source the golden key 2008,0.233,-1
+A5771,B43125,The Archies,"Sugar, Sugar",Thunderstorm Sleep,Starry Skies Lightning,"the archies sugar, sugar 1969",thunderstorm sleep starry skies lightning 2021,0.261,-1
+A925,B36802,Miley Cyrus,Flowers,Mike Swift,Flowers,miley cyrus flowers 2023,mike swift flowers 2023,0.708,0
+A7239,B77476,Mariah Carey,Vision of Love,Mark Crozer and The Rels,Just Another Day,mariah carey vision of love 1990,mark crozer and the rels just another day 2018,0.239,-1
+A7239,B55688,Mariah Carey,Vision of Love,Mayara Dias,Fly Me To The Moon (Acústico),mariah carey vision of love 1990,mayara dias fly me to the moon (acústico) 2020,0.283,-1
+A2751,B77320,Mariah Carey,Always Be My Baby,Marc Copland,That's for Sure,mariah carey always be my baby 1995,marc copland that's for sure 2001,0.229,-1
+A54,B79709,Jason Derulo,Ridin' Solo,Jason Dy,Caught In That Feeling,jason derulo ridin' solo 2010,jason dy caught in that feeling 2015,0.417,-1
+A895,B52924,Madonna,Like a Prayer,Maxwell,Fingers Crossed,madonna like a prayer 1989,maxwell fingers crossed 2016,0.321,-1
+A925,B22754,Miley Cyrus,Flowers,Mickey Jupp,Coming Home (To Dust My Broom T the Crossroads) [Live],miley cyrus flowers 2023,mickey jupp coming home (to dust my broom t the crossroads) [live] 2013,0.239,-1
+A9166,B48299,Carrie Underwood,That's Where It Is,Carlos Ángel Carbonell,Lovely (feat. Carlos Ángel Valdés),carrie underwood that's where it is 2005,carlos ángel carbonell lovely (feat. carlos ángel valdés) 2019,0.306,-1
+A1894,B40572,Christina Aguilera,Dirrty (feat. Redman),Christmas Jazz Piano,Jingle Bells (The Christmas Song!),christina aguilera dirrty (feat. redman) 2002,christmas jazz piano jingle bells (the christmas song!) 2011,0.35,-1
+A4119,B69575,Childish Gambino,This Is America,Childish Gambino,This Is America,childish gambino this is america 2018,childish gambino this is america 2018,1.0,1
+A8604,B86489,Fetty Wap,D.A.M.,Femi Kuti,Missing Link (feat. Common),fetty wap d.a.m. 2015,femi kuti missing link (feat. common) 2001,0.262,-1
+A9275,B77810,Lin-Manuel Miranda,Almost Like Praying (feat. Artists for Puerto Rico),Little Baby Bum,"Johnny, Johnny. ¿Sí, Papá?",lin-manuel miranda almost like praying (feat. artists for puerto rico) 2017,"little baby bum johnny, johnny. ¿sí, papá? 2020",0.227,-1
+A9118,B63389,The Beach Boys,"Dance, Dance, Dance",The Feelies,I Heard Her Call My Name,"the beach boys dance, dance, dance 1965",the feelies i heard her call my name 2023,0.293,-1
+A9118,B9173,The Beach Boys,"Dance, Dance, Dance",The Nursery Rhymes,London Bridge Is Falling Down (Ukulele Version),"the beach boys dance, dance, dance 1965",the nursery rhymes london bridge is falling down (ukulele version) 2023,0.254,-1
+A5535,B92731,"Tyler, The Creator",Tamale,Tyrese,What Am I Gonna Do,"tyler, the creator tamale 2013",tyrese what am i gonna do 2001,0.3,-1
+A8177,B25222,Miranda Lambert,Use My Heart,Mike Dean,Me and Indian Joe,miranda lambert use my heart 2016,mike dean me and indian joe 2006,0.273,-1
+A4287,B40283,Alan Jackson,Little Bitty,Aldebert,Double papa,alan jackson little bitty 1996,aldebert double papa 2021,0.233,-1
+A2185,B19700,Billy Joel,And So It Goes,Bii 畢書盡,I Will Miss You,billy joel and so it goes 1989,bii 畢書盡 i will miss you 2016,0.233,-1
+A1303,B8602,Post Malone,Psycho (feat. Ty Dolla $ign),Post Malone,Psycho (feat. Ty Dolla $ign),post malone psycho (feat. ty dolla $ign) 2018,post malone psycho (feat. ty dolla $ign) 2018,1.0,1
+A5551,B91895,Jazmine Sullivan,Need U Bad,Jay Perez,Por un Amor,jazmine sullivan need u bad 2008,jay perez por un amor 2020,0.25,-1
+A4061,B65822,Taylor Swift,august,Taylor Swift,august,taylor swift august 2020,taylor swift august 2020,1.0,1
+A9351,B41313,Mariah Carey,Vision of Love,Mariah Carey,Vision of Love,mariah carey vision of love 1990,mariah carey vision of love 1990,1.0,1
+A5220,B88960,Madonna,Like a Prayer,Manu Dibango,Nature Boy,madonna like a prayer 1989,manu dibango nature boy 1983,0.321,-1
+A544,B38879,Panic! At the Disco,This Is Gospel,Pardison Fontaine,In The Field,panic! at the disco this is gospel 2013,pardison fontaine in the field 2017,0.333,-1
+A3103,B1636,Jason Mraz,Coyotes,Jasmine Cain,On the Edge,jason mraz coyotes 2008,jasmine cain on the edge 2011,0.379,-1
+A5220,B38207,Madonna,Like a Prayer,Matt Bukovski,Lightspeed,madonna like a prayer 1989,matt bukovski lightspeed 2021,0.207,-1
+A3103,B90615,Jason Mraz,Coyotes,James Horner,"Lament (includes ""A Spailpín A Rún"")",jason mraz coyotes 2008,"james horner lament (includes ""a spailpín a rún"") 1998",0.222,-1
+A5220,B6568,Madonna,Like a Prayer,Masha and the Bear,Monkey Around,madonna like a prayer 1989,masha and the bear monkey around 2023,0.27,-1
+A3963,B71334,Percy Sledge,When a Man Loves a Woman,Peter Nathanson,This Is Why,percy sledge when a man loves a woman 1966,peter nathanson this is why 2014,0.262,-1
+A1678,B23199,Toby Keith,Wish I Didn't Know Now,Tony Foster Jr. And Sid Carter,Coming With Me,toby keith wish i didn't know now 1993,tony foster jr. and sid carter coming with me 2020,0.28,-1
+A5771,B91567,The Archies,"Sugar, Sugar",The Laurie Berkner Band,Like A Seashell,"the archies sugar, sugar 1969",the laurie berkner band like a seashell 2015,0.25,-1
+A3177,B98893,Rednex,Cotton Eye Joe,Rednex,Cotton Eye Joe,rednex cotton eye joe 1994,rednex cotton eye joe 1994,1.0,1
+A1961,B60483,Michael Jackson,I Just Can't Stop Loving You (feat. Siedah Garrett),MidWest Jett,Changed Man,michael jackson i just can't stop loving you (feat. siedah garrett) 1987,midwest jett changed man 2020,0.222,-1
+A2753,B83938,Marc Anthony,I Need to Know,Madeline Juno,Borderline,marc anthony i need to know 1999,madeline juno borderline 2018,0.219,-1
+A5031,B92481,Martina McBride,I Just Call You Mine,Manuel Ignacio de Íñigo,"Hammerklavier Sonata: Piano Sonata No. 29 in B-Flat Major, Op. 106: IV. Largo...allegro - Fuga: Allegro Risoluto",martina mcbride i just call you mine 2009,"manuel ignacio de íñigo hammerklavier sonata: piano sonata no. 29 in b-flat major, op. 106: iv. largo...allegro - fuga: allegro risoluto 2017",0.17,-1
+A2219,B86247,Billy Joel,And So It Goes,Bird Sounds 2016,Nature Birds,billy joel and so it goes 1989,bird sounds 2016 nature birds 2021,0.235,-1
+A3839,B67115,Daughtry,What About Now,Dave Dudley,That's How Cold,daughtry what about now 2006,dave dudley that's how cold 2021,0.375,-1
+A2219,B57902,Billy Joel,And So It Goes,Bimartins,Guitarrada Pros Manos,billy joel and so it goes 1989,bimartins guitarrada pros manos 2020,0.222,-1
+A8618,B87056,Fetty Wap,Boomin,Fetty Wap,Boomin,fetty wap boomin 2015,fetty wap boomin 2015,1.0,1
+A3806,B58113,Billy Idol,Rebel Yell,Billie Marten,Orange Tree,billy idol rebel yell 1983,billie marten orange tree 2020,0.3,-1
+A3839,B35757,Daughtry,What About Now,Darius Razon,Silent Night,daughtry what about now 2006,darius razon silent night 1971,0.2,-1
+A7271,B52774,Blake Shelton,I Lived It,Blake Shelton,I Lived It,blake shelton i lived it 2017,blake shelton i lived it 2017,1.0,1
+A5031,B2791,Martina McBride,I Just Call You Mine,Martin Ermen,Let It Be,martina mcbride i just call you mine 2009,martin ermen let it be 2017,0.415,-1
+A9351,B8547,Mariah Carey,Vision of Love,Marvin Gaye,You're All I Need To Get By,mariah carey vision of love 1990,marvin gaye you're all i need to get by 2000,0.341,-1
+A4119,B46544,Childish Gambino,This Is America,Chuck Berry,School Day,childish gambino this is america 2018,chuck berry school day 2014,0.27,-1
+A7239,B13165,Mariah Carey,Vision of Love,Martha Reeves & The Vandellas,I Want You Back,mariah carey vision of love 1990,martha reeves & the vandellas i want you back 2008,0.28,-1
+A3334,B38084,Metallica,The God That Failed,Merle Haggard,In The Good Old Days (When Times Were Bad),metallica the god that failed 1991,merle haggard in the good old days (when times were bad) 2001,0.311,-1
+A4512,B25464,Band of Horses,Window Blues,Baby D,Let Me Be Your Fantasy (J Majik & Wickaman Remix),band of horses window blues 2007,baby d let me be your fantasy (j majik & wickaman remix) 2022,0.246,-1
+A1250,B33845,Michael Jackson,Man In the Mirror,Michael Jackson,Man in the Mirror (2003 Edit),michael jackson man in the mirror 1987,michael jackson man in the mirror (2003 edit) 2003,0.68,0
+A5220,B21872,Madonna,Like a Prayer,Manatee Commune,Simple Lessons,madonna like a prayer 1989,manatee commune simple lessons 2016,0.229,-1
+A3103,B35289,Jason Mraz,Coyotes,James Griffiths,"No Way, Not Again!",jason mraz coyotes 2008,"james griffiths no way, not again! 2017",0.308,-1
+A5623,B88776,Bullet for My Valentine,Hearts Burst Into Fire,Bullet For My Valentine,Hearts Burst into Fire,bullet for my valentine hearts burst into fire 2008,bullet for my valentine hearts burst into fire 2008,1.0,1
+A544,B33505,Panic! At the Disco,This Is Gospel,Park Juyong,Man in the Wind (Instrumental),panic! at the disco this is gospel 2013,park juyong man in the wind (instrumental) 2003,0.319,-1
+A3737,B21191,Daryl Hall & John Oates,Did It In a Minute,David Andrew,Oceans (Where Feet May Fail) (Upright Piano),daryl hall & john oates did it in a minute 1981,david andrew oceans (where feet may fail) (upright piano) 2023,0.242,-1
+A6734,B61172,Panic! At the Disco,One of the Drunks,Pachelbel Chamber Orchestra,"Guitar Concerto D Major, RV 93: II. Largo",panic! at the disco one of the drunks 2018,"pachelbel chamber orchestra guitar concerto d major, rv 93: ii. largo 2008",0.284,-1
+A2052,B80434,Mat Kearney,Closer to Love,Marc Anthony,That's Okay,mat kearney closer to love 2009,marc anthony that's okay 1999,0.258,-1
+A1894,B11999,Christina Aguilera,Dirrty (feat. Redman),Christmas Peaceful Piano,"You're A Mean One, Mr. Grinch",christina aguilera dirrty (feat. redman) 2002,"christmas peaceful piano you're a mean one, mr. grinch 2021",0.339,-1
+A9151,B13430,Santigold,Unstoppable,Saxity,In the Name of Love,santigold unstoppable 2008,saxity in the name of love 2018,0.355,-1
+A4130,B65785,Bring Me The Horizon,Throne,Bring Me the Horizon,Throne,bring me the horizon throne 2015,bring me the horizon throne 2015,1.0,1
+A5771,B46367,The Archies,"Sugar, Sugar",The Wonder Kids,Double-Edged Sword (Hebrews 4:12),"the archies sugar, sugar 1969",the wonder kids double-edged sword (hebrews 4:12) 2011,0.278,-1
+A9275,B45589,Lin-Manuel Miranda,Almost Like Praying (feat. Artists for Puerto Rico),Lil C,Holdin' In The South,lin-manuel miranda almost like praying (feat. artists for puerto rico) 2017,lil c holdin' in the south 2008,0.267,-1
+A4516,B61640,Vampire Weekend,Hudson,Vampire Weekend,Hudson,vampire weekend hudson 2013,vampire weekend hudson 2013,1.0,1
+A3815,B3244,Tech N9ne,"Fragile (feat. Kendrick Lamar, ¡MAYDAY! & Kendall Morgan)",Tenille Arts,Summer Don't Go,"tech n9ne fragile (feat. kendrick lamar, ¡mayday! & kendall morgan) 2013",tenille arts summer don't go 2024,0.25,-1
+A7239,B70424,Mariah Carey,Vision of Love,Mad Professor,Maniacal Dub,mariah carey vision of love 1990,mad professor maniacal dub 1993,0.25,-1
+A5390,B94093,Cole Swindell,Get Up,Comando Único,Alfredo Beltran (En vivo),cole swindell get up 2014,comando único alfredo beltran (en vivo) 2022,0.295,-1
+A4061,B37724,Taylor Swift,august,Tab Benoit,Voodoo On The Bayou,taylor swift august 2020,tab benoit voodoo on the bayou 2006,0.257,-1
+A5411,B71041,Cole Swindell,Get Up,Cole Swindell,Get Up,cole swindell get up 2014,cole swindell get up 2014,1.0,1
+A5954,B99374,Camila Cabello,Crying in the Club,Canciones De Cuna Para Dormir,Humpty Dumpty sentado en una pared (acústica instrumental),camila cabello crying in the club 2017,canciones de cuna para dormir humpty dumpty sentado en una pared (acústica instrumental) 2022,0.215,-1
+A2055,B56535,America,Sister Golden Hair,Amen,Please Kill Me,america sister golden hair 1975,amen please kill me 2004,0.29,-1
+A4119,B47085,Childish Gambino,This Is America,Cheer Trax,It's a Wonderful World (Fast Version),childish gambino this is america 2018,cheer trax it's a wonderful world (fast version) 2021,0.264,-1
+A5810,B23456,The Archies,"Sugar, Sugar",The Underdawgs,I Love You,"the archies sugar, sugar 1969",the underdawgs i love you 2018,0.233,-1
+A3740,B66695,Daughtry,What About Now,David Bowie,Looking For Lester (2021 Remaster),daughtry what about now 2006,david bowie looking for lester (2021 remaster) 1993,0.157,-1
+A9501,B33951,Jeremy Soule,Dragonborn,Jessica Simpson,I Have Loved You,jeremy soule dragonborn 2011,jessica simpson i have loved you 2003,0.27,-1
+A5220,B15556,Madonna,Like a Prayer,Madonna,Like a Prayer,madonna like a prayer 1989,madonna like a prayer 1989,1.0,1
+A7239,B41313,Mariah Carey,Vision of Love,Mariah Carey,Vision of Love,mariah carey vision of love 1990,mariah carey vision of love 1990,1.0,1
+A2920,B68653,Stone Sour,Bother,Steve Hogarty,Havana Sunset,stone sour bother 2002,steve hogarty havana sunset 2013,0.344,-1
+A2918,B88266,Carrie Underwood,I Know You Won't,Carmel McCourt,Lament,carrie underwood i know you won't 2007,carmel mccourt lament 2021,0.289,-1
+A5390,B69911,Cole Swindell,Get Up,Conway Twitty,Johnny B Goode,cole swindell get up 2014,conway twitty johnny b goode 2022,0.303,-1
+A9118,B37605,The Beach Boys,"Dance, Dance, Dance",The Soul Of R&B Revue,Silent Night,"the beach boys dance, dance, dance 1965",the soul of r&b revue silent night 2009,0.205,-1
+A5411,B2558,Cole Swindell,Get Up,Covers Culture,"You're Gonna Go Far, Kid",cole swindell get up 2014,"covers culture you're gonna go far, kid 2022",0.273,-1
+A3103,B64498,Jason Mraz,Coyotes,James Brown,"Please, Please, Please",jason mraz coyotes 2008,"james brown please, please, please 2018",0.359,-1
+A1894,B70376,Christina Aguilera,Dirrty (feat. Redman),Chicago,Chains (2009 Remaster),christina aguilera dirrty (feat. redman) 2002,chicago chains (2009 remaster) 2016,0.333,-1
+A2918,B54493,Carrie Underwood,I Know You Won't,Camel,Please Come Home (NEW Remixed 2023),carrie underwood i know you won't 2007,camel please come home (new remixed 2023) 1981,0.239,-1
+A1894,B94133,Christina Aguilera,Dirrty (feat. Redman),Chris Norman,"Lament for James Moray of Abercarney (feat. Robin Bullock, Ann Marie Morgan & Pete Sutherland)",christina aguilera dirrty (feat. redman) 2002,"chris norman lament for james moray of abercarney (feat. robin bullock, ann marie morgan & pete sutherland) 1988",0.268,-1
+A6944,B24449,Leona Lewis,Here I Am,Leona Lewis,Here I Am,leona lewis here i am 2007,leona lewis here i am 2007,1.0,1
+A3202,B98893,Rednex,Cotton Eye Joe,Rednex,Cotton Eye Joe,rednex cotton eye joe 1994,rednex cotton eye joe 1994,1.0,1
+A2920,B22844,Stone Sour,Bother,Steve Spacek,Follow Me (Acapella),stone sour bother 2002,steve spacek follow me (acapella) 2016,0.289,-1
+A1961,B92927,Michael Jackson,I Just Can't Stop Loving You (feat. Siedah Garrett),Mirian Cunha,Lamento,michael jackson i just can't stop loving you (feat. siedah garrett) 1987,mirian cunha lamento 2021,0.181,-1
+A5220,B21278,Madonna,Like a Prayer,Marcos & Belutti,I Love You,madonna like a prayer 1989,marcos & belutti i love you 2014,0.281,-1
+A6313,B61627,TOOL,Pneuma,Tom Kitt,Finale,tool pneuma 2019,tom kitt finale 2003,0.3,-1
+A1961,B26527,Michael Jackson,I Just Can't Stop Loving You (feat. Siedah Garrett),Michael Jackson,I Just Can't Stop Loving You (feat. Siedah Garrett),michael jackson i just can't stop loving you (feat. siedah garrett) 1987,michael jackson i just can't stop loving you (feat. siedah garrett) 1987,1.0,1
+A3334,B90894,Metallica,The God That Failed,Merle Haggard,Seeing Eye Dog (24-Bit Digitally Remastered),metallica the god that failed 1991,merle haggard seeing eye dog (24-bit digitally remastered) 2006,0.254,-1
+A9714,B65785,Bring Me The Horizon,Doomed,Bring Me the Horizon,Throne,bring me the horizon doomed 2015,bring me the horizon throne 2015,0.844,1
+A8618,B15022,Fetty Wap,Boomin,Felix da Housecat,Little Bloo,fetty wap boomin 2015,felix da housecat little bloo 1995,0.265,-1
+A2055,B53311,America,Sister Golden Hair,Amber Leigh Irish,Skinny Love (Acoustic),america sister golden hair 1975,amber leigh irish skinny love (acoustic) 2018,0.289,-1
+A5771,B7072,The Archies,"Sugar, Sugar",The Kiboomers,If You're Happy and You Know It (Instrumental),"the archies sugar, sugar 1969",the kiboomers if you're happy and you know it (instrumental) 2017,0.215,-1
+A8831,B56572,Trans-Siberian Orchestra,A Star to Follow,Trevor Alan Gomes,Battle! Gym Leader,trans-siberian orchestra a star to follow 1996,trevor alan gomes battle! gym leader 2017,0.217,-1
+A9166,B57137,Carrie Underwood,That's Where It Is,Caroline Byrne,Wish I Didn’t Miss You,carrie underwood that's where it is 2005,caroline byrne wish i didn’t miss you 2023,0.262,-1
+A3839,B49665,Daughtry,What About Now,Dag,Lovely Jane,daughtry what about now 2006,dag lovely jane 1994,0.214,-1
+A1678,B56548,Toby Keith,Wish I Didn't Know Now,Toby Keith,Wish I Didn't Know Now,toby keith wish i didn't know now 1993,toby keith wish i didn't know now 1993,1.0,1
+A2753,B41188,Marc Anthony,I Need to Know,Maes,Street,marc anthony i need to know 1999,maes street 2020,0.25,-1
+A309,B74076,Rodney Atkins,Watching You,Robbie Rivera,Escape (Karim Mika Remix),rodney atkins watching you 2006,robbie rivera escape (karim mika remix) 2006,0.295,-1
+A9351,B74824,Mariah Carey,Vision of Love,Marillion,Bitter Suite: Brief Encounter / Lost Weekend / Blue Angel / Misplaced Rendezvous / Windswept Thumb,mariah carey vision of love 1990,marillion bitter suite: brief encounter / lost weekend / blue angel / misplaced rendezvous / windswept thumb 2017,0.168,-1
+A8715,B84430,Luke Bryan,All My Friends Say,Lucky Uke,What About Love,luke bryan all my friends say 2007,lucky uke what about love 2012,0.235,-1
+A5588,B88776,Bullet for My Valentine,Hearts Burst Into Fire,Bullet For My Valentine,Hearts Burst into Fire,bullet for my valentine hearts burst into fire 2008,bullet for my valentine hearts burst into fire 2008,1.0,1
+A9501,B22583,Jeremy Soule,Dragonborn,Jessi Uribe,Simplemente Amigos (En Vivo Desde España),jeremy soule dragonborn 2011,jessi uribe simplemente amigos (en vivo desde españa) 2023,0.259,-1
+A309,B98289,Rodney Atkins,Watching You,Ronny K.,Heroes & Victims (SaveDonbassPeople),rodney atkins watching you 2006,ronny k. heroes & victims (savedonbasspeople) 2014,0.28,-1
+A5771,B61282,The Archies,"Sugar, Sugar",The Jayhawks,Fingernail Moon,"the archies sugar, sugar 1969",the jayhawks fingernail moon 1989,0.394,-1
+A1547,B39062,David Guetta,Dangerous (feat. Sam Martin),Dalú,The Goodbye Kiss,david guetta dangerous (feat. sam martin) 2014,dalú the goodbye kiss 2019,0.304,-1
+A6944,B2316,Leona Lewis,Here I Am,Lee Isaacs,Eye of the Storm,leona lewis here i am 2007,lee isaacs eye of the storm 2024,0.344,-1
+A925,B64604,Miley Cyrus,Flowers,Middle of the Road,Samson And Delilah,miley cyrus flowers 2023,middle of the road samson and delilah 2002,0.286,-1
+A4512,B62973,Band of Horses,Window Blues,Band Of Horses,Window Blues,band of horses window blues 2007,band of horses window blues 2007,1.0,1
+A1478,B59919,Carrie Underwood,Little Toy Guns,Canned Heat,On The Road Again (Remastered 2005),carrie underwood little toy guns 2014,canned heat on the road again (remastered 2005) 2005,0.308,-1
+A4479,B83601,Chicago,We Can Last Forever,Chris Spheeris,Lovers and Friends,chicago we can last forever 1988,chris spheeris lovers and friends 1994,0.316,-1
+A7239,B66973,Mariah Carey,Vision of Love,Martine Girault,I Wish,mariah carey vision of love 1990,martine girault i wish 2012,0.25,-1
+A8618,B96596,Fetty Wap,Boomin,Felicia Michaels,Things I Hate,fetty wap boomin 2015,felicia michaels things i hate 2000,0.257,-1
+A1894,B82651,Christina Aguilera,Dirrty (feat. Redman),Christina Aguilera,Dirrty (feat. Redman),christina aguilera dirrty (feat. redman) 2002,christina aguilera dirrty (feat. redman) 2002,1.0,1
+A3678,B93684,Big Time Rush,Windows Down,Bill Harley,Things Will Look Better in the Morning,big time rush windows down 2012,bill harley things will look better in the morning 1997,0.236,-1
+A5200,B9672,Madonna,Like a Prayer,Max Bygraves,You're A Pink Tooth-Brush,madonna like a prayer 1989,max bygraves you're a pink tooth-brush 2020,0.256,-1
+A5220,B76567,Madonna,Like a Prayer,Mahalia Jackson,That's What He's Done for Me,madonna like a prayer 1989,mahalia jackson that's what he's done for me 2022,0.245,-1
+A5551,B76672,Jazmine Sullivan,Need U Bad,James Last,Doctorin' The Tardis,jazmine sullivan need u bad 2008,james last doctorin' the tardis 1988,0.25,-1
+A5200,B32541,Madonna,Like a Prayer,Matt Monro,I Will Wait For You,madonna like a prayer 1989,matt monro i will wait for you 2003,0.343,-1
+A3177,B46058,Rednex,Cotton Eye Joe,Reid Willis,Asleep in a Moonbeam,rednex cotton eye joe 1994,reid willis asleep in a moonbeam 2012,0.243,-1
+A2052,B19116,Mat Kearney,Closer to Love,Maxi Trusso,Let Me Know,mat kearney closer to love 2009,maxi trusso let me know 2014,0.323,-1
+A5771,B23913,The Archies,"Sugar, Sugar",The Hit Crew,End of the Road (Instrumental Version),"the archies sugar, sugar 1969",the hit crew end of the road (instrumental version) 2012,0.25,-1
+A4843,B42566,Regina Spektor,Better,Relaxing Piano Music,Shadows and Light,regina spektor better 2006,relaxing piano music shadows and light 2019,0.279,-1
+A5771,B80856,The Archies,"Sugar, Sugar",The Power And The Glory,"Gloria in D Major, RV 589: III. Laudamus te (feat. Lucia Valentini Terrani & Teresa Berganza)","the archies sugar, sugar 1969","the power and the glory gloria in d major, rv 589: iii. laudamus te (feat. lucia valentini terrani & teresa berganza) 2007",0.139,-1
+A2753,B36254,Marc Anthony,I Need to Know,Marc Anthony,I Need to Know,marc anthony i need to know 1999,marc anthony i need to know 1999,1.0,1
+A9501,B45078,Jeremy Soule,Dragonborn,Jeremy Soule,Dragonborn,jeremy soule dragonborn 2011,jeremy soule dragonborn 2011,1.0,1
+A7037,B4754,Blackmill,Let It Be (feat. Veela),Blackmill,Let It Be (feat. Veela),blackmill let it be (feat. veela) 2011,blackmill let it be (feat. veela) 2011,1.0,1
+A8161,B99876,Pentatonix,Sleigh Ride,Pete Scobell Band,Hearts I Leave Behind,pentatonix sleigh ride 2014,pete scobell band hearts i leave behind 2015,0.295,-1
+A3737,B84265,Daryl Hall & John Oates,Did It In a Minute,Daniel Epps-Benn,Yahweh,daryl hall & john oates did it in a minute 1981,daniel epps-benn yahweh 2023,0.17,-1
+A5200,B72336,Madonna,Like a Prayer,Macy Gray,Bubbly (feat. Idris Elba),madonna like a prayer 1989,macy gray bubbly (feat. idris elba) 2012,0.25,-1
+A6059,B87593,Madonna,Frozen,Martin Fido,Murder After Midnight: Luciani And Calvi,madonna frozen 1998,martin fido murder after midnight: luciani and calvi 2015,0.158,-1
+A2753,B80434,Marc Anthony,I Need to Know,Marc Anthony,That's Okay,marc anthony i need to know 1999,marc anthony that's okay 1999,0.656,0
+A9118,B37586,The Beach Boys,"Dance, Dance, Dance",The Drifters,Winter Wonderland,"the beach boys dance, dance, dance 1965",the drifters winter wonderland 2010,0.359,-1
+A54,B95237,Jason Derulo,Ridin' Solo,James Horner,"Marianelli: Stars and Butterflies (From ""Pride & Prejudice"" Soundtrack)",jason derulo ridin' solo 2010,"james horner marianelli: stars and butterflies (from ""pride & prejudice"" soundtrack) 2021",0.247,-1
+A6286,B62801,Newcleus,Jam On It,Neon Trees,Nights,newcleus jam on it 1984,neon trees nights 2020,0.174,-1
+A6059,B51562,Madonna,Frozen,MacLaren's Bar House Band,Kokomo,madonna frozen 1998,maclaren's bar house band kokomo 2014,0.243,-1
+A1026,B43823,Ed Sheeran,Eraser,Eddie Cochran,My Way (Take 4),ed sheeran eraser 2017,eddie cochran my way (take 4) 2020,0.353,-1
+A80,B43713,Michael Jackson,Man In the Mirror,Misho,Hidden Circle,michael jackson man in the mirror 1987,misho hidden circle 2013,0.263,-1
+A5220,B81625,Madonna,Like a Prayer,Marc Hartman,Mirror of Love,madonna like a prayer 1989,marc hartman mirror of love 2017,0.219,-1
+A3839,B71117,Daughtry,What About Now,Dave Davis,Looking for Dub,daughtry what about now 2006,dave davis looking for dub 2013,0.226,-1
+A3789,B73232,Billy Idol,Rebel Yell,Billo's Caracas Boys  ,No Hay Que Dejarse Ilusionar,billy idol rebel yell 1983,billo's caracas boys   no hay que dejarse ilusionar 2016,0.232,-1
+A589,B25804,Rodney Atkins,Take a Back Road,Roger Shah,Higher Than the Sun (High Noon At Salinas Remix),rodney atkins take a back road 2011,roger shah higher than the sun (high noon at salinas remix) 2017,0.297,-1
+A6059,B52696,Madonna,Frozen,Marvin Gaye,Memory Chest (Previously Unreleased),madonna frozen 1998,marvin gaye memory chest (previously unreleased) 2001,0.17,-1
+A3789,B67791,Billy Idol,Rebel Yell,Billie Holiday,Now Or Never (Single Version) (feat. Sy Oliver & His Orchestra),billy idol rebel yell 1983,billie holiday now or never (single version) (feat. sy oliver & his orchestra) 1991,0.229,-1
+A4819,B9596,Paramore,Future,Patty Shukla,I Like to Dance,paramore future 2013,patty shukla i like to dance 2015,0.303,-1
+A3334,B80420,Metallica,The God That Failed,menace Santana,This Is The Future,metallica the god that failed 1991,menace santana this is the future 2024,0.316,-1
+A3103,B31697,Jason Mraz,Coyotes,Jake Holmes,Always the Same,jason mraz coyotes 2008,jake holmes always the same 2001,0.344,-1
+A8598,B86680,Fetty Wap,Boomin,Fetty Wap,D.A.M.,fetty wap boomin 2015,fetty wap d.a.m. 2015,0.714,0
+A5810,B74685,The Archies,"Sugar, Sugar",The Beau Brummels,That's Alright,"the archies sugar, sugar 1969",the beau brummels that's alright 2022,0.324,-1
+A4061,B65254,Taylor Swift,august,Tarja Turunen,I Walk Alone (The Tweaker Remix),taylor swift august 2020,tarja turunen i walk alone (the tweaker remix) 2007,0.216,-1
+A5771,B66611,The Archies,"Sugar, Sugar",The Beach Boys,Getcha Back (Live/2012),"the archies sugar, sugar 1969",the beach boys getcha back (live/2012) 2013,0.256,-1
+A5200,B84512,Madonna,Like a Prayer,Manuel Grandi,Around the World (JL Club Mix),madonna like a prayer 1989,manuel grandi around the world (jl club mix) 0,0.196,-1
+A1678,B73804,Toby Keith,Wish I Didn't Know Now,Tony Rice,I'm Not Sayin',toby keith wish i didn't know now 1993,tony rice i'm not sayin' 1996,0.421,-1
+A6313,B69018,TOOL,Pneuma,Toehider,This Is Going To Get Worse Before It Gets Better,tool pneuma 2019,toehider this is going to get worse before it gets better 2012,0.145,-1
+A2751,B31389,Mariah Carey,Always Be My Baby,Mariah Carey,Always Be My Baby,mariah carey always be my baby 1995,mariah carey always be my baby 1998,0.971,1
+A9118,B56809,The Beach Boys,"Dance, Dance, Dance",The Worship Crew,Living Water,"the beach boys dance, dance, dance 1965",the worship crew living water 2011,0.282,-1
+A2052,B13937,Mat Kearney,Closer to Love,MarsBarz,Take a Trip,mat kearney closer to love 2009,marsbarz take a trip 2018,0.355,-1
+A1894,B78185,Christina Aguilera,Dirrty (feat. Redman),Chunk,This Is How It's Done,christina aguilera dirrty (feat. redman) 2002,chunk this is how it's done 2008,0.311,-1
+A9118,B52316,The Beach Boys,"Dance, Dance, Dance",TheDavisD,Memory,"the beach boys dance, dance, dance 1965",thedavisd memory 2022,0.231,-1
+A5220,B45759,Madonna,Like a Prayer,Maranatha! Music,I Need You/Create In Me (Medley),madonna like a prayer 1989,maranatha! music i need you/create in me (medley) 1999,0.278,-1
+A5535,B16194,"Tyler, The Creator",Tamale,Tyna,Little Piggy Salome,"tyler, the creator tamale 2013",tyna little piggy salome 2013,0.4,-1
+A6286,B98647,Newcleus,Jam On It,Nettie Smith,What Are We?,newcleus jam on it 1984,nettie smith what are we? 2017,0.3,-1
+A7037,B52415,Blackmill,Let It Be (feat. Veela),BLXST,To The Moon,blackmill let it be (feat. veela) 2011,blxst to the moon 2024,0.289,-1
+A1478,B87678,Carrie Underwood,Little Toy Guns,CAEVO,Outlaws All-Stars 8-Count Track 2021,carrie underwood little toy guns 2014,caevo outlaws all-stars 8-count track 2021 2021,0.255,-1
+A5623,B91958,Bullet for My Valentine,Hearts Burst Into Fire,Buzzcocks,Get On Your Own (Live),bullet for my valentine hearts burst into fire 2008,buzzcocks get on your own (live) 2021,0.275,-1
+A7271,B26662,Blake Shelton,I Lived It,Blackbird Angels,Coming In Hot,blake shelton i lived it 2017,blackbird angels coming in hot 2023,0.343,-1
+A5810,B24018,The Archies,"Sugar, Sugar",The Church of Jesus Christ Pacific Area,I Will Go and Do - O Le A Ou Alu ma Fai - Samoan,"the archies sugar, sugar 1969",the church of jesus christ pacific area i will go and do - o le a ou alu ma fai - samoan 2023,0.183,-1
+A1250,B87942,Michael Jackson,Man In the Mirror,Mischief Brew,Dallas In Romania,michael jackson man in the mirror 1987,mischief brew dallas in romania 2011,0.316,-1
+A4119,B26182,Childish Gambino,This Is America,Chris Call,I Feel It Coming (Spa Version),childish gambino this is america 2018,chris call i feel it coming (spa version) 2017,0.37,-1
+A3963,B88330,Percy Sledge,When a Man Loves a Woman,Percy Sledge,When a Man Loves a Woman,percy sledge when a man loves a woman 1966,percy sledge when a man loves a woman 2008,0.905,1
+A2753,B75332,Marc Anthony,I Need to Know,Marv,Jungle book,marc anthony i need to know 1999,marv jungle book 2024,0.312,-1
+A7271,B80037,Blake Shelton,I Lived It,Blake Mills,Mirror Box,blake shelton i lived it 2017,blake mills mirror box 2020,0.379,-1
+A5810,B71737,The Archies,"Sugar, Sugar",The Looney Tunes,"Just As Long As I Got You, II (Break Boys Remix)","the archies sugar, sugar 1969","the looney tunes just as long as i got you, ii (break boys remix) 2007",0.214,-1
+A54,B48768,Jason Derulo,Ridin' Solo,JaxxMartin,In The Hall Of The Mountain King,jason derulo ridin' solo 2010,jaxxmartin in the hall of the mountain king 2022,0.271,-1
+A7241,B88965,Fetty Wap,Couple Bands,Fetty Wap,Couple Bands,fetty wap couple bands 2015,fetty wap couple bands 2015,1.0,1
+A8604,B86680,Fetty Wap,D.A.M.,Fetty Wap,D.A.M.,fetty wap d.a.m. 2015,fetty wap d.a.m. 2015,1.0,1
+A8889,B30901,SZA,Broken Clocks,SZA,Broken Clocks,sza broken clocks 2017,sza broken clocks 2017,1.0,1
+A9578,B46411,Sia,You're Never Fully Dressed Without a Smile (2014 Film Version),Simply Red,"All or Nothing at All (Live at Ziggo Dome, Amsterdam)",sia you're never fully dressed without a smile (2014 film version) 2014,"simply red all or nothing at all (live at ziggo dome, amsterdam) 2018",0.239,-1
+A1723,B23842,Glen Hansard,Broken Hearted Hoover Fixer Sucker Guy,Glen Hansard,Broken Hearted Hoover Fixer Sucker Guy,glen hansard broken hearted hoover fixer sucker guy 2007,glen hansard broken hearted hoover fixer sucker guy 2007,1.0,1
