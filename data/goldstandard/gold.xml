@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songs>
+  <song>
+    <id>A6313</id>
+    <Artist>TOOL</Artist>
+    <Track>Pneuma</Track>
+    <Album>Fear Inoculum</Album>
+    <Track_Explicitness>notExplicit</Track_Explicitness>
+    <Album_Year>2019</Album_Year>
+    <Genre></Genre>
+    <Duration>713192</Duration>
+    <Danceability></Danceability>
+    <Energy></Energy>
+    <Key></Key>
+    <Loudness></Loudness>
+    <Speechiness></Speechiness>
+    <Acousticness></Acousticness>
+    <Instrumentalness></Instrumentalness>
+    <Liveness></Liveness>
+    <Valence></Valence>
+    <Tempo></Tempo>
+  </song>
+  <song>
+    <id>A7239</id>
+    <Artist>Mariah Carey</Artist>
+    <Track>Vision of Love</Track>
+    <Album>Greatest Hits</Album>
+    <Track_Explicitness>notExplicit</Track_Explicitness>
+    <Album_Year>1990</Album_Year>
+    <Genre></Genre>
+    <Duration>209733</Duration>
+    <Danceability></Danceability>
+    <Energy></Energy>
+    <Key></Key>
+    <Loudness></Loudness>
+    <Speechiness></Speechiness>
+    <Acousticness></Acousticness>
+    <Instrumentalness></Instrumentalness>
+    <Liveness></Liveness>
+    <Valence></Valence>
+    <Tempo></Tempo>
+  </song>
+  <song>
+    <id>A8216	</id>
+    <Artist>America</Artist>
+    <Track>Sister Golden Hair</Track>
+    <Album>The Complete Greatest Hits</Album>
+    <Track_Explicitness>notExplicit</Track_Explicitness>
+    <Album_Year>1975</Album_Year>
+    <Genre></Genre>
+    <Duration>197227</Duration>
+    <Danceability></Danceability>
+    <Energy></Energy>
+    <Key></Key>
+    <Loudness></Loudness>
+    <Speechiness></Speechiness>
+    <Acousticness></Acousticness>
+    <Instrumentalness></Instrumentalness>
+    <Liveness></Liveness>
+    <Valence></Valence>
+    <Tempo></Tempo>
+  </song>
+  <song>
+    <id>A8604</id>
+    <Artist>Fetty Wap</Artist>
+    <Track>D.A.M.</Track>
+    <Album>Fetty Wap (Deluxe Edition)</Album>
+    <Track_Explicitness>explicit</Track_Explicitness>
+    <Album_Year>2015</Album_Year>
+    <Genre></Genre>
+    <Duration>225867</Duration>
+    <Danceability></Danceability>
+    <Energy></Energy>
+    <Key></Key>
+    <Loudness></Loudness>
+    <Speechiness></Speechiness>
+    <Acousticness></Acousticness>
+    <Instrumentalness></Instrumentalness>
+    <Liveness></Liveness>
+    <Valence></Valence>
+    <Tempo></Tempo>
+  </song>
+  <song>
+    <id>A2775</id>
+    <Artist>Jim Jones</Artist>
+    <Track>We Fly High</Track>
+    <Album>Hustler&apos;s P.O.M.E. (Product of My Environment)</Album>
+    <Track_Explicitness>notExplicit</Track_Explicitness>
+    <Album_Year>2006</Album_Year>
+    <Genre></Genre>
+    <Duration>233267</Duration>
+    <Danceability></Danceability>
+    <Energy></Energy>
+    <Key></Key>
+    <Loudness></Loudness>
+    <Speechiness></Speechiness>
+    <Acousticness></Acousticness>
+    <Instrumentalness></Instrumentalness>
+    <Liveness></Liveness>
+    <Valence></Valence>
+    <Tempo></Tempo>
+  </song>
+  <song>
+    <id>B52216</id>
+    <Artist>Lin-Manuel Miranda</Artist>
+    <Track>All Of You</Track>
+    <Album>Encanto (Thai Original Motion Picture Soundtrack)</Album>
+    <Track_Explicitness>notExplicit</Track_Explicitness>
+    <Album_Year>2021</Album_Year>
+    <Genre></Genre>
+    <Duration>279000</Duration>
+    <Danceability></Danceability>
+    <Energy></Energy>
+    <Key></Key>
+    <Loudness></Loudness>
+    <Speechiness></Speechiness>
+    <Acousticness></Acousticness>
+    <Instrumentalness></Instrumentalness>
+    <Liveness></Liveness>
+    <Valence></Valence>
+    <Tempo></Tempo>
+  </song>
+  <song>
+    <id>B5858</id>
+    <Artist>Paramore</Artist>
+    <Track>Future</Track>
+    <Album>Paramore</Album>
+    <Track_Explicitness>notExplicit</Track_Explicitness>
+    <Album_Year>2013</Album_Year>
+    <Genre></Genre>
+    <Duration>471000</Duration>
+    <Danceability></Danceability>
+    <Energy></Energy>
+    <Key></Key>
+    <Loudness></Loudness>
+    <Speechiness></Speechiness>
+    <Acousticness></Acousticness>
+    <Instrumentalness></Instrumentalness>
+    <Liveness></Liveness>
+    <Valence></Valence>
+    <Tempo></Tempo>
+  </song>
+  <song>
+    <id>B98893</id>
+    <Artist>Rednex</Artist>
+    <Track>Cotton Eye Joe</Track>
+    <Album>Sex &amp;amp; Violins</Album>
+    <Track_Explicitness>notExplicit</Track_Explicitness>
+    <Album_Year>1994</Album_Year>
+    <Genre></Genre>
+    <Duration>194000</Duration>
+    <Danceability></Danceability>
+    <Energy></Energy>
+    <Key></Key>
+    <Loudness></Loudness>
+    <Speechiness></Speechiness>
+    <Acousticness></Acousticness>
+    <Instrumentalness></Instrumentalness>
+    <Liveness></Liveness>
+    <Valence></Valence>
+    <Tempo></Tempo>
+  </song>
+  <song>
+    <id>B8994</id>
+    <Artist>Sia</Artist>
+    <Track>You&apos;re Never Fully Dressed Without a Smile (2014 Film Version)</Track>
+    <Album>You&apos;re Never Fully Dressed Without a Smile (2014 Film Version)</Album>
+    <Track_Explicitness>notExplicit</Track_Explicitness>
+    <Album_Year>2014</Album_Year>
+    <Genre></Genre>
+    <Duration>191000</Duration>
+    <Danceability></Danceability>
+    <Energy></Energy>
+    <Key></Key>
+    <Loudness></Loudness>
+    <Speechiness></Speechiness>
+    <Acousticness></Acousticness>
+    <Instrumentalness></Instrumentalness>
+    <Liveness></Liveness>
+    <Valence></Valence>
+    <Tempo></Tempo>
+  </song>
+  <song>
+    <id>B71041</id>
+    <Artist>Cole Swindell</Artist>
+    <Track>Get Up</Track>
+    <Album>Cole Swindell</Album>
+    <Track_Explicitness>notExplicit</Track_Explicitness>
+    <Album_Year>2014</Album_Year>
+    <Genre></Genre>
+    <Duration>162000</Duration>
+    <Danceability></Danceability>
+    <Energy></Energy>
+    <Key></Key>
+    <Loudness></Loudness>
+    <Speechiness></Speechiness>
+    <Acousticness></Acousticness>
+    <Instrumentalness></Instrumentalness>
+    <Liveness></Liveness>
+    <Valence></Valence>
+    <Tempo></Tempo>
+  </song>
+  <song>
+    <id>C42290</id>
+    <Artist>The Agrestix</Artist>
+    <Track>On the Prowl</Track>
+    <Album>Welcome To Hell</Album>
+    <Track_Explicitness>notExplicit</Track_Explicitness>
+    <Album_Year>2007</Album_Year>
+    <Genre></Genre>
+    <Duration>190653</Duration>
+    <Danceability>0.38</Danceability>
+    <Energy>0.874</Energy>
+    <Key>11</Key>
+    <Loudness>-13.644</Loudness>
+    <Speechiness>0.0415</Speechiness>
+    <Acousticness>0.000728</Acousticness>
+    <Instrumentalness>0</Instrumentalness>
+    <Liveness>0.131</Liveness>
+    <Valence>0.884</Valence>
+    <Tempo>147.882</Tempo>
+  </song>
+  <song>
+    <id>C45433</id>
+    <Artist>Dead Can Dance</Artist>
+    <Track>All in Good Time</Track>
+    <Album>All in Good Time</Album>
+    <Track_Explicitness>notExplicit</Track_Explicitness>
+    <Album_Year>2013</Album_Year>
+    <Genre></Genre>
+    <Duration>439946</Duration>
+    <Danceability>0.145</Danceability>
+    <Energy>0.287</Energy>
+    <Key>5</Key>
+    <Loudness>-14.744</Loudness>
+    <Speechiness>0.0379</Speechiness>
+    <Acousticness>0.427</Acousticness>
+    <Instrumentalness>0</Instrumentalness>
+    <Liveness>0.989</Liveness>
+    <Valence>0.0373</Valence>
+    <Tempo>72.17</Tempo>
+  </song>
+  <song>
+    <id>C17889</id>
+    <Artist>Tool</Artist>
+    <Track>Pneuma</Track>
+    <Album>Fear Inoculum</Album>
+    <Track_Explicitness>notExplicit</Track_Explicitness>
+    <Album_Year>2019</Album_Year>
+    <Genre>Rock</Genre>
+    <Duration>713191</Duration>
+    <Danceability>0.415</Danceability>
+    <Energy>0.53</Energy>
+    <Key>9</Key>
+    <Loudness>-9.338</Loudness>
+    <Speechiness>0.0314</Speechiness>
+    <Acousticness>0.00209</Acousticness>
+    <Instrumentalness>0</Instrumentalness>
+    <Liveness>0.11</Liveness>
+    <Valence>0.0586</Valence>
+    <Tempo>114.174</Tempo>
+  </song>
+  <song>
+    <id>C16902</id>
+    <Artist>Jack Johnson</Artist>
+    <Track>To The Sea</Track>
+    <Album>To The Sea</Album>
+    <Track_Explicitness>notExplicit</Track_Explicitness>
+    <Album_Year>2010</Album_Year>
+    <Genre>Rock</Genre>
+    <Duration>210186</Duration>
+    <Danceability>0.59</Danceability>
+    <Energy>0.433</Energy>
+    <Key>9</Key>
+    <Loudness>-8.003</Loudness>
+    <Speechiness>0.0388</Speechiness>
+    <Acousticness>0.564</Acousticness>
+    <Instrumentalness>0</Instrumentalness>
+    <Liveness>0.214</Liveness>
+    <Valence>0.515</Valence>
+    <Tempo>160.393</Tempo>
+  </song>
+  <song>
+    <id>C19894</id>
+    <Artist>Manowar</Artist>
+    <Track>Outlaw</Track>
+    <Album>Louder Than Hell</Album>
+    <Track_Explicitness>notExplicit</Track_Explicitness>
+    <Album_Year>1996</Album_Year>
+    <Genre>Metal</Genre>
+    <Duration>202455</Duration>
+    <Danceability>0.524</Danceability>
+    <Energy>0.969</Energy>
+    <Key>1</Key>
+    <Loudness>-4.893</Loudness>
+    <Speechiness>0.0967</Speechiness>
+    <Acousticness>0.00000648</Acousticness>
+    <Instrumentalness>0</Instrumentalness>
+    <Liveness>0.0788</Liveness>
+    <Valence>0.321</Valence>
+    <Tempo>157.92</Tempo>
+  </song>
+  <song>
+    <id>B84746</id>
+    <Artist>Petar Dundov</Artist>
+    <Track>Sirius</Track>
+    <Album>Sirius</Album>
+    <Track_Explicitness>notExplicit</Track_Explicitness>
+    <Album_Year>2013</Album_Year>
+    <Genre>Rock</Genre>
+    <Duration>115960</Duration>
+    <Danceability>0.647</Danceability>
+    <Energy>0.458</Energy>
+    <Key>4</Key>
+    <Loudness>-13.421</Loudness>
+    <Speechiness>0.0365</Speechiness>
+    <Acousticness>0.0527</Acousticness>
+    <Instrumentalness>0</Instrumentalness>
+    <Liveness>0.117</Liveness>
+    <Valence>0.0352</Valence>
+    <Tempo>111.391</Tempo>
+  </song>
+  <song>
+    <id>B15880</id>
+    <Artist>The Animals</Artist>
+    <Track>Let It Be</Track>
+    <Album>The Animals Live</Album>
+    <Track_Explicitness>notExplicit</Track_Explicitness>
+    <Album_Year>2012</Album_Year>
+    <Genre>Rock</Genre>
+    <Duration>236133</Duration>
+    <Danceability>0.401</Danceability>
+    <Energy>0.186</Energy>
+    <Key>0</Key>
+    <Loudness>17.001</Loudness>
+    <Speechiness>0.0356</Speechiness>
+    <Acousticness>0.588</Acousticness>
+    <Instrumentalness>0</Instrumentalness>
+    <Liveness>0.103</Liveness>
+    <Valence>0.504</Valence>
+    <Tempo>75.894</Tempo>
+  </song>
+  <song>
+    <id>B42867</id>
+    <Artist>Frank Sinatra</Artist>
+    <Track>Jingle Bells</Track>
+    <Album>Frank Sinatra &amp;amp; Nat King Cole - Christmas Songs</Album>
+    <Track_Explicitness>notExplicit</Track_Explicitness>
+    <Album_Year>2013</Album_Year>
+    <Genre>Electronic</Genre>
+    <Duration>434826</Duration>
+    <Danceability>0.675</Danceability>
+    <Energy>0.643</Energy>
+    <Key>8</Key>
+    <Loudness>-13.956</Loudness>
+    <Speechiness>0.0441</Speechiness>
+    <Acousticness>0.00592</Acousticness>
+    <Instrumentalness>0</Instrumentalness>
+    <Liveness>0.121</Liveness>
+    <Valence>0.766</Valence>
+    <Tempo>124.273</Tempo>
+  </song>
+</songs>
