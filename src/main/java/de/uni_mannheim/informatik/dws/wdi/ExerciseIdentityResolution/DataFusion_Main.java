@@ -59,9 +59,9 @@ public class DataFusion_Main
 
 		// Maintain Provenance
 		// Scores (e.g. from rating)
-		ds1.setScore(1.0);
-		ds2.setScore(2.0);
-		ds3.setScore(3.0);
+		ds1.setScore(3.0);
+		ds2.setScore(1.0);
+		ds3.setScore(2.0);
 
 		// Date (e.g. last update)
 		DateTimeFormatter formatter = new DateTimeFormatterBuilder()
@@ -99,12 +99,12 @@ public class DataFusion_Main
 		strategy.activateDebugReport("data/output/debugResultsDatafusion.csv", -1, gs);
 		
 		// add attribute fusers
-		strategy.addAttributeFuser(Song.ALBUM, new AlbumFuserShortestString(),new TitleEvaluationRule());
+		strategy.addAttributeFuser(Song.ALBUM, new AlbumFuserLongestString(),new TitleEvaluationRule());
 		strategy.addAttributeFuser(Song.ALBUM_YEAR,new AlbumYearFuserVoting(), new AlbumYearEvaluationRule());
-		strategy.addAttributeFuser(Song.ARTIST, new ArtistFuserShortestString(),new ArtistEvaluationRule());
+		strategy.addAttributeFuser(Song.ARTIST, new ArtistFuserLongestString(),new ArtistEvaluationRule());
 		strategy.addAttributeFuser(Song.DURATION,new DurationFuserFavourSource(),new DurationEvaluationRule());
 		strategy.addAttributeFuser(Song.TRACK_EXPLICITNESS,new ExplicitnessFavourSource(),new ExplicitnessEvaluationRule());
-		strategy.addAttributeFuser(Song.TRACK,new TitleFuserShortestString(),new TitleEvaluationRule());
+		strategy.addAttributeFuser(Song.TRACK,new TitleFuserLongestString(),new TitleEvaluationRule());
 
 		// create the fusion engine
 		DataFusionEngine<Song, Attribute> engine = new DataFusionEngine<>(strategy);
