@@ -1,0 +1,24 @@
+\begin{thebibliography}{1}
+
+\bibitem{doan_principles_2012}
+AnHai Doan, Alon Halevy, and Zachary Ives.
+\newblock {\em Principles of {Data} {Integration}}.
+\newblock Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edition, June 2012.
+
+\bibitem{Apple_Music}
+Kanchana1990.
+\newblock Song dataset: 10,000 apple music tracks.
+\newblock URL: \url{https://www.kaggle.com/datasets/kanchana1990/apple-music-dataset-10000-tracks-uncovered}.
+
+\bibitem{open_music}
+OatsCG.
+\newblock {OatsCG}/{Openmusic}-{Server}-{Specs}, September 2024.
+\newblock original-date: 2024-01-10T01:36:38Z.
+\newblock URL: \url{https://github.com/OatsCG/Openmusic-Server-Specs}.
+
+\bibitem{Million_Spot_LastFM}
+UndefineNull.
+\newblock Million song dataset + spotify + last.fm.
+\newblock URL: \url{https://www.kaggle.com/datasets/undefinenull/million-song-dataset-spotify-lastfm}.
+
+\end{thebibliography}
