@@ -1,0 +1,204 @@
+% This is samplepaper.tex, a sample chapter demonstrating the
+% LLNCS macro package for Springer Computer Science proceedings;
+% Version 2.21 of 2022/01/12
+%
+\documentclass[runningheads]{llncs}
+%
+\usepackage[T1]{fontenc}
+% T1 fonts will be used to generate the final print and online PDFs,
+% so please use T1 fonts in your manuscript whenever possible.
+% Other font encondings may result in incorrect characters.
+%
+\usepackage{graphicx}
+% Used for displaying a sample figure. If possible, figure files should
+% be included in EPS format.
+%
+% If you use the hyperref package, please uncomment the following two lines
+% to display URLs in blue roman font according to Springer's eBook style:
+%\usepackage{color}
+%\renewcommand\UrlFont{\color{blue}\rmfamily}
+%\urlstyle{rm}
+\usepackage{cite}
+\usepackage{booktabs}
+\usepackage[colorlinks, linkcolor=blue]{hyperref}
+\makeatletter
+\def\UrlAlphabet{%
+	\do\a\do\b\do\c\do\d\do\e\do\f\do\g\do\h\do\i\do\j%
+	\do\k\do\l\do\m\do\n\do\o\do\p\do\q\do\r\do\s\do\t%
+	\do\u\do\v\do\w\do\x\do\y\do\z\do\A\do\B\do\C\do\D%
+	\do\E\do\F\do\G\do\H\do\I\do\J\do\K\do\L\do\M\do\N%
+	\do\O\do\P\do\Q\do\R\do\S\do\T\do\U\do\V\do\W\do\X%
+	\do\Y\do\Z}
+\def\UrlDigits{\do\1\do\2\do\3\do\4\do\5\do\6\do\7\do\8\do\9\do\0}
+\g@addto@macro{\UrlBreaks}{\UrlOrds}
+\g@addto@macro{\UrlBreaks}{\UrlAlphabet}
+\g@addto@macro{\UrlBreaks}{\UrlDigits}
+\makeatother
+%
+\begin{document}
+	%
+	\pagestyle{plain} % or \pagestyle{headings} for headers
+	
+	\title{Web Data Integration\\Open Music Data Integration}
+	%
+	%\titlerunning{Abbreviated paper title}
+	% If the paper title is too long for the running head, you can set
+	% an abbreviated paper title here
+	%
+	\author{Anh-Nhat Nguyen\orcidID{2034311} \and
+		Ching-Yun Cheng\orcidID{2112322}\and
+		Shamalan Rajesvaran\orcidID{2115475} \and 
+		Yen-An Chen\orcidID{2113612} \and 
+		Phelan Lee Yeuk Bun\orcidID{2053019} }
+	%
+	\authorrunning{Anh-Nhat Nguyen et al.}
+	% First names are abbreviated in the running head.
+	% If there are more than two authors, 'et al.' is used.
+	%
+	\institute{Team 1}
+	%\and
+	%Springer Heidelberg, Tiergartenstr. 17, 69121 Heidelberg, Germany
+	%\email{lncs@springer.com}\\
+	%\url{http://www.springer.com/gp/computer-science/lncs} \and
+	%ABC Institute, Rupert-Karls-University Heidelberg, Heidelberg, Germany\\
+	%\email{\{abc,lncs\}@uni-heidelberg.de}}
+%
+\maketitle              % typeset the header of the contribution
+%
+\section{Introduction}
+In this Web Data Integration project, we aim to consolidate and analyze standardization from multiple sources to gain comprehensive insights into music streaming trends, track performance, and audience preferences. The project leverages three key datasets:
+
+1. Million Song Dataset with Spotify and Last.fm Features Dataset (csv) \cite{Million_Spot_LastFM}: This dataset is an enriched version of the Million Song Dataset, a large-scale music database containing detailed metadata and audio features for over 50,000 tracks with 21 attributes. It integrates additional attributes from Spotify and Last.fm, including audio features like danceability, energy, loudness, and popularity metrics such as tags (list attribute), preview URLs, and genre classifications. The merging of these three data sources provides a comprehensive view of each song, making it suitable for analyzing music trends, listener behaviors, and track popularity across platforms.
+
+2. Apple Music Tracks (csv) \cite{Apple_Music}: This dataset contains detailed information on 10,000 tracks with 24 attributes sourced from Apple Music. It includes attributes such as artist names, album titles, track features (e.g., tempo, key, mode), and genre classifications. In addition to audio metadata, the dataset provides insights into song popularity metrics and trends across the platform. It is ideal for exploring the characteristics of songs on Apple Music, understanding artist performance, and analyzing trends in genres and musical features.
+
+3. Openmusic API Dataset (json) \cite{open_music}: This dataset offers details about over 5,500 tracks via web APIs (retrieved by /explore \& /album?id=<AlbumID>), including track and album metadata, artist information, and playback types (clean/explicit). The use case for this dataset revolves around leveraging real-time API data for in-depth analysis of track consumption patterns, artist popularity, and changes in audience preferences over time.
+
+Together, these datasets will help provide a holistic view of how various musical, commercial, and audience factors contribute to the success of music tracks on different platforms based on various algorithm approach \cite{doan_principles_2012}.
+
+\section{Data Collection and Data Translation}
+\subsection{Data Collection and Dataset}
+\subsubsection{Overview of the Datasets}
+The dataset was obtained from Kaggle in the form of $csv$ and OpenMusic API in the form of $csv$ and $json$. An overview of dataset attributes is presented in Table~\ref{tab1} below.
+
+\begin{table}[h]
+	\renewcommand{\arraystretch}{1.5}
+	\caption{Dataset structure}\label{tab1}
+	\centering
+	\begin{tabular}{p{3cm} p{3cm}p{3cm}p{5cm}}
+		\toprule
+		\textbf{Dataset} &  \textbf{ No Entities}&\textbf{No. Attributes}& \textbf{Attributes}\\
+		\hline
+		\hline
+		Million Song Dataset with Spotify and Last.fm Features&50,683&21&Track ID, Name, Artist, Spotify Preview URL, Spotify ID, Tags, Genre (\emph{MV 56\%}), Year, Duration MS, Danceability, Energy, Key, Loudness, Mode, Speechiness, Acousticness, Instrumentalness, Liveness, Valence, Tempo, Time Signature\\
+		Apple Music Tracks&10,000&24
+		&Artist ID, Artist Name, Collection Censored Name, Collection ID, Collection Name, Collection Price, Content Advisory Rating (\emph{MV 85\%}), Country, Currency, Disc Count, Disc Number, Is Streamable, Kind, Preview URL, Primary Genre Name, Release Date, Track Censored Name, Track Count, Track Explicitness, Track ID, Track Name, Track Number, Track Price, Track Time (Milliseconds)\\
+		Open Music&5,558&18&ShelfTitle, AlbumId, AlbumName, AlbumArtwork, AlbumType, AlbumYear, ArtistId, ArtistName, ArtistProfilePhoto, ArtistSubscribers, TrackId, TrackTitle, TrackPlaybackClean, TrackPlaybackExplicit, TrackLength, TrackIndex, TrackViews, TrackFeatures\\
+		\hline
+		\hline
+	\end{tabular}
+\end{table}
+
+\subsubsection{Data Preprocessing}
+Data preprocessing steps included filtering irrelevant attributes and normalizing data types.
+
+\subsection{Schema Mapping}
+\subsubsection{Design of the Integrated Schema}
+The three datasets contain multiple overlapping attributes as seen in Table~\ref{tab2} below. There are 5 attributes within our integrated schema that overlap across at least 2 of 3 input schemata, namely "Artist", "Track Name", "Genre", "Track Duration" and "Release Date".
+
+\begin{table}[h]
+	\renewcommand{\arraystretch}{1.5}
+	\caption{Table of Integrated Schema Attributes}\label{tab2}
+	\centering
+	\begin{tabular}{p{4cm}p{3cm}p{6cm}}
+		\toprule
+		\textbf{Attribute Name} &  \textbf{ Datatype}&\textbf{Datasets in which  attribute found}\\
+		\hline
+		\hline
+		Track&string&Spotify  Musicality, Spotify  Streaming  Statistics, Openmusic\\
+		Artist&string&Spotify  Musicality, Spotify  Streaming  Statistics, Openmusic\\
+		Album&string&Spotify  Musicality, Spotify  Streaming  Statistics, Openmusic\\
+		Youtube Views&decimal&Spotify  Streaming  Statistics, openmusic\\
+		YouTube Likes&decimal&Spotify  Streaming  Statistics\\
+		Release Date&datetime&Spotify  Streaming  Statistics, openmusic\\
+		Danceability&decimal&Spotify  Streaming  Statistics\\
+		Energy&decimal&Spotify  Streaming  Statistics\\
+		Key&decimal&Spotify  Streaming  Statistics\\
+		Loudness&decimal&Spotify  Streaming  Statistics\\
+		Speechiness&decimal&Spotify  Streaming  Statistics\\
+		Acousticness&decimal&Spotify  Streaming  Statistics\\
+		Instrumentalness&decimal&Spotify  Streaming  Statistics\\
+		Liveness&decimal&Spotify  Streaming  Statistics\\
+		Valence&decimal&Spotify  Streaming  Statistics\\
+		Tempo&decimal&Spotify  Streaming  Statistics\\
+		TrackPlaybackClean&string&openmusic\\
+		TrackPlaybackExplicit&string&openmusic\\
+		\hline
+		\hline
+	\end{tabular}
+\end{table}
+
+\subsubsection{Tools and Challenges}
+Tools used include Altova MapForce. Challenges encountered during schema mapping included aligning attributes and handling missing data.
+
+\subsubsection{Conversion to Target Schema}
+Datasets were converted to the target schema resulting in XML files.
+
+\section{Phase II: Identity Resolution}
+\subsection{Initiate Gold Standard}
+\subsubsection{Method for Building the Gold Standard}
+The gold standard was built using a sampling method ensuring matches, non-matches, and corner cases.
+
+\subsection{Challenges with Gold Standard and Improvement}
+\subsubsection{Edit-Distance with Single Key}
+Edit-distance with a single key (Track) did not have high coverage. Solutions included using multiple keys and advanced matching techniques.
+
+\subsubsection{Selection Bias}
+Addressed selection bias by ensuring diverse and representative samples.
+
+\subsubsection{Performance Improvement}
+Implemented blocking, Bloom Filtering, and used LLM for performance improvement.
+
+\subsection{Matching Strategies}
+\subsubsection{Similarity Metrics}
+Used Levenshtein for names and numeric thresholds for streams.
+
+\subsubsection{Blocking Techniques}
+Blocking techniques improved efficiency by reducing the number of comparisons.
+
+\subsection{Evaluation}
+\subsubsection{Metrics and Analysis}
+Metrics used included precision, recall, and F1 score. Analysis of results highlighted challenges such as noisy data and near-duplicate names.
+
+\subsubsection{Benchmark Table}
+A benchmark table was created to compare different matching strategies.
+
+\section{Data Fusion}
+\subsection{Fusion Rules}
+\subsubsection{Conflict Resolution Strategies}
+Conflict resolution strategies included prioritizing reliable datasets, averaging numeric attributes, and using union for lists.
+
+\subsubsection{Specific Fusion Rules}
+Specific fusion rules for key attributes included taking the shortest string for "Track Name" and averaging for "Streams".
+
+\subsection{Fused Data Output}
+\subsubsection{Post-Fusion Dataset}
+Post-fusion dataset size and density improvements were noted. Examples of fused records were provided.
+
+\subsection{Quality Evaluation}
+\subsubsection{Metrics for Evaluation}
+Metrics for evaluating the quality of the integrated dataset included accuracy, consistency, and density. Summary of improvements achieved through data integration was provided.
+
+\subsection{Challenges and Lessons Learned}
+Addressed issues like conflicting values, missing data, or incorrect matches from identity resolution.
+
+\section{Conclusion and Future Work}
+\subsection{Limitations of the Project}
+Discussed limitations such as incomplete data and computational constraints.
+
+\subsection{Recommendations for Future Improvements}
+Recommendations included using advanced ML models for identity resolution.
+
+\bibliographystyle{plainurl}
+\bibliography{document.bib} 
+\end{document}
