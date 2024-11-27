@@ -1,0 +1,31 @@
+\contentsline {title}{Web Data Integration\unskip \ \ignorespaces Open Music Data Integration}{1}{chapter.1}%
+\authcount {5}
+\contentsline {author}{Anh-Nhat Nguyen \and Ching-Yun Cheng\and Shamalan Rajesvaran \and Yen-An Chen \and Phelan Lee Yeuk Bun }{1}{chapter.1}%
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1.1}%
+\contentsline {section}{\numberline {2}Data Collection and Data Translation}{3}{section.1.2}%
+\contentsline {subsection}{\numberline {2.1}Data Collection and Dataset}{3}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {2.2}Schema Mapping}{3}{subsection.1.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Design of the Integrated Schema}{3}{subsubsection.1.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Tools and Challenges}{4}{subsubsection.1.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.3}Conversion to Target Schema}{4}{subsubsection.1.2.2.3}%
+\contentsline {section}{\numberline {3}Identity Resolution}{4}{section.1.3}%
+\contentsline {subsection}{\numberline {3.1}Initiate Gold Standard and Challenges}{4}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {3.2}Gold Standard Improvement}{4}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {3.3}Matching Strategies}{6}{subsection.1.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}Blocking Methods}{6}{subsubsection.1.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.2}Similarity Metrics}{7}{subsubsection.1.3.3.2}%
+\contentsline {subsection}{\numberline {3.4}Evaluation}{7}{subsection.1.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}Metrics and Analysis}{7}{subsubsection.1.3.4.1}%
+\contentsline {subsubsection}{\numberline {3.4.2}Error That Remain}{7}{subsubsection.1.3.4.2}%
+\contentsline {section}{\numberline {4}Data Fusion}{8}{section.1.4}%
+\contentsline {subsection}{\numberline {4.1}Fusion Rules}{8}{subsection.1.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}Conflict Resolution Strategies}{8}{subsubsection.1.4.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.2}Specific Fusion Rules}{8}{subsubsection.1.4.1.2}%
+\contentsline {subsection}{\numberline {4.2}Fused Data Output}{8}{subsection.1.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}Post-Fusion Dataset}{8}{subsubsection.1.4.2.1}%
+\contentsline {subsection}{\numberline {4.3}Quality Evaluation}{8}{subsection.1.4.3}%
+\contentsline {subsubsection}{\numberline {4.3.1}Metrics for Evaluation}{8}{subsubsection.1.4.3.1}%
+\contentsline {subsection}{\numberline {4.4}Challenges and Lessons Learned}{8}{subsection.1.4.4}%
+\contentsline {section}{\numberline {5}Conclusion and Future Work}{8}{section.1.5}%
+\contentsline {subsection}{\numberline {5.1}Limitations of the Project}{8}{subsection.1.5.1}%
+\contentsline {subsection}{\numberline {5.2}Recommendations for Future Improvements}{8}{subsection.1.5.2}%
