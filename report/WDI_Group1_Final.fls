@@ -1,8 +1,8 @@
-PWD /Users/anhnhat/Library/Mobile Documents/com~apple~CloudDocs/Documents/UNIMA/2. Semester Study/2. WS2425/4. W24 Web Data Integration/Project/v2/UMA_Web_Data_Integation/report
+PWD /Users/cheng/Documents/Mannheim/2024_Winter/Web Data Integration/UMA_Web_Data_Integation/report
 INPUT /usr/local/texlive/2024/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT WDI_Group1_Final.tex
+INPUT /Users/cheng/Documents/Mannheim/2024_Winter/Web Data Integration/UMA_Web_Data_Integation/report/WDI_Group1_Final.tex
 OUTPUT WDI_Group1_Final.log
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/llncs/llncs.cls
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/llncs/llncs.cls
@@ -94,6 +94,25 @@ INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/xcolor/xcolor.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/xcolor/xcolor.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/colortbl/colortbl.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/colortbl/colortbl.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/tools/array.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/tools/array.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics/color.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/caption/caption.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/caption/caption.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/caption/caption3.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/caption/caption3.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/threeparttable/threeparttable.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/threeparttable/threeparttable.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT ./WDI_Group1_Final.aux
@@ -108,14 +127,6 @@ INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.st
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics/color.sty
-INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics/color.sty
-INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics-cfg/color.cfg
-INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics-cfg/color.cfg
-INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics-cfg/color.cfg
-INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx
-INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx
-INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx
 INPUT ./WDI_Group1_Final.out
 INPUT ./WDI_Group1_Final.out
 INPUT WDI_Group1_Final.out
@@ -140,6 +151,10 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/ecti0900.tfm
 INPUT /usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm0900.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/ecrm0600.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm
 INPUT ./WDI_Group1_Final.bbl
 INPUT ./WDI_Group1_Final.bbl
 INPUT WDI_Group1_Final.bbl
