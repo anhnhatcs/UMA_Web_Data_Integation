@@ -25,6 +25,8 @@
 \usepackage[font=small,labelfont=bf]{caption}
 \usepackage{threeparttable}
 \usepackage{array} % For table enhancements
+\usepackage[most]{tcolorbox}
+
 \setcounter{secnumdepth}{3}
 \makeatletter
 \def\UrlAlphabet{%
@@ -60,7 +62,7 @@
 	% First names are abbreviated in the running head.
 	% If there are more than two authors, 'et al.' is used.
 	%
-	\institute{Team 1}
+	\institute{University of Mannheim, Germany - Team 1} 
 	%\and
 	%Springer Heidelberg, Tiergartenstr. 17, 69121 Heidelberg, Germany
 	%\email{lncs@springer.com}\\
@@ -83,7 +85,6 @@ Together, these datasets will help provide a holistic view of how various musica
 
 \section{Data Collection and Data Translation}
 \subsection{Data Collection and Dataset}
-\subsubsection{Overview of the Datasets}
 The dataset was obtained from Kaggle in the form of $csv$ and OpenMusic API in the form of $csv$ and $json$. An overview of dataset attributes is presented in Table~\ref{tab1} below.
 
 \begin{table}[h]
@@ -104,8 +105,6 @@ The dataset was obtained from Kaggle in the form of $csv$ and OpenMusic API in t
 	\end{tabular}
 \end{table}
 
-\subsubsection{Data Preprocessing}
-Data preprocessing steps included filtering irrelevant attributes and normalizing data types.
 
 \subsection{Schema Mapping}
 \subsubsection{Design of the Integrated Schema}
@@ -149,20 +148,67 @@ Tools used include Altova MapForce. Challenges encountered during schema mapping
 \subsubsection{Conversion to Target Schema}
 Datasets were converted to the target schema resulting in XML files.
 
-\section{Phase II: Identity Resolution}
-\subsection{Initiate Gold Standard}
-\subsubsection{Method for Building the Gold Standard}
-The gold standard was built using a sampling method ensuring matches, non-matches, and corner cases.
+\section{Identity Resolution}
+\subsection{Initiate Gold Standard and Challenges}
 
-\subsection{Challenges with Gold Standard and Improvement}
-\subsubsection{Edit-Distance with Single Key}
-Edit-distance with a single key (Track) did not have high coverage. Solutions included using multiple keys and advanced matching techniques.
+At the start, we opted for a simple similarity metric---Edit-Distance (\textit{Levenshtein Distance}) using the single key \texttt{Track}---to build the gold standard for the identity resolution phase. Levenshtein Distance is a widely used general-purpose string similarity metric, particularly effective for handling minor typographical errors, such as added, deleted, or substituted characters. For example, it can detect similarities between \textit{"Someone Like You - (Adele Live)"} and \textit{"Someone Like You - Adele"} (similarity 77\%). However, it struggles with reordered components within strings, such as \textit{"Love Song Taylor"} vs. \textit{"Taylor - Love Song"} (similarity 17\%), which can occur in music track titles.
 
-\subsubsection{Selection Bias}
-Addressed selection bias by ensuring diverse and representative samples.
+This approach revealed limitations in coverage, as many tracks in the dataset shared the same name but differed in attributes such as \texttt{Album Name}, \texttt{Year}, and \texttt{Artist}, making them distinct. This issue arose from the dataset itself, not from the metrics, as using only the \texttt{Track} key did not capture the necessary information to distinguish between these cases. Additionally, GPT-4o-mini was used to validate 50 randomly selected cases from 1,000, and its results often diverged from manual labeling, further emphasizing the need for more comprehensive matching criteria. Details of this validation process are discussed in the next section.
 
-\subsubsection{Performance Improvement}
-Implemented blocking, Bloom Filtering, and used LLM for performance improvement.
+The gold standard was constructed by extracting and comparing data from \textit{Apple Music}, the \textit{Million Song Dataset}, and \textit{Open Music DB}. Python tools were used to parse XML files and retrieve key attributes such as \texttt{Track} and \texttt{ID}, while random sampling ensured the datasets remained manageable.
+
+While Levenshtein Distance was chosen for its simplicity and typo tolerance, its limited coverage required incorporating additional attributes like \texttt{Artist} for better accuracy. Manual validation helped address mismatches caused by identical track names with different metadata.
+
+Efficiency was improved using \texttt{Dask} for parallel processing and blocking techniques to reduce unnecessary comparisons. However, the resulting gold standard, though sufficient as a baseline, lacked accuracy and required significant refinements to enhance reliability.
+
+\subsection{Gold Standard Improvement}
+
+To enhance the reliability and efficiency of the gold standard, we implemented several improvements that addressed key limitations of the initial approach. These improvements focused on refining similarity matching, reducing computational overhead, and leveraging advanced validation techniques.
+
+\subsubsection*{Similarity Matching Enhancement}
+We enhanced the similarity matching process by concatenating \textit{Track Name}, \textit{Artist Name}, and \textit{Year} into a single string. Similarity scores were calculated using normalized Levenshtein metrics, which allowed us to categorize the results into:
+\begin{itemize}
+    \item \textbf{Matched Cases}: Similarity scores in the range [0.75, 1].
+    \item \textbf{Corner Cases}: Similarity scores in the range (0.65, 0.75).
+    \item \textbf{Non-Matched Cases}: Similarity scores in the range [0, 0.65].
+\end{itemize}
+
+This approach improved differentiation between tracks with similar names but differing metadata, such as different release years or artists.
+\subsubsection*{Integration of GPT-4o-mini for Validation}
+We incorporated GPT-4o-mini to validate ambiguous and borderline cases. The model processed 1,173 rows from the \textit{OpenDB and Apple Dataset} and 1,510 rows from the \textit{OpenDB and Million Dataset}. By using contextual prompts containing attributes such as \textit{Track Name}, \textit{Artist Name}, and \textit{Year}, GPT-4o-mini resolved complex cases, such as distinguishing live and studio versions of the same track. The example prompt of Apple Dataset and OpenDB Dataset below illustrates the validation process:	
+\begin{tcolorbox}[colback=gray!5!white, colframe=black!75!white, title=Prompt]
+	You are a music data expert. Compare these music tracks to determine if they represent the same real-world song. \\
+	
+	\textbf{Data to compare:} \\
+	- \texttt{apple\_Artist} vs \texttt{opendb\_Artist} \\
+	- \texttt{apple\_Track} vs \texttt{opendb\_Track} \\
+	- \texttt{apple\_Album} vs \texttt{opendb\_Album} \\
+	- \texttt{apple\_Year} vs \texttt{opendb\_Year} \\
+	- \texttt{apple\_Duration} vs \texttt{opendb\_Duration} \\
+	
+	\textbf{Rules:} \\
+	1. Names should be compared case-insensitively, allowing for semantic similarity rather than exact matches. \\
+	2. Duration difference should be within ±3000ms. \\
+	3. Year difference should be within ±1 year. \\
+	4. All attributes must match within thresholds. \\
+	
+	\textbf{Output:} Return \texttt{1} if the tracks are the same song, or \texttt{0} if they are different.
+	\end{tcolorbox}
+	
+		
+\subsubsection*{Stratified Sampling and Manual Review}
+We performed stratified sampling using Python's NumPy, ensuring a balanced dataset with a ratio of \textbf{50:30:20} for Non-Matched, Corner, and Matched cases. Additionally, manual review was conducted on similarity computations and GPT evaluations to resolve ambiguities and finalize labeling. This step ensured a robust and high-quality gold standard.
+
+\subsubsection*{Observations and Results}
+These refinements resulted in significant improvements:
+\begin{itemize}
+    \item Reduced computational overhead through blocking and Bloom Filtering.
+    \item Improved match accuracy by incorporating additional attributes such as \textit{Artist Name} and \textit{Year}.
+    \item Enhanced validation through GPT-4o-mini for resolving corner cases.
+\end{itemize}
+\textbf{Blocking and Bloom Filtering} were grouped into logical blocks based on the first two characters of the concatenated string to restrict comparisons to records within the same block, significantly reducing the number of pairwise evaluations; additionally, a Bloom filter was applied within each block to efficiently pre-filter records, ensuring that only likely matches were compared, which optimized the process by reducing pairwise comparisons by approximately 70% while maintaining a low false positive rate of 0.1%.
+
+The refined gold standard is robust and ready for the identity resolution phase, with further confirmation expected after data fusion.
 
 \subsection{Matching Strategies}
 \subsubsection{Blocking Methods}
