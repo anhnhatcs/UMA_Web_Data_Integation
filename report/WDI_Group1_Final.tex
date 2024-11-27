@@ -21,6 +21,11 @@
 \usepackage{cite}
 \usepackage{booktabs}
 \usepackage[colorlinks, linkcolor=blue]{hyperref}
+\usepackage[table]{xcolor}
+\usepackage[font=small,labelfont=bf]{caption}
+\usepackage{threeparttable}
+\usepackage{array} % For table enhancements
+\setcounter{secnumdepth}{3}
 \makeatletter
 \def\UrlAlphabet{%
 	\do\a\do\b\do\c\do\d\do\e\do\f\do\g\do\h\do\i\do\j%
@@ -160,19 +165,94 @@ Addressed selection bias by ensuring diverse and representative samples.
 Implemented blocking, Bloom Filtering, and used LLM for performance improvement.
 
 \subsection{Matching Strategies}
-\subsubsection{Similarity Metrics}
-Used Levenshtein for names and numeric thresholds for streams.
+\subsubsection{Blocking Methods}
 
-\subsubsection{Blocking Techniques}
-Blocking techniques improved efficiency by reducing the number of comparisons.
+To reduce unnecessary comparisons during identity resolution (IR), we generated blocking keys based on track names. The blocking key was derived from the bigrams of the first three tokens of each track name. We then experimented with two blocking methods: \textbf{Standard Blocking} and the \textbf{Sorted Neighborhood Method}, both using these track name-based blocking keys.
+
+In the case of running IR for the apple + opendb datasets, the maximum number of entities sharing the same hashed blocking key was 9.696 (for the blocking key "CH"), while the minimum was 1 (for the blocking key "LAINTH"). As for the million + opendb datasets, the maximum number of entities sharing the same hashed blocking key was 67.404 (for the blocking key "RE"), while the minimum was 1.560 (for the blocking key "BL"). When using the Sorted Neighborhood Method, the window size would need to be greater than 9.696 and 67.404 respectively to ensure that no matches were missed. However, such a large window size would significantly increase resource consumption by comparing many irrelevant records.
+
+Given this inefficiency, for both of our entity matching comparisons, we ultimately decided to adopt \textbf{Standard Blocking}, which efficiently grouped entities based on their blocking keys without requiring extensive resource expenditure or risking lost matches.
+\subsubsection{Similarity Metrics}
+As mentioned above, in the entity matching for apple + opendb, we use \textbf{track name, artist name, album name, }and \textbf{album year} as the basis for determining entity matching. As for entity matching for million + opendb, since there is no album name attribute in million dataset, we only use \textbf{track name, artist name}, and \textbf{album year} as the basis. For each attribute with a data type of string, we tested various metrics, including edit-based (Levenshtein, Jaro, Jaro-Winkler), token-based (Jaccard), and phonetic (Soundex). For numeric attribute, we use absolute difference of 2 years.
 
 \subsection{Evaluation}
 \subsubsection{Metrics and Analysis}
-Metrics used included precision, recall, and F1 score. Analysis of results highlighted challenges such as noisy data and near-duplicate names.
 
-\subsubsection{Benchmark Table}
-A benchmark table was created to compare different matching strategies.
+After testing over 50+ combinations of comparators for entity matching between apple + opendb datasets and million + opendb datasets, the metrics shown in Table~\ref{tab:comparators} were found to be the most suitable for their respective attributes.
 
+% Adjust padding
+\setlength{\tabcolsep}{4pt} % Horizontal padding
+\renewcommand{\arraystretch}{1.5} % Vertical padding
+\begin{table}[ht]
+	\centering
+	\caption{Comparators Used for Entity Matching Across Datasets}
+	\label{tab:comparators}
+	\begin{tabular}{p{2.5cm}p{2.5cm}p{6cm}}
+	\hline
+	\textbf{Dataset}      & \textbf{Attribute (Comparator)}            & \textbf{Reason for Effectiveness}                                                                                      \\ \hline
+	apple+opendb; million+opendb & \raggedright Track Name (Jaccard)              & Track names often include variations like additional descriptors, e.g., single, feat.                                  \\ \hline
+	apple+opendb                  & \raggedright Artist Name (Jaro-Winkler)                  & Artist names are short and structured. Most typos occur in the last name rather than the first name.                    \\ \hline
+	million+opendb                & \raggedright Artist Name (Equal)                          & Many entities in million + opendb have the same track name but different artist names. Within those entities, the artist names are quite similar in some cases; therefore, the equal comparator is needed to clearly distinguish ambiguous entities. \\ \hline
+	apple+opendb                  & \raggedright Album Name (Jaccard)              & Most of the singles use the track name as their album name, so the same pattern applies here.                           \\ \hline
+	apple+opendb; million+opendb & \raggedright Album Year (Absolute Difference ±2)       & Accounts for real-world scenarios like re-releases and recording/release year discrepancies.                            \\ \hline
+	\end{tabular}
+	\end{table}
+
+	We organized some of our IR tests in Table~\ref{tab:benchmark}. Those combination we finally chose are highlighted in yellow. In the results for apple + opendb, we intuitively selected the one that demonstrated the best performance across Precision, Recall, and F1-score. Upon closer inspection of the correspondences, the matches were indeed highly accurate, confirming our choice.
+
+	However, in the results for million + opendb, after reviewing the correspondences, we decided to select the option that did not achieve the best performance metrics. This decision was based on the presence of more ambiguous data in this comparison, which, combined with an insufficient golden standard to accurately use the album year to distinguish different entities, resulted in false positives within the correspondences. Under these circumstances, the selected option demonstrated the most balanced precision and recall, minimizing false positives while still capturing the majority of true matches. This balance made it the optimal choice for this dataset.
+
+\begin{table}[]
+	\small
+	\caption{Entity Matching Benchmark Table}
+	\label{tab:benchmark}
+	\begin{threeparttable}
+	\begin{tabular}{lp{4.5cm}p{2cm}ccccc}
+		\hline
+		\textbf{Datasets}      & \textbf{Matching Rule}                                          & \textbf{B}                          & \textbf{P} & \textbf{R} & \textbf{F1}  & \textbf{\# Corr}  \\\hline
+		apple+opendb         & \raggedright Track (J*), Artist (JW*), \\ Album (J), Album Year (2Y*) & \raggedright SNB Track (20)              & 0,99              & 0,66          & 0,79       & 85               \\
+		apple+opendb         & \raggedright Track (J), Artist (JW), \\ Album (J), Album Year (2Y) & \raggedright SNB Track (60)              & 0,99             & 0,82          & 0,89       & 105              \\
+		\rowcolor[HTML]{FFFFCC} 
+		apple+opendb         & \raggedright Track (J), Artist (JW), \\ Album (J), Album Year (2Y) & \raggedright Standard Track                            & 0,99             & 0,93          & 0,96       & 120              \\
+		apple+opendb         & \raggedright Track (L), Artist (JW), \\ Album (L*), Album Year (2Y) & \raggedright Standard Track                            & 0,99             & 0,92           & 0,9544       & 118              \\
+		apple+opendb         & \raggedright Track (S*), Artist (JW),\\  Album (S), Album Year (2Y) & \raggedright Standard Track                            & 0,97             & 0,95          & 0,96       & 170              \\
+		apple+opendb         & \raggedright Track (J), Artist (J),\\  Album (J)             & \raggedright Standard Track                            & 0,87             & 0,94          & 0,91       & 291              \\ \hline\hline
+		million+opendb       & \raggedright Track (J), Artist (Equal), \\ Album Year (2Y)           & \raggedright SNB Track (20)              & 0,94             & 0,72         & 0,82       & 684              \\
+		million+opendb       & \raggedright Track (J), Artist (Equal), \\ Album Year (2Y)           & \raggedright SNB Track (60)              & 0,92             & 0,85         & 0,88       & 835              \\
+		\rowcolor[HTML]{FFFFCC} 
+		million+opendb       & \raggedright Track (J), Artist (Equal), \\ Album Year (2Y)           & \raggedright Standard Track                            & 0,92             & 0,94         & 0,93      & 942              \\
+		million+opendb       & \raggedright Track (J), Artist (JW), \\ Album Year (2Y)     & \raggedright Standard Track                            & 0,91             & 0,99         & 0,95       & 2.078            \\ 
+		million+opendb       & \raggedright Track (S), Artist (JW), \\ Album Year (2Y)     & \raggedright Standard Track                            & 0,88             & 0,94         & 0,91       & 1.326            \\
+		million+opendb       & \raggedright Track (J), Artist (Equal)                                & \raggedright Standard Track                            & 0,88             & 0,94         & 0,91      & 1.082            \\ \hline\hline
+	\end{tabular}
+	\begin{tablenotes}
+		\footnotesize
+		\item \textbf{*Note:} J: Jaccard; JW: Jaro-Winkler; 2Y: Absolute Difference ±2; S: Soundex; L: Levenshtein
+		\end{tablenotes}
+	\end{threeparttable}
+\end{table}
+
+Although the data in the table suggests that the results of Entity Matching are reasonably satisfactory, a closer examination of the million + opendb correspondences reveals that the differentiation of entities based on the album year is insufficient. This limitation is also reflected in the results of our Group Size analysis.
+\setlength{\tabcolsep}{4pt} % Horizontal padding
+\begin{table}[ht]
+	\centering
+	\caption{Group Size Analysis}
+	\label{tab:group_size}
+	\begin{tabular}{lccccc}
+	\hline
+	\rowcolor[HTML]{D9D9D9} 
+	\textbf{Group Size} & \textbf{2} & \textbf{3} & \textbf{4-7} & \textbf{8-13} & \textbf{14} \\ \hline
+	\textbf{Frequency}  & 650        & 104        & 45           & 4            & 0           \\ \hline
+	\textbf{Distribution} & 81\%       & 13\%       & 6\%          & 0\%           & 0\%         \\ \hline
+	\end{tabular}
+	\end{table}
+	
+
+\subsubsection{Error That Remain}
+
+Our IR results for album years continue to show inconsistencies, with mismatched or slightly inaccurate years persisting even when using a tolerance of ±2 years. These discrepancies are particularly evident when dealing with re-releases, remasters, or cases where album metadata varies significantly across datasets.
+
+We think that the root cause of this issue lies in the golden standard we employed, which was derived by concatenating track name, artist name, and album year into a single string and performing an initial comparison using the edit-based Levenshtein metric. Since album years were not accurately distinguished in this process, it led to the observed inconsistencies. This misalignment in album years will negatively impact attribute consistency during the Data Fusion phase. If this issue remains unresolved, the resulting fused data will likely inherit these inconsistencies, compromising its overall quality and trustworthiness.
 \section{Data Fusion}
 \subsection{Fusion Rules}
 \subsubsection{Conflict Resolution Strategies}
