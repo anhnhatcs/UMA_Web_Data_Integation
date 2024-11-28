@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex WDI_Group1_Final"] 1732824671.52895 "WDI_Group1_Final.aux" "WDI_Group1_Final.bbl" "WDI_Group1_Final" 1732824672.65728 0
-  "./document.bib" 1732824278.27577 3446 46eb158d48a742b1473c260573a16d85 ""
+["bibtex WDI_Group1_Final"] 1732833527.88798 "WDI_Group1_Final.aux" "WDI_Group1_Final.bbl" "WDI_Group1_Final" 1732833528.95965 0
+  "./document.bib" 1732833283.97557 3446 46eb158d48a742b1473c260573a16d85 ""
   "/usr/local/texlive/2024/texmf-dist/bibtex/bst/urlbst/plainurl.bst" 1675116457 33495 46cfb45e24a877059f9f7e142c7fc61c ""
-  "WDI_Group1_Final.aux" 1732824672.38452 5982 ec5852397a97dee4cb96ddaddd7620f7 "pdflatex"
+  "WDI_Group1_Final.aux" 1732833528.69258 6216 b0f0bb8f4c78d67188807b92627a4e3c "pdflatex"
   (generated)
   "WDI_Group1_Final.bbl"
   "WDI_Group1_Final.blg"
   (rewritten before read)
-["pdflatex"] 1732824671.64339 "/Users/yenanchen/Documents/Home/Mannheim/2024HWS/Web-Data-Integration/Project2/UMA_Web_Data_Integation/report/WDI_Group1_Final.tex" "WDI_Group1_Final.pdf" "WDI_Group1_Final" 1732824672.65742 0
-  "/Users/yenanchen/Documents/Home/Mannheim/2024HWS/Web-Data-Integration/Project2/UMA_Web_Data_Integation/report/WDI_Group1_Final.tex" 1732824670.22768 31365 5c9495f95f1d24148891ab28be1862d6 ""
+["pdflatex"] 1732833527.98118 "/Users/yenanchen/Documents/Home/Mannheim/2024HWS/Web-Data-Integration/Project3/UMA_Web_Data_Integation/report/WDI_Group1_Final.tex" "WDI_Group1_Final.pdf" "WDI_Group1_Final" 1732833528.95976 0
+  "/Users/yenanchen/Documents/Home/Mannheim/2024HWS/Web-Data-Integration/Project3/UMA_Web_Data_Integation/report/WDI_Group1_Final.tex" 1732833526.54547 34883 630f7e148f4afb9e65f6a6e69458a478 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -206,10 +206,10 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1732812434.88061 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1732812385 8221436 eb2ab63e219a2f11c8c32388381864b3 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "WDI_Group1_Final.aux" 1732824672.38452 5982 ec5852397a97dee4cb96ddaddd7620f7 "pdflatex"
-  "WDI_Group1_Final.bbl" 1732824671.64055 879 89ec9962b087d49d2d937fe4d87459c1 "bibtex WDI_Group1_Final"
-  "WDI_Group1_Final.out" 1732824672.38522 293 906a11aacbf23686669312c9a994e84c "pdflatex"
-  "WDI_Group1_Final.tex" 1732824670.22768 31365 5c9495f95f1d24148891ab28be1862d6 ""
+  "WDI_Group1_Final.aux" 1732833528.69258 6216 b0f0bb8f4c78d67188807b92627a4e3c "pdflatex"
+  "WDI_Group1_Final.bbl" 1732833527.9786 879 89ec9962b087d49d2d937fe4d87459c1 "bibtex WDI_Group1_Final"
+  "WDI_Group1_Final.out" 1732833528.69319 293 906a11aacbf23686669312c9a994e84c "pdflatex"
+  "WDI_Group1_Final.tex" 1732833526.54547 34883 630f7e148f4afb9e65f6a6e69458a478 ""
   (generated)
   "WDI_Group1_Final.aux"
   "WDI_Group1_Final.log"
