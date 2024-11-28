@@ -302,10 +302,19 @@ We think that the root cause of this issue lies in the golden standard we employ
 \section{Data Fusion}
 \subsection{Fusion Rules}
 \subsubsection{Conflict Resolution Strategies}
-Conflict resolution strategies included prioritizing reliable datasets, averaging numeric attributes, and using union for lists.
+In the data fusion process, conflict resolution strategies are essential to derive the most accurate and reliable representation of records when combining multiple datasets. Our conflict resolution strategies include
+using reliable datasets with sufficient attribute intersection for fusion, as well as strong identity resolution results that maintain quality of data. We decided to use all of our datasets (apple, million, opendb) as
+they fulfil our prerequisites with IR results as shown above. We had assigned a provenance score to each dataset in order to reflect its reliability and accuracy. 'apple' dataset was given the highest score (3.0), followed by 'million' (2.0), and then 'opendb' (1.0).
+This scoring system allowed the fusion process to favor attributes from the more reliable datasets when resolving conflicts. 
 
 \subsubsection{Specific Fusion Rules}
-Specific fusion rules for key attributes included taking the shortest string for "Track Name" and averaging for "Streams".
+Our team have included a specific fusion rules for resolving conflicts in key attributes to ensure that the fused dataset accurately reflects the most reliable, comprehensive, and meaningful information. These rules are tailored to the nature of each attribute and the type of conflicts typically encountered.
+For the track names, album names and artist names, the longest string strategy is used to resolve conflicts. This approach ensures that the most descriptive and complete track title is chosen, as longer names often include additional context, such as versions or remixes. Likewise, this fusion rule will
+retain information such as featuring artists or collaborations for the artist names.
+
+For the album year, a voting strategy is employed for resolving conflicts. This strategy aggregates values across the 3 datasets and selects the most commonly occurring year, reflecting a consensus among the sources. This minimizes the impact of outliers or errors in individual datasets and ensures consistency.
+
+The favor source with the highest provenance score strategy is used for the track duration, avoiding discrepancies caused by slight rounding differences or errors in less reliable sources.
 
 \subsection{Fused Data Output}
 \subsubsection{Post-Fusion Dataset}
