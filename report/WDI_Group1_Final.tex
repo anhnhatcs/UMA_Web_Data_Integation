@@ -321,12 +321,68 @@ The favor source with the highest provenance score strategy is used for the trac
 Post-fusion dataset size and density improvements were noted. Examples of fused records were provided.
 
 \subsection{Quality Evaluation}
-\subsubsection{Metrics for Evaluation}
-Metrics for evaluating the quality of the integrated dataset included accuracy, consistency, and density. Summary of improvements achieved through data integration was provided.
+We conducted extensive testing with various combinations of fusion methods. Table \ref{tab:fusion-strategies} shows four representative strategies that combine different fusion methods, including LongestString(), FavourSource(), ShortestString(), and MostRecent(). Strategy 4 demonstrated the highest accuracy at 84\% and was therefore selected as our optimized fusion strategy.
 
-\subsection{Challenges and Lessons Learned}
-Addressed issues like conflicting values, missing data, or incorrect matches from identity resolution.
+\begin{table}[h!]
+	\setlength{\tabcolsep}{4pt}
+	\small
+	\caption{Data Fusion Strategy Comparison}
+	\label{tab:fusion-strategies}
+	\begin{threeparttable}
+	\begin{tabular}{p{2.5cm}p{7.5cm}c}
+	\hline
+	\textbf{Fusion Strategy} & \textbf{Method} & \textbf{Accuracy} \\ \hline
+	Strategy 1 & \raggedright ArtistFuserLongestString(), \newline
+	AlbumYearFuserVoting(), \newline
+	AlbumFuserLongestString(), \newline
+	DurationFuserFavourSource(), \newline
+	TitleFuserLongestString(), \newline
+	ExplicitnessFuserFavourSource() & 80\% \\
+	\hline
+	Strategy 2 & \raggedright ArtistFuserFavourSource(), \newline
+	AlbumYearFuserFavourSource(), \newline
+	AlbumFuserFavourSource(), \newline
+	DurationFuserFavourSource(), \newline
+	TitleFuserFavourSource(), \newline
+	ExplicitnessFuserFavourSource() & 80\% \\
+	\hline
+	Strategy 3 & \raggedright ArtistFuserShortestString(), \newline
+	AlbumYearFuserVoting(), \newline
+	AlbumFuserShortestString(), \newline
+	DurationFuserFavourSource(), \newline
+	TitleFuserShortestString(), \newline
+	ExplicitnessFuserFavourSource() & 82\% \\
+	\hline
+	\rowcolor[HTML]{FFFFCC}
+	Strategy 4 \newline (Optimized) & \raggedright ArtistFuserShortestString(), \newline
+	AlbumYearFuserMostRecent(), \newline
+	AlbumFuserShortestString(), \newline
+	DurationFuserMostRecent(), \newline
+	TitleFuserShortestString(), \newline
+	ExplicitnessFuserMostRecent() & 84\% \\ \hline
+	\end{tabular}
+	\end{threeparttable}
+	\end{table}
 
+	To evaluate our optimized fusion strategy's effectiveness, we analyzed its performance across different attributes (Table \ref{table:optimized_fusion_rules}). While most attributes achieved high accuracy, Album Name information showed notably low accuracy (50\%) due to the frequent occurrence of the same track appearing in different album releases (e.g., singles, original albums, compilation albums). This common practice in the music industry creates challenges in determining the canonical album name for a track, leading lower accuracy and consistency scores for Album Name (50\%, 81\%) and AlbumYear (75\%, 56\%) attributes.
+
+	\begin{table}[h!]
+		\centering
+		\caption{Optimized Fusion Strategy Performance}
+		\label{table:optimized_fusion_rules}
+		\begin{tabular}{llccc}
+		\toprule
+		\textbf{Attribute} & \textbf{Method} & \textbf{Accuracy} & \textbf{Consistency} & \textbf{Density} \\ 
+		\midrule
+		Artist             & ArtistFuserShortestString()           & 95\%              & 100\%                & 100\%            \\ 
+		AlbumYear        & AlbumYearFuserMostRecent()           & 75\%              & 56\%                 & 100\%            \\ 
+		Album              & AlbumFuserShortestString()           & 50\%              & 81\%                 & 100\%            \\ 
+		Duration           & DurationFuserMostRecent()            & 85\%              & 88\%                 & 100\%            \\ 
+		Track              & TitleFuserShortestString()           & 85\%              & 98\%                 & 100\%            \\ 
+		TrackExplicitness & ExplicitnessFuserMostRecent()        & 90\%              & 99\%                 & 100\%            \\ 
+		\bottomrule
+		\end{tabular}
+		\end{table}
 \section{Conclusion and Future Work}
 \subsection{Limitations of the Project}
 Discussed limitations such as incomplete data and computational constraints.
