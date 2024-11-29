@@ -1,8 +1,8 @@
-PWD /Users/yenanchen/Documents/Home/Mannheim/2024HWS/Web-Data-Integration/Project3/UMA_Web_Data_Integation/report
+PWD /Users/cheng/Documents/Mannheim/2024_Winter/Web Data Integration/UMA_Web_Data_Integation/report
 INPUT /usr/local/texlive/2024/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/yenanchen/Documents/Home/Mannheim/2024HWS/Web-Data-Integration/Project3/UMA_Web_Data_Integation/report/WDI_Group1_Final.tex
+INPUT /Users/cheng/Documents/Mannheim/2024_Winter/Web Data Integration/UMA_Web_Data_Integation/report/WDI_Group1_Final.tex
 OUTPUT WDI_Group1_Final.log
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/llncs/llncs.cls
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/llncs/llncs.cls
