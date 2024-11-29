@@ -107,7 +107,7 @@ The dataset was obtained from Kaggle in the form of $csv$ and OpenMusic API in t
 
 
 \subsection{Schema Mapping}
-\subsubsection{Design of the Integrated Schema}
+\subsubsection{Design of the Integrated Schemas}
 The three datasets contain multiple overlapping attributes as seen in Table~\ref{tab2} below. There are 5 attributes within our integrated schema that overlap across at least 2 of 3 input schemata, namely "Artist", "Track Name", "Genre", "Track Duration" and "Release Date".
 
 \begin{table}[h]
@@ -119,12 +119,12 @@ The three datasets contain multiple overlapping attributes as seen in Table~\ref
 		\textbf{Attribute Name} &  \textbf{ Datatype}&\textbf{Datasets in which  attribute found}\\
 		\hline
 		\hline
-		Track&string&Spotify  Musicality, Spotify  Streaming  Statistics, Openmusic\\
-		Artist&string&Spotify  Musicality, Spotify  Streaming  Statistics, Openmusic\\
-		Album&string&Spotify  Musicality, Spotify  Streaming  Statistics, Openmusic\\
-		Youtube Views&decimal&Spotify  Streaming  Statistics, openmusic\\
-		YouTube Likes&decimal&Spotify  Streaming  Statistics\\
-		Release Date&datetime&Spotify  Streaming  Statistics, openmusic\\
+		Artist&string&Million Song Dataset with Spotify and Last.fm Features, Apple Music Tracks, Open Music\\
+		Track&string&Million Song Dataset with Spotify and Last.fm Features, Apple Music Tracks, Open Music\\
+		Track Explicitness&string&Apple Music Tracks, Open Music\\
+		Album Year&decimal&Apple Music Tracks, Open Music\\
+		Genre&decimal&Million Song Dataset with Spotify and Last.fm Features, Apple Music Tracks\\
+		Duration&decimal&Million Song Dataset with Spotify and Last.fm Features, Apple Music Tracks, Open Music\\
 		Danceability&decimal&Spotify  Streaming  Statistics\\
 		Energy&decimal&Spotify  Streaming  Statistics\\
 		Key&decimal&Spotify  Streaming  Statistics\\
@@ -135,15 +135,13 @@ The three datasets contain multiple overlapping attributes as seen in Table~\ref
 		Liveness&decimal&Spotify  Streaming  Statistics\\
 		Valence&decimal&Spotify  Streaming  Statistics\\
 		Tempo&decimal&Spotify  Streaming  Statistics\\
-		TrackPlaybackClean&string&openmusic\\
-		TrackPlaybackExplicit&string&openmusic\\
 		\hline
 		\hline
 	\end{tabular}
 \end{table}
 
-\subsubsection{Tools and Challenges}
-Tools used include Altova MapForce. Challenges encountered during schema mapping included aligning attributes and handling missing data.
+\subsubsection{Tools, Approach and Challenges}
+Altova MapForce was utilised during the schema mapping phase. Once the target schema was identified, the variables were screened to ensure that each of them had the same formatting. For example, the duration variable were transformed for 2 of the datasets so that it would be in milliseconds to conform with the data from Apple Music Track. The challenges encountered during schema mapping included aligning attributes and handling missing data.
 
 \subsubsection{Conversion to Target Schema}
 Datasets were converted to the target schema resulting in XML files.
@@ -412,11 +410,11 @@ We conducted extensive testing with various combinations of fusion methods. Tabl
 		\end{tabular}
 		\end{table}
 \section{Conclusion and Future Work}
-\subsection{Limitations of the Project}
-Discussed limitations such as incomplete data and computational constraints.
+\subsection{Limitations of the Projec}
+The limitation that has been identified is the occurrence of incomplete data. The insufficient and inconsistent data that is spread across the attributes from the different data sources proved to be a significant stumbling block as it impact the fusion accuracy. The missing attribute such as that occurring in the Album Name and AlbumYear caused there to be gaps when the datasets were merged. This ultimately reduced the accuracy for the attributes. There was also the occurrence of inconsistent coverage of data. It was identified that across the 3 data sources, there was a varying level of detail for all the attributes which eventually led to difficulties in harmonzing the data. For example, the same song records may be listed differently across the datasets as some may list them as the original album release, while the other source may list them as compilations or re-releases at a later date. Furthermore, the computational constraints were particularly challenging to overcome. The complex fusion strategies required longer runtimes which resulting in the process being particularly challenging to test multiple strategies approaching the deadline. Moreover, there were ambiguity in the album information. The appearance of re-releases and compilations caused the tracks to appear across varying different albums such as singles and compilations. This ultimately made it particularly difficult to determine the root Album Name. The lack of a unique identifier for the Albums made it a challenge to differentiate between the different versions and variations.
 
 \subsection{Recommendations for Future Improvements}
-Recommendations included using advanced ML models for identity resolution.
+For future development of this particular project, a plausible approach would be to develop and integrate advanced machine learning methodology which shall be designed specifically for entity resolution. For example, a graph neural network (GNN) or transformer-based architecture can be employed to effectively identity corresponding entities across the datasets. An ML model can also be trained to go about the attribute weighting. For example, the ML model may be utilised to dynamically decide on the weights of the various different sources based on the reliability of the available attributes. This would ensure an accurate fusion process. Furthermore, it would be greatly advices to expand the dataset collection so as to enrich the data sources. A broader data collection would enable the inclusion of diverse attributes and data sources. This may include areas such as verified music streaming platforms and industry metadata. Moreover, in an effort to address the album name disambiguation, a specialized algorithm can be developed in order to handle re-released tracks. This approach would leverage on contextual information that accompanies the records such as the release dates, genres, and track listings to identify the root Album Name. A protocol can also be put in place in order to go about consistency checking. For example, the AlbumYear and similar date-related attributes, can be implemented in the algorithm in order to cross check the release years with external source and highlight any inconsistencies. 
 
 \bibliographystyle{plainurl}
 \bibliography{document.bib} 
