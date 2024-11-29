@@ -79,7 +79,7 @@ In this Web Data Integration project, we aim to consolidate and analyze standard
 
 2. Apple Music Tracks (csv) \cite{Apple_Music}: This dataset contains detailed information on 10,000 tracks with 24 attributes sourced from Apple Music. It includes attributes such as artist names, album titles, track features (e.g., tempo, key, mode), and genre classifications. In addition to audio metadata, the dataset provides insights into song popularity metrics and trends across the platform. It is ideal for exploring the characteristics of songs on Apple Music, understanding artist performance, and analyzing trends in genres and musical features.
 
-3. Openmusic API Dataset (json) \cite{open_music}: This dataset offers details about over 5,500 tracks via web APIs (retrieved by /explore \& /album?id=<AlbumID>), including track and album metadata, artist information, and playback types (clean/explicit). The use case for this dataset revolves around leveraging real-time API data for in-depth analysis of track consumption patterns, artist popularity, and changes in audience preferences over time.
+3. Openmusic API Dataset (json) \cite{open_music}: This dataset contains information on over 100,000 tracks, including track and album metadata, artist details, and playback types (clean/explicit). Approximately 1,000 track names were extracted from the two previously mentioned datasets, with fuzzy matching logic used to retrieve corresponding data from the open music database. This can be used for in-depth analysis of track consumption patterns, artist popularity, and changes in audience preferences over time.
 
 Together, these datasets will help provide a holistic view of how various musical, commercial, and audience factors contribute to the success of music tracks on different platforms based on various algorithm approach \cite{doan_principles_2012}.
 
@@ -87,11 +87,13 @@ Together, these datasets will help provide a holistic view of how various musica
 \subsection{Data Collection and Dataset}
 The dataset was obtained from Kaggle in the form of $csv$ and OpenMusic API in the form of $csv$ and $json$. An overview of dataset attributes is presented in Table~\ref{tab1} below.
 
+\newcolumntype{R}[1]{>{\raggedright\arraybackslash}p{#1}}
+\setlength{\tabcolsep}{2pt} % Horizontal padding
 \begin{table}[h]
 	\renewcommand{\arraystretch}{1.5}
 	\caption{Dataset structure}\label{tab1}
 	\centering
-	\begin{tabular}{p{3cm} p{3cm}p{3cm}p{5cm}}
+	\begin{tabular}{p{3cm}ccR{5cm}}
 		\toprule
 		\textbf{Dataset} &  \textbf{ No Entities}&\textbf{No. Attributes}& \textbf{Attributes}\\
 		\hline
@@ -99,7 +101,7 @@ The dataset was obtained from Kaggle in the form of $csv$ and OpenMusic API in t
 		Million Song Dataset with Spotify and Last.fm Features&50,683&21&Track ID, Name, Artist, Spotify Preview URL, Spotify ID, Tags, Genre (\emph{MV 56\%}), Year, Duration MS, Danceability, Energy, Key, Loudness, Mode, Speechiness, Acousticness, Instrumentalness, Liveness, Valence, Tempo, Time Signature\\
 		Apple Music Tracks&10,000&24
 		&Artist ID, Artist Name, Collection Censored Name, Collection ID, Collection Name, Collection Price, Content Advisory Rating (\emph{MV 85\%}), Country, Currency, Disc Count, Disc Number, Is Streamable, Kind, Preview URL, Primary Genre Name, Release Date, Track Censored Name, Track Count, Track Explicitness, Track ID, Track Name, Track Number, Track Price, Track Time (Milliseconds)\\
-		Open Music&5,558&18&ShelfTitle, AlbumId, AlbumName, AlbumArtwork, AlbumType, AlbumYear, ArtistId, ArtistName, ArtistProfilePhoto, ArtistSubscribers, TrackId, TrackTitle, TrackPlaybackClean, TrackPlaybackExplicit, TrackLength, TrackIndex, TrackViews, TrackFeatures\\
+		Open Music&100,001&14& album\_id, album\_name, album\_type, album\_year, artist\_id, artist\_name, artist\_profile\_photo, artist\_subscribers, track\_id, track\_title, is\_explicit, track\_length, track\_views, track\_features\\
 		\hline
 		\hline
 	\end{tabular}
@@ -213,7 +215,7 @@ The refined gold standard is robust and ready for the identity resolution phase,
 
 To reduce unnecessary comparisons during identity resolution (IR), we generated blocking keys based on track names. The blocking key was derived from the bigrams of the first three tokens of each track name. We then experimented with two blocking methods: \textbf{Standard Blocking} and the \textbf{Sorted Neighborhood Method}, both using these track name-based blocking keys.
 
-In the case of running IR for the apple + opendb datasets, the maximum number of entities sharing the same hashed blocking key was 9.696 (for the blocking key "CH"), while the minimum was 1 (for the blocking key "LAINTH"). As for the million + opendb datasets, the maximum number of entities sharing the same hashed blocking key was 67.404 (for the blocking key "RE"), while the minimum was 1.560 (for the blocking key "BL"). When using the Sorted Neighborhood Method, the window size would need to be greater than 9.696 and 67.404 respectively to ensure that no matches were missed. However, such a large window size would significantly increase resource consumption by comparing many irrelevant records.
+In the case of running IR for the apple + opendb datasets, the maximum number of entities sharing the same hashed blocking key was 9,696 (for the blocking key "CH"), while the minimum was 1 (for the blocking key "LAINTH"). As for the million + opendb datasets, the maximum number of entities sharing the same hashed blocking key was 67,404 (for the blocking key "RE"), while the minimum was 1,560 (for the blocking key "BL"). When using the Sorted Neighborhood Method, the window size would need to be greater than 9,696 and 67,404 respectively to ensure that no matches were missed. However, such a large window size would significantly increase resource consumption by comparing many irrelevant records.
 
 Given this inefficiency, for both of our entity matching comparisons, we ultimately decided to adopt \textbf{Standard Blocking}, which efficiently grouped entities based on their blocking keys without requiring extensive resource expenditure or risking lost matches.
 \subsubsection{Similarity Metrics}
@@ -254,20 +256,20 @@ After testing over 50+ combinations of comparators for entity matching between a
 	\begin{tabular}{lp{4.5cm}p{2cm}ccccc}
 		\hline
 		\textbf{Datasets}      & \textbf{Matching Rule}                                          & \textbf{B}                          & \textbf{P} & \textbf{R} & \textbf{F1}  & \textbf{\# Corr}  \\\hline
-		apple+opendb         & \raggedright Track (J*), Artist (JW*), \\ Album (J), Album Year (2Y*) & \raggedright SNB Track (20)              & 0,99              & 0,66          & 0,79       & 85               \\
-		apple+opendb         & \raggedright Track (J), Artist (JW), \\ Album (J), Album Year (2Y) & \raggedright SNB Track (60)              & 0,99             & 0,82          & 0,89       & 105              \\
+		apple+opendb         & \raggedright Track (J*), Artist (JW*), \\ Album (J), Album Year (2Y*) & \raggedright SNB Track (20)              & 0.99              & 0.99          & 0.79       & 85               \\
+		apple+opendb         & \raggedright Track (J), Artist (JW), \\ Album (J), Album Year (2Y) & \raggedright SNB Track (60)              & 0.99             & 0.82          & 0.89       & 105              \\
 		\rowcolor[HTML]{FFFFCC} 
-		apple+opendb         & \raggedright Track (J), Artist (JW), \\ Album (J), Album Year (2Y) & \raggedright Standard Track                            & 0,99             & 0,93          & 0,96       & 120              \\
-		apple+opendb         & \raggedright Track (L), Artist (JW), \\ Album (L*), Album Year (2Y) & \raggedright Standard Track                            & 0,99             & 0,92           & 0,9544       & 118              \\
-		apple+opendb         & \raggedright Track (S*), Artist (JW),\\  Album (S), Album Year (2Y) & \raggedright Standard Track                            & 0,97             & 0,95          & 0,96       & 170              \\
-		apple+opendb         & \raggedright Track (J), Artist (J),\\  Album (J)             & \raggedright Standard Track                            & 0,87             & 0,94          & 0,91       & 291              \\ \hline\hline
-		million+opendb       & \raggedright Track (J), Artist (Equal), \\ Album Year (2Y)           & \raggedright SNB Track (20)              & 0,94             & 0,72         & 0,82       & 684              \\
-		million+opendb       & \raggedright Track (J), Artist (Equal), \\ Album Year (2Y)           & \raggedright SNB Track (60)              & 0,92             & 0,85         & 0,88       & 835              \\
+		apple+opendb         & \raggedright Track (J), Artist (JW), \\ Album (J), Album Year (2Y) & \raggedright Standard Track                            & 0.99             & 0.93          & 0.96       & 120              \\
+		apple+opendb         & \raggedright Track (L), Artist (JW), \\ Album (L*), Album Year (2Y) & \raggedright Standard Track                            & 0.99             & 0.92           & 0.95       & 118              \\
+		apple+opendb         & \raggedright Track (S*), Artist (JW),\\  Album (S), Album Year (2Y) & \raggedright Standard Track                            & 0.97             & 0.95          & 0.96       & 170              \\
+		apple+opendb         & \raggedright Track (J), Artist (J),\\  Album (J)             & \raggedright Standard Track                            & 0.87             & 0.94          & 0.91       & 291              \\ \hline\hline
+		million+opendb       & \raggedright Track (J), Artist (Equal), \\ Album Year (2Y)           & \raggedright SNB Track (20)              & 0.94             & 0.72         & 0.82       & 684              \\
+		million+opendb       & \raggedright Track (J), Artist (Equal), \\ Album Year (2Y)           & \raggedright SNB Track (60)              & 0.92             & 0.85         & 0.88       & 835              \\
 		\rowcolor[HTML]{FFFFCC} 
-		million+opendb       & \raggedright Track (J), Artist (Equal), \\ Album Year (2Y)           & \raggedright Standard Track                            & 0,92             & 0,94         & 0,93      & 942              \\
-		million+opendb       & \raggedright Track (J), Artist (JW), \\ Album Year (2Y)     & \raggedright Standard Track                            & 0,91             & 0,99         & 0,95       & 2.078            \\ 
-		million+opendb       & \raggedright Track (S), Artist (JW), \\ Album Year (2Y)     & \raggedright Standard Track                            & 0,88             & 0,94         & 0,91       & 1.326            \\
-		million+opendb       & \raggedright Track (J), Artist (Equal)                                & \raggedright Standard Track                            & 0,88             & 0,94         & 0,91      & 1.082            \\ \hline\hline
+		million+opendb       & \raggedright Track (J), Artist (Equal), \\ Album Year (2Y)           & \raggedright Standard Track                            & 0.92             & 0.94         & 0.93      & 942              \\
+		million+opendb       & \raggedright Track (J), Artist (JW), \\ Album Year (2Y)     & \raggedright Standard Track                            & 0.91             & 0.99         & 0.95       & 2.078            \\ 
+		million+opendb       & \raggedright Track (S), Artist (JW), \\ Album Year (2Y)     & \raggedright Standard Track                            & 0.88             & 0.94         & 0.91       & 1.326            \\
+		million+opendb       & \raggedright Track (J), Artist (Equal)                                & \raggedright Standard Track                            & 0.88             & 0.94         & 0.91      & 1.082            \\ \hline\hline
 	\end{tabular}
 	\begin{tablenotes}
 		\footnotesize
@@ -327,23 +329,29 @@ Overall, the fused dataset provides a robust, high-density representation of the
 	\renewcommand{\arraystretch}{1.3}
 	\caption{Fused Data Records Sample}
 	\label{tab:fused-data-samples}
-	\begin{tabular}{p{2.4cm}p{1.8cm}p{2cm}p{1.5cm}p{1cm}p{2.8cm}p{1.2cm}}
+	\begin{threeparttable}
+	\begin{tabular}{p{1.5cm}p{1cm}p{1.5cm}cp{1cm}p{2cm}p{2cm}}
 	\toprule
-	\textbf{\centering Song ID} & \textbf{\centering Artist} & \textbf{\centering Track} & \textbf{\centering Track Ex\-plicit\-ness} & \textbf{\centering Album Year} & \textbf{\centering Album Name} & \textbf{\centering Duration\\(ms)} \\[-0.3em]
+	\textbf{\centering Song ID} & \textbf{\centering Artist} & \textbf{\centering Track} & \textbf{\centering TE*} & \textbf{\centering AY*} & \textbf{\centering AN*} & \textbf{\centering Duration(ms)} \\[-0.3em]
 	\midrule
-	B37836+C35617 & Acid King & Silent Circle & notExplicit & 1999 & Busse Woods & 452,000 \\
+	\parbox[t]{2cm}{B37836+\\C35617} & Acid King & Silent Circle & F & 1999 & Busse Woods & 452,000 \\
 	\cmidrule{1-7}
-	B58733+C15258 & Wolf\-mother & 10,000 Feet & notExplicit & 2009 & Cosmic Egg (Deluxe) & 249,000 \\
+	\parbox[t]{2cm}{B58733+\\C15258} & Wolf\-mother & 10,000 Feet & F & 2009 & Cosmic Egg (Deluxe) & 249,000 \\
 	\cmidrule{1-7}
-	A1116+B2530+\newline C50008 & One Direc\-tion & What a Feel\-ing & notExplicit & 2015 & Made In The A.M.\newline(Deluxe Edition) & 201,000 \\
+	\parbox[t]{2cm}{A1116+\\B2530+\\C50008}+ & One Direc\-tion & What a Feel\-ing & F & 2015 & Made In The A.M.\newline(Deluxe Edition) & 201,000 \\
 	\cmidrule{1-7}
-	A6734+B35951 & Panic! At The Disco & One of the Drunks & Explicit & 2018 & Pray for the Wicked & 199,000 \\
+	\parbox[t]{2cm}{A6734+\\B35951} & Panic! At The Disco & One of the Drunks & T & 2018 & Pray for the Wicked & 199,000 \\
 	\cmidrule{1-7}
-	B71278+C6239 & Lily Allen & Friday Night & Explicit & 2006 & Alright, Still & 187,000 \\
+	\parbox[t]{2cm}{B71278+\\C6239} & Lily Allen & Friday Night & T & 2006 & Alright, Still & 187,000 \\
 	\cmidrule{1-7}
-	A4455+B64467 & Jelly Roll & Son Of A Sin\-ner & notExplicit & 2021 & Ballads of the Bro\-ken & 233,000 \\
+	\parbox[t]{2cm}{A4455+\\B64467} & Jelly Roll & Son Of A Sin\-ner & F & 2021 & Ballads of the Bro\-ken & 233,000 \\
 	\bottomrule
 	\end{tabular}
+	\begin{tablenotes}
+		\footnotesize
+		\item \textbf{*Note:} TE: Track Explicitness; AY: Album Year; AN: Album Name
+		\end{tablenotes}
+	\end{threeparttable}
 	\end{table}
 
 \subsection{Quality Evaluation}
@@ -410,7 +418,7 @@ We conducted extensive testing with various combinations of fusion methods. Tabl
 		\end{tabular}
 		\end{table}
 \section{Conclusion and Future Work}
-\subsection{Limitations of the Projec}
+\subsection{Limitations of the Project}
 The limitation that has been identified is the occurrence of incomplete data. The insufficient and inconsistent data that is spread across the attributes from the different data sources proved to be a significant stumbling block as it impact the fusion accuracy. The missing attribute such as that occurring in the Album Name and AlbumYear caused there to be gaps when the datasets were merged. This ultimately reduced the accuracy for the attributes. There was also the occurrence of inconsistent coverage of data. It was identified that across the 3 data sources, there was a varying level of detail for all the attributes which eventually led to difficulties in harmonzing the data. For example, the same song records may be listed differently across the datasets as some may list them as the original album release, while the other source may list them as compilations or re-releases at a later date. Furthermore, the computational constraints were particularly challenging to overcome. The complex fusion strategies required longer runtimes which resulting in the process being particularly challenging to test multiple strategies approaching the deadline. Moreover, there were ambiguity in the album information. The appearance of re-releases and compilations caused the tracks to appear across varying different albums such as singles and compilations. This ultimately made it particularly difficult to determine the root Album Name. The lack of a unique identifier for the Albums made it a challenge to differentiate between the different versions and variations.
 
 \subsection{Recommendations for Future Improvements}
